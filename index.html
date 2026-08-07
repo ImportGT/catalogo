@@ -563,9 +563,10 @@
         <div class="sticky-row" style="background: #eef2f7; padding: 6px; border-radius: 6px; display: flex; justify-content: center; align-items: center; gap: 8px; flex-wrap: wrap;">
             <div style="display: flex; align-items: center; gap: 4px;">
                 <span style="font-size: 11px; font-weight: bold; color: var(--primary-color);">Tienda:</span>
-                <select id="select-tienda" class="index-select" style="max-width: 130px; font-weight: bold; background: white;" onchange="cambiarTienda(this.value)">
+                <select id="select-tienda" class="index-select" style="max-width: 140px; font-weight: bold; background: white;" onchange="cambiarTienda(this.value)">
                     <option value="pandora">Pandora</option>
                     <option value="swarovski">Swarovski</option>
+                    <option value="banoplata">Baño de Plata</option>
                 </select>
             </div>
             <div style="display: flex; align-items: center; gap: 4px;">
@@ -662,6 +663,9 @@
     <script src="pulserasswa.js"></script>
     <script src="collarswa.js"></script>
 
+    <!-- Scripts de Datos Baño de Plata -->
+    <script src="anillosbp.js"></script>
+
     <script>
         // Grupos separados por tienda
         const productosPandora = [
@@ -682,7 +686,6 @@
             ...(typeof productosCharmsAccesoriosME !== 'undefined' ? productosCharmsAccesoriosME : [])
         ];
 
-        // Swarovski agrupa Anillos, Aretes, Pulseras y Collares en una sola tienda
         const productosSwarovski = [
             ...(typeof productosAnillosSwa !== 'undefined' ? productosAnillosSwa : []),
             ...(typeof productosAretesSwa !== 'undefined' ? productosAretesSwa : []),
@@ -690,15 +693,22 @@
             ...(typeof productosCollaresSwa !== 'undefined' ? productosCollaresSwa : [])
         ];
 
+        const productosBanoPlata = [
+            ...(typeof productosAnillosBp !== 'undefined' ? productosAnillosBp : [])
+        ];
+
         let tiendaActual = 'pandora'; // Tienda por defecto al cargar
 
         function obtenerProductosActuales() {
-            return tiendaActual === 'swarovski' ? productosSwarovski : productosPandora;
+            if (tiendaActual === 'swarovski') return productosSwarovski;
+            if (tiendaActual === 'banoplata') return productosBanoPlata;
+            return productosPandora;
         }
 
         const opcionesMedidasEstandar = ["unica", "16", "17", "18", "19", "20", "21"];
         const opcionesTallasAnillosPandora = ["5", "6", "7", "8", "9", "10"];
         const opcionesTallasAnillosSwarovski = ["6", "7", "8"];
+        const opcionesTallasAnillosBanoPlata = ["6", "7", "8"];
         
         let carrito = JSON.parse(localStorage.getItem('mi_carrito_catalogo')) || {};
         let preciosVisibles = true;
@@ -711,6 +721,8 @@
             tiendaActual = nuevaTienda;
             if (tiendaActual === 'swarovski') {
                 document.getElementById('linea-titulo').innerText = 'Colección Swarovski';
+            } else if (tiendaActual === 'banoplata') {
+                document.getElementById('linea-titulo').innerText = 'Colección Baño de Plata';
             } else {
                 document.getElementById('linea-titulo').innerText = 'Colección PANDORA';
             }
@@ -924,10 +936,9 @@
             let prod = productosActivos.find(p => p.id === id && p.categoria === categoria);
             if (!prod) return;
 
-            let esSwarovski = (categoria.includes('Swarovski') || categoria.toLowerCase().includes('swa'));
             let tallaInicial = "unica";
             if (categoria.includes("Anillos")) {
-                tallaInicial = esSwarovski ? "7" : "7"; 
+                tallaInicial = "7"; 
             } else if (categoria.includes("Pulseras")) {
                 tallaInicial = "17";
             }
@@ -983,6 +994,16 @@
             }
         }
 
+        function obtenerNombreLinea(categoria) {
+            let catUpper = categoria.toUpperCase();
+            if (catUpper.includes('SWAROVSKI') || catUpper.includes('SWA')) {
+                return 'Línea Swarovski';
+            } else if (catUpper.includes('BAÑO DE PLATA') || catUpper.includes('BP')) {
+                return 'Línea Baño de Plata';
+            }
+            return 'Línea Pandora';
+        }
+
         function abrirModalCarrito() {
             const container = document.getElementById('cart-items-container');
             container.innerHTML = '';
@@ -995,8 +1016,8 @@
                 return;
             }
 
-            let gruposCarrito = { "Línea Pandora": [], "Línea Swarovski": [] };
-            let subtotalesGrupo = { "Línea Pandora": 0, "Línea Swarovski": 0 };
+            let gruposCarrito = { "Línea Pandora": [], "Línea Swarovski": [], "Línea Baño de Plata": [] };
+            let subtotalesGrupo = { "Línea Pandora": 0, "Línea Swarovski": 0, "Línea Baño de Plata": 0 };
             let totalGeneral = 0;
 
             keys.forEach(key => {
@@ -1005,7 +1026,11 @@
                 let sub = precioItem * item.qty;
                 totalGeneral += sub;
 
-                let lineaNombre = (item.categoria.includes('Swarovski') || item.categoria.toLowerCase().includes('swa')) ? "Línea Swarovski" : "Línea Pandora";
+                let lineaNombre = obtenerNombreLinea(item.categoria);
+                if (!gruposCarrito[lineaNombre]) {
+                    gruposCarrito[lineaNombre] = [];
+                    subtotalesGrupo[lineaNombre] = 0;
+                }
                 
                 gruposCarrito[lineaNombre].push({ key, item, precioItem });
                 subtotalesGrupo[lineaNombre] += sub;
@@ -1025,11 +1050,13 @@
                         let { key, item, precioItem } = obj;
 
                         let detalleHTML = "";
-                        let esSwarovski = (item.categoria.includes('Swarovski') || item.categoria.toLowerCase().includes('swa'));
+                        let catUp = item.categoria.toUpperCase();
+                        let esSwa = catUp.includes('SWAROVSKI') || catUp.includes('SWA');
+                        let esBp = catUp.includes('BAÑO DE PLATA') || catUp.includes('BP');
 
                         if (item.categoria.includes('Anillos')) {
                             let opcionesMedidasHTML = "";
-                            let tallasBase = esSwarovski ? opcionesTallasAnillosSwarovski : opcionesTallasAnillosPandora;
+                            let tallasBase = esSwa ? opcionesTallasAnillosSwarovski : (esBp ? opcionesTallasAnillosBanoPlata : opcionesTallasAnillosPandora);
                             let listaCompletaOpciones = [...new Set([...tallasBase, item.talla])];
                             
                             listaCompletaOpciones.forEach(m => {
@@ -1182,8 +1209,8 @@
             doc.setFont("helvetica", "normal");
             doc.text("Fecha: " + new Date().toLocaleDateString(), 14, 28);
             
-            let gruposPDF = { "Línea Pandora": [], "Línea Swarovski": [] };
-            let subtotalesPDF = { "Línea Pandora": 0, "Línea Swarovski": 0 };
+            let gruposPDF = { "Línea Pandora": [], "Línea Swarovski": [], "Línea Baño de Plata": [] };
+            let subtotalesPDF = { "Línea Pandora": 0, "Línea Swarovski": 0, "Línea Baño de Plata": 0 };
             let totalGeneral = 0;
 
             for (let key in carrito) {
@@ -1191,7 +1218,12 @@
                 let sub = calcularPrecioFinal(item.precio) * item.qty;
                 totalGeneral += sub;
 
-                let lineaNombre = (item.categoria.includes('Swarovski') || item.categoria.toLowerCase().includes('swa')) ? "Línea Swarovski" : "Línea Pandora";
+                let lineaNombre = obtenerNombreLinea(item.categoria);
+                if (!gruposPDF[lineaNombre]) {
+                    gruposPDF[lineaNombre] = [];
+                    subtotalesPDF[lineaNombre] = 0;
+                }
+
                 gruposPDF[lineaNombre].push(item);
                 subtotalesPDF[lineaNombre] += sub;
             }
@@ -1293,7 +1325,7 @@
             } 
             else if (urlParams.has('g') || urlParams.has('p')) {
                 margenGananciaFijo = parseFloat(urlParams.get('g')) || 0;
-                if (subParams.has('p')) {
+                if (urlParams.has('p')) {
                     preciosVisibles = urlParams.get('p') === '1';
                 }
                 

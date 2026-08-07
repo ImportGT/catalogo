@@ -139,7 +139,7 @@ CONFIGURACIONES = [
         "js": "aretesswa.js",
         "variable_js": "productosAretesSwa",
         "prefijo": "aretes_swa",
-        "carpeta": "imagenes/SWA/aretes_swa",
+        "carpeta": "imagenes/SWA/aretesswa",
         "header_excel": 3
     },
     {
@@ -158,6 +158,15 @@ CONFIGURACIONES = [
         "variable_js": "productosCollaresSwa",
         "prefijo": "collares_swa",
         "carpeta": "imagenes/SWA/collares_swa",
+        "header_excel": 2
+    },
+    {
+        "categoria": "Anillos Baño de Plata",
+        "excel": "ANILLOS BP.xlsx",
+        "js": "anillosbp.js",
+        "variable_js": "productosAnillosBp",
+        "prefijo": "anillosbp",
+        "carpeta": "imagenes/BP/anillosbp",
         "header_excel": 2
     }
 ]
@@ -179,15 +188,19 @@ def actualizar_todo():
             continue
 
         if not os.path.exists(carpeta):
-            print(f"⚠️ Aviso: No se encontró la carpeta {carpeta}. Se omite esta categoría.")
+            os.makedirs(carpeta, exist_ok=True)
+
+        try:
+            df = pd.read_excel(excel_path, header=header_fila)
+        except Exception as e:
+            print(f"⚠️ Error al leer {excel_path}: {e}")
             continue
 
-        df = pd.read_excel(excel_path, header=header_fila)
         productos_lista = []
 
         for index, row in df.iterrows():
             col_id = None
-            for posible_col in ['NUMERO', 'NUM.', 'ID', 'Id', 'numero', 'Número', 'ARETES', 'ANILLOS', 'PULSERAS', 'COLLARES']:
+            for posible_col in ['NUMERO', 'NUM.', 'ID', 'Id', 'numero', 'Número', 'ARETES', 'ANILLOS', 'PULSERAS', 'COLLARES', 'CODIGO']:
                 if posible_col in df.columns:
                     col_id = posible_col
                     break
@@ -211,83 +224,64 @@ def actualizar_todo():
             stock_tallas = {}
             for col in df.columns:
                 col_upper = str(col).strip().upper()
-                if col_upper.startswith('STOCK') or col_upper == 'TALLAS':
-                    if col_upper == 'TALLAS':
-                        tallas_str = str(row[col])
-                        if tallas_str and tallas_str != 'nan':
-                            for t in tallas_str.replace(" ", "").split("--"):
-                                if t:
-                                    stock_tallas[t] = 1
-                    else:
-                        talla_nombre = col_upper.replace('STOCK', '').strip()
-                        if talla_nombre:
-                            val_stock = row[col]
-                            if not pd.isna(val_stock):
-                                try:
-                                    stock_val = int(val_stock)
-                                    if stock_val > 0:
-                                        stock_tallas[talla_nombre] = stock_val
-                                except:
-                                    pass
-
-            # Patrón flexible que soporta extensiones .avif, .webp, .jpg y sub-índices con puntos múltiples (ej. anillos_swa_1.2.avif)
-            patron_archivo = re.compile(rf"^{re.escape(prefijo)}[\._]{prod_id}(?:[\._](\d+))?(?:[\._](\d+))?\.([a-zA-Z0-9]+)$", re.IGNORECASE)
+                if col_upper.startswith('STOCK') or col_upper == 'TALLAS DISPONIBLES' or col_upper == 'TALLAS':
+                    tallas_str = str(row[col])
+                    if tallas_str and tallas_str != 'nan':
+                        for t in tallas_str.replace(" ", "").split("-"):
+                            if t:
+                                stock_tallas[t] = 1
 
             archivos_encontrados = []
-            for archivo in os.listdir(carpeta):
-                match = patron_archivo.match(archivo)
-                if match:
-                    sub1 = match.group(1)
-                    sub2 = match.group(2)
-                    ext = match.group(3).lower()
-                    
-                    orden = 0
-                    if sub1:
-                        orden = int(sub1)
-                    elif sub2:
-                        orden = int(sub2)
-
-                    archivos_encontrados.append({
-                        "archivo": archivo,
-                        "orden": orden,
-                        "ext": ext,
-                        "ruta": f"{carpeta}/{archivo}"
-                    })
+            if os.path.exists(carpeta):
+                for archivo in os.listdir(carpeta):
+                    if archivo.startswith(f"{prefijo}_{prod_id}.") or archivo.startswith(f"{prefijo}_{prod_id}_"):
+                        ext = archivo.split('.')[-1].lower()
+                        if ext in ('jpg', 'jpeg', 'png', 'webp', 'avif', 'mp4', 'mov', 'webm'):
+                            sub_part = archivo.replace(f"{prefijo}_{prod_id}", "").split('.')[0]
+                            orden = 0
+                            if sub_part.startswith('.'):
+                                try:
+                                    orden = int(sub_part[1:])
+                                except:
+                                    pass
+                            elif sub_part.startswith('_'):
+                                try:
+                                    orden = int(sub_part[1:])
+                                except:
+                                    pass
+                            
+                            tipo_media = "video" if ext in ('mp4', 'mov', 'webm') else "imagen"
+                            archivos_encontrados.append({
+                                "archivo": archivo,
+                                "orden": orden,
+                                "ext": ext,
+                                "tipo": tipo_media,
+                                "ruta": f"{carpeta}/{archivo}"
+                            })
 
             archivos_encontrados = sorted(archivos_encontrados, key=lambda x: x['orden'])
 
             galeria_items = []
             for item in archivos_encontrados:
-                if item["ext"] in ('mp4', 'mov', 'webm'):
-                    galeria_items.append({"tipo": "video", "url": item["ruta"]})
-                elif item["ext"] in ('jpg', 'jpeg', 'png', 'webp', 'avif'):
-                    galeria_items.append({"tipo": "imagen", "url": item["ruta"]})
+                galeria_items.append({"tipo": item["tipo"], "url": item["ruta"]})
 
-            imagenes_solas = [item for item in galeria_items if item['tipo'] == 'imagen']
-            if imagenes_solas:
-                imagen_principal = imagenes_solas[0]['url']
-            elif galeria_items:
-                imagen_principal = galeria_items[0]['url']
+            if not galeria_items:
+                imagen_principal = f"{carpeta}/{prefijo}_{prod_id}.png"
+                galeria_items = [{"tipo": "imagen", "url": imagen_principal}]
             else:
-                imagen_principal = f"{carpeta}/{prefijo}_{prod_id}.jpg"
+                imagen_principal = galeria_items[0]["url"]
 
             producto_obj = {
                 "id": prod_id,
                 "categoria": cat,
                 "precio": precio,
                 "imagen": imagen_principal,
-                "stockTallas": stock_tallas
+                "stockTallas": stock_tallas,
+                "galeria": galeria_items
             }
-            
-            if len(galeria_items) > 1:
-                producto_obj["galeria"] = galeria_items
-            else:
-                producto_obj["galeria"] = [{"tipo": "imagen", "url": imagen_principal}]
-                
             productos_lista.append(producto_obj)
 
         contenido_js = f"const {var_name} = {json.dumps(productos_lista, indent=4, ensure_ascii=False)};"
-
         with open(js_path, "w", encoding="utf-8") as f:
             f.write(contenido_js)
 

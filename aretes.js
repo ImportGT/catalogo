@@ -160,7 +160,9 @@ const productosAretes = [
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_548.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -186,7 +188,9 @@ const productosAretes = [
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_546.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -225,7 +229,9 @@ const productosAretes = [
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_543.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -238,7 +244,9 @@ const productosAretes = [
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_542.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -251,7 +259,9 @@ const productosAretes = [
         "categoria": "Aretes",
         "precio": 50.0,
         "imagen": "imagenes/aretes/aretes_541.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -264,7 +274,9 @@ const productosAretes = [
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_540.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -290,7 +302,9 @@ const productosAretes = [
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_538.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -316,7 +330,9 @@ const productosAretes = [
         "categoria": "Aretes",
         "precio": 50.0,
         "imagen": "imagenes/aretes/aretes_537.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -342,7 +358,9 @@ const productosAretes = [
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_535.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -432,13 +450,9 @@ const productosAretes = [
         "id": 528,
         "categoria": "Aretes",
         "precio": 50.0,
-        "imagen": "imagenes/aretes/aretes_528.webp",
+        "imagen": "imagenes/aretes/aretes_528.2.webp",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_528.webp"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_528.2.webp"
@@ -450,6 +464,10 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_528.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_528.webp"
             }
         ]
     },
@@ -744,7 +762,9 @@ const productosAretes = [
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_505.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -782,12 +802,12 @@ const productosAretes = [
         "id": 502,
         "categoria": "Aretes",
         "precio": 60.0,
-        "imagen": "imagenes/aretes/aretes_502.jpg",
+        "imagen": "imagenes/aretes/aretes_502.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_502.jpg"
+                "url": "imagenes/aretes/aretes_502.png"
             }
         ]
     },
@@ -821,12 +841,12 @@ const productosAretes = [
         "id": 499,
         "categoria": "Aretes",
         "precio": 55.0,
-        "imagen": "imagenes/aretes/aretes_499.jpg",
+        "imagen": "imagenes/aretes/aretes_499.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_499.jpg"
+                "url": "imagenes/aretes/aretes_499.png"
             }
         ]
     },
@@ -4254,7 +4274,9 @@ const productosAretes = [
         "categoria": "Aretes",
         "precio": 45.0,
         "imagen": "imagenes/aretes/aretes_235.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
