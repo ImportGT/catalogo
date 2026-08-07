@@ -230,15 +230,23 @@ def actualizar_todo():
                                 except:
                                     pass
 
-            patron_archivo = re.compile(rf"^{re.escape(prefijo)}[\._]{prod_id}(?:[\._](\d+))?\.([a-zA-Z0-9]+)$", re.IGNORECASE)
+            # Patrón flexible que soporta extensiones .avif, .webp, .jpg y sub-índices con puntos múltiples (ej. anillos_swa_1.2.avif)
+            patron_archivo = re.compile(rf"^{re.escape(prefijo)}[\._]{prod_id}(?:[\._](\d+))?(?:[\._](\d+))?\.([a-zA-Z0-9]+)$", re.IGNORECASE)
 
             archivos_encontrados = []
             for archivo in os.listdir(carpeta):
                 match = patron_archivo.match(archivo)
                 if match:
-                    sub_val = match.group(1)
-                    ext = match.group(2).lower()
-                    orden = 0 if sub_val is None else int(sub_val)
+                    sub1 = match.group(1)
+                    sub2 = match.group(2)
+                    ext = match.group(3).lower()
+                    
+                    orden = 0
+                    if sub1:
+                        orden = int(sub1)
+                    elif sub2:
+                        orden = int(sub2)
+
                     archivos_encontrados.append({
                         "archivo": archivo,
                         "orden": orden,
@@ -252,7 +260,7 @@ def actualizar_todo():
             for item in archivos_encontrados:
                 if item["ext"] in ('mp4', 'mov', 'webm'):
                     galeria_items.append({"tipo": "video", "url": item["ruta"]})
-                elif item["ext"] in ('jpg', 'jpeg', 'png', 'webp'):
+                elif item["ext"] in ('jpg', 'jpeg', 'png', 'webp', 'avif'):
                     galeria_items.append({"tipo": "imagen", "url": item["ruta"]})
 
             imagenes_solas = [item for item in galeria_items if item['tipo'] == 'imagen']

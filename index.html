@@ -73,7 +73,7 @@
             border-radius: 6px;
             outline: none;
             cursor: pointer;
-            max-width: 250px;
+            max-width: 200px;
             width: 100%;
         }
 
@@ -96,10 +96,12 @@
             color: white;
             border: none;
             padding: 5px 10px;
-            border-radius: 4px;
+            border-radius: 6px;
             font-weight: bold;
             cursor: pointer;
             font-size: 11px;
+            height: 31px;
+            white-space: nowrap;
         }
         .clear-cart-global-btn:hover { background: #a00000; }
 
@@ -555,15 +557,23 @@
         <h2 id="linea-titulo">Seleccione una tienda</h2>
     </header>
 
-    <!-- Barra Superior Fija (Selector de Tienda y Controles) -->
+    <!-- Barra Superior Fija (Tienda Activa, Ir a categoría y Vaciar carrito siempre fijos arriba) -->
     <div class="sticky-top-bar" id="panel-distribuidor">
-        <!-- Fila 0: Selector Principal de Tienda -->
-        <div class="sticky-row" style="background: #eef2f7; padding: 6px; border-radius: 6px;">
-            <span style="font-size: 12px; font-weight: bold; color: var(--primary-color);">Tienda Activa:</span>
-            <select id="select-tienda" class="index-select" style="max-width: 250px; font-weight: bold; background: white;" onchange="cambiarTienda(this.value)">
-                <option value="pandora">Pandora</option>
-                <option value="swarovski">Swarovski</option>
-            </select>
+        <!-- Fila Superior Fija: Tienda Activa, Ir a Categoría y Vaciar Carrito Juntos -->
+        <div class="sticky-row" style="background: #eef2f7; padding: 6px; border-radius: 6px; display: flex; justify-content: center; align-items: center; gap: 8px; flex-wrap: wrap;">
+            <div style="display: flex; align-items: center; gap: 4px;">
+                <span style="font-size: 11px; font-weight: bold; color: var(--primary-color);">Tienda:</span>
+                <select id="select-tienda" class="index-select" style="max-width: 130px; font-weight: bold; background: white;" onchange="cambiarTienda(this.value)">
+                    <option value="pandora">Pandora</option>
+                    <option value="swarovski">Swarovski</option>
+                </select>
+            </div>
+            <div style="display: flex; align-items: center; gap: 4px;">
+                <select id="select-categoria" class="index-select" style="max-width: 150px; font-weight: bold;" onchange="navegarCategoria(this.value)">
+                    <option value="" disabled selected>Ir a categoría...</option>
+                </select>
+            </div>
+            <button class="clear-cart-global-btn" onclick="limpiarCarrito()">Vaciar carrito</button>
         </div>
 
         <!-- Fila 1: Margen y Ocultar precios -->
@@ -577,19 +587,11 @@
 
         <!-- Fila 2: Enlace para copiar al cliente final (Encriptado) -->
         <div class="sticky-row admin-only-control" style="border-top: 1px dashed #d0dbe5; padding-top: 6px; flex-direction: column; gap: 4px;">
-            <span style="font-size: 11px; color: var(--primary-color); font-weight: bold;">Enlace para tu cliente final (Oculta tu margen):</span>
+            <span style="font-size: 11px; color: var(--primary-color); font-weight: bold;">Enlace para tu cliente:</span>
             <div class="share-link-box">
                 <input type="text" id="link-generado" readonly placeholder="Generando enlace...">
                 <button class="copy-btn" onclick="copiarEnlace()">Copiar Enlace</button>
             </div>
-        </div>
-
-        <!-- Fila 3: Ir a categoría y Vaciar carrito -->
-        <div class="sticky-row" style="border-top: 1px dashed #d0dbe5; padding-top: 6px; display: flex; justify-content: center; gap: 8px;">
-            <select id="select-categoria" class="index-select" onchange="navegarCategoria(this.value)">
-                <option value="" disabled selected>Ir a categoría...</option>
-            </select>
-            <button class="clear-cart-global-btn" onclick="limpiarCarrito()">Vaciar carrito</button>
         </div>
     </div>
 
@@ -695,7 +697,8 @@
         }
 
         const opcionesMedidasEstandar = ["unica", "16", "17", "18", "19", "20", "21"];
-        const opcionesTallasAnillos = ["5", "6", "7", "8", "9", "10"];
+        const opcionesTallasAnillosPandora = ["5", "6", "7", "8", "9", "10"];
+        const opcionesTallasAnillosSwarovski = ["6", "7", "8"];
         
         let carrito = JSON.parse(localStorage.getItem('mi_carrito_catalogo')) || {};
         let preciosVisibles = true;
@@ -707,9 +710,9 @@
         function cambiarTienda(nuevaTienda) {
             tiendaActual = nuevaTienda;
             if (tiendaActual === 'swarovski') {
-                document.getElementById('linea-titulo').innerText = 'Línea Exclusiva Swarovski';
+                document.getElementById('linea-titulo').innerText = 'Colección Swarovski';
             } else {
-                document.getElementById('linea-titulo').innerText = 'Catálogo Completo PANDORA (Bajo Pedido)';
+                document.getElementById('linea-titulo').innerText = 'Colección PANDORA';
             }
             renderizarCatalogo();
         }
@@ -921,9 +924,10 @@
             let prod = productosActivos.find(p => p.id === id && p.categoria === categoria);
             if (!prod) return;
 
+            let esSwarovski = (categoria.includes('Swarovski') || categoria.toLowerCase().includes('swa'));
             let tallaInicial = "unica";
             if (categoria.includes("Anillos")) {
-                tallaInicial = "7"; 
+                tallaInicial = esSwarovski ? "7" : "7"; 
             } else if (categoria.includes("Pulseras")) {
                 tallaInicial = "17";
             }
@@ -991,76 +995,109 @@
                 return;
             }
 
-            let subtotalPedido = 0;
-            let htmlContent = `<div class="category-title" style="font-size:13px; margin-bottom:8px;">Productos Seleccionados</div>`;
-            
+            let gruposCarrito = { "Línea Pandora": [], "Línea Swarovski": [] };
+            let subtotalesGrupo = { "Línea Pandora": 0, "Línea Swarovski": 0 };
+            let totalGeneral = 0;
+
             keys.forEach(key => {
                 let item = carrito[key];
                 let precioItem = calcularPrecioFinal(item.precio);
                 let sub = precioItem * item.qty;
-                subtotalPedido += sub;
+                totalGeneral += sub;
 
-                let detalleHTML = "";
-                if (item.categoria.includes('Anillos')) {
-                    let opcionesMedidasHTML = "";
-                    let listaCompletaOpciones = [...new Set([...opcionesTallasAnillos, item.talla])];
-                    
-                    listaCompletaOpciones.forEach(m => {
-                        let selected = (item.talla === m) ? "selected" : "";
-                        opcionesMedidasHTML += `<option value="${m}" ${selected}>Talla ${m}</option>`;
-                    });
-
-                    detalleHTML = `
-                        <div class="cart-size-select">
-                            Talla:
-                            <select onchange="cambiarTallaKey('${key}', this.value)">
-                                ${opcionesMedidasHTML}
-                            </select>
-                        </div>
-                    `;
-                } else if (item.categoria.includes('Pulseras')) {
-                    let opcionesMedidasHTML = "";
-                    let listaCompletaOpciones = [...new Set([...opcionesMedidasEstandar, item.talla])];
-                    
-                    listaCompletaOpciones.forEach(m => {
-                        let selected = (item.talla === m) ? "selected" : "";
-                        let etiqueta = (m === "unica") ? "Única" : m;
-                        opcionesMedidasHTML += `<option value="${m}" ${selected}>${etiqueta}</option>`;
-                    });
-
-                    detalleHTML = `
-                        <div class="cart-size-select">
-                            Medida:
-                            <select onchange="cambiarTallaKey('${key}', this.value)">
-                                ${opcionesMedidasHTML}
-                            </select>
-                        </div>
-                    `;
-                }
-
-                let precioTextoHTML = preciosVisibles ? `Q${precioItem.toFixed(2)} c/u` : '';
-
-                htmlContent += `
-                    <div class="cart-item-row">
-                        <img src="${item.imagen}" class="cart-item-img">
-                        <div class="cart-item-details">
-                            <strong>Cod. ${item.id} (${item.categoria})</strong>
-                            ${precioTextoHTML}
-                            ${detalleHTML}
-                        </div>
-                        <div class="cart-item-actions">
-                            <button onclick="modificarCantidadItem('${key}', -1)">-</button>
-                            <span class="cart-item-qty">${item.qty}</span>
-                            <button onclick="modificarCantidadItem('${key}', 1)">+</button>
-                        </div>
-                    </div>
-                `;
+                let lineaNombre = (item.categoria.includes('Swarovski') || item.categoria.toLowerCase().includes('swa')) ? "Línea Swarovski" : "Línea Pandora";
+                
+                gruposCarrito[lineaNombre].push({ key, item, precioItem });
+                subtotalesGrupo[lineaNombre] += sub;
             });
+
+            let htmlContent = "";
+
+            for (let linea in gruposCarrito) {
+                if (gruposCarrito[linea].length > 0) {
+                    htmlContent += `
+                        <div style="background: #eef2f7; color: var(--primary-color); font-weight: bold; padding: 6px 10px; font-size: 13px; border-radius: 4px; margin-top: 10px; margin-bottom: 6px; text-transform: uppercase;">
+                            ${linea}
+                        </div>
+                    `;
+
+                    gruposCarrito[linea].forEach(obj => {
+                        let { key, item, precioItem } = obj;
+
+                        let detalleHTML = "";
+                        let esSwarovski = (item.categoria.includes('Swarovski') || item.categoria.toLowerCase().includes('swa'));
+
+                        if (item.categoria.includes('Anillos')) {
+                            let opcionesMedidasHTML = "";
+                            let tallasBase = esSwarovski ? opcionesTallasAnillosSwarovski : opcionesTallasAnillosPandora;
+                            let listaCompletaOpciones = [...new Set([...tallasBase, item.talla])];
+                            
+                            listaCompletaOpciones.forEach(m => {
+                                let selected = (item.talla === m) ? "selected" : "";
+                                opcionesMedidasHTML += `<option value="${m}" ${selected}>Talla ${m}</option>`;
+                            });
+
+                            detalleHTML = `
+                                <div class="cart-size-select">
+                                    Talla:
+                                    <select onchange="cambiarTallaKey('${key}', this.value)">
+                                        ${opcionesMedidasHTML}
+                                    </select>
+                                </div>
+                            `;
+                        } else if (item.categoria.includes('Pulseras')) {
+                            let opcionesMedidasHTML = "";
+                            let listaCompletaOpciones = [...new Set([...opcionesMedidasEstandar, item.talla])];
+                            
+                            listaCompletaOpciones.forEach(m => {
+                                let selected = (item.talla === m) ? "selected" : "";
+                                let etiqueta = (m === "unica") ? "Única" : m;
+                                opcionesMedidasHTML += `<option value="${m}" ${selected}>${etiqueta}</option>`;
+                            });
+
+                            detalleHTML = `
+                                <div class="cart-size-select">
+                                    Medida:
+                                    <select onchange="cambiarTallaKey('${key}', this.value)">
+                                        ${opcionesMedidasHTML}
+                                    </select>
+                                </div>
+                            `;
+                        }
+
+                        let precioTextoHTML = preciosVisibles ? `Q${precioItem.toFixed(2)} c/u` : '';
+
+                        htmlContent += `
+                            <div class="cart-item-row">
+                                <img src="${item.imagen}" class="cart-item-img">
+                                <div class="cart-item-details">
+                                    <strong>Cod. ${item.id} (${item.categoria})</strong>
+                                    ${precioTextoHTML}
+                                    ${detalleHTML}
+                                </div>
+                                <div class="cart-item-actions">
+                                    <button onclick="modificarCantidadItem('${key}', -1)">-</button>
+                                    <span class="cart-item-qty">${item.qty}</span>
+                                    <button onclick="modificarCantidadItem('${key}', 1)">+</button>
+                                </div>
+                            </div>
+                        `;
+                    });
+
+                    if (preciosVisibles) {
+                        htmlContent += `
+                            <div style="text-align: right; font-size: 12px; font-weight: bold; color: #444; padding: 4px 5px 8px 5px; border-bottom: 2px solid #ddd;">
+                                Subtotal ${linea}: Q${subtotalesGrupo[linea].toFixed(2)}
+                            </div>
+                        `;
+                    }
+                }
+            }
 
             container.innerHTML = htmlContent;
             
             if (preciosVisibles) {
-                document.getElementById('cart-modal-total').innerText = `Total General: Q${subtotalPedido.toFixed(2)}`;
+                document.getElementById('cart-modal-total').innerText = `Total General: Q${totalGeneral.toFixed(2)}`;
                 document.getElementById('cart-modal-total').style.display = 'block';
             } else {
                 document.getElementById('cart-modal-total').style.display = 'none';
@@ -1145,65 +1182,84 @@
             doc.setFont("helvetica", "normal");
             doc.text("Fecha: " + new Date().toLocaleDateString(), 14, 28);
             
-            let listaItems = [];
+            let gruposPDF = { "Línea Pandora": [], "Línea Swarovski": [] };
+            let subtotalesPDF = { "Línea Pandora": 0, "Línea Swarovski": 0 };
+            let totalGeneral = 0;
+
             for (let key in carrito) {
-                listaItems.push(carrito[key]);
+                let item = carrito[key];
+                let sub = calcularPrecioFinal(item.precio) * item.qty;
+                totalGeneral += sub;
+
+                let lineaNombre = (item.categoria.includes('Swarovski') || item.categoria.toLowerCase().includes('swa')) ? "Línea Swarovski" : "Línea Pandora";
+                gruposPDF[lineaNombre].push(item);
+                subtotalesPDF[lineaNombre] += sub;
             }
 
             let y = 36;
-            let totalGeneral = 0;
 
-            if (listaItems.length > 0) {
-                doc.setFont("helvetica", "bold");
-                doc.setFontSize(11);
-                doc.setTextColor(31, 78, 121);
-                doc.text("PRODUCTOS SOLICITADOS", 14, y);
-                y += 6;
+            for (let linea in gruposPDF) {
+                if (gruposPDF[linea].length > 0) {
+                    if (y > 260) { doc.addPage(); y = 20; }
 
-                doc.setFontSize(9);
-                doc.setTextColor(0, 0, 0);
-                doc.text("Img", 14, y);
-                doc.text("Cod.", 28, y);
-                doc.text("Categoria", 50, y);
-                doc.text("Detalle", 90, y);
-                doc.text("Cant.", 125, y);
-                if (preciosVisibles) {
-                    doc.text("Subtotal", 150, y);
-                }
-                y += 4; doc.line(14, y, 195, y); y += 6;
-                
-                doc.setFont("helvetica", "normal");
+                    doc.setFont("helvetica", "bold");
+                    doc.setFontSize(11);
+                    doc.setTextColor(31, 78, 121);
+                    doc.text(linea.toUpperCase(), 14, y);
+                    y += 6;
 
-                for (let item of listaItems) {
-                    let sub = calcularPrecioFinal(item.precio) * item.qty;
-                    totalGeneral += sub;
+                    doc.setFontSize(9);
+                    doc.setTextColor(0, 0, 0);
+                    doc.text("Img", 14, y);
+                    doc.text("Cod.", 28, y);
+                    doc.text("Categoria", 50, y);
+                    doc.text("Detalle", 90, y);
+                    doc.text("Cant.", 125, y);
+                    if (preciosVisibles) {
+                        doc.text("Subtotal", 150, y);
+                    }
+                    y += 4; doc.line(14, y, 195, y); y += 6;
+                    
+                    doc.setFont("helvetica", "normal");
 
-                    if (y > 265) { doc.addPage(); y = 20; }
+                    for (let item of gruposPDF[linea]) {
+                        let sub = calcularPrecioFinal(item.precio) * item.qty;
 
-                    let currentY = y;
-                    y += 12;
+                        if (y > 265) { doc.addPage(); y = 20; }
 
-                    let base64Img = await getBase64ImageFromUrl(item.imagen);
-                    if (base64Img) {
-                        try {
-                            doc.addImage(base64Img, 'JPEG', 14, currentY - 4, 10, 10);
-                        } catch(e) {}
+                        let currentY = y;
+                        y += 12;
+
+                        let base64Img = await getBase64ImageFromUrl(item.imagen);
+                        if (base64Img) {
+                            try {
+                                doc.addImage(base64Img, 'JPEG', 14, currentY - 4, 10, 10);
+                            } catch(e) {}
+                        }
+
+                        doc.text(`Cod. ${item.id}`, 28, currentY + 2);
+                        doc.text(item.categoria, 50, currentY + 2);
+                        let detalleTexto = item.talla ? String(item.talla) : '-';
+                        doc.text(detalleTexto, 90, currentY + 2);
+                        doc.text(String(item.qty), 125, currentY + 2);
+                        if (preciosVisibles) {
+                            doc.text(`Q${sub.toFixed(2)}`, 150, currentY + 2);
+                        }
                     }
 
-                    doc.text(`Cod. ${item.id}`, 28, currentY + 2);
-                    doc.text(item.categoria, 50, currentY + 2);
-                    let detalleTexto = item.talla ? String(item.talla) : '-';
-                    doc.text(detalleTexto, 90, currentY + 2);
-                    doc.text(String(item.qty), 125, currentY + 2);
                     if (preciosVisibles) {
-                        doc.text(`Q${sub.toFixed(2)}`, 150, currentY + 2);
+                        if (y > 270) { doc.addPage(); y = 20; }
+                        y += 4;
+                        doc.setFont("helvetica", "bold");
+                        doc.text(`Subtotal ${linea}: Q${subtotalesPDF[linea].toFixed(2)}`, 140, y, { align: 'right' });
+                        y += 8;
                     }
                 }
             }
 
             if (preciosVisibles) {
                 if (y > 270) { doc.addPage(); y = 20; }
-                y += 6;
+                y += 4;
                 doc.line(14, y, 195, y); y += 8;
                 doc.setFont("helvetica", "bold");
                 doc.setFontSize(11);
@@ -1237,7 +1293,7 @@
             } 
             else if (urlParams.has('g') || urlParams.has('p')) {
                 margenGananciaFijo = parseFloat(urlParams.get('g')) || 0;
-                if (urlParams.has('p')) {
+                if (subParams.has('p')) {
                     preciosVisibles = urlParams.get('p') === '1';
                 }
                 
