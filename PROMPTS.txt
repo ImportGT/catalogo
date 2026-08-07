@@ -10,7 +10,7 @@ python actualizar_catalogo.py
 CMD PARA SUBIR A GITHUB
 
 git add .
-git commit -m "Agregar categoria Charms Colgantes Disney"
+git commit -m "actualización general"
 git push origin main
 
 

@@ -551,12 +551,21 @@
 <body>
 
     <header id="inicio">
-        <h1>CATALOGO DE PRODUCTOS</h1>
-        <h2 id="linea-titulo">Catálogo Completo (Bajo Pedido)</h2>
+        <h1>CATALOGO DIGITAL DE PRODUCTOS</h1>
+        <h2 id="linea-titulo">Seleccione una tienda</h2>
     </header>
 
-    <!-- Barra Superior Fija (Reorganizada) -->
+    <!-- Barra Superior Fija (Selector de Tienda y Controles) -->
     <div class="sticky-top-bar" id="panel-distribuidor">
+        <!-- Fila 0: Selector Principal de Tienda -->
+        <div class="sticky-row" style="background: #eef2f7; padding: 6px; border-radius: 6px;">
+            <span style="font-size: 12px; font-weight: bold; color: var(--primary-color);">Tienda Activa:</span>
+            <select id="select-tienda" class="index-select" style="max-width: 250px; font-weight: bold; background: white;" onchange="cambiarTienda(this.value)">
+                <option value="pandora">Pandora</option>
+                <option value="swarovski">Swarovski</option>
+            </select>
+        </div>
+
         <!-- Fila 1: Margen y Ocultar precios -->
         <div class="sticky-row admin-only-control">
             <div class="margin-box">
@@ -575,7 +584,7 @@
             </div>
         </div>
 
-        <!-- Fila 3: Ir a categoría y Vaciar carrito (Visibles para todos) -->
+        <!-- Fila 3: Ir a categoría y Vaciar carrito -->
         <div class="sticky-row" style="border-top: 1px dashed #d0dbe5; padding-top: 6px; display: flex; justify-content: center; gap: 8px;">
             <select id="select-categoria" class="index-select" onchange="navegarCategoria(this.value)">
                 <option value="" disabled selected>Ir a categoría...</option>
@@ -628,6 +637,7 @@
         <div class="lightbox-counter" id="lightbox-counter">1 / 1</div>
     </div>
 
+    <!-- Scripts de Datos Pandora -->
     <script src="anillos.js"></script>
     <script src="aretes.js"></script>
     <script src="collares.js"></script>
@@ -644,8 +654,12 @@
     <script src="charmsme.js"></script>
     <script src="charmsaccesoriosme.js"></script>
 
+    <!-- Scripts de Datos Swarovski -->
+    <script src="anillosswa.js"></script>
+
     <script>
-        const productos = [
+        // Grupos separados por tienda
+        const productosPandora = [
             ...(typeof productosAnillos !== 'undefined' ? productosAnillos : []),
             ...(typeof productosAretes !== 'undefined' ? productosAretes : []),
             ...(typeof productosCollares !== 'undefined' ? productosCollares : []),
@@ -663,7 +677,16 @@
             ...(typeof productosCharmsAccesoriosME !== 'undefined' ? productosCharmsAccesoriosME : [])
         ];
 
-        const nombreLinea = "PANDORA";
+        const productosSwarovski = [
+            ...(typeof productosAnillosSwa !== 'undefined' ? productosAnillosSwa : [])
+        ];
+
+        let tiendaActual = 'pandora'; // Tienda por defecto al cargar
+
+        function obtenerProductosActuales() {
+            return tiendaActual === 'swarovski' ? productosSwarovski : productosPandora;
+        }
+
         const opcionesMedidasEstandar = ["unica", "16", "17", "18", "19", "20", "21"];
         const opcionesTallasAnillos = ["5", "6", "7", "8", "9", "10"];
         
@@ -673,6 +696,12 @@
 
         let lightboxGaleria = [];
         let lightboxIndiceActual = 0;
+
+        function cambiarTienda(nuevaTienda) {
+            tiendaActual = nuevaTienda;
+            document.getElementById('linea-titulo').innerText = tiendaActual === 'swarovski' ? 'Línea Exclusiva Swarovski' : 'Catálogo Completo PANDORA (Bajo Pedido)';
+            renderizarCatalogo();
+        }
 
         function guardarCarrito() {
             localStorage.setItem('mi_carrito_catalogo', JSON.stringify(carrito));
@@ -708,18 +737,19 @@
         function renderizarCatalogo() {
             const contenedor = document.getElementById('catalogo-contenido');
             const selectCategoria = document.getElementById('select-categoria');
+            const productosActivos = obtenerProductosActuales();
             
             contenedor.innerHTML = '';
             selectCategoria.innerHTML = '<option value="" disabled selected>Ir a categoría...</option>';
 
             const categorias = {};
-            productos.forEach(p => {
+            productosActivos.forEach(p => {
                 if (!categorias[p.categoria]) categorias[p.categoria] = [];
                 categorias[p.categoria].push(p);
             });
 
             if (Object.keys(categorias).length === 0) {
-                contenedor.innerHTML = `<div style="text-align:center; padding: 40px; color: #777; font-size: 15px;">No hay productos cargados.</div>`;
+                contenedor.innerHTML = `<div style="text-align:center; padding: 40px; color: #777; font-size: 15px;">No hay productos cargados en esta tienda.</div>`;
                 return;
             }
 
@@ -767,7 +797,8 @@
         }
 
         function abrirGaleria(categoria, id) {
-            let prod = productos.find(p => p.id === id && p.categoria === categoria);
+            let productosActivos = obtenerProductosActuales();
+            let prod = productosActivos.find(p => p.id === id && p.categoria === categoria);
             if (!prod) return;
 
             document.getElementById('gallery-modal-title').innerText = `Cod. ${prod.id} (${prod.categoria})`;
@@ -875,18 +906,19 @@
         }, false);
 
         function cambiarCantidadGeneral(id, categoria, cambio) {
-            let prod = productos.find(p => p.id === id && p.categoria === categoria);
+            let productosActivos = obtenerProductosActuales();
+            let prod = productosActivos.find(p => p.id === id && p.categoria === categoria);
             if (!prod) return;
 
             let tallaInicial = "unica";
-            if (categoria === "Anillos") {
+            if (categoria.includes("Anillos")) {
                 tallaInicial = "7"; 
-            } else if (categoria === "Pulseras") {
+            } else if (categoria.includes("Pulseras")) {
                 tallaInicial = "17";
             }
 
             if (cambio > 0) {
-                if (categoria === "Anillos" || categoria === "Pulseras") {
+                if (categoria.includes("Anillos") || categoria.includes("Pulseras")) {
                     let cartKey = `${id}-${categoria}-${tallaInicial}-${Date.now()}`;
                     carrito[cartKey] = { ...prod, qty: 1, talla: tallaInicial };
                 } else {
@@ -958,7 +990,7 @@
                 subtotalPedido += sub;
 
                 let detalleHTML = "";
-                if (item.categoria === 'Anillos') {
+                if (item.categoria.includes('Anillos')) {
                     let opcionesMedidasHTML = "";
                     let listaCompletaOpciones = [...new Set([...opcionesTallasAnillos, item.talla])];
                     
@@ -975,7 +1007,7 @@
                             </select>
                         </div>
                     `;
-                } else if (item.categoria === 'Pulseras') {
+                } else if (item.categoria.includes('Pulseras')) {
                     let opcionesMedidasHTML = "";
                     let listaCompletaOpciones = [...new Set([...opcionesMedidasEstandar, item.talla])];
                     
@@ -1063,7 +1095,6 @@
             let g = document.getElementById('input-ganancia').value || 0;
             let pVal = preciosVisibles ? '1' : '0';
             
-            // ENCRIPTACIÓN/OCULTAMIENTO: Convertimos los valores a Base64 para ocultar el margen.
             let datosCrudos = `g=${g}&p=${pVal}`;
             let tokenSeguro = btoa(datosCrudos);
             
@@ -1098,7 +1129,7 @@
             
             doc.setFont("helvetica", "bold");
             doc.setFontSize(16);
-            doc.text("RESUMEN DE PEDIDO - " + nombreLinea, 14, 20);
+            doc.text("RESUMEN DE PEDIDO", 14, 20);
             doc.setFontSize(10);
             doc.setFont("helvetica", "normal");
             doc.text("Fecha: " + new Date().toLocaleDateString(), 14, 28);
@@ -1174,7 +1205,6 @@
         window.onload = function() {
             const urlParams = new URLSearchParams(window.location.search);
             
-            // Verificamos si el enlace trae un token seguro cifrado (?token=...)
             if (urlParams.has('token')) {
                 try {
                     let tokenDecodificado = atob(urlParams.get('token'));
@@ -1224,16 +1254,14 @@
                 }
             }
 
-            // Reflejar estado inicial correcto del botón de precios
             let btn = document.getElementById('btn-precios');
             if (btn) {
                 btn.className = preciosVisibles ? 'toggle-btn' : 'toggle-btn active';
                 btn.innerText = preciosVisibles ? 'Ocultar precios' : 'Mostrar precios';
             }
 
-            renderizarCatalogo();
-            
-            // CORRECCIÓN CLAVE: Forzar la generación inmediata del enlace tokenizado al cargar
+            // Inicializar vista con la tienda por defecto (Pandora)
+            cambiarTienda('pandora');
             actualizarEnlaceCompartible();
         };
     </script>
