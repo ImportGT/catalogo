@@ -657,6 +657,7 @@
     <!-- Scripts de Datos Swarovski -->
     <script src="anillosswa.js"></script>
     <script src="aretesswa.js"></script>
+    <script src="pulserasswa.js"></script>
 
     <script>
         // Grupos separados por tienda
@@ -678,10 +679,11 @@
             ...(typeof productosCharmsAccesoriosME !== 'undefined' ? productosCharmsAccesoriosME : [])
         ];
 
-        // Swarovski agrupa tanto anillos como aretes en una sola tienda
+        // Swarovski agrupa Anillos, Aretes y Pulseras en una sola tienda
         const productosSwarovski = [
             ...(typeof productosAnillosSwa !== 'undefined' ? productosAnillosSwa : []),
-            ...(typeof productosAretesSwa !== 'undefined' ? productosAretesSwa : [])
+            ...(typeof productosAretesSwa !== 'undefined' ? productosAretesSwa : []),
+            ...(typeof productosPulserasSwa !== 'undefined' ? productosPulserasSwa : [])
         ];
 
         let tiendaActual = 'pandora'; // Tienda por defecto al cargar

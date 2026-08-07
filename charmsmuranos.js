@@ -134,9 +134,7 @@ const productosCharmsMuranos = [
         "categoria": "Charms Muranos",
         "precio": 70.0,
         "imagen": "imagenes/charms_muranos/chm_152.0.jpg",
-        "stockTallas": {
-            "Única": 1
-        },
+        "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",

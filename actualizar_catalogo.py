@@ -141,6 +141,15 @@ CONFIGURACIONES = [
         "prefijo": "aretes_swa",
         "carpeta": "imagenes/SWA/aretes_swa",
         "header_excel": 3
+    },
+    {
+        "categoria": "Pulseras Swarovski",
+        "excel": "PULSERAS SWA.xlsx",
+        "js": "pulserasswa.js",
+        "variable_js": "productosPulserasSwa",
+        "prefijo": "pulseras_swa",
+        "carpeta": "imagenes/SWA/pulseras_swa",
+        "header_excel": 2
     }
 ]
 
@@ -169,7 +178,7 @@ def actualizar_todo():
 
         for index, row in df.iterrows():
             col_id = None
-            for posible_col in ['NUMERO', 'NUM.', 'ID', 'Id', 'numero', 'Número', 'ARETES', 'ANILLOS']:
+            for posible_col in ['NUMERO', 'NUM.', 'ID', 'Id', 'numero', 'Número', 'ARETES', 'ANILLOS', 'PULSERAS']:
                 if posible_col in df.columns:
                     col_id = posible_col
                     break
@@ -212,15 +221,6 @@ def actualizar_todo():
                                 except:
                                     pass
 
-            if not stock_tallas and 'STOCK' in df.columns and not pd.isna(row['STOCK']):
-                try:
-                    s_gen = int(row['STOCK'])
-                    if s_gen > 0:
-                        stock_tallas["Única"] = s_gen
-                except:
-                    pass
-
-            # VINCULACIÓN DIRECTA POR ID (Independiente del orden de las filas en el Excel)
             patron_archivo = re.compile(rf"^{re.escape(prefijo)}[\._]{prod_id}(?:[\._](\d+))?\.([a-zA-Z0-9]+)$", re.IGNORECASE)
 
             archivos_encontrados = []
@@ -274,9 +274,9 @@ def actualizar_todo():
         with open(js_path, "w", encoding="utf-8") as f:
             f.write(contenido_js)
 
-        print(f"✅ Archivo {js_path} actualizado con {len(productos_lista)} productos vinculados por ID.")
+        print(f"✅ Archivo {js_path} actualizado correctamente con {len(productos_lista)} productos.")
 
-    print("\n🎉 ¡Proceso de actualización completado con éxito!")
+    print("\n🎉 ¡Proceso completo de actualización finalizado!")
 
 if __name__ == "__main__":
     actualizar_todo()
