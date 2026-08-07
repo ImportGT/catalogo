@@ -150,6 +150,15 @@ CONFIGURACIONES = [
         "prefijo": "pulseras_swa",
         "carpeta": "imagenes/SWA/pulseras_swa",
         "header_excel": 2
+    },
+    {
+        "categoria": "Collares Swarovski",
+        "excel": "COLLARES SWA.xlsx",
+        "js": "collarswa.js",
+        "variable_js": "productosCollaresSwa",
+        "prefijo": "collares_swa",
+        "carpeta": "imagenes/SWA/collares_swa",
+        "header_excel": 2
     }
 ]
 
@@ -178,7 +187,7 @@ def actualizar_todo():
 
         for index, row in df.iterrows():
             col_id = None
-            for posible_col in ['NUMERO', 'NUM.', 'ID', 'Id', 'numero', 'Número', 'ARETES', 'ANILLOS', 'PULSERAS']:
+            for posible_col in ['NUMERO', 'NUM.', 'ID', 'Id', 'numero', 'Número', 'ARETES', 'ANILLOS', 'PULSERAS', 'COLLARES']:
                 if posible_col in df.columns:
                     col_id = posible_col
                     break

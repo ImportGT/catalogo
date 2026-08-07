@@ -2,9 +2,9 @@ import os
 import shutil
 import re
 
-# Rutas de origen y destino para las pulseras de Swarovski
-origen = "PULSERAS SWA"
-destino = os.path.join("imagenes", "SWA", "pulseras_swa")
+# Rutas de origen y destino para los collares de Swarovski
+origen = "COLLARES SWA"
+destino = os.path.join("imagenes", "SWA", "collares_swa")
 
 # Asegurar que la carpeta de destino exista
 os.makedirs(destino, exist_ok=True)
@@ -27,12 +27,12 @@ else:
         ruta_origen = os.path.join(origen, archivo)
         _, ext = os.path.splitext(archivo)
         
-        # Nuevo nombre estandarizado alineado perfectamente con el ID del Excel: pulseras_swa_1.jpg, etc.
-        nuevo_nombre = f"pulseras_swa_{count}{ext.lower()}"
+        # Nuevo nombre estandarizado alineado perfectamente con el ID del Excel: collares_swa_1.jpg, etc.
+        nuevo_nombre = f"collares_swa_{count}{ext.lower()}"
         ruta_destino = os.path.join(destino, nuevo_nombre)
         
         shutil.copy2(ruta_origen, ruta_destino)
         print(f"Alineado y copiado: {archivo} -> {nuevo_nombre}")
         count += 1
 
-    print("¡Proceso de renombrado y sincronización de pulseras finalizado con éxito!")
+    print("¡Proceso de renombrado y sincronización de collares finalizado con éxito!")
