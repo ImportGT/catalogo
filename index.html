@@ -73,7 +73,7 @@
             border-radius: 6px;
             outline: none;
             cursor: pointer;
-            max-width: 220px;
+            max-width: 250px;
             width: 100%;
         }
 
@@ -656,6 +656,7 @@
 
     <!-- Scripts de Datos Swarovski -->
     <script src="anillosswa.js"></script>
+    <script src="aretesswa.js"></script>
 
     <script>
         // Grupos separados por tienda
@@ -677,8 +678,10 @@
             ...(typeof productosCharmsAccesoriosME !== 'undefined' ? productosCharmsAccesoriosME : [])
         ];
 
+        // Swarovski agrupa tanto anillos como aretes en una sola tienda
         const productosSwarovski = [
-            ...(typeof productosAnillosSwa !== 'undefined' ? productosAnillosSwa : [])
+            ...(typeof productosAnillosSwa !== 'undefined' ? productosAnillosSwa : []),
+            ...(typeof productosAretesSwa !== 'undefined' ? productosAretesSwa : [])
         ];
 
         let tiendaActual = 'pandora'; // Tienda por defecto al cargar
@@ -699,7 +702,11 @@
 
         function cambiarTienda(nuevaTienda) {
             tiendaActual = nuevaTienda;
-            document.getElementById('linea-titulo').innerText = tiendaActual === 'swarovski' ? 'Línea Exclusiva Swarovski' : 'Catálogo Completo PANDORA (Bajo Pedido)';
+            if (tiendaActual === 'swarovski') {
+                document.getElementById('linea-titulo').innerText = 'Línea Exclusiva Swarovski';
+            } else {
+                document.getElementById('linea-titulo').innerText = 'Catálogo Completo PANDORA (Bajo Pedido)';
+            }
             renderizarCatalogo();
         }
 

@@ -123,6 +123,24 @@ CONFIGURACIONES = [
         "variable_js": "productosCharmsAccesoriosME",
         "prefijo": "chaME",
         "carpeta": "imagenes/charms_accesoriosme"
+    },
+    {
+        "categoria": "Anillos Swarovski",
+        "excel": "ANILLOS SWA.xlsx",
+        "js": "anillosswa.js",
+        "variable_js": "productosAnillosSwa",
+        "prefijo": "anillos_swa",
+        "carpeta": "imagenes/SWA/anillos_swa",
+        "header_excel": 2
+    },
+    {
+        "categoria": "Aretes Swarovski",
+        "excel": "ARETES SWA.xlsx",
+        "js": "aretesswa.js",
+        "variable_js": "productosAretesSwa",
+        "prefijo": "aretes_swa",
+        "carpeta": "imagenes/SWA/aretes_swa",
+        "header_excel": 3
     }
 ]
 
@@ -134,6 +152,7 @@ def actualizar_todo():
         var_name = conf["variable_js"]
         prefijo = conf["prefijo"]
         carpeta = conf["carpeta"]
+        header_fila = conf.get("header_excel", 0)
 
         print(f"\n--- Procesando categoría: {cat} ---")
 
@@ -145,13 +164,12 @@ def actualizar_todo():
             print(f"⚠️ Aviso: No se encontró la carpeta {carpeta}. Se omite esta categoría.")
             continue
 
-        df = pd.read_excel(excel_path)
+        df = pd.read_excel(excel_path, header=header_fila)
         productos_lista = []
 
         for index, row in df.iterrows():
-            # Buscar columna de ID flexiblemente ('NUM.', 'NUMERO', 'ID', etc.)
             col_id = None
-            for posible_col in ['NUM.', 'NUMERO', 'ID', 'Id', 'numero', 'Número']:
+            for posible_col in ['NUMERO', 'NUM.', 'ID', 'Id', 'numero', 'Número', 'ARETES', 'ANILLOS']:
                 if posible_col in df.columns:
                     col_id = posible_col
                     break
@@ -159,9 +177,11 @@ def actualizar_todo():
             if not col_id or pd.isna(row[col_id]):
                 continue
                 
-            prod_id = int(row[col_id])
+            try:
+                prod_id = int(row[col_id])
+            except:
+                continue
             
-            # Buscar columna de precio
             col_precio = None
             for posible_col in ['PRECIO', 'Precio', 'precio']:
                 if posible_col in df.columns:
@@ -170,21 +190,27 @@ def actualizar_todo():
 
             precio = float(row[col_precio]) if col_precio and not pd.isna(row[col_precio]) else 0.0
             
-            # Stock por tallas
             stock_tallas = {}
             for col in df.columns:
                 col_upper = str(col).strip().upper()
-                if col_upper.startswith('STOCK'):
-                    talla_nombre = col_upper.replace('STOCK', '').strip()
-                    if talla_nombre:
-                        val_stock = row[col]
-                        if not pd.isna(val_stock):
-                            try:
-                                stock_val = int(val_stock)
-                                if stock_val > 0:
-                                    stock_tallas[talla_nombre] = stock_val
-                            except:
-                                pass
+                if col_upper.startswith('STOCK') or col_upper == 'TALLAS':
+                    if col_upper == 'TALLAS':
+                        tallas_str = str(row[col])
+                        if tallas_str and tallas_str != 'nan':
+                            for t in tallas_str.replace(" ", "").split("--"):
+                                if t:
+                                    stock_tallas[t] = 1
+                    else:
+                        talla_nombre = col_upper.replace('STOCK', '').strip()
+                        if talla_nombre:
+                            val_stock = row[col]
+                            if not pd.isna(val_stock):
+                                try:
+                                    stock_val = int(val_stock)
+                                    if stock_val > 0:
+                                        stock_tallas[talla_nombre] = stock_val
+                                except:
+                                    pass
 
             if not stock_tallas and 'STOCK' in df.columns and not pd.isna(row['STOCK']):
                 try:
@@ -194,7 +220,7 @@ def actualizar_todo():
                 except:
                     pass
 
-            # Expresión regular precisa para la galería y portada
+            # VINCULACIÓN DIRECTA POR ID (Independiente del orden de las filas en el Excel)
             patron_archivo = re.compile(rf"^{re.escape(prefijo)}[\._]{prod_id}(?:[\._](\d+))?\.([a-zA-Z0-9]+)$", re.IGNORECASE)
 
             archivos_encontrados = []
@@ -248,9 +274,9 @@ def actualizar_todo():
         with open(js_path, "w", encoding="utf-8") as f:
             f.write(contenido_js)
 
-        print(f"✅ Archivo {js_path} actualizado con {len(productos_lista)} productos.")
+        print(f"✅ Archivo {js_path} actualizado con {len(productos_lista)} productos vinculados por ID.")
 
-    print("\n🎉 ¡Proceso de actualización completo para todas las categorías!")
+    print("\n🎉 ¡Proceso de actualización completado con éxito!")
 
 if __name__ == "__main__":
     actualizar_todo()

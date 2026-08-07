@@ -1,9 +1,10 @@
 import os
 import shutil
+import re
 
-# Rutas de origen y destino relativas al proyecto
-origen = "ANILLOS SWA"
-destino = os.path.join("imagenes", "SWA", "anillos_swa")
+# Rutas de origen y destino para los aretes de Swarovski
+origen = "ARETES SWA"
+destino = os.path.join("imagenes", "SWA", "aretes_swa")
 
 # Asegurar que la carpeta de destino exista
 os.makedirs(destino, exist_ok=True)
@@ -12,21 +13,26 @@ if not os.path.exists(origen):
     print(f"La carpeta de origen '{origen}' no existe.")
 else:
     archivos = os.listdir(origen)
-    print(f"Encontrados {len(archivos)} archivos en '{origen}'. Procesando...")
+    
+    # Función para ordenar numéricamente de forma estricta (ej. 1, 2, 3 ... 10 en lugar de 1, 10, 2)
+    def extraer_numero(nombre):
+        nums = re.findall(r'\d+', nombre)
+        return int(nums[0]) if nums else 0
+
+    archivos_ordenados = sorted([f for f in archivos if os.path.isfile(os.path.join(origen, f))], key=extraer_numero)
+    print(f"Procesando {len(archivos_ordenados)} archivos ordenados numéricamente desde '{origen}'...")
     
     count = 1
-    for archivo in archivos:
+    for archivo in archivos_ordenados:
         ruta_origen = os.path.join(origen, archivo)
-        if os.path.isfile(ruta_origen):
-            # Obtenemos la extensión original (ej. .jpg, .webp, .mp4)
-            _, ext = os.path.splitext(archivo)
-            
-            # Nuevo nombre estandarizado
-            nuevo_nombre = f"anillos_swa_{count}{ext}"
-            ruta_destino = os.path.join(destino, nuevo_nombre)
-            
-            shutil.copy2(ruta_origen, ruta_destino)
-            print(f"Copiado y renombrado: {archivo} -> {nuevo_nombre}")
-            count += 1
+        _, ext = os.path.splitext(archivo)
+        
+        # Nuevo nombre estandarizado alineado perfectamente con el ID del Excel: aretes_swa_1.jpg, etc.
+        nuevo_nombre = f"aretes_swa_{count}{ext.lower()}"
+        ruta_destino = os.path.join(destino, nuevo_nombre)
+        
+        shutil.copy2(ruta_origen, ruta_destino)
+        print(f"Alineado y copiado: {archivo} -> {nuevo_nombre}")
+        count += 1
 
-    print("¡Proceso de renombrado y copia finalizado con éxito!")
+    print("¡Proceso de renombrado y sincronización de aretes finalizado con éxito!")
