@@ -168,6 +168,15 @@ CONFIGURACIONES = [
         "prefijo": "anillosbp",
         "carpeta": "imagenes/BP/anillosbp",
         "header_excel": 2
+    },
+    {
+        "categoria": "Aretes Baño de Plata",
+        "excel": "ARETES BP.xlsx",
+        "js": "aretesbp.js",
+        "variable_js": "productosAretesBp",
+        "prefijo": "aretessbp",
+        "carpeta": "imagenes/BP/aretessbp",
+        "header_excel": 3
     }
 ]
 
