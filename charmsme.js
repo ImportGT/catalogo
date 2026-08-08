@@ -3,12 +3,12 @@ const productosCharmsME = [
         "id": 123,
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme_123.png",
+        "imagen": "imagenes/charms_me/chme_123.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_123.png"
+                "url": "imagenes/charms_me/chme_123.jpg"
             }
         ]
     },
@@ -16,12 +16,12 @@ const productosCharmsME = [
         "id": 122,
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme_122.png",
+        "imagen": "imagenes/charms_me/chme_122.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_122.png"
+                "url": "imagenes/charms_me/chme_122.jpg"
             }
         ]
     },

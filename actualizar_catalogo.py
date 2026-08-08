@@ -138,8 +138,8 @@ CONFIGURACIONES = [
         "excel": "ARETES SWA.xlsx",
         "js": "aretesswa.js",
         "variable_js": "productosAretesSwa",
-        "prefijo": "aretesswa",
-        "carpeta": "imagenes/SWA/aretesswa",
+        "prefijo": "aretes_swa",
+        "carpeta": "imagenes/SWA/aretes_swa",
         "header_excel": 3
     },
     {
@@ -243,26 +243,14 @@ def actualizar_todo():
 
             archivos_encontrados = []
             if os.path.exists(carpeta):
-                # Coincidencia exacta para el ID (ej: anillos_1, sin confundir con anillos_10)
                 patron_estricto = re.compile(rf"^{re.escape(prefijo)}_{prod_id}(?:[\._\(]|$)", re.IGNORECASE)
 
                 for archivo in os.listdir(carpeta):
                     if patron_estricto.match(archivo):
                         ext = archivo.split('.')[-1].lower()
                         if ext in ('jpg', 'jpeg', 'png', 'webp', 'avif', 'mp4', 'mov', 'webm'):
-                            # Extraer todos los números del sufijo para ordenar jerárquicamente
-                            # Ej: anillos_1.png -> orden (0,)
-                            #     anillos_1_1.png -> orden (1, 1)
-                            #     anillos_1.1.png -> orden (1, 1)
                             sub_part = archivo.replace(f"{prefijo}_{prod_id}", "").split('.')[0]
-                            nums = [int(n) for n in re.findall(r'\d+', sub_part)]
-                            
-                            # Si el archivo es exactamente anillos_1.png (sin sufijo adicional), su tupla de orden es (0,)
-                            # para que vaya estrictamente primero que anillos_1_1 o anillos_1_2.
-                            if not nums:
-                                tupla_orden = (0,)
-                            else:
-                                tupla_orden = tuple(nums)
+                            tupla_orden = (0,) if not sub_part else tuple([int(n) for n in re.findall(r'\d+', sub_part)] or [0])
                             
                             tipo_media = "video" if ext in ('mp4', 'mov', 'webm') else "imagen"
                             archivos_encontrados.append({
@@ -272,7 +260,6 @@ def actualizar_todo():
                                 "ruta": f"{carpeta}/{archivo}"
                             })
 
-            # Ordenar por la tupla numérica para garantizar que la portada limpia (ej. anillos_1) vaya antes de _1, _2, etc.
             archivos_encontrados = sorted(archivos_encontrados, key=lambda x: x['tupla_orden'])
 
             galeria_items = []
@@ -280,10 +267,9 @@ def actualizar_todo():
                 galeria_items.append({"tipo": item["tipo"], "url": item["ruta"]})
 
             if not galeria_items:
-                imagen_principal = f"{carpeta}/{prefijo}_{prod_id}.png"
+                imagen_principal = f"{carpeta}/{prefijo}_{prod_id}.jpg"
                 galeria_items = [{"tipo": "imagen", "url": imagen_principal}]
             else:
-                # La primera imagen encontrada y ordenada será la portada oficial
                 imagen_principal = galeria_items[0]["url"]
 
             producto_obj = {

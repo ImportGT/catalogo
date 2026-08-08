@@ -1308,12 +1308,12 @@ const productosCharmsBeads = [
         "id": 903,
         "categoria": "Charms Beads",
         "precio": 65.0,
-        "imagen": "imagenes/charms_beads/chb_903.png",
+        "imagen": "imagenes/charms_beads/chb_903.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_beads/chb_903.png"
+                "url": "imagenes/charms_beads/chb_903.jpg"
             }
         ]
     },

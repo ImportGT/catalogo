@@ -156,9 +156,13 @@ const productosAnillos = [
         "id": 569,
         "categoria": "Anillos",
         "precio": 115.0,
-        "imagen": "imagenes/anillos/anillos_569.2.webp",
+        "imagen": "imagenes/anillos/anillos_569.1.webp",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_569.1.webp"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_569.2.webp"
@@ -174,10 +178,6 @@ const productosAnillos = [
             {
                 "tipo": "video",
                 "url": "imagenes/anillos/anillos_569.5.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_569.webp"
             }
         ]
     },
@@ -185,9 +185,13 @@ const productosAnillos = [
         "id": 568,
         "categoria": "Anillos",
         "precio": 75.0,
-        "imagen": "imagenes/anillos/anillos_568.2.jpg",
+        "imagen": "imagenes/anillos/anillos_568.1.webp",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_568.1.webp"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_568.2.jpg"
@@ -203,10 +207,6 @@ const productosAnillos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_568.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_568.webp"
             }
         ]
     },
@@ -214,11 +214,15 @@ const productosAnillos = [
         "id": 567,
         "categoria": "Anillos",
         "precio": 70.0,
-        "imagen": "imagenes/anillos/anillos_567.2.jpg",
+        "imagen": "imagenes/anillos/anillos_567.1.jpg",
         "stockTallas": {
             "1.0": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_567.1.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_567.2.jpg"
@@ -234,10 +238,6 @@ const productosAnillos = [
             {
                 "tipo": "video",
                 "url": "imagenes/anillos/anillos_567.5.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_567.jpg"
             }
         ]
     },
@@ -245,9 +245,13 @@ const productosAnillos = [
         "id": 566,
         "categoria": "Anillos",
         "precio": 75.0,
-        "imagen": "imagenes/anillos/anillos_566.2.jpg",
+        "imagen": "imagenes/anillos/anillos_566.1.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_566.1.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_566.2.jpg"
@@ -263,10 +267,6 @@ const productosAnillos = [
             {
                 "tipo": "video",
                 "url": "imagenes/anillos/anillos_566.5.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_566.jpg"
             }
         ]
     },
@@ -274,11 +274,15 @@ const productosAnillos = [
         "id": 565,
         "categoria": "Anillos",
         "precio": 70.0,
-        "imagen": "imagenes/anillos/anillos_565.2.webp",
+        "imagen": "imagenes/anillos/anillos_565.1.webp",
         "stockTallas": {
             "1.0": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_565.1.webp"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_565.2.webp"
@@ -294,10 +298,6 @@ const productosAnillos = [
             {
                 "tipo": "video",
                 "url": "imagenes/anillos/anillos_565.5.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_565.webp"
             }
         ]
     },
@@ -305,11 +305,15 @@ const productosAnillos = [
         "id": 564,
         "categoria": "Anillos",
         "precio": 65.0,
-        "imagen": "imagenes/anillos/anillos_564.2.jpg",
+        "imagen": "imagenes/anillos/anillos_564.1.jpg",
         "stockTallas": {
             "1.0": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_564.1.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_564.2.jpg"
@@ -325,10 +329,6 @@ const productosAnillos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_564.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_564.jpg"
             }
         ]
     },
@@ -336,11 +336,15 @@ const productosAnillos = [
         "id": 563,
         "categoria": "Anillos",
         "precio": 65.0,
-        "imagen": "imagenes/anillos/anillos_563.2.jpg",
+        "imagen": "imagenes/anillos/anillos_563.1.jpg",
         "stockTallas": {
             "1.0": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_563.1.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_563.2.jpg"
@@ -356,10 +360,6 @@ const productosAnillos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_563.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_563.jpg"
             }
         ]
     },
@@ -367,11 +367,15 @@ const productosAnillos = [
         "id": 562,
         "categoria": "Anillos",
         "precio": 65.0,
-        "imagen": "imagenes/anillos/anillos_562.2.jpg",
+        "imagen": "imagenes/anillos/anillos_562.1.webp",
         "stockTallas": {
             "1.0": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_562.1.webp"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_562.2.jpg"
@@ -387,10 +391,6 @@ const productosAnillos = [
             {
                 "tipo": "video",
                 "url": "imagenes/anillos/anillos_562.5.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_562.webp"
             }
         ]
     },
@@ -398,11 +398,15 @@ const productosAnillos = [
         "id": 561,
         "categoria": "Anillos",
         "precio": 65.0,
-        "imagen": "imagenes/anillos/anillos_561.2.jpg",
+        "imagen": "imagenes/anillos/anillos_561.1.webp",
         "stockTallas": {
             "1.0": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_561.1.webp"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_561.2.jpg"
@@ -418,10 +422,6 @@ const productosAnillos = [
             {
                 "tipo": "video",
                 "url": "imagenes/anillos/anillos_561.5.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_561.webp"
             }
         ]
     },
@@ -429,11 +429,15 @@ const productosAnillos = [
         "id": 560,
         "categoria": "Anillos",
         "precio": 65.0,
-        "imagen": "imagenes/anillos/anillos_560.2.webp",
+        "imagen": "imagenes/anillos/anillos_560.1.webp",
         "stockTallas": {
             "1.0": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_560.1.webp"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_560.2.webp"
@@ -449,10 +453,6 @@ const productosAnillos = [
             {
                 "tipo": "video",
                 "url": "imagenes/anillos/anillos_560.5.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_560.webp"
             }
         ]
     },
@@ -460,11 +460,15 @@ const productosAnillos = [
         "id": 559,
         "categoria": "Anillos",
         "precio": 70.0,
-        "imagen": "imagenes/anillos/anillos_559.2.jpg",
+        "imagen": "imagenes/anillos/anillos_559.1.jpg",
         "stockTallas": {
             "1.0": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_559.1.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_559.2.jpg"
@@ -476,10 +480,6 @@ const productosAnillos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_559.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_559.jpg"
             }
         ]
     },
@@ -487,9 +487,13 @@ const productosAnillos = [
         "id": 558,
         "categoria": "Anillos",
         "precio": 70.0,
-        "imagen": "imagenes/anillos/anillos_558.2.jpg",
+        "imagen": "imagenes/anillos/anillos_558.1.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_558.1.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_558.2.jpg"
@@ -501,10 +505,6 @@ const productosAnillos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_558.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_558.jpg"
             }
         ]
     },
@@ -512,9 +512,13 @@ const productosAnillos = [
         "id": 557,
         "categoria": "Anillos",
         "precio": 65.0,
-        "imagen": "imagenes/anillos/anillos_557.2.jpg",
+        "imagen": "imagenes/anillos/anillos_557.1.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_557.1.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_557.2.jpg"
@@ -526,10 +530,6 @@ const productosAnillos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_557.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_557.jpg"
             }
         ]
     },
@@ -537,9 +537,13 @@ const productosAnillos = [
         "id": 556,
         "categoria": "Anillos",
         "precio": 65.0,
-        "imagen": "imagenes/anillos/anillos_556.2.webp",
+        "imagen": "imagenes/anillos/anillos_556.1.webp",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_556.1.webp"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_556.2.webp"
@@ -555,10 +559,6 @@ const productosAnillos = [
             {
                 "tipo": "video",
                 "url": "imagenes/anillos/anillos_556.5.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_556.webp"
             }
         ]
     },
@@ -566,9 +566,13 @@ const productosAnillos = [
         "id": 555,
         "categoria": "Anillos",
         "precio": 65.0,
-        "imagen": "imagenes/anillos/anillos_555.2.jpg",
+        "imagen": "imagenes/anillos/anillos_555.1.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_555.1.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_555.2.jpg"
@@ -584,10 +588,6 @@ const productosAnillos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_555.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_555.jpg"
             }
         ]
     },
@@ -595,9 +595,13 @@ const productosAnillos = [
         "id": 554,
         "categoria": "Anillos",
         "precio": 65.0,
-        "imagen": "imagenes/anillos/anillos_554.2.webp",
+        "imagen": "imagenes/anillos/anillos_554.1.webp",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_554.1.webp"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_554.2.webp"
@@ -613,10 +617,6 @@ const productosAnillos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_554.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_554.webp"
             }
         ]
     },
@@ -624,9 +624,13 @@ const productosAnillos = [
         "id": 553,
         "categoria": "Anillos",
         "precio": 85.0,
-        "imagen": "imagenes/anillos/anillos_553.2.jpg",
+        "imagen": "imagenes/anillos/anillos_553.1.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_553.1.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_553.2.jpg"
@@ -646,10 +650,6 @@ const productosAnillos = [
             {
                 "tipo": "video",
                 "url": "imagenes/anillos/anillos_553.6.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_553.jpg"
             }
         ]
     },
@@ -657,9 +657,13 @@ const productosAnillos = [
         "id": 552,
         "categoria": "Anillos",
         "precio": 90.0,
-        "imagen": "imagenes/anillos/anillos_552.2.webp",
+        "imagen": "imagenes/anillos/anillos_552.1.webp",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_552.1.webp"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_552.2.webp"
@@ -675,10 +679,6 @@ const productosAnillos = [
             {
                 "tipo": "video",
                 "url": "imagenes/anillos/anillos_552.5.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_552.webp"
             }
         ]
     },
@@ -686,9 +686,13 @@ const productosAnillos = [
         "id": 551,
         "categoria": "Anillos",
         "precio": 90.0,
-        "imagen": "imagenes/anillos/anillos_551.2.jpg",
+        "imagen": "imagenes/anillos/anillos_551.1.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_551.1.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_551.2.jpg"
@@ -704,10 +708,6 @@ const productosAnillos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_551.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_551.jpg"
             }
         ]
     },
@@ -715,9 +715,13 @@ const productosAnillos = [
         "id": 550,
         "categoria": "Anillos",
         "precio": 70.0,
-        "imagen": "imagenes/anillos/anillos_550.2.jpg",
+        "imagen": "imagenes/anillos/anillos_550.1.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_550.1.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_550.2.jpg"
@@ -733,10 +737,6 @@ const productosAnillos = [
             {
                 "tipo": "video",
                 "url": "imagenes/anillos/anillos_550.5.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_550.jpg"
             }
         ]
     },
@@ -744,9 +744,13 @@ const productosAnillos = [
         "id": 549,
         "categoria": "Anillos",
         "precio": 80.0,
-        "imagen": "imagenes/anillos/anillos_549.2.jpg",
+        "imagen": "imagenes/anillos/anillos_549.1.webp",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_549.1.webp"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_549.2.jpg"
@@ -762,10 +766,6 @@ const productosAnillos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_549.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_549.webp"
             }
         ]
     },
@@ -773,9 +773,13 @@ const productosAnillos = [
         "id": 548,
         "categoria": "Anillos",
         "precio": 80.0,
-        "imagen": "imagenes/anillos/anillos_548.2.jpg",
+        "imagen": "imagenes/anillos/anillos_548.1.webp",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_548.1.webp"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_548.2.jpg"
@@ -791,10 +795,6 @@ const productosAnillos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_548.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_548.webp"
             }
         ]
     },
@@ -802,12 +802,32 @@ const productosAnillos = [
         "id": 547,
         "categoria": "Anillos",
         "precio": 70.0,
-        "imagen": "imagenes/anillos/anillos_547.jpg",
+        "imagen": "imagenes/anillos/anillos_547.1.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_547.jpg"
+                "url": "imagenes/anillos/anillos_547.1.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_547.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_547.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_547.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_547.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_547.6.jpg"
             }
         ]
     },
@@ -815,9 +835,13 @@ const productosAnillos = [
         "id": 546,
         "categoria": "Anillos",
         "precio": 65.0,
-        "imagen": "imagenes/anillos/anillos_546.2.jpg",
+        "imagen": "imagenes/anillos/anillos_546.1.webp",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_546.1.webp"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_546.2.jpg"
@@ -833,10 +857,6 @@ const productosAnillos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_546.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_546.webp"
             }
         ]
     },
@@ -5452,12 +5472,12 @@ const productosAnillos = [
         "id": 197,
         "categoria": "Anillos",
         "precio": 0.0,
-        "imagen": "imagenes/anillos/anillos_197.png",
+        "imagen": "imagenes/anillos/anillos_197.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_197.png"
+                "url": "imagenes/anillos/anillos_197.jpg"
             }
         ]
     },
@@ -6362,12 +6382,12 @@ const productosAnillos = [
         "id": 127,
         "categoria": "Anillos",
         "precio": 0.0,
-        "imagen": "imagenes/anillos/anillos_127.png",
+        "imagen": "imagenes/anillos/anillos_127.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_127.png"
+                "url": "imagenes/anillos/anillos_127.jpg"
             }
         ]
     },
