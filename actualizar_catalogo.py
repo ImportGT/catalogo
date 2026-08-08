@@ -189,6 +189,7 @@ def actualizar_todo():
 
         if not os.path.exists(carpeta):
             os.makedirs(carpeta, exist_ok=True)
+            print(f"📁 Se creó la carpeta faltante: {carpeta}")
 
         try:
             df = pd.read_excel(excel_path, header=header_fila)
@@ -234,31 +235,26 @@ def actualizar_todo():
             archivos_encontrados = []
             if os.path.exists(carpeta):
                 for archivo in os.listdir(carpeta):
-                    if archivo.startswith(f"{prefijo}_{prod_id}.") or archivo.startswith(f"{prefijo}_{prod_id}_"):
+                    # Coincidencia robusta para prefijo_ID, prefijo_ID.ext, prefijo_ID_1.ext, prefijo_ID(1).ext
+                    if archivo.lower().startswith(f"{prefijo}_{prod_id}.") or archivo.lower().startswith(f"{prefijo}_{prod_id}_") or archivo.lower().startswith(f"{prefijo}_{prod_id}("):
                         ext = archivo.split('.')[-1].lower()
                         if ext in ('jpg', 'jpeg', 'png', 'webp', 'avif', 'mp4', 'mov', 'webm'):
+                            # Calcular orden numérico para asegurar que la portada vaya primero
                             sub_part = archivo.replace(f"{prefijo}_{prod_id}", "").split('.')[0]
                             orden = 0
-                            if sub_part.startswith('.'):
-                                try:
-                                    orden = int(sub_part[1:])
-                                except:
-                                    pass
-                            elif sub_part.startswith('_'):
-                                try:
-                                    orden = int(sub_part[1:])
-                                except:
-                                    pass
+                            nums = re.findall(r'\d+', sub_part)
+                            if nums:
+                                orden = int(nums[0])
                             
                             tipo_media = "video" if ext in ('mp4', 'mov', 'webm') else "imagen"
                             archivos_encontrados.append({
                                 "archivo": archivo,
                                 "orden": orden,
-                                "ext": ext,
                                 "tipo": tipo_media,
                                 "ruta": f"{carpeta}/{archivo}"
                             })
 
+            # Ordenar por el número de sufijo (0 o sin sufijo primero, luego 1, 2, 3...)
             archivos_encontrados = sorted(archivos_encontrados, key=lambda x: x['orden'])
 
             galeria_items = []
