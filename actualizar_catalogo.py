@@ -186,6 +186,15 @@ CONFIGURACIONES = [
         "prefijo": "cadenasbp",
         "carpeta": "imagenes/BP/cadenasbp",
         "header_excel": 2
+    },
+    {
+        "categoria": "Pulseras Baño de Plata",
+        "excel": "PULSERAS BP.xlsx",
+        "js": "pulserasbp.js",
+        "variable_js": "productosPulserasBp",
+        "prefijo": "pulserasbp",
+        "carpeta": "imagenes/BP/pulserasbp",
+        "header_excel": 2
     }
 ]
 

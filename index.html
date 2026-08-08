@@ -667,6 +667,7 @@
     <script src="anillosbp.js"></script>
     <script src="aretesbp.js"></script>
     <script src="cadenasbp.js"></script>
+    <script src="pulserasbp.js"></script>
 
     <script>
         // Grupos separados por tienda
@@ -698,7 +699,8 @@
         const productosBanoPlata = [
             ...(typeof productosAnillosBp !== 'undefined' ? productosAnillosBp : []),
             ...(typeof productosAretesBp !== 'undefined' ? productosAretesBp : []),
-            ...(typeof productosCadenasBp !== 'undefined' ? productosCadenasBp : [])
+            ...(typeof productosCadenasBp !== 'undefined' ? productosCadenasBp : []),
+            ...(typeof productosPulserasBp !== 'undefined' ? productosPulserasBp : [])
         ];
 
         let tiendaActual = 'pandora'; // Tienda por defecto al cargar
