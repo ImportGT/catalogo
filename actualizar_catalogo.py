@@ -138,7 +138,7 @@ CONFIGURACIONES = [
         "excel": "ARETES SWA.xlsx",
         "js": "aretesswa.js",
         "variable_js": "productosAretesSwa",
-        "prefijo": "aretes_swa",
+        "prefijo": "aretesswa",
         "carpeta": "imagenes/SWA/aretesswa",
         "header_excel": 3
     },
@@ -171,10 +171,18 @@ CONFIGURACIONES = [
     }
 ]
 
+def buscar_archivo_flexible(nombre_buscado):
+    if os.path.exists(nombre_buscado):
+        return nombre_buscado
+    for f in os.listdir("."):
+        if f.lower() == nombre_buscado.lower():
+            return f
+    return None
+
 def actualizar_todo():
     for conf in CONFIGURACIONES:
         cat = conf["categoria"]
-        excel_path = conf["excel"]
+        excel_esperado = conf["excel"]
         js_path = conf["js"]
         var_name = conf["variable_js"]
         prefijo = conf["prefijo"]
@@ -183,8 +191,9 @@ def actualizar_todo():
 
         print(f"\n--- Procesando categoría: {cat} ---")
 
-        if not os.path.exists(excel_path):
-            print(f"⚠️ Aviso: No se encontró el archivo {excel_path}. Se omite esta categoría.")
+        excel_path = buscar_archivo_flexible(excel_esperado)
+        if not excel_path:
+            print(f"⚠️ Aviso: No se encontró el archivo {excel_esperado}. Se omite esta categoría.")
             continue
 
         if not os.path.exists(carpeta):
@@ -234,28 +243,37 @@ def actualizar_todo():
 
             archivos_encontrados = []
             if os.path.exists(carpeta):
+                # Coincidencia exacta para el ID (ej: anillos_1, sin confundir con anillos_10)
+                patron_estricto = re.compile(rf"^{re.escape(prefijo)}_{prod_id}(?:[\._\(]|$)", re.IGNORECASE)
+
                 for archivo in os.listdir(carpeta):
-                    # Coincidencia robusta para prefijo_ID, prefijo_ID.ext, prefijo_ID_1.ext, prefijo_ID(1).ext
-                    if archivo.lower().startswith(f"{prefijo}_{prod_id}.") or archivo.lower().startswith(f"{prefijo}_{prod_id}_") or archivo.lower().startswith(f"{prefijo}_{prod_id}("):
+                    if patron_estricto.match(archivo):
                         ext = archivo.split('.')[-1].lower()
                         if ext in ('jpg', 'jpeg', 'png', 'webp', 'avif', 'mp4', 'mov', 'webm'):
-                            # Calcular orden numérico para asegurar que la portada vaya primero
+                            # Extraer todos los números del sufijo para ordenar jerárquicamente
+                            # Ej: anillos_1.png -> orden (0,)
+                            #     anillos_1_1.png -> orden (1, 1)
+                            #     anillos_1.1.png -> orden (1, 1)
                             sub_part = archivo.replace(f"{prefijo}_{prod_id}", "").split('.')[0]
-                            orden = 0
-                            nums = re.findall(r'\d+', sub_part)
-                            if nums:
-                                orden = int(nums[0])
+                            nums = [int(n) for n in re.findall(r'\d+', sub_part)]
+                            
+                            # Si el archivo es exactamente anillos_1.png (sin sufijo adicional), su tupla de orden es (0,)
+                            # para que vaya estrictamente primero que anillos_1_1 o anillos_1_2.
+                            if not nums:
+                                tupla_orden = (0,)
+                            else:
+                                tupla_orden = tuple(nums)
                             
                             tipo_media = "video" if ext in ('mp4', 'mov', 'webm') else "imagen"
                             archivos_encontrados.append({
                                 "archivo": archivo,
-                                "orden": orden,
+                                "tupla_orden": tupla_orden,
                                 "tipo": tipo_media,
                                 "ruta": f"{carpeta}/{archivo}"
                             })
 
-            # Ordenar por el número de sufijo (0 o sin sufijo primero, luego 1, 2, 3...)
-            archivos_encontrados = sorted(archivos_encontrados, key=lambda x: x['orden'])
+            # Ordenar por la tupla numérica para garantizar que la portada limpia (ej. anillos_1) vaya antes de _1, _2, etc.
+            archivos_encontrados = sorted(archivos_encontrados, key=lambda x: x['tupla_orden'])
 
             galeria_items = []
             for item in archivos_encontrados:
@@ -265,6 +283,7 @@ def actualizar_todo():
                 imagen_principal = f"{carpeta}/{prefijo}_{prod_id}.png"
                 galeria_items = [{"tipo": "imagen", "url": imagen_principal}]
             else:
+                # La primera imagen encontrada y ordenada será la portada oficial
                 imagen_principal = galeria_items[0]["url"]
 
             producto_obj = {

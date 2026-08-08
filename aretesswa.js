@@ -3,12 +3,12 @@ const productosAretesSwa = [
         "id": 1,
         "categoria": "Aretes Swarovski",
         "precio": 115.0,
-        "imagen": "imagenes/SWA/aretesswa/aretes_swa_1.png",
+        "imagen": "imagenes/SWA/aretesswa/aretesswa_1.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretesswa/aretes_swa_1.png"
+                "url": "imagenes/SWA/aretesswa/aretesswa_1.png"
             }
         ]
     },
@@ -16,12 +16,12 @@ const productosAretesSwa = [
         "id": 2,
         "categoria": "Aretes Swarovski",
         "precio": 165.0,
-        "imagen": "imagenes/SWA/aretesswa/aretes_swa_2.png",
+        "imagen": "imagenes/SWA/aretesswa/aretesswa_2.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretesswa/aretes_swa_2.png"
+                "url": "imagenes/SWA/aretesswa/aretesswa_2.png"
             }
         ]
     },
@@ -29,12 +29,12 @@ const productosAretesSwa = [
         "id": 3,
         "categoria": "Aretes Swarovski",
         "precio": 110.0,
-        "imagen": "imagenes/SWA/aretesswa/aretes_swa_3.png",
+        "imagen": "imagenes/SWA/aretesswa/aretesswa_3.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretesswa/aretes_swa_3.png"
+                "url": "imagenes/SWA/aretesswa/aretesswa_3.png"
             }
         ]
     },
@@ -42,12 +42,12 @@ const productosAretesSwa = [
         "id": 4,
         "categoria": "Aretes Swarovski",
         "precio": 155.0,
-        "imagen": "imagenes/SWA/aretesswa/aretes_swa_4.png",
+        "imagen": "imagenes/SWA/aretesswa/aretesswa_4.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretesswa/aretes_swa_4.png"
+                "url": "imagenes/SWA/aretesswa/aretesswa_4.png"
             }
         ]
     },
@@ -55,12 +55,12 @@ const productosAretesSwa = [
         "id": 5,
         "categoria": "Aretes Swarovski",
         "precio": 115.0,
-        "imagen": "imagenes/SWA/aretesswa/aretes_swa_5.png",
+        "imagen": "imagenes/SWA/aretesswa/aretesswa_5.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretesswa/aretes_swa_5.png"
+                "url": "imagenes/SWA/aretesswa/aretesswa_5.png"
             }
         ]
     },
@@ -68,12 +68,12 @@ const productosAretesSwa = [
         "id": 6,
         "categoria": "Aretes Swarovski",
         "precio": 105.0,
-        "imagen": "imagenes/SWA/aretesswa/aretes_swa_6.png",
+        "imagen": "imagenes/SWA/aretesswa/aretesswa_6.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretesswa/aretes_swa_6.png"
+                "url": "imagenes/SWA/aretesswa/aretesswa_6.png"
             }
         ]
     },
@@ -81,12 +81,12 @@ const productosAretesSwa = [
         "id": 7,
         "categoria": "Aretes Swarovski",
         "precio": 155.0,
-        "imagen": "imagenes/SWA/aretesswa/aretes_swa_7.png",
+        "imagen": "imagenes/SWA/aretesswa/aretesswa_7.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretesswa/aretes_swa_7.png"
+                "url": "imagenes/SWA/aretesswa/aretesswa_7.png"
             }
         ]
     },
@@ -94,12 +94,12 @@ const productosAretesSwa = [
         "id": 8,
         "categoria": "Aretes Swarovski",
         "precio": 155.0,
-        "imagen": "imagenes/SWA/aretesswa/aretes_swa_8.png",
+        "imagen": "imagenes/SWA/aretesswa/aretesswa_8.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretesswa/aretes_swa_8.png"
+                "url": "imagenes/SWA/aretesswa/aretesswa_8.png"
             }
         ]
     },
@@ -107,12 +107,12 @@ const productosAretesSwa = [
         "id": 9,
         "categoria": "Aretes Swarovski",
         "precio": 235.0,
-        "imagen": "imagenes/SWA/aretesswa/aretes_swa_9.png",
+        "imagen": "imagenes/SWA/aretesswa/aretesswa_9.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretesswa/aretes_swa_9.png"
+                "url": "imagenes/SWA/aretesswa/aretesswa_9.png"
             }
         ]
     },
@@ -120,12 +120,12 @@ const productosAretesSwa = [
         "id": 10,
         "categoria": "Aretes Swarovski",
         "precio": 105.0,
-        "imagen": "imagenes/SWA/aretesswa/aretes_swa_10.png",
+        "imagen": "imagenes/SWA/aretesswa/aretesswa_10.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretesswa/aretes_swa_10.png"
+                "url": "imagenes/SWA/aretesswa/aretesswa_10.png"
             }
         ]
     }

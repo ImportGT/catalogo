@@ -65,11 +65,15 @@ const productosAnillos = [
         "id": 572,
         "categoria": "Anillos",
         "precio": 65.0,
-        "imagen": "imagenes/anillos/anillos_572.2.jpg",
+        "imagen": "imagenes/anillos/anillos_572.1.jpg",
         "stockTallas": {
             "1.0": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_572.1.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_572.2.jpg"
@@ -85,10 +89,6 @@ const productosAnillos = [
             {
                 "tipo": "video",
                 "url": "imagenes/anillos/anillos_572.5.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_572.jpg"
             }
         ]
     },
@@ -96,9 +96,13 @@ const productosAnillos = [
         "id": 571,
         "categoria": "Anillos",
         "precio": 75.0,
-        "imagen": "imagenes/anillos/anillos_571.2.webp",
+        "imagen": "imagenes/anillos/anillos_571.1.webp",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_571.1.webp"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_571.2.webp"
@@ -114,10 +118,6 @@ const productosAnillos = [
             {
                 "tipo": "video",
                 "url": "imagenes/anillos/anillos_571.5.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_571.webp"
             }
         ]
     },
@@ -125,11 +125,15 @@ const productosAnillos = [
         "id": 570,
         "categoria": "Anillos",
         "precio": 75.0,
-        "imagen": "imagenes/anillos/anillos_570.2.jpg",
+        "imagen": "imagenes/anillos/anillos_570.1.jpg",
         "stockTallas": {
             "1.0": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_570.1.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_570.2.jpg"
@@ -145,10 +149,6 @@ const productosAnillos = [
             {
                 "tipo": "video",
                 "url": "imagenes/anillos/anillos_570.5.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_570.jpg"
             }
         ]
     },
