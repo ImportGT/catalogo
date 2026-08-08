@@ -177,6 +177,15 @@ CONFIGURACIONES = [
         "prefijo": "aretessbp",
         "carpeta": "imagenes/BP/aretessbp",
         "header_excel": 3
+    },
+    {
+        "categoria": "Cadenas Baño de Plata",
+        "excel": "CADENAS BP.xlsx",
+        "js": "cadenasbp.js",
+        "variable_js": "productosCadenasBp",
+        "prefijo": "cadenasbp",
+        "carpeta": "imagenes/BP/cadenasbp",
+        "header_excel": 2
     }
 ]
 
@@ -219,13 +228,16 @@ def actualizar_todo():
 
         for index, row in df.iterrows():
             col_id = None
-            for posible_col in ['NUMERO', 'NUM.', 'ID', 'Id', 'numero', 'Número', 'ARETES', 'ANILLOS', 'PULSERAS', 'COLLARES', 'CODIGO']:
+            for posible_col in ['NUMERO', 'NUM.', 'ID', 'Id', 'numero', 'Número', 'ARETES', 'ANILLOS', 'PULSERAS', 'COLLARES', 'CADENAS', 'CODIGO']:
                 if posible_col in df.columns:
                     col_id = posible_col
                     break
             
             if not col_id or pd.isna(row[col_id]):
-                continue
+                if len(df.columns) > 1:
+                    col_id = df.columns[1]
+                else:
+                    continue
                 
             try:
                 prod_id = int(row[col_id])
