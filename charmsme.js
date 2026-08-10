@@ -3,12 +3,32 @@ const productosCharmsME = [
         "id": 123,
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme.123.0.jpg",
+        "imagen": "imagenes/charms_me/chme_123.0.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_me/chme.123.0.jpg"
+                "url": "imagenes/charms_me/chme_123.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_123.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_123.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_123.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_123.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_123.6.jpg"
             }
         ]
     },
@@ -16,12 +36,32 @@ const productosCharmsME = [
         "id": 122,
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme.122.0.jpg",
+        "imagen": "imagenes/charms_me/chme_122.0.webp",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_me/chme.122.0.jpg"
+                "url": "imagenes/charms_me/chme_122.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_122.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_122.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_122.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_122.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_122.6.webp"
             }
         ]
     },
