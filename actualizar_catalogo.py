@@ -251,9 +251,17 @@ def actualizar_todo():
                 else:
                     continue
                 
+            # Soportar tanto IDs numéricos como alfanuméricos (ej. 199, 199A)
+            raw_id = row[col_id]
             try:
-                prod_id = int(row[col_id])
+                if isinstance(raw_id, float) and raw_id.is_integer():
+                    prod_id = str(int(raw_id))
+                else:
+                    prod_id = str(raw_id).strip()
             except:
+                prod_id = str(raw_id).strip()
+            
+            if not prod_id or prod_id.lower() == 'nan':
                 continue
             
             col_precio = None
@@ -276,15 +284,15 @@ def actualizar_todo():
 
             archivos_encontrados = []
             if os.path.exists(carpeta):
-                # Patrón actualizado para soportar prefijo + punto/guion bajo + ID + puntos o sufijos decimales (ej. chc.970.0.jpg, chc.970.1.jpg)
-                patron_estricto = re.compile(rf"^{re.escape(prefijo)}[\._]{prod_id}(?:\.\d+)?(?:[\._\(]|$)", re.IGNORECASE)
+                # Patrón ajustado para soportar IDs alfanuméricos y sub-imágenes (ej. anillosbp_199A.png, anillosbp_199A.0.jpg)
+                patron_estricto = re.compile(rf"^{re.escape(prefijo)}[_\.]?{re.escape(prod_id)}(?:\.\d+)?(?:[\._\(]|$)", re.IGNORECASE)
 
                 for archivo in os.listdir(carpeta):
                     if patron_estricto.match(archivo):
                         ext = archivo.split('.')[-1].lower()
                         if ext in ('jpg', 'jpeg', 'png', 'webp', 'avif', 'mp4', 'mov', 'webm'):
                             base_nombre = re.sub(r'\.[^.]+$', '', archivo)
-                            sub_part = base_nombre[len(f"{prefijo}.{prod_id}"):] if f"{prefijo}.{prod_id}" in base_nombre.lower() else base_nombre[len(f"{prefijo}_{prod_id}"):]
+                            sub_part = base_nombre[len(f"{prefijo}_{prod_id}"):] if f"{prefijo}_{prod_id}" in base_nombre.lower() else ""
                             tupla_orden = (0,) if not sub_part else tuple([int(n) for n in re.findall(r'\d+', sub_part)] or [0])
                             
                             tipo_media = "video" if ext in ('mp4', 'mov', 'webm') else "imagen"
@@ -302,13 +310,19 @@ def actualizar_todo():
                 galeria_items.append({"tipo": item["tipo"], "url": item["ruta"]})
 
             if not galeria_items:
-                imagen_principal = f"{carpeta}/{prefijo}.{prod_id}.0.jpg"
+                imagen_principal = f"{carpeta}/{prefijo}_{prod_id}.jpg"
                 galeria_items = [{"tipo": "imagen", "url": imagen_principal}]
             else:
                 imagen_principal = galeria_items[0]["url"]
 
+            # Si el ID en JS se maneja mejor como string o número según el caso, lo guardamos conservando el formato
+            try:
+                id_para_json = int(prod_id) if prod_id.isdigit() else prod_id
+            except:
+                id_para_json = prod_id
+
             producto_obj = {
-                "id": prod_id,
+                "id": id_para_json,
                 "categoria": cat,
                 "precio": precio,
                 "imagen": imagen_principal,

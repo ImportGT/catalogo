@@ -802,7 +802,7 @@
                     
                     let qtyTotalProd = 0;
                     for (let k in carrito) {
-                        if (carrito[k].id === prod.id && carrito[k].categoria === prod.categoria) {
+                        if (String(carrito[k].id) === String(prod.id) && carrito[k].categoria === prod.categoria) {
                             qtyTotalProd += carrito[k].qty;
                         }
                     }
@@ -810,13 +810,13 @@
                     let card = document.createElement('div');
                     card.className = 'product-card';
                     card.innerHTML = `
-                        <img src="${prod.imagen}" alt="Codigo ${prod.id}" loading="lazy" onclick="abrirGaleria('${prod.categoria}', ${prod.id})" title="Ver galeria">
+                        <img src="${prod.imagen}" alt="Codigo ${prod.id}" loading="lazy" onclick="abrirGaleria('${prod.categoria}', '${prod.id}')" title="Ver galeria">
                         <div class="product-code">Cod. ${prod.id}</div>
                         <div class="product-price" style="display: ${preciosVisibles ? 'block' : 'none'};">Q${precioFinal.toFixed(2)}</div>
                         <div class="qty-control">
-                            <button onclick="cambiarCantidadGeneral(${prod.id}, '${prod.categoria}', -1)">-</button>
+                            <button onclick="cambiarCantidadGeneral('${prod.id}', '${prod.categoria}', -1)">-</button>
                             <span class="qty-display" id="qty-${prod.categoria}-${prod.id}">${qtyTotalProd}</span>
-                            <button onclick="cambiarCantidadGeneral(${prod.id}, '${prod.categoria}', 1)">+</button>
+                            <button onclick="cambiarCantidadGeneral('${prod.id}', '${prod.categoria}', 1)">+</button>
                         </div>
                     `;
                     grid.appendChild(card);
@@ -830,7 +830,7 @@
 
         function abrirGaleria(categoria, id) {
             let productosActivos = obtenerProductosActuales();
-            let prod = productosActivos.find(p => p.id === id && p.categoria === categoria);
+            let prod = productosActivos.find(p => String(p.id) === String(id) && p.categoria === categoria);
             if (!prod) return;
 
             document.getElementById('gallery-modal-title').innerText = `Cod. ${prod.id} (${prod.categoria})`;
@@ -939,7 +939,7 @@
 
         function cambiarCantidadGeneral(id, categoria, cambio) {
             let productosActivos = obtenerProductosActuales();
-            let prod = productosActivos.find(p => p.id === id && p.categoria === categoria);
+            let prod = productosActivos.find(p => String(p.id) === String(id) && p.categoria === categoria);
             if (!prod) return;
 
             let tallaInicial = "unica";
@@ -976,7 +976,7 @@
             
             let qtyTotalProd = 0;
             for (let k in carrito) {
-                if (carrito[k].id === id && carrito[k].categoria === categoria) {
+                if (String(carrito[k].id) === String(id) && carrito[k].categoria === categoria) {
                     qtyTotalProd += carrito[k].qty;
                 }
             }

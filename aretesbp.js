@@ -858,19 +858,6 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 67,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.67.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.67.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 68,
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
@@ -1365,19 +1352,6 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 107,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_107.png",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_107.png"
-            }
-        ]
-    },
-    {
         "id": 108,
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
@@ -1595,19 +1569,6 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_124.jpg"
-            }
-        ]
-    },
-    {
-        "id": 125,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_125.png",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_125.png"
             }
         ]
     },
@@ -1885,19 +1846,6 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 147,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_147.png",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_147.png"
-            }
-        ]
-    },
-    {
         "id": 148,
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
@@ -2076,19 +2024,6 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_161.jpg"
-            }
-        ]
-    },
-    {
-        "id": 162,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.162.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.162.0.jpg"
             }
         ]
     },
@@ -2470,6 +2405,32 @@ const productosAretesBp = [
         ]
     },
     {
+        "id": "196A",
+        "categoria": "Aretes Baño de Plata",
+        "precio": 40.0,
+        "imagen": "imagenes/BP/aretessbp/aretessbp_196A.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_196A.jpg"
+            }
+        ]
+    },
+    {
+        "id": "196B",
+        "categoria": "Aretes Baño de Plata",
+        "precio": 40.0,
+        "imagen": "imagenes/BP/aretessbp/aretessbp_196B.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_196B.jpg"
+            }
+        ]
+    },
+    {
         "id": 197,
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
@@ -2496,217 +2457,197 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 199,
+        "id": "199A",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_199.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_199A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_199.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_199.png"
+                "url": "imagenes/BP/aretessbp/aretessbp_199A.jpg"
             }
         ]
     },
     {
-        "id": 199,
+        "id": "199B",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_199.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_199B.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_199.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_199.png"
+                "url": "imagenes/BP/aretessbp/aretessbp_199B.png"
             }
         ]
     },
     {
-        "id": 199,
+        "id": "199C",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_199.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_199C.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_199.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_199.png"
+                "url": "imagenes/BP/aretessbp/aretessbp_199C.png"
             }
         ]
     },
     {
-        "id": 199,
+        "id": "199D",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_199.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_199D.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_199.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_199.png"
+                "url": "imagenes/BP/aretessbp/aretessbp_199D.png"
             }
         ]
     },
     {
-        "id": 199,
+        "id": "199E",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_199.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_199E.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_199.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_199.png"
+                "url": "imagenes/BP/aretessbp/aretessbp_199E.png"
             }
         ]
     },
     {
-        "id": 200,
+        "id": "200A",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_200.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_200A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_200.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_200A.jpg"
             }
         ]
     },
     {
-        "id": 200,
+        "id": "200B",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_200.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_200B.JPG",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_200.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_200B.JPG"
             }
         ]
     },
     {
-        "id": 200,
+        "id": "200C",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_200.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_200C.JPG",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_200.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_200C.JPG"
             }
         ]
     },
     {
-        "id": 200,
+        "id": "200D",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_200.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_200D.JPG",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_200.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_200D.JPG"
             }
         ]
     },
     {
-        "id": 200,
+        "id": "200E",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_200.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_200E.JPG",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_200.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_200E.JPG"
             }
         ]
     },
     {
-        "id": 201,
+        "id": "201A",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_201.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_201A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_201.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_201A.jpg"
             }
         ]
     },
     {
-        "id": 201,
+        "id": "201B",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_201.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_201B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_201.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_201B.jpg"
             }
         ]
     },
     {
-        "id": 201,
+        "id": "201C",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_201.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_201C.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_201.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_201C.jpg"
             }
         ]
     },
     {
-        "id": 201,
+        "id": "201D",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_201.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_201D.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_201.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_201D.jpg"
             }
         ]
     },
     {
-        "id": 201,
+        "id": "201E",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_201.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_201E.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_201.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_201E.jpg"
             }
         ]
     },
@@ -3348,19 +3289,6 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 252,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.252.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.252.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 253,
         "categoria": "Aretes Baño de Plata",
         "precio": 100.0,
@@ -3491,19 +3419,6 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 263,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.263.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.263.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 264,
         "categoria": "Aretes Baño de Plata",
         "precio": 65.0,
@@ -3517,32 +3432,6 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 265,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.265.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.265.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 266,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.266.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.266.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 267,
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
@@ -3552,149 +3441,6 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_267.jpg"
-            }
-        ]
-    },
-    {
-        "id": 268,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.268.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.268.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 269,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.269.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.269.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 270,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.270.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.270.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 271,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.271.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.271.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 272,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.272.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.272.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 273,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.273.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.273.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 274,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.274.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.274.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 275,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.275.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.275.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 276,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.276.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.276.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 277,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.277.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.277.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 278,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.278.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.278.0.jpg"
             }
         ]
     },
@@ -3793,12 +3539,12 @@ const productosAretesBp = [
         "id": 308,
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.308.0.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_308.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.308.0.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_308.jpg"
             }
         ]
     },
@@ -4258,19 +4004,6 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 346,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.346.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.346.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 347,
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
@@ -4371,19 +4104,6 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_354.jpg"
-            }
-        ]
-    },
-    {
-        "id": 355,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.355.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.355.0.jpg"
             }
         ]
     },
@@ -4596,80 +4316,67 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 372,
+        "id": "372A",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_372.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_372A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_372.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_372A.jpg"
             }
         ]
     },
     {
-        "id": 372,
+        "id": "372B",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_372.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_372B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_372.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_372B.jpg"
             }
         ]
     },
     {
-        "id": 372,
+        "id": "372C",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_372.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_372C.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_372.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_372C.jpg"
             }
         ]
     },
     {
-        "id": 373,
+        "id": "374A",
         "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_373.jpg",
+        "precio": 35.0,
+        "imagen": "imagenes/BP/aretessbp/aretessbp_374A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_373.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_374A.jpg"
             }
         ]
     },
     {
-        "id": 374,
+        "id": "374B",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_374.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_374B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_374.jpg"
-            }
-        ]
-    },
-    {
-        "id": 374,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_374.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_374.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_374B.jpg"
             }
         ]
     },
@@ -4778,84 +4485,6 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 383,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.383.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.383.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 384,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.384.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.384.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 385,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.385.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.385.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 386,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.386.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.386.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 387,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.387.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.387.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 388,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.388.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.388.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 389,
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
@@ -4908,19 +4537,6 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 393,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.393.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.393.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 394,
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
@@ -4930,19 +4546,6 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_394.jpg"
-            }
-        ]
-    },
-    {
-        "id": 400,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.400.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.400.0.jpg"
             }
         ]
     },
@@ -4986,19 +4589,6 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 404,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.404.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.404.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 405,
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
@@ -5008,32 +4598,6 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_405.png"
-            }
-        ]
-    },
-    {
-        "id": 406,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.406.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.406.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 407,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.407.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.407.0.jpg"
             }
         ]
     },
@@ -5051,19 +4615,6 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 409,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.409.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.409.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 410,
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
@@ -5077,32 +4628,6 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 411,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.411.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.411.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 412,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.412.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.412.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 413,
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
@@ -5112,32 +4637,6 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_413.jpg"
-            }
-        ]
-    },
-    {
-        "id": 414,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.414.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.414.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 415,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.415.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.415.0.jpg"
             }
         ]
     },
@@ -5259,28 +4758,28 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 425,
+        "id": "425A",
         "categoria": "Aretes Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_425.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_425A.JPG",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_425.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_425A.JPG"
             }
         ]
     },
     {
-        "id": 425,
+        "id": "425B",
         "categoria": "Aretes Baño de Plata",
         "precio": 60.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_425.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_425B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_425.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_425B.jpg"
             }
         ]
     },
@@ -5298,28 +4797,28 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 427,
+        "id": "427A",
         "categoria": "Aretes Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_427.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_427A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_427.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_427A.jpg"
             }
         ]
     },
     {
-        "id": 427,
+        "id": "427B",
         "categoria": "Aretes Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_427.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_427B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_427.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_427B.jpg"
             }
         ]
     },
@@ -5402,41 +4901,41 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 434,
+        "id": "434A",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_434.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_434A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_434.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_434A.jpg"
             }
         ]
     },
     {
-        "id": 434,
+        "id": "434B",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_434.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_434B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_434.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_434B.jpg"
             }
         ]
     },
     {
-        "id": 434,
+        "id": "434C",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_434.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_434C.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_434.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_434C.jpg"
             }
         ]
     },
@@ -5532,110 +5031,6 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 442,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.442.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.442.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 443,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.443.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.443.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 444,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.444.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.444.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 445,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.445.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.445.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 446,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.446.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.446.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 447,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.447.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.447.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 448,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.448.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.448.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 449,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.449.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.449.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 450,
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
@@ -5697,19 +5092,6 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_454.jpg"
-            }
-        ]
-    },
-    {
-        "id": 455,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.455.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.455.0.jpg"
             }
         ]
     },
@@ -5931,110 +5313,6 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_472.jpg"
-            }
-        ]
-    },
-    {
-        "id": 473,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.473.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.473.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 474,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.474.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.474.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 475,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.475.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.475.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 476,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.476.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.476.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 477,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.477.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.477.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 478,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.478.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.478.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 479,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.479.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.479.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 480,
-        "categoria": "Aretes Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp.480.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp.480.0.jpg"
             }
         ]
     }

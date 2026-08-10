@@ -5472,12 +5472,12 @@ const productosAnillos = [
         "id": 197,
         "categoria": "Anillos",
         "precio": 0.0,
-        "imagen": "imagenes/anillos/anillos.197.0.jpg",
+        "imagen": "imagenes/anillos/anillos_197.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/anillos/anillos.197.0.jpg"
+                "url": "imagenes/anillos/anillos_197.jpg"
             }
         ]
     },
@@ -6382,12 +6382,12 @@ const productosAnillos = [
         "id": 127,
         "categoria": "Anillos",
         "precio": 0.0,
-        "imagen": "imagenes/anillos/anillos.127.0.jpg",
+        "imagen": "imagenes/anillos/anillos_127.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/anillos/anillos.127.0.jpg"
+                "url": "imagenes/anillos/anillos_127.jpg"
             }
         ]
     },

@@ -52,19 +52,6 @@ const productosCadenasBp = [
         ]
     },
     {
-        "id": 5,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.5.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.5.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 6,
         "categoria": "Cadenas Baño de Plata",
         "precio": 30.0,
@@ -152,19 +139,6 @@ const productosCadenasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/cadenasbp/cadenasbp_12.png"
-            }
-        ]
-    },
-    {
-        "id": 13,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.13.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.13.0.jpg"
             }
         ]
     },
@@ -1534,19 +1508,6 @@ const productosCadenasBp = [
         ]
     },
     {
-        "id": 119,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.119.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.119.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 120,
         "categoria": "Cadenas Baño de Plata",
         "precio": 30.0,
@@ -1647,19 +1608,6 @@ const productosCadenasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/cadenasbp/cadenasbp_127.jpg"
-            }
-        ]
-    },
-    {
-        "id": 128,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.128.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.128.0.jpg"
             }
         ]
     },
@@ -1950,32 +1898,6 @@ const productosCadenasBp = [
         ]
     },
     {
-        "id": 151,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.151.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.151.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 152,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.152.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.152.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 153,
         "categoria": "Cadenas Baño de Plata",
         "precio": 35.0,
@@ -2041,19 +1963,6 @@ const productosCadenasBp = [
         ]
     },
     {
-        "id": 158,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.158.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.158.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 159,
         "categoria": "Cadenas Baño de Plata",
         "precio": 35.0,
@@ -2089,19 +1998,6 @@ const productosCadenasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/cadenasbp/cadenasbp_161.jpg"
-            }
-        ]
-    },
-    {
-        "id": 162,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.162.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.162.0.jpg"
             }
         ]
     },
@@ -2271,19 +2167,6 @@ const productosCadenasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/cadenasbp/cadenasbp_175.jpg"
-            }
-        ]
-    },
-    {
-        "id": 176,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.176.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.176.0.jpg"
             }
         ]
     },
@@ -2652,41 +2535,41 @@ const productosCadenasBp = [
         ]
     },
     {
-        "id": 205,
+        "id": "205A",
         "categoria": "Cadenas Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp_205.jpg",
+        "imagen": "imagenes/BP/cadenasbp/cadenasbp_205A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp_205.jpg"
+                "url": "imagenes/BP/cadenasbp/cadenasbp_205A.jpg"
             }
         ]
     },
     {
-        "id": 205,
+        "id": "205B",
         "categoria": "Cadenas Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp_205.jpg",
+        "imagen": "imagenes/BP/cadenasbp/cadenasbp_205B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp_205.jpg"
+                "url": "imagenes/BP/cadenasbp/cadenasbp_205B.jpg"
             }
         ]
     },
     {
-        "id": 205,
+        "id": "205C",
         "categoria": "Cadenas Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp_205.jpg",
+        "imagen": "imagenes/BP/cadenasbp/cadenasbp_205C.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp_205.jpg"
+                "url": "imagenes/BP/cadenasbp/cadenasbp_205C.jpg"
             }
         ]
     },
@@ -3965,19 +3848,6 @@ const productosCadenasBp = [
         ]
     },
     {
-        "id": 304,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.304.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.304.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 305,
         "categoria": "Cadenas Baño de Plata",
         "precio": 55.0,
@@ -4576,19 +4446,6 @@ const productosCadenasBp = [
         ]
     },
     {
-        "id": 351,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.351.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.351.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 352,
         "categoria": "Cadenas Baño de Plata",
         "precio": 40.0,
@@ -4761,12 +4618,12 @@ const productosCadenasBp = [
         "id": 365,
         "categoria": "Cadenas Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.365.0.jpg",
+        "imagen": "imagenes/BP/cadenasbp/cadenasbp_365.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.365.0.jpg"
+                "url": "imagenes/BP/cadenasbp/cadenasbp_365.jpg"
             }
         ]
     },
@@ -4813,12 +4670,12 @@ const productosCadenasBp = [
         "id": 369,
         "categoria": "Cadenas Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.369.0.jpg",
+        "imagen": "imagenes/BP/cadenasbp/cadenasbp_369.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.369.0.jpg"
+                "url": "imagenes/BP/cadenasbp/cadenasbp_369.jpg"
             }
         ]
     },
@@ -4852,12 +4709,12 @@ const productosCadenasBp = [
         "id": 372,
         "categoria": "Cadenas Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.372.0.jpg",
+        "imagen": "imagenes/BP/cadenasbp/cadenasbp_372.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.372.0.jpg"
+                "url": "imagenes/BP/cadenasbp/cadenasbp_372.jpg"
             }
         ]
     },
@@ -4884,19 +4741,6 @@ const productosCadenasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/cadenasbp/cadenasbp_374.jpg"
-            }
-        ]
-    },
-    {
-        "id": 375,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.375.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.375.0.jpg"
             }
         ]
     },
@@ -4943,12 +4787,12 @@ const productosCadenasBp = [
         "id": 379,
         "categoria": "Cadenas Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.379.0.jpg",
+        "imagen": "imagenes/BP/cadenasbp/cadenasbp_379.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.379.0.jpg"
+                "url": "imagenes/BP/cadenasbp/cadenasbp_379.jpg"
             }
         ]
     },
@@ -4966,71 +4810,6 @@ const productosCadenasBp = [
         ]
     },
     {
-        "id": 381,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.381.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.381.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 382,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.382.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.382.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 383,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.383.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.383.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 384,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.384.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.384.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 385,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.385.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.385.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 386,
         "categoria": "Cadenas Baño de Plata",
         "precio": 60.0,
@@ -5044,71 +4823,6 @@ const productosCadenasBp = [
         ]
     },
     {
-        "id": 387,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.387.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.387.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 388,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.388.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.388.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 389,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.389.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.389.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 390,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.390.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.390.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 391,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.391.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.391.0.jpg"
-            }
-        ]
-    },
-    {
         "id": 392,
         "categoria": "Cadenas Baño de Plata",
         "precio": 60.0,
@@ -5118,58 +4832,6 @@ const productosCadenasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/cadenasbp/cadenasbp_392.jpg"
-            }
-        ]
-    },
-    {
-        "id": 393,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.393.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.393.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 394,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.394.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.394.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 395,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.395.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.395.0.jpg"
-            }
-        ]
-    },
-    {
-        "id": 396,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.396.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.396.0.jpg"
             }
         ]
     },
@@ -5274,19 +4936,6 @@ const productosCadenasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/cadenasbp/cadenasbp_404.jpg"
-            }
-        ]
-    },
-    {
-        "id": 405,
-        "categoria": "Cadenas Baño de Plata",
-        "precio": 10.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp.405.0.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp.405.0.jpg"
             }
         ]
     }
