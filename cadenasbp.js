@@ -4618,12 +4618,12 @@ const productosCadenasBp = [
         "id": 365,
         "categoria": "Cadenas Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp_365.jpg",
+        "imagen": "imagenes/BP/cadenasbp/cadenasbp_365.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp_365.jpg"
+                "url": "imagenes/BP/cadenasbp/cadenasbp_365.png"
             }
         ]
     },
@@ -4670,12 +4670,12 @@ const productosCadenasBp = [
         "id": 369,
         "categoria": "Cadenas Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp_369.jpg",
+        "imagen": "imagenes/BP/cadenasbp/cadenasbp_369.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp_369.jpg"
+                "url": "imagenes/BP/cadenasbp/cadenasbp_369.png"
             }
         ]
     },
@@ -4709,12 +4709,12 @@ const productosCadenasBp = [
         "id": 372,
         "categoria": "Cadenas Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp_372.jpg",
+        "imagen": "imagenes/BP/cadenasbp/cadenasbp_372.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp_372.jpg"
+                "url": "imagenes/BP/cadenasbp/cadenasbp_372.png"
             }
         ]
     },
@@ -4787,12 +4787,12 @@ const productosCadenasBp = [
         "id": 379,
         "categoria": "Cadenas Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/cadenasbp/cadenasbp_379.jpg",
+        "imagen": "imagenes/BP/cadenasbp/cadenasbp_379.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp_379.jpg"
+                "url": "imagenes/BP/cadenasbp/cadenasbp_379.png"
             }
         ]
     },
