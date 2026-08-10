@@ -341,33 +341,12 @@ const productosPulserasBp = [
         "id": 27,
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_27.1.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_27.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_27.1.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_27.2.jpg"
-            }
-        ]
-    },
-    {
-        "id": 27,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_27.1.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_27.1.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_27.2.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_27.jpg"
             }
         ]
     },
@@ -931,32 +910,6 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 71,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_71.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_71.jpg"
-            }
-        ]
-    },
-    {
-        "id": 72,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_72.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_72.jpg"
-            }
-        ]
-    },
-    {
         "id": 73,
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
@@ -1265,19 +1218,6 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_96.png"
-            }
-        ]
-    },
-    {
-        "id": 97,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_97.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_97.jpg"
             }
         ]
     },
@@ -2634,19 +2574,6 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 202,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_202.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_202.jpg"
-            }
-        ]
-    },
-    {
         "id": 203,
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
@@ -3098,19 +3025,6 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_237.png"
-            }
-        ]
-    },
-    {
-        "id": 238,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_238.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_238.jpg"
             }
         ]
     },
@@ -3817,28 +3731,28 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": "293 BLANCO",
+        "id": "293A",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_293 BLANCO.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_293A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_293 BLANCO.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_293A.jpg"
             }
         ]
     },
     {
-        "id": "293 PURPURA",
+        "id": "293B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_293 PURPURA.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_293B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_293 PURPURA.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_293B.jpg"
             }
         ]
     },
@@ -4012,41 +3926,28 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": "307 BLANCO",
+        "id": "307A",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_307 BLANCO.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_307A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_307 BLANCO.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_307A.jpg"
             }
         ]
     },
     {
-        "id": "307 NEGRO",
+        "id": "307B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_307 NEGRO.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_307B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_307 NEGRO.jpg"
-            }
-        ]
-    },
-    {
-        "id": 308,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_308.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_308.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_307B.jpg"
             }
         ]
     },
@@ -4103,80 +4004,67 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": "313 PLATA",
+        "id": "313A",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_313 PLATA.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_313A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_313 PLATA.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313A.jpg"
             }
         ]
     },
     {
-        "id": "313 GOLD",
+        "id": "313B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_313 GOLD.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_313B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_313 GOLD.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313B.jpg"
             }
         ]
     },
     {
-        "id": "313 ROSE GOLD",
+        "id": "313C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_313 ROSE GOLD.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_313C.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_313 ROSE GOLD.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313C.jpg"
             }
         ]
     },
     {
-        "id": 314,
+        "id": "315A",
         "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_314.jpg",
+        "precio": 50.0,
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_315A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_314.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_315A.jpg"
             }
         ]
     },
     {
-        "id": "315 BLANCO",
+        "id": "315B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_315 BLANCO.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_315B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_315 BLANCO.jpg"
-            }
-        ]
-    },
-    {
-        "id": "315 PURPURA",
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_315 PURPURA.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_315 PURPURA.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_315B.jpg"
             }
         ]
     },
@@ -4233,652 +4121,652 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": "319 - B",
+        "id": "319B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - B.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - B.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
             }
         ]
     },
     {
-        "id": "319 - C",
+        "id": "319C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - C.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - C.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
             }
         ]
     },
     {
-        "id": "319 - D",
+        "id": "319D",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - D.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - D.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
             }
         ]
     },
     {
-        "id": "319 - E",
+        "id": "319E",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - E.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - E.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
             }
         ]
     },
     {
-        "id": "319 - F",
+        "id": "319F",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - F.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - F.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
             }
         ]
     },
     {
-        "id": "319 - G",
+        "id": "319G",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - G.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - G.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
             }
         ]
     },
     {
-        "id": "319 - H",
+        "id": "319H",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - H.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - H.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
             }
         ]
     },
     {
-        "id": "319 - I",
+        "id": "319I",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - I.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - I.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
             }
         ]
     },
     {
-        "id": "319 - J",
+        "id": "319J",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - J.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - J.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
             }
         ]
     },
     {
-        "id": "319 - K",
+        "id": "319K",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - K.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - K.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
             }
         ]
     },
     {
-        "id": "319 - L",
+        "id": "319L",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - L.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - L.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
             }
         ]
     },
     {
-        "id": "319 - M",
+        "id": "319M",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - M.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - M.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
             }
         ]
     },
     {
-        "id": "319 - N",
+        "id": "319N",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - N.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - N.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
             }
         ]
     },
     {
-        "id": "319 - O",
+        "id": "319O",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - O.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - O.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
             }
         ]
     },
     {
-        "id": "319 - P",
+        "id": "319P",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - P.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - P.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
             }
         ]
     },
     {
-        "id": "319 - Q",
+        "id": "319Q",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - Q.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - Q.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
             }
         ]
     },
     {
-        "id": "319 - R",
+        "id": "319R",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - R.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - R.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
             }
         ]
     },
     {
-        "id": "319 - S",
+        "id": "319S",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - S.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - S.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
             }
         ]
     },
     {
-        "id": "319 - T",
+        "id": "319T",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - T.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - T.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
             }
         ]
     },
     {
-        "id": "319 - U",
+        "id": "319U",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - U.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - U.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
             }
         ]
     },
     {
-        "id": "319 - V",
+        "id": "319V",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - V.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - V.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
             }
         ]
     },
     {
-        "id": "319 - W",
+        "id": "319W",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - W.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - W.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
             }
         ]
     },
     {
-        "id": "319 - X",
+        "id": "319X",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - X.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - X.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
             }
         ]
     },
     {
-        "id": "319 - Y",
+        "id": "319Y",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - Y.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - Y.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
             }
         ]
     },
     {
-        "id": "319 - Z",
+        "id": "319Z",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319 - Z.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_319 - Z.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
     {
-        "id": "320 - A",
+        "id": "320A",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - A.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - A.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
             }
         ]
     },
     {
-        "id": "320 - B",
+        "id": "320B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - B.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - B.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
             }
         ]
     },
     {
-        "id": "320 - C",
+        "id": "320C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - C.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - C.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
             }
         ]
     },
     {
-        "id": "320 - D",
+        "id": "320D",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - D.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - D.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
             }
         ]
     },
     {
-        "id": "320 - E",
+        "id": "320E",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - E.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - E.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
             }
         ]
     },
     {
-        "id": "320 - F",
+        "id": "320F",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - F.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - F.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
             }
         ]
     },
     {
-        "id": "320 - G",
+        "id": "320G",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - G.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - G.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
             }
         ]
     },
     {
-        "id": "320 - H",
+        "id": "320H",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - H.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - H.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
             }
         ]
     },
     {
-        "id": "320 - I",
+        "id": "320I",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - I.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - I.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
             }
         ]
     },
     {
-        "id": "320 - J",
+        "id": "320J",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - J.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - J.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
             }
         ]
     },
     {
-        "id": "320 - K",
+        "id": "320K",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - K.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - K.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
             }
         ]
     },
     {
-        "id": "320 - L",
+        "id": "320L",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - L.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - L.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
             }
         ]
     },
     {
-        "id": "320 - M",
+        "id": "320M",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - M.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - M.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
             }
         ]
     },
     {
-        "id": "320 - N",
+        "id": "320N",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - N.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - N.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
             }
         ]
     },
     {
-        "id": "320 - O",
+        "id": "320O",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - O.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - O.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
             }
         ]
     },
     {
-        "id": "320 - P",
+        "id": "320P",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - P.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - P.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
             }
         ]
     },
     {
-        "id": "320 - R",
+        "id": "320R",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - R.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - R.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
             }
         ]
     },
     {
-        "id": "320 - S",
+        "id": "320S",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - S.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - S.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
             }
         ]
     },
     {
-        "id": "320 - T",
+        "id": "320T",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - T.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - T.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
             }
         ]
     },
     {
-        "id": "320 - U",
+        "id": "320U",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - U.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - U.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
             }
         ]
     },
     {
-        "id": "320 - V",
+        "id": "320V",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - V.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - V.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
             }
         ]
     },
     {
-        "id": "320 - W",
+        "id": "320W",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - W.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - W.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
             }
         ]
     },
     {
-        "id": "320 - X",
+        "id": "320X",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - X.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - X.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
             }
         ]
     },
     {
-        "id": "320 - Y",
+        "id": "320Y",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320 - Y.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320 - Y.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
             }
         ]
     },
     {
-        "id": "320  - Z",
+        "id": "320Z",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320  - Z.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_320  - Z.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4918,201 +4806,6 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_323.jpg"
-            }
-        ]
-    },
-    {
-        "id": 324,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_324.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_324.jpg"
-            }
-        ]
-    },
-    {
-        "id": 325,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_325.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_325.jpg"
-            }
-        ]
-    },
-    {
-        "id": 326,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_326.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_326.jpg"
-            }
-        ]
-    },
-    {
-        "id": 327,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_327.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_327.jpg"
-            }
-        ]
-    },
-    {
-        "id": 328,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_328.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_328.jpg"
-            }
-        ]
-    },
-    {
-        "id": 329,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_329.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_329.jpg"
-            }
-        ]
-    },
-    {
-        "id": 330,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_330.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_330.jpg"
-            }
-        ]
-    },
-    {
-        "id": 331,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_331.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_331.jpg"
-            }
-        ]
-    },
-    {
-        "id": 332,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_332.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_332.jpg"
-            }
-        ]
-    },
-    {
-        "id": 333,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_333.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_333.jpg"
-            }
-        ]
-    },
-    {
-        "id": 334,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_334.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_334.jpg"
-            }
-        ]
-    },
-    {
-        "id": 335,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_335.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_335.jpg"
-            }
-        ]
-    },
-    {
-        "id": 336,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_336.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_336.jpg"
-            }
-        ]
-    },
-    {
-        "id": 337,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_337.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_337.jpg"
-            }
-        ]
-    },
-    {
-        "id": 338,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_338.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_338.jpg"
             }
         ]
     },
@@ -5260,58 +4953,6 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 350,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_350.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_350.jpg"
-            }
-        ]
-    },
-    {
-        "id": 351,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_351.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_351.jpg"
-            }
-        ]
-    },
-    {
-        "id": 352,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_352.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_352.jpg"
-            }
-        ]
-    },
-    {
-        "id": 353,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_353.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_353.jpg"
-            }
-        ]
-    },
-    {
         "id": 354,
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
@@ -5334,45 +4975,6 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_355.jpg"
-            }
-        ]
-    },
-    {
-        "id": 356,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_356.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_356.jpg"
-            }
-        ]
-    },
-    {
-        "id": 357,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_357.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_357.jpg"
-            }
-        ]
-    },
-    {
-        "id": 358,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_358.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_358.jpg"
             }
         ]
     },
@@ -5455,288 +5057,275 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 365,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_365.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_365.jpg"
-            }
-        ]
-    },
-    {
-        "id": "366 PLATA",
+        "id": "366A",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_366 PLATA.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_366A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_366 PLATA.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366A.jpg"
             }
         ]
     },
     {
-        "id": "366 GOLD",
+        "id": "366B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_366 GOLD.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_366B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_366 GOLD.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366B.jpg"
             }
         ]
     },
     {
-        "id": "366 ROSE GOLD",
+        "id": "366C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_366 ROSE GOLD.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_366C.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_366 ROSE GOLD.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366C.jpg"
             }
         ]
     },
     {
-        "id": "367 PLATA",
+        "id": "367A",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_367 PLATA.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_367A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_367 PLATA.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367A.jpg"
             }
         ]
     },
     {
-        "id": "367 GOLD",
+        "id": "367B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_367 GOLD.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_367B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_367 GOLD.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367B.jpg"
             }
         ]
     },
     {
-        "id": "367 ROSE GOLD",
+        "id": "367C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_367 ROSE GOLD.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_367C.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_367 ROSE GOLD.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367C.jpg"
             }
         ]
     },
     {
-        "id": "368 PLATA",
+        "id": "368A",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_368 PLATA.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_368A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_368 PLATA.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368A.jpg"
             }
         ]
     },
     {
-        "id": "368 GOLD",
+        "id": "368B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_368 GOLD.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_368B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_368 GOLD.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368B.jpg"
             }
         ]
     },
     {
-        "id": "368 ROSE GOLD",
+        "id": "368C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_368 ROSE GOLD.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_368C.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_368 ROSE GOLD.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368C.jpg"
             }
         ]
     },
     {
-        "id": "369 PLATA",
+        "id": "369A",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_369 PLATA.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_369A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_369 PLATA.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369A.jpg"
             }
         ]
     },
     {
-        "id": "369 GOLD",
+        "id": "369B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_369 GOLD.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_369B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_369 GOLD.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369B.jpg"
             }
         ]
     },
     {
-        "id": "369 ROSE GOLD",
+        "id": "369C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_369 ROSE GOLD.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_369C.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_369 ROSE GOLD.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369C.jpg"
             }
         ]
     },
     {
-        "id": "370 PLATA",
+        "id": "370A",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_370 PLATA.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_370A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_370 PLATA.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370A.jpg"
             }
         ]
     },
     {
-        "id": "370 GOLD",
+        "id": "370B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_370 GOLD.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_370B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_370 GOLD.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370B.jpg"
             }
         ]
     },
     {
-        "id": "370 ROSE GOLD",
+        "id": "370C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_370 ROSE GOLD.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_370C.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_370 ROSE GOLD.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370C.jpg"
             }
         ]
     },
     {
-        "id": "371 PLATA",
+        "id": "371A",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_371 PLATA.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_371A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_371 PLATA.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371A.jpg"
             }
         ]
     },
     {
-        "id": "371 GOLD",
+        "id": "371B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_371 GOLD.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_371B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_371 GOLD.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371B.jpg"
             }
         ]
     },
     {
-        "id": "371- ROSE GOLD",
+        "id": "371C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_371- ROSE GOLD.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_371C.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_371- ROSE GOLD.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371C.jpg"
             }
         ]
     },
     {
-        "id": "372 PLATA",
+        "id": "372A",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_372 PLATA.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_372A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_372 PLATA.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372A.jpg"
             }
         ]
     },
     {
-        "id": "372 GOLD",
+        "id": "372B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_372 GOLD.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_372B.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_372 GOLD.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372B.jpg"
             }
         ]
     },
     {
-        "id": "372- ROSE GOLD",
+        "id": "372C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_372- ROSE GOLD.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_372C.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_372- ROSE GOLD.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372C.jpg"
             }
         ]
     },
@@ -5763,19 +5352,6 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_374.jpg"
-            }
-        ]
-    },
-    {
-        "id": 375,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_375.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_375.jpg"
             }
         ]
     },
@@ -5815,19 +5391,6 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_378.jpg"
-            }
-        ]
-    },
-    {
-        "id": 379,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_379.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_379.jpg"
             }
         ]
     },
@@ -5893,19 +5456,6 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_384.jpg"
-            }
-        ]
-    },
-    {
-        "id": 385,
-        "categoria": "Pulseras Baño de Plata",
-        "precio": 0.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_385.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_385.jpg"
             }
         ]
     },
