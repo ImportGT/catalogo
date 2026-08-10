@@ -224,8 +224,11 @@ def actualizar_todo():
             continue
 
         if not os.path.exists(carpeta):
-            os.makedirs(carpeta, exist_ok=True)
-            print(f"📁 Se creó la carpeta faltante: {carpeta}")
+            carpeta_alt = carpeta.replace("imagenes/", "images/")
+            if os.path.exists(carpeta_alt):
+                carpeta = carpeta_alt
+            else:
+                os.makedirs(carpeta, exist_ok=True)
 
         try:
             df = pd.read_excel(excel_path, header=header_fila)
@@ -237,7 +240,7 @@ def actualizar_todo():
 
         for index, row in df.iterrows():
             col_id = None
-            for posible_col in ['NUMERO', 'NUM.', 'ID', 'Id', 'numero', 'Número', 'ARETES', 'ANILLOS', 'PULSERAS', 'COLLARES', 'CADENAS', 'CODIGO']:
+            for posible_col in ['NUMERO', 'NUM.', 'ID', 'Id', 'numero', 'Número', 'ARETES', 'ANILLOS', 'PULSERAS', 'COLLARES', 'CADENAS', 'CODIGO', 'CÓDIGO', 'CHARMS', 'REF']:
                 if posible_col in df.columns:
                     col_id = posible_col
                     break
@@ -273,13 +276,15 @@ def actualizar_todo():
 
             archivos_encontrados = []
             if os.path.exists(carpeta):
-                patron_estricto = re.compile(rf"^{re.escape(prefijo)}_{prod_id}(?:[\._\(]|$)", re.IGNORECASE)
+                # Patrón actualizado para soportar prefijo + punto/guion bajo + ID + puntos o sufijos decimales (ej. chc.970.0.jpg, chc.970.1.jpg)
+                patron_estricto = re.compile(rf"^{re.escape(prefijo)}[\._]{prod_id}(?:\.\d+)?(?:[\._\(]|$)", re.IGNORECASE)
 
                 for archivo in os.listdir(carpeta):
                     if patron_estricto.match(archivo):
                         ext = archivo.split('.')[-1].lower()
                         if ext in ('jpg', 'jpeg', 'png', 'webp', 'avif', 'mp4', 'mov', 'webm'):
-                            sub_part = archivo.replace(f"{prefijo}_{prod_id}", "").split('.')[0]
+                            base_nombre = re.sub(r'\.[^.]+$', '', archivo)
+                            sub_part = base_nombre[len(f"{prefijo}.{prod_id}"):] if f"{prefijo}.{prod_id}" in base_nombre.lower() else base_nombre[len(f"{prefijo}_{prod_id}"):]
                             tupla_orden = (0,) if not sub_part else tuple([int(n) for n in re.findall(r'\d+', sub_part)] or [0])
                             
                             tipo_media = "video" if ext in ('mp4', 'mov', 'webm') else "imagen"
@@ -297,7 +302,7 @@ def actualizar_todo():
                 galeria_items.append({"tipo": item["tipo"], "url": item["ruta"]})
 
             if not galeria_items:
-                imagen_principal = f"{carpeta}/{prefijo}_{prod_id}.jpg"
+                imagen_principal = f"{carpeta}/{prefijo}.{prod_id}.0.jpg"
                 galeria_items = [{"tipo": "imagen", "url": imagen_principal}]
             else:
                 imagen_principal = galeria_items[0]["url"]

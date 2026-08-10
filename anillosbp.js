@@ -1365,12 +1365,12 @@ const productosAnillosBp = [
         "id": 81,
         "categoria": "Anillos Baño de Plata",
         "precio": 0.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_81.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp.81.0.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_81.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp.81.0.jpg"
             }
         ]
     },
@@ -1703,12 +1703,12 @@ const productosAnillosBp = [
         "id": 104,
         "categoria": "Anillos Baño de Plata",
         "precio": 0.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_104.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp.104.0.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_104.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp.104.0.jpg"
             }
         ]
     },
@@ -2649,12 +2649,12 @@ const productosAnillosBp = [
         "id": 172,
         "categoria": "Anillos Baño de Plata",
         "precio": 0.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_172.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp.172.0.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_172.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp.172.0.jpg"
             }
         ]
     },
@@ -2818,12 +2818,12 @@ const productosAnillosBp = [
         "id": 185,
         "categoria": "Anillos Baño de Plata",
         "precio": 0.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_185.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp.185.0.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_185.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp.185.0.jpg"
             }
         ]
     },
@@ -2831,12 +2831,12 @@ const productosAnillosBp = [
         "id": 186,
         "categoria": "Anillos Baño de Plata",
         "precio": 0.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_186.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp.186.0.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_186.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp.186.0.jpg"
             }
         ]
     },
@@ -3366,12 +3366,12 @@ const productosAnillosBp = [
         "id": 223,
         "categoria": "Anillos Baño de Plata",
         "precio": 0.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_223.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp.223.0.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_223.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp.223.0.jpg"
             }
         ]
     },
@@ -3483,12 +3483,12 @@ const productosAnillosBp = [
         "id": 232,
         "categoria": "Anillos Baño de Plata",
         "precio": 0.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_232.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp.232.0.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_232.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp.232.0.jpg"
             }
         ]
     },
@@ -3509,12 +3509,12 @@ const productosAnillosBp = [
         "id": 234,
         "categoria": "Anillos Baño de Plata",
         "precio": 0.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_234.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp.234.0.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_234.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp.234.0.jpg"
             }
         ]
     },
@@ -3613,12 +3613,12 @@ const productosAnillosBp = [
         "id": 242,
         "categoria": "Anillos Baño de Plata",
         "precio": 0.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_242.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp.242.0.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_242.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp.242.0.jpg"
             }
         ]
     },
@@ -3626,12 +3626,12 @@ const productosAnillosBp = [
         "id": 243,
         "categoria": "Anillos Baño de Plata",
         "precio": 0.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_243.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp.243.0.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_243.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp.243.0.jpg"
             }
         ]
     },

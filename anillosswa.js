@@ -3,13 +3,17 @@ const productosAnillosSwa = [
         "id": 1,
         "categoria": "Anillos Swarovski",
         "precio": 100.0,
-        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_1.2.avif",
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_1.avif",
         "stockTallas": {
             "6": 1,
             "7": 1,
             "8": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_1.avif"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_1.2.avif"
@@ -33,10 +37,6 @@ const productosAnillosSwa = [
             {
                 "tipo": "video",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_1.7.webm"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/anillos_swa/anillos_swa_1.avif"
             }
         ]
     },
@@ -44,13 +44,17 @@ const productosAnillosSwa = [
         "id": 2,
         "categoria": "Anillos Swarovski",
         "precio": 100.0,
-        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_2.2.avif",
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_2.avif",
         "stockTallas": {
             "6": 1,
             "7": 1,
             "8": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_2.avif"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_2.2.avif"
@@ -70,10 +74,6 @@ const productosAnillosSwa = [
             {
                 "tipo": "video",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_2.6.webm"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/anillos_swa/anillos_swa_2.avif"
             }
         ]
     },
@@ -81,13 +81,17 @@ const productosAnillosSwa = [
         "id": 3,
         "categoria": "Anillos Swarovski",
         "precio": 180.0,
-        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_3.2.avif",
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_3.avif",
         "stockTallas": {
             "6": 1,
             "7": 1,
             "8": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_3.avif"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_3.2.avif"
@@ -115,10 +119,6 @@ const productosAnillosSwa = [
             {
                 "tipo": "video",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_3.8.webm"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/anillos_swa/anillos_swa_3.avif"
             }
         ]
     },
@@ -126,13 +126,17 @@ const productosAnillosSwa = [
         "id": 4,
         "categoria": "Anillos Swarovski",
         "precio": 105.0,
-        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_4.2.avif",
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_4.avif",
         "stockTallas": {
             "6": 1,
             "7": 1,
             "8": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_4.avif"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_4.2.avif"
@@ -148,10 +152,6 @@ const productosAnillosSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_4.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/anillos_swa/anillos_swa_4.avif"
             }
         ]
     },
@@ -176,13 +176,17 @@ const productosAnillosSwa = [
         "id": 6,
         "categoria": "Anillos Swarovski",
         "precio": 195.0,
-        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_6.2.avif",
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_6.avif",
         "stockTallas": {
             "6": 1,
             "7": 1,
             "8": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_6.avif"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_6.2.avif"
@@ -214,10 +218,6 @@ const productosAnillosSwa = [
             {
                 "tipo": "video",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_6.9.webm"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/anillos_swa/anillos_swa_6.avif"
             }
         ]
     },
@@ -225,13 +225,17 @@ const productosAnillosSwa = [
         "id": 7,
         "categoria": "Anillos Swarovski",
         "precio": 160.0,
-        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_7.2.avif",
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_7.avif",
         "stockTallas": {
             "6": 1,
             "7": 1,
             "8": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_7.avif"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_7.2.avif"
@@ -251,10 +255,6 @@ const productosAnillosSwa = [
             {
                 "tipo": "video",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_7.6.webm"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/anillos_swa/anillos_swa_7.avif"
             }
         ]
     },
@@ -262,13 +262,17 @@ const productosAnillosSwa = [
         "id": 8,
         "categoria": "Anillos Swarovski",
         "precio": 240.0,
-        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_8.2.avif",
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_8.avif",
         "stockTallas": {
             "6": 1,
             "7": 1,
             "8": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_8.avif"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_8.2.avif"
@@ -288,10 +292,6 @@ const productosAnillosSwa = [
             {
                 "tipo": "video",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_8.6.webm"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/anillos_swa/anillos_swa_8.avif"
             }
         ]
     }

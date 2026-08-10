@@ -903,12 +903,12 @@ const productosCollares = [
         "id": 332,
         "categoria": "Collares",
         "precio": 550.0,
-        "imagen": "imagenes/collares/collares_332.jpg",
+        "imagen": "imagenes/collares/collares.332.0.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/collares/collares_332.jpg"
+                "url": "imagenes/collares/collares.332.0.jpg"
             }
         ]
     },
@@ -916,12 +916,12 @@ const productosCollares = [
         "id": 331,
         "categoria": "Collares",
         "precio": 440.0,
-        "imagen": "imagenes/collares/collares_331.jpg",
+        "imagen": "imagenes/collares/collares.331.0.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/collares/collares_331.jpg"
+                "url": "imagenes/collares/collares.331.0.jpg"
             }
         ]
     },
