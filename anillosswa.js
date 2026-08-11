@@ -44,7 +44,7 @@ const productosAnillosSwa = [
     {
         "id": 18,
         "categoria": "Anillos Swarovski",
-        "precio": 110.0,
+        "precio": 120.0,
         "imagen": "imagenes/SWA/anillos_swa/anillos_swa_18.avif",
         "stockTallas": {
             "6": 1,
@@ -77,7 +77,7 @@ const productosAnillosSwa = [
     {
         "id": 17,
         "categoria": "Anillos Swarovski",
-        "precio": 110.0,
+        "precio": 120.0,
         "imagen": "imagenes/SWA/anillos_swa/anillos_swa_17.avif",
         "stockTallas": {
             "6": 1,
