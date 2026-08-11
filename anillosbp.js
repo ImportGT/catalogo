@@ -3,14 +3,34 @@ const productosAnillosBp = [
         "id": 1,
         "categoria": "Anillos Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_1.1.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp_1.1.png",
         "stockTallas": {
             "Ajustable": 1
         },
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_1.1.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp_1.1.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_1.2.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_1.3.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_1.4.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_1.5.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_1.6.jpg"
             }
         ]
     },
@@ -18,7 +38,7 @@ const productosAnillosBp = [
         "id": 2,
         "categoria": "Anillos Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_2.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp_2.1.jpg",
         "stockTallas": {
             "7": 1,
             "8": 1,
@@ -28,7 +48,27 @@ const productosAnillosBp = [
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_2.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp_2.1.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_2.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_2.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_2.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_2.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_2.6.jpg"
             }
         ]
     },
@@ -36,14 +76,34 @@ const productosAnillosBp = [
         "id": 3,
         "categoria": "Anillos Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_3.png",
+        "imagen": "imagenes/BP/anillosbp/anillosbp_3.1.jpg",
         "stockTallas": {
             "Ajustable": 1
         },
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_3.png"
+                "url": "imagenes/BP/anillosbp/anillosbp_3.1.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_3.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_3.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_3.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_3.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_3.6.jpg"
             }
         ]
     },
