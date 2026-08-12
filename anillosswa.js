@@ -2,7 +2,7 @@ const productosAnillosSwa = [
     {
         "id": 32,
         "categoria": "Anillos Swarovski",
-        "precio": 95.0,
+        "precio": 110.0,
         "imagen": "imagenes/SWA/anillos_swa/anillos_swa_32.jpg",
         "stockTallas": {
             "6": 1,
@@ -23,7 +23,7 @@ const productosAnillosSwa = [
     {
         "id": 31,
         "categoria": "Anillos Swarovski",
-        "precio": 95.0,
+        "precio": 120.0,
         "imagen": "imagenes/SWA/anillos_swa/anillos_swa_31.jpg",
         "stockTallas": {
             "6": 1,
@@ -52,7 +52,7 @@ const productosAnillosSwa = [
     {
         "id": 30,
         "categoria": "Anillos Swarovski",
-        "precio": 95.0,
+        "precio": 120.0,
         "imagen": "imagenes/SWA/anillos_swa/anillos_swa_30.2.webp",
         "stockTallas": {
             "6": 1,
@@ -77,7 +77,7 @@ const productosAnillosSwa = [
     {
         "id": 29,
         "categoria": "Anillos Swarovski",
-        "precio": 95.0,
+        "precio": 110.0,
         "imagen": "imagenes/SWA/anillos_swa/anillos_swa_29.avif",
         "stockTallas": {
             "6": 1,
@@ -114,7 +114,7 @@ const productosAnillosSwa = [
     {
         "id": 28,
         "categoria": "Anillos Swarovski",
-        "precio": 95.0,
+        "precio": 105.0,
         "imagen": "imagenes/SWA/anillos_swa/anillos_swa_28.jpg",
         "stockTallas": {
             "6": 1,
