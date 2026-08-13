@@ -1,5 +1,602 @@
 const productosAnillosSwa = [
     {
+        "id": 49,
+        "categoria": "Anillos Swarovski",
+        "precio": 85.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_49.jpg",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_49.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_49.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_49.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_49.4.jpg"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "categoria": "Anillos Swarovski",
+        "precio": 95.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_48.avif",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_48.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_48.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_48.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_48.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_48.5.avif"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "categoria": "Anillos Swarovski",
+        "precio": 95.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_47.webp",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_47.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_47.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_47.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_47.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_47.5.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_47.6.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_47.7.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_47.8.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_47.9.webp"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "categoria": "Anillos Swarovski",
+        "precio": 95.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_46.avif",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_46.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_46.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_46.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_46.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_46.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_46.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_46.7.webm"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "categoria": "Anillos Swarovski",
+        "precio": 95.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_45.avif",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_45.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_45.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_45.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_45.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_45.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_45.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_45.7.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_45.8.webm"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "categoria": "Anillos Swarovski",
+        "precio": 120.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_44.avif",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_44.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_44.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_44.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_44.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_44.5.avif"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "categoria": "Anillos Swarovski",
+        "precio": 120.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_43.avif",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_43.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_43.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_43.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_43.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_43.5.avif"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "categoria": "Anillos Swarovski",
+        "precio": 135.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_42.jpg",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_42.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_42.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_42.3.jpg"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "categoria": "Anillos Swarovski",
+        "precio": 120.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_41.jpg",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_41.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_41.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_41.3.jpg"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "categoria": "Anillos Swarovski",
+        "precio": 135.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_40.webp",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_40.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_40.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_40.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_40.4.jpg"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "categoria": "Anillos Swarovski",
+        "precio": 135.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_39.avif",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_39.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_39.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_39.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_39.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_39.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_39.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_39.7.webm"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "categoria": "Anillos Swarovski",
+        "precio": 135.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_38.avif",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_38.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_38.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_38.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_38.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_38.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_38.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_38.7.webm"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "categoria": "Anillos Swarovski",
+        "precio": 135.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_37.avif",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_37.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_37.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_37.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_37.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_37.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_37.6.avif"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "categoria": "Anillos Swarovski",
+        "precio": 135.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_36.avif",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_36.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_36.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_36.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_36.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_36.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_36.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_36.7.webm"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "categoria": "Anillos Swarovski",
+        "precio": 105.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_35.avif",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_35.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_35.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_35.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_35.4.avif"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "categoria": "Anillos Swarovski",
+        "precio": 110.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_34.avif",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_34.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_34.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_34.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_34.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_34.5.avif"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "categoria": "Anillos Swarovski",
+        "precio": 110.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_33.avif",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_33.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_33.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_33.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_33.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_33.5.avif"
+            }
+        ]
+    },
+    {
         "id": 32,
         "categoria": "Anillos Swarovski",
         "precio": 110.0,
@@ -53,7 +650,7 @@ const productosAnillosSwa = [
         "id": 30,
         "categoria": "Anillos Swarovski",
         "precio": 120.0,
-        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_30.2.webp",
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_30.1.avif",
         "stockTallas": {
             "6": 1,
             "7": 1,
@@ -62,11 +659,11 @@ const productosAnillosSwa = [
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/anillos_swa/anillos_swa_30.2.webp"
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_30.1.avif"
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/anillos_swa/anillos_swa_30.3.avif"
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_30.2.webp"
             },
             {
                 "tipo": "imagen",
