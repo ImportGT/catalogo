@@ -4012,10 +4012,6 @@ const productosCadenasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/cadenasbp/cadenasbp_316.4.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/cadenasbp/cadenasbp_316.5.png"
             }
         ]
     },
