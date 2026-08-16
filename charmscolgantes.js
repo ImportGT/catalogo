@@ -150,12 +150,32 @@ const productosCharmsColgantes = [
         "id": 977,
         "categoria": "Charms Colgantes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_colgantes/chc.977.0.jpg",
+        "imagen": "imagenes/charms_colgantes/chc.977.2.webp",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_colgantes/chc.977.0.jpg"
+                "url": "imagenes/charms_colgantes/chc.977.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.977.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.977.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.977.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_colgantes/chc.977.6.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.977.webp"
             }
         ]
     },
@@ -274,12 +294,32 @@ const productosCharmsColgantes = [
         "id": 969,
         "categoria": "Charms Colgantes",
         "precio": 100.0,
-        "imagen": "imagenes/charms_colgantes/chc.969.0.jpg",
+        "imagen": "imagenes/charms_colgantes/chc.969.2.webp",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_colgantes/chc.969.0.jpg"
+                "url": "imagenes/charms_colgantes/chc.969.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.969.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.969.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.969.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_colgantes/chc.969.6.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.969.webp"
             }
         ]
     },
@@ -287,12 +327,16 @@ const productosCharmsColgantes = [
         "id": 968,
         "categoria": "Charms Colgantes",
         "precio": 75.0,
-        "imagen": "imagenes/charms_colgantes/chc.968.0.jpg",
+        "imagen": "imagenes/charms_colgantes/chc.968.2.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_colgantes/chc.968.0.jpg"
+                "url": "imagenes/charms_colgantes/chc.968.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.968.jpg"
             }
         ]
     },
@@ -300,12 +344,28 @@ const productosCharmsColgantes = [
         "id": 967,
         "categoria": "Charms Colgantes",
         "precio": 65.0,
-        "imagen": "imagenes/charms_colgantes/chc.967.0.jpg",
+        "imagen": "imagenes/charms_colgantes/chc.967.2.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_colgantes/chc.967.0.jpg"
+                "url": "imagenes/charms_colgantes/chc.967.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.967.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.967.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.967.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.967.jpg"
             }
         ]
     },
@@ -313,12 +373,36 @@ const productosCharmsColgantes = [
         "id": 966,
         "categoria": "Charms Colgantes",
         "precio": 65.0,
-        "imagen": "imagenes/charms_colgantes/chc.966.0.jpg",
+        "imagen": "imagenes/charms_colgantes/chc.966.2.webp",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_colgantes/chc.966.0.jpg"
+                "url": "imagenes/charms_colgantes/chc.966.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.966.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.966.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.966.5.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.966.6.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_colgantes/chc.966.7.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.966.webp"
             }
         ]
     },
@@ -326,12 +410,28 @@ const productosCharmsColgantes = [
         "id": 965,
         "categoria": "Charms Colgantes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_colgantes/chc.965.0.jpg",
+        "imagen": "imagenes/charms_colgantes/chc.965.2.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_colgantes/chc.965.0.jpg"
+                "url": "imagenes/charms_colgantes/chc.965.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.965.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.965.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_colgantes/chc.965.5.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.965.jpg"
             }
         ]
     },

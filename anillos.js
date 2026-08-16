@@ -41,10 +41,6 @@ const productosAnillos = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_573_1.webp"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_573_2.webp"
             },
             {

@@ -3,12 +3,32 @@ const productosCollares = [
         "id": 394,
         "categoria": "Collares",
         "precio": 95.0,
-        "imagen": "imagenes/collares/collares_394.0.jpg",
+        "imagen": "imagenes/collares/collares_394.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/collares/collares_394.0.jpg"
+                "url": "imagenes/collares/collares_394.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.6.jpg"
             }
         ]
     },
@@ -176,12 +196,32 @@ const productosCollares = [
         "id": 383,
         "categoria": "Collares",
         "precio": 95.0,
-        "imagen": "imagenes/collares/collares_383.0.jpg",
+        "imagen": "imagenes/collares/collares_383.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/collares/collares_383.0.jpg"
+                "url": "imagenes/collares/collares_383.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_383.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_383.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_383.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_383.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_383.6.mp4"
             }
         ]
     },
@@ -484,12 +524,28 @@ const productosCollares = [
         "id": 363,
         "categoria": "Collares",
         "precio": 90.0,
-        "imagen": "imagenes/collares/collares_363.0.jpg",
+        "imagen": "imagenes/collares/collares_363.webp",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/collares/collares_363.0.jpg"
+                "url": "imagenes/collares/collares_363.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_363.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_363.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_363.4.webp"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_363.5.mp4"
             }
         ]
     },
@@ -721,12 +777,28 @@ const productosCollares = [
         "id": 346,
         "categoria": "Collares",
         "precio": 90.0,
-        "imagen": "imagenes/collares/collares_346.0.jpg",
+        "imagen": "imagenes/collares/collares_346.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/collares/collares_346.0.jpg"
+                "url": "imagenes/collares/collares_346.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_346.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_346.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_346.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_346.5.jpg"
             }
         ]
     },
@@ -734,12 +806,32 @@ const productosCollares = [
         "id": 345,
         "categoria": "Collares",
         "precio": 95.0,
-        "imagen": "imagenes/collares/collares_345.0.jpg",
+        "imagen": "imagenes/collares/collares_345.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/collares/collares_345.0.jpg"
+                "url": "imagenes/collares/collares_345.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.6.jpg"
             }
         ]
     },

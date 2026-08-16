@@ -29,12 +29,32 @@ const productosCharmsMuranos = [
         "id": 160,
         "categoria": "Charms Muranos",
         "precio": 75.0,
-        "imagen": "imagenes/charms_muranos/chm_160.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_160.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_160.0.jpg"
+                "url": "imagenes/charms_muranos/chm_160.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_muranos/chm_160.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_muranos/chm_160.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_muranos/chm_160.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_muranos/chm_160.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_muranos/chm_160.6.mp4"
             }
         ]
     },
@@ -120,12 +140,32 @@ const productosCharmsMuranos = [
         "id": 153,
         "categoria": "Charms Muranos",
         "precio": 75.0,
-        "imagen": "imagenes/charms_muranos/chm_153.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_153.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_153.0.jpg"
+                "url": "imagenes/charms_muranos/chm_153.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_muranos/chm_153.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_muranos/chm_153.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_muranos/chm_153.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_muranos/chm_153.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_muranos/chm_153.6.mp4"
             }
         ]
     },
@@ -174,12 +214,28 @@ const productosCharmsMuranos = [
         "id": 149,
         "categoria": "Charms Muranos",
         "precio": 75.0,
-        "imagen": "imagenes/charms_muranos/chm_149.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_149.webp",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_149.0.jpg"
+                "url": "imagenes/charms_muranos/chm_149.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_muranos/chm_149.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_muranos/chm_149.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_muranos/chm_149.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_muranos/chm_149.5.jpg"
             }
         ]
     },
