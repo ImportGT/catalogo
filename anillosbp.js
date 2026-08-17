@@ -122,6 +122,26 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_4.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_4.2.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_4.3.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_4.4.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_4.5.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_4.6.jpg"
             }
         ]
     },
@@ -129,7 +149,7 @@ const productosAnillosBp = [
         "id": 5,
         "categoria": "Anillos Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_5.png",
+        "imagen": "imagenes/BP/anillosbp/anillosbp_5.jpg",
         "stockTallas": {
             "7": 1,
             "8": 1,
@@ -139,7 +159,27 @@ const productosAnillosBp = [
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_5.png"
+                "url": "imagenes/BP/anillosbp/anillosbp_5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_5.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_5.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_5.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_5.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_5.6.jpg"
             }
         ]
     },
