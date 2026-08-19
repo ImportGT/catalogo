@@ -1014,6 +1014,18 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_331.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_331.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_331.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_331.4.jpg"
             }
         ]
     },
