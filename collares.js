@@ -992,19 +992,6 @@ const productosCollares = [
         ]
     },
     {
-        "id": 332,
-        "categoria": "Collares",
-        "precio": 550.0,
-        "imagen": "imagenes/collares/collares_332.jpg",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/collares/collares_332.jpg"
-            }
-        ]
-    },
-    {
         "id": 331,
         "categoria": "Collares",
         "precio": 440.0,

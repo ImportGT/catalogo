@@ -1,5 +1,100 @@
 const productosCharmsME = [
     {
+        "id": 126,
+        "categoria": "Charms ME",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_me/chme_126.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_126.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_126.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_126.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_126.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_126.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_126.6.mp4"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "categoria": "Charms ME",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_me/chme_125.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_125.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_125.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_125.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_125.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_125.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_125.6.mp4"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "categoria": "Charms ME",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_me/chme_124.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_124.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_124.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_124.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_124.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_124.5.webp"
+            }
+        ]
+    },
+    {
         "id": 123,
         "categoria": "Charms ME",
         "precio": 65.0,
