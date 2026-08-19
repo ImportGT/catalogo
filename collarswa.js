@@ -1,5 +1,38 @@
 const productosCollaresSwa = [
     {
+        "id": 202,
+        "categoria": "Collares Swarovski",
+        "precio": 235.0,
+        "imagen": "imagenes/SWA/collares_swa/collares_swa_202.avif",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_202.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_202.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_202.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_202.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_202.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_202.6.avif"
+            }
+        ]
+    },
+    {
         "id": 17,
         "categoria": "Collares Swarovski",
         "precio": 920.0,
