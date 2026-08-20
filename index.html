@@ -1195,19 +1195,16 @@
                 img.crossOrigin = "Anonymous";
                 img.onload = function() {
                     const canvas = document.createElement("canvas");
-                    canvas.width = img.width;
-                    canvas.height = img.height;
+                    canvas.width = img.naturalWidth || 100;
+                    canvas.height = img.naturalHeight || 100;
                     const ctx = canvas.getContext("2d");
                     ctx.drawImage(img, 0, 0);
-                    let dataURL = null;
                     try {
-                        let ext = imageUrl.split('.').pop().toLowerCase();
-                        let formato = (ext === 'png') ? 'image/png' : 'image/jpeg';
-                        dataURL = canvas.toDataURL(formato);
+                        let dataURL = canvas.toDataURL("image/jpeg", 0.85);
+                        resolve(dataURL);
                     } catch(e) {
-                        dataURL = null;
+                        resolve(null);
                     }
-                    resolve(dataURL);
                 };
                 img.onerror = function() {
                     resolve(null);
@@ -1283,8 +1280,7 @@
                         let base64Img = await getBase64ImageFromUrl(item.imagen);
                         if (base64Img) {
                             try {
-                                let formatoImg = item.imagen.toLowerCase().endsWith('.png') ? 'PNG' : 'JPEG';
-                                doc.addImage(base64Img, formatoImg, 14, currentY - 4, 10, 10);
+                                doc.addImage(base64Img, 'JPEG', 14, currentY - 4, 10, 10);
                             } catch(e) {}
                         }
 
