@@ -1190,31 +1190,30 @@
         }
 
         async function getBase64ImageFromUrl(imageUrl) {
-            try {
-                let cleanUrl = imageUrl.trim();
-                const response = await fetch(cleanUrl);
-                if (!response.ok) throw new Error('No se pudo cargar la imagen');
-                const blob = await response.blob();
-                return new Promise((resolve) => {
-                    const reader = new FileReader();
-                    reader.onloadend = () => resolve(reader.result);
-                    reader.onerror = () => resolve(null);
-                    reader.readAsDataURL(blob);
-                });
-            } catch (e) {
-                try {
-                    const altResponse = await fetch('./' + imageUrl);
-                    const altBlob = await altResponse.blob();
-                    return new Promise((resolve) => {
-                        const reader = new FileReader();
-                        reader.onloadend = () => resolve(reader.result);
-                        reader.onerror = () => resolve(null);
-                        reader.readAsDataURL(altBlob);
-                    });
-                } catch (err) {
-                    return null;
-                }
-            }
+            return new Promise((resolve) => {
+                const img = new Image();
+                img.crossOrigin = "Anonymous";
+                img.onload = function() {
+                    const canvas = document.createElement("canvas");
+                    canvas.width = img.width;
+                    canvas.height = img.height;
+                    const ctx = canvas.getContext("2d");
+                    ctx.drawImage(img, 0, 0);
+                    let dataURL = null;
+                    try {
+                        let ext = imageUrl.split('.').pop().toLowerCase();
+                        let formato = (ext === 'png') ? 'image/png' : 'image/jpeg';
+                        dataURL = canvas.toDataURL(formato);
+                    } catch(e) {
+                        dataURL = null;
+                    }
+                    resolve(dataURL);
+                };
+                img.onerror = function() {
+                    resolve(null);
+                };
+                img.src = imageUrl;
+            });
         }
 
         async function descargarResumenPDF() {
@@ -1284,7 +1283,8 @@
                         let base64Img = await getBase64ImageFromUrl(item.imagen);
                         if (base64Img) {
                             try {
-                                doc.addImage(base64Img, 'JPEG', 14, currentY - 4, 10, 10);
+                                let formatoImg = item.imagen.toLowerCase().endsWith('.png') ? 'PNG' : 'JPEG';
+                                doc.addImage(base64Img, formatoImg, 14, currentY - 4, 10, 10);
                             } catch(e) {}
                         }
 
