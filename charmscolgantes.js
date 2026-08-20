@@ -1,5 +1,38 @@
 const productosCharmsColgantes = [
     {
+        "id": 991,
+        "categoria": "Charms Colgantes",
+        "precio": 70.0,
+        "imagen": "imagenes/charms_colgantes/chc.991.2.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.991.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.991.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.991.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.991.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_colgantes/chc.991.6.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.991.jpg"
+            }
+        ]
+    },
+    {
         "id": 990,
         "categoria": "Charms Colgantes",
         "precio": 70.0,
