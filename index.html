@@ -63,7 +63,7 @@
             max-width: 850px;
         }
 
-        .index-select {
+        .index-select, .search-input {
             padding: 5px 10px;
             font-size: 12px;
             font-weight: bold;
@@ -75,6 +75,10 @@
             cursor: pointer;
             max-width: 200px;
             width: 100%;
+        }
+        .search-input {
+            background: #fff;
+            cursor: text;
         }
 
         .toggle-btn {
@@ -571,22 +575,25 @@
         <h2 id="linea-titulo">Seleccione una tienda</h2>
     </header>
 
-    <!-- Barra Superior Fija (Tienda Activa, Ir a categoría y Vaciar carrito siempre fijos arriba) -->
+    <!-- Barra Superior Fija -->
     <div class="sticky-top-bar" id="panel-distribuidor">
-        <!-- Fila Superior Fija: Tienda Activa, Ir a Categoría, Vaciar Carrito y Catálogo PDF -->
+        <!-- Fila Superior Fija: Tienda, Categoría, Buscador, Catálogo PDF y Vaciar Carrito -->
         <div class="sticky-row" style="background: #eef2f7; padding: 6px; border-radius: 6px; display: flex; justify-content: center; align-items: center; gap: 8px; flex-wrap: wrap;">
             <div style="display: flex; align-items: center; gap: 4px;">
                 <span style="font-size: 11px; font-weight: bold; color: var(--primary-color);">Tienda:</span>
-                <select id="select-tienda" class="index-select" style="max-width: 140px; font-weight: bold; background: white;" onchange="cambiarTienda(this.value)">
+                <select id="select-tienda" class="index-select" style="max-width: 120px; font-weight: bold; background: white;" onchange="cambiarTienda(this.value)">
                     <option value="pandora">Pandora</option>
                     <option value="swarovski">Swarovski</option>
                     <option value="banoplata">Baño de Plata</option>
                 </select>
             </div>
             <div style="display: flex; align-items: center; gap: 4px;">
-                <select id="select-categoria" class="index-select" style="max-width: 150px; font-weight: bold;" onchange="navegarCategoria(this.value)">
+                <select id="select-categoria" class="index-select" style="max-width: 130px; font-weight: bold;" onchange="navegarCategoria(this.value)">
                     <option value="" disabled selected>Ir a categoría...</option>
                 </select>
+            </div>
+            <div style="display: flex; align-items: center; gap: 4px;">
+                <input type="text" id="input-busqueda" class="search-input" placeholder="Buscar por código..." oninput="renderizarCatalogo()" style="max-width: 130px;">
             </div>
             <button class="catalog-pdf-btn" onclick="preguntarCategoriaPDF()">Catálogo PDF</button>
             <button class="clear-cart-global-btn" onclick="limpiarCarrito()">Vaciar carrito</button>
@@ -747,6 +754,7 @@
             } else {
                 document.getElementById('linea-titulo').innerText = 'Colección PANDORA';
             }
+            document.getElementById('input-busqueda').value = '';
             renderizarCatalogo();
         }
 
@@ -784,19 +792,26 @@
         function renderizarCatalogo() {
             const contenedor = document.getElementById('catalogo-contenido');
             const selectCategoria = document.getElementById('select-categoria');
+            const textoBusqueda = document.getElementById('input-busqueda').value.toLowerCase().trim();
             const productosActivos = obtenerProductosActuales();
             
             contenedor.innerHTML = '';
             selectCategoria.innerHTML = '<option value="" disabled selected>Ir a categoría...</option>';
 
+            // Filtrar productos si hay texto en el buscador
+            let productosFiltrados = productosActivos;
+            if (textoBusqueda !== "") {
+                productosFiltrados = productosActivos.filter(p => String(p.id).toLowerCase().includes(textoBusqueda));
+            }
+
             const categorias = {};
-            productosActivos.forEach(p => {
+            productosFiltrados.forEach(p => {
                 if (!categorias[p.categoria]) categorias[p.categoria] = [];
                 categorias[p.categoria].push(p);
             });
 
             if (Object.keys(categorias).length === 0) {
-                contenedor.innerHTML = `<div style="text-align:center; padding: 40px; color: #777; font-size: 15px;">No hay productos cargados en esta tienda.</div>`;
+                contenedor.innerHTML = `<div style="text-align:center; padding: 40px; color: #777; font-size: 15px;">No se encontraron productos con el código "${textoBusqueda}".</div>`;
                 return;
             }
 
@@ -1335,27 +1350,25 @@
             const productosActivos = obtenerProductosActuales();
             const categorias = [...new Set(productosActivos.map(p => p.categoria))];
 
-            let opcionesTexto = "Elige una categoría para exportar a PDF (recomendado por tamaño):\n\n";
+            let opcionesTexto = "Elige una categoría para exportar a PDF:\n\n";
             categorias.forEach((cat, index) => {
                 let count = productosActivos.filter(p => p.categoria === cat).length;
                 opcionesTexto += `${index + 1}. ${cat} (${count} productos)\n`;
             });
-            opcionesTexto += `\n0. Exportar TODO por bloques (si hay más de 100 productos)`;
+            opcionesTexto += `\n0. Exportar TODO por bloques de 100`;
 
             let seleccion = prompt(opcionesTexto, "1");
             if (seleccion === null) return;
 
             let opcionIndex = parseInt(seleccion);
             if (opcionIndex === 0) {
-                // Exportar por bloques de 100 productos para evitar sobrecarga
                 exportarCatalogoEnBloques(productosActivos);
             } else if (opcionIndex > 0 && opcionIndex <= categorias.length) {
                 let catSeleccionada = categorias[opcionIndex - 1];
                 let productosFiltrados = productosActivos.filter(p => p.categoria === catSeleccionada);
                 
-                // Si la categoría seleccionada tiene más de 100 productos, ofrecer bloques también
                 if (productosFiltrados.length > 100) {
-                    if (confirm(`La categoría "${catSeleccionada}" tiene ${productosFiltrados.length} productos. ¿Deseas exportarla dividida en bloques de 100 para garantizar que no falle la descarga?`)) {
+                    if (confirm(`La categoría "${catSeleccionada}" tiene ${productosFiltrados.length} productos. ¿Deseas exportarla dividida en bloques de 100?`)) {
                         exportarCatalogoEnBloques(productosFiltrados, catSeleccionada);
                         return;
                     }
@@ -1380,7 +1393,7 @@
                 
                 await descargarCatalogoCompletoPDF(subLista, nombreArchivo);
             }
-            alert(`¡Se han generado y descargado ${totalBloques} archivos PDF en total para completar el catálogo sin sobrecargar el navegador!`);
+            alert(`¡Se han generado y descargado ${totalBloques} archivos PDF en total!`);
         }
 
         async function descargarCatalogoCompletoPDF(listaProductos, nombreArchivo) {
