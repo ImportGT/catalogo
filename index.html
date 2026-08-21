@@ -105,6 +105,20 @@
         }
         .clear-cart-global-btn:hover { background: #a00000; }
 
+        .catalog-pdf-btn {
+            background: var(--accent-green);
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            border-radius: 6px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 11px;
+            height: 31px;
+            white-space: nowrap;
+        }
+        .catalog-pdf-btn:hover { background: #006600; }
+
         .margin-box {
             display: flex;
             align-items: center;
@@ -559,7 +573,7 @@
 
     <!-- Barra Superior Fija (Tienda Activa, Ir a categoría y Vaciar carrito siempre fijos arriba) -->
     <div class="sticky-top-bar" id="panel-distribuidor">
-        <!-- Fila Superior Fija: Tienda Activa, Ir a Categoría y Vaciar Carrito Juntos -->
+        <!-- Fila Superior Fija: Tienda Activa, Ir a Categoría, Vaciar Carrito y Catálogo PDF -->
         <div class="sticky-row" style="background: #eef2f7; padding: 6px; border-radius: 6px; display: flex; justify-content: center; align-items: center; gap: 8px; flex-wrap: wrap;">
             <div style="display: flex; align-items: center; gap: 4px;">
                 <span style="font-size: 11px; font-weight: bold; color: var(--primary-color);">Tienda:</span>
@@ -574,6 +588,7 @@
                     <option value="" disabled selected>Ir a categoría...</option>
                 </select>
             </div>
+            <button class="catalog-pdf-btn" onclick="descargarCatalogoCompletoPDF()">Catálogo PDF</button>
             <button class="clear-cart-global-btn" onclick="limpiarCarrito()">Vaciar carrito</button>
         </div>
 
@@ -1314,6 +1329,88 @@
             }
             
             doc.save("Resumen_Pedido.pdf");
+        }
+
+        async function descargarCatalogoCompletoPDF() {
+            const { jsPDF } = window.jspdf;
+            const doc = new jsPDF();
+            const productosActivos = obtenerProductosActuales();
+
+            if (productosActivos.length === 0) {
+                alert("No hay productos en esta tienda para exportar.");
+                return;
+            }
+
+            doc.setFont("helvetica", "bold");
+            doc.setFontSize(16);
+            doc.text(`CATÁLOGO DE PRODUCTOS - ${tiendaActual.toUpperCase()}`, 14, 15);
+            doc.setFontSize(9);
+            doc.setFont("helvetica", "normal");
+            doc.text("Fecha: " + new Date().toLocaleDateString(), 14, 21);
+
+            let startX = 14;
+            let startY = 28;
+            let cols = 4; // 4 productos por fila para aprovechar al máximo la hoja
+            let cardWidth = 42;
+            let cardHeight = preciosVisibles ? 52 : 44;
+            let gapX = 5;
+            let gapY = 8;
+            
+            let currentX = startX;
+            let currentY = startY;
+            let countInRow = 0;
+
+            for (let i = 0; i < productosActivos.length; i++) {
+                let prod = productosActivos[i];
+                let precioFinal = calcularPrecioFinal(prod.precio);
+
+                // Verificar si necesitamos cambiar de página
+                if (currentY + cardHeight > 280) {
+                    doc.addPage();
+                    currentY = 20;
+                    currentX = startX;
+                    countInRow = 0;
+                }
+
+                // Dibujar marco del producto
+                doc.setDrawColor(220, 220, 220);
+                doc.setFillColor(255, 255, 255);
+                doc.roundedRect(currentX, currentY, cardWidth, cardHeight, 2, 2, 'FD');
+
+                // Cargar e insertar imagen
+                let base64Img = await getBase64ImageFromUrl(prod.imagen);
+                if (base64Img) {
+                    try {
+                        doc.addImage(base64Img, 'JPEG', currentX + 6, currentY + 4, 30, 30);
+                    } catch(e) {}
+                }
+
+                // Código del producto
+                doc.setFont("helvetica", "bold");
+                doc.setFontSize(10);
+                doc.setTextColor(44, 62, 80);
+                doc.text(`Cod. ${prod.id}`, currentX + (cardWidth / 2), currentY + 39, { align: 'center' });
+
+                // Precio (si está activo)
+                if (preciosVisibles) {
+                    doc.setFont("helvetica", "bold");
+                    doc.setFontSize(10);
+                    doc.setTextColor(0, 128, 0);
+                    doc.text(`Q${precioFinal.toFixed(2)}`, currentX + (cardWidth / 2), currentY + 47, { align: 'center' });
+                }
+
+                // Posicionamiento para el siguiente producto en la fila
+                countInRow++;
+                if (countInRow >= cols) {
+                    countInRow = 0;
+                    currentX = startX;
+                    currentY += cardHeight + gapY;
+                } else {
+                    currentX += cardWidth + gapX;
+                }
+            }
+
+            doc.save(`Catalogo_${tiendaActual.toUpperCase()}.pdf`);
         }
 
         window.onload = function() {
