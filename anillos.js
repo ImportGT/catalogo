@@ -1,5 +1,26 @@
 const productosAnillos = [
     {
+        "id": 577,
+        "categoria": "Anillos",
+        "precio": 65.0,
+        "imagen": "imagenes/anillos/anillos_577.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_577.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_577.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_577.3.jpg"
+            }
+        ]
+    },
+    {
         "id": 576,
         "categoria": "Anillos",
         "precio": 90.0,

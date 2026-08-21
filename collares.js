@@ -1,5 +1,59 @@
 const productosCollares = [
     {
+        "id": 396,
+        "categoria": "Collares",
+        "precio": 180.0,
+        "imagen": "imagenes/collares/collares_396.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_396.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_396.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_396.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_396.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_396.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_396.6.mp4"
+            }
+        ]
+    },
+    {
+        "id": 395,
+        "categoria": "Collares",
+        "precio": 95.0,
+        "imagen": "imagenes/collares/collares_395.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_395.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_395.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_395.3.webp"
+            }
+        ]
+    },
+    {
         "id": 394,
         "categoria": "Collares",
         "precio": 95.0,
