@@ -1390,7 +1390,7 @@
             cambiarTienda('pandora');
             actualizarEnlaceCompartible();
 
-            // LÓGICA DE BÚSQUEDA PRECISA Y PRECIOS AUTOMÁTICOS DESDE PDF
+            // BÚSQUEDA UNIVERSAL DIRECTA Y APERTURA DE GALERÍA DESDE EL PDF MAESTRO
             setTimeout(() => {
                 const params = new URLSearchParams(window.location.search);
                 
@@ -1407,59 +1407,27 @@
                     let productoId = params.get('prod');
                     let categoriaParam = params.get('cat').toLowerCase();
 
-                    let idCatHtml = "";
+                    // Detectar tienda de forma automática
                     if (categoriaParam.includes('swarovski') || categoriaParam.includes('swa')) {
                         cambiarTienda('swarovski');
-                        if (categoriaParam.includes('aretes')) idCatHtml = 'aretes-swarovski';
-                        else if (categoriaParam.includes('pulseras')) idCatHtml = 'pulseras-swarovski';
-                        else if (categoriaParam.includes('collares')) idCatHtml = 'collares-swarovski';
-                        else idCatHtml = 'anillos-swarovski';
                     } else if (categoriaParam.includes('baño') || categoriaParam.includes('bp')) {
                         cambiarTienda('banoplata');
-                        if (categoriaParam.includes('aretes')) idCatHtml = 'aretes-baño-de-plata';
-                        else if (categoriaParam.includes('cadenas')) idCatHtml = 'cadenas-baño-de-plata';
-                        else if (categoriaParam.includes('pulseras')) idCatHtml = 'pulseras-baño-de-plata';
-                        else idCatHtml = 'anillos-baño-de-plata';
                     } else {
                         cambiarTienda('pandora');
-                        if (categoriaParam.includes('aretes')) idCatHtml = 'aretes-pandora';
-                        else if (categoriaParam.includes('collares')) idCatHtml = 'collares-pandora';
-                        else if (categoriaParam.includes('pulseras')) idCatHtml = 'pulseras-pandora';
-                        else if (categoriaParam.includes('charms_beads_disney')) idCatHtml = 'charms-beads-disney-pandora';
-                        else if (categoriaParam.includes('charms_colgantes_disney')) idCatHtml = 'charms-colgantes-disney-pandora';
-                        else if (categoriaParam.includes('charms_beads')) idCatHtml = 'charms-beads-pandora';
-                        else if (categoriaParam.includes('charms_colgantes')) idCatHtml = 'charms-colgantes-pandora';
-                        else if (categoriaParam.includes('cadenasseguridad')) idCatHtml = 'charms-cadenas-de-seguridad-pandora';
-                        else if (categoriaParam.includes('muranos')) idCatHtml = 'charms-muranos-pandora';
-                        else if (categoriaParam.includes('clipsytopes')) idCatHtml = 'charms-clips-y-topes-pandora';
-                        else if (categoriaParam.includes('lockets')) idCatHtml = 'charms-locket-pandora';
-                        else if (categoriaParam.includes('reflexion')) idCatHtml = 'charms-reflexion-pandora';
-                        else if (categoriaParam.includes('accesoriosme')) idCatHtml = 'charms-accesorios-me-pandora';
-                        else if (categoriaParam.includes('me')) idCatHtml = 'charms-me-pandora';
-                        else idCatHtml = 'anillos-pandora';
                     }
 
                     setTimeout(() => {
-                        let seccionElem = document.getElementById(idCatHtml);
-                        if (seccionElem) {
-                            seccionElem.scrollIntoView({ behavior: 'smooth' });
-                        }
-
                         let productosActivos = obtenerProductosActuales();
                         
-                        let palabraClaveCategoria = categoriaParam.replace(/_/g, ' ').replace('pandora', '').replace('swarovski', '').replace('baño de plata', '').trim();
-                        
-                        let productoEncontrado = productosActivos.find(p => {
-                            let coincideId = String(p.id) === String(productoId);
-                            let coincideCat = p.categoria.toLowerCase().includes(palabraClaveCategoria) || palabraClaveCategoria.includes(p.categoria.toLowerCase());
-                            return coincideId && coincideCat;
-                        });
+                        // Búsqueda robusta directa por ID del producto sin fallos
+                        let productoEncontrado = productosActivos.find(p => String(p.id) === String(productoId));
 
-                        if (!productoEncontrado) {
-                            productoEncontrado = productosActivos.find(p => String(p.id) === String(productoId));
-                        }
-                        
                         if (productoEncontrado) {
+                            let idCatHtml = productoEncontrado.categoria.toLowerCase().replace(/\s+/g, '-');
+                            let seccionElem = document.getElementById(idCatHtml);
+                            if (seccionElem) {
+                                seccionElem.scrollIntoView({ behavior: 'smooth' });
+                            }
                             abrirGaleria(productoEncontrado.categoria, productoEncontrado.id);
                         }
                     }, 350);
