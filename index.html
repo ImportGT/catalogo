@@ -674,8 +674,9 @@
     <script src="cadenasbp.js"></script>
     <script src="pulserasbp.js"></script>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
     <script>
-        // Grupos separados por tienda
         const productosPandora = [
             ...(typeof productosAnillos !== 'undefined' ? productosAnillos : []),
             ...(typeof productosAretes !== 'undefined' ? productosAretes : []),
@@ -708,7 +709,7 @@
             ...(typeof productosPulserasBp !== 'undefined' ? productosPulserasBp : [])
         ];
 
-        let tiendaActual = 'pandora'; // Tienda por defecto al cargar
+        let tiendaActual = 'pandora';
 
         function obtenerProductosActuales() {
             if (tiendaActual === 'swarovski') return productosSwarovski;
@@ -781,7 +782,6 @@
             contenedor.innerHTML = '';
             selectCategoria.innerHTML = '<option value="" disabled selected>Ir a categoría...</option>';
 
-            // Filtrar productos si hay texto en el buscador
             let productosFiltrados = productosActivos;
             if (textoBusqueda !== "") {
                 productosFiltrados = productosActivos.filter(p => String(p.id).toLowerCase().includes(textoBusqueda));
@@ -1387,9 +1387,37 @@
                 btn.innerText = preciosVisibles ? 'Ocultar precios' : 'Mostrar precios';
             }
 
-            // Inicializar vista con la tienda por defecto (Pandora)
             cambiarTienda('pandora');
             actualizarEnlaceCompartible();
+
+            // Detectar enlace desde el PDF para abrir la galería del producto exacto
+            if (urlParams.has('prod') && urlParams.has('cat')) {
+                let productoId = urlParams.get('prod');
+                let categoriaParam = urlParams.get('cat').replace(/_/g, ' ');
+
+                if (categoriaParam.toLowerCase().includes('swarovski') || categoriaParam.toLowerCase().includes('swa')) {
+                    cambiarTienda('swarovski');
+                } else if (categoriaParam.toLowerCase().includes('baño') || categoriaParam.toLowerCase().includes('bp')) {
+                    cambiarTienda('banoplata');
+                } else {
+                    cambiarTienda('pandora');
+                }
+
+                setTimeout(() => {
+                    let catIdHtml = categoriaParam.toLowerCase().replace(/\s+/g, '-');
+                    let seccionElem = document.getElementById(catIdHtml);
+                    if (seccionElem) {
+                        seccionElem.scrollIntoView({ behavior: 'smooth' });
+                    }
+
+                    let productosActivos = obtenerProductosActuales();
+                    let productoEncontrado = productosActivos.find(p => String(p.id) === String(productoId) && p.categoria.toLowerCase() === categoriaParam.toLowerCase());
+                    
+                    if (productoEncontrado) {
+                        abrirGaleria(productoEncontrado.categoria, productoEncontrado.id);
+                    }
+                }, 400);
+            }
         };
     </script>
 </body>
