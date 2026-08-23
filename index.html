@@ -1390,34 +1390,37 @@
             cambiarTienda('pandora');
             actualizarEnlaceCompartible();
 
-            // Detectar enlace desde el PDF para abrir la galería del producto exacto
-            if (urlParams.has('prod') && urlParams.has('cat')) {
-                let productoId = urlParams.get('prod');
-                let categoriaParam = urlParams.get('cat').replace(/_/g, ' ');
+            // LÓGICA ROBUSTA: Esperar a que los datos estén listos y abrir galería
+            setTimeout(() => {
+                const params = new URLSearchParams(window.location.search);
+                if (params.has('prod') && params.has('cat')) {
+                    let productoId = params.get('prod');
+                    let categoriaParam = params.get('cat').replace(/_/g, ' ');
 
-                if (categoriaParam.toLowerCase().includes('swarovski') || categoriaParam.toLowerCase().includes('swa')) {
-                    cambiarTienda('swarovski');
-                } else if (categoriaParam.toLowerCase().includes('baño') || categoriaParam.toLowerCase().includes('bp')) {
-                    cambiarTienda('banoplata');
-                } else {
-                    cambiarTienda('pandora');
+                    if (categoriaParam.toLowerCase().includes('swarovski') || categoriaParam.toLowerCase().includes('swa')) {
+                        cambiarTienda('swarovski');
+                    } else if (categoriaParam.toLowerCase().includes('baño') || categoriaParam.toLowerCase().includes('bp')) {
+                        cambiarTienda('banoplata');
+                    } else {
+                        cambiarTienda('pandora');
+                    }
+
+                    setTimeout(() => {
+                        let catIdHtml = categoriaParam.toLowerCase().replace(/\s+/g, '-');
+                        let seccionElem = document.getElementById(catIdHtml);
+                        if (seccionElem) {
+                            seccionElem.scrollIntoView({ behavior: 'smooth' });
+                        }
+
+                        let productosActivos = obtenerProductosActuales();
+                        let productoEncontrado = productosActivos.find(p => String(p.id) === String(productoId) && p.categoria.toLowerCase() === categoriaParam.toLowerCase());
+                        
+                        if (productoEncontrado) {
+                            abrirGaleria(productoEncontrado.categoria, productoEncontrado.id);
+                        }
+                    }, 300);
                 }
-
-                setTimeout(() => {
-                    let catIdHtml = categoriaParam.toLowerCase().replace(/\s+/g, '-');
-                    let seccionElem = document.getElementById(catIdHtml);
-                    if (seccionElem) {
-                        seccionElem.scrollIntoView({ behavior: 'smooth' });
-                    }
-
-                    let productosActivos = obtenerProductosActuales();
-                    let productoEncontrado = productosActivos.find(p => String(p.id) === String(productoId) && p.categoria.toLowerCase() === categoriaParam.toLowerCase());
-                    
-                    if (productoEncontrado) {
-                        abrirGaleria(productoEncontrado.categoria, productoEncontrado.id);
-                    }
-                }, 400);
-            }
+            }, 200);
         };
     </script>
 </body>
