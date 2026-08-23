@@ -178,9 +178,10 @@ def generar_pdf_desde_excel(ruta_excel, nombre_linea, coleccion_carpeta, prefijo
         img_x = currentX + (cardWidth - img_w_std) / 2
         img_y = currentY + 5
 
-        # Enlace directo optimizado con parámetros de consulta (?prod=ID&cat=NOMBRE)
+        # Enlace directo optimizado incluyendo el parámetro de visibilidad de precios (p=1 o p=0)
         nombre_categoria_limpio = nombre_linea.lower().replace(' ', '_')
-        enlace_producto_web = f"https://importgt.github.io/catalogo/?prod={prod_id}&cat={nombre_categoria_limpio}"
+        estado_precio = 1 if mostrar_precios else 0
+        enlace_producto_web = f"https://importgt.github.io/catalogo/?prod={prod_id}&cat={nombre_categoria_limpio}&p={estado_precio}"
         pdf.link(img_x, img_y, img_w_std, img_h_std, enlace_producto_web)
 
         if imagen_path and os.path.exists(str(imagen_path)):
@@ -427,7 +428,8 @@ def generar_pdf_unificado(tareas, coleccion_carpeta, mostrar_precios=True, marge
             img_y = currentY + 5
 
             nombre_categoria_limpio = nombre_linea.lower().replace(' ', '_')
-            enlace_producto_web = f"https://importgt.github.io/catalogo/?prod={prod_id}&cat={nombre_categoria_limpio}"
+            estado_precio = 1 if mostrar_precios else 0
+            enlace_producto_web = f"https://importgt.github.io/catalogo/?prod={prod_id}&cat={nombre_categoria_limpio}&p={estado_precio}"
             pdf.link(img_x, img_y, img_w_std, img_h_std, enlace_producto_web)
 
             if imagen_path and os.path.exists(str(imagen_path)):

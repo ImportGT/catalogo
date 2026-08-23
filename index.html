@@ -1390,9 +1390,19 @@
             cambiarTienda('pandora');
             actualizarEnlaceCompartible();
 
-            // LÓGICA DE BÚSQUEDA PRECISA: Coincidencia exacta de ID y Categoría
+            // LÓGICA DE BÚSQUEDA PRECISA Y PRECIOS AUTOMÁTICOS DESDE PDF
             setTimeout(() => {
                 const params = new URLSearchParams(window.location.search);
+                
+                if (params.has('p')) {
+                    preciosVisibles = params.get('p') === '1';
+                    let btnPrecios = document.getElementById('btn-precios');
+                    if (btnPrecios) {
+                        btnPrecios.className = preciosVisibles ? 'toggle-btn' : 'toggle-btn active';
+                        btnPrecios.innerText = preciosVisibles ? 'Ocultar precios' : 'Mostrar precios';
+                    }
+                }
+
                 if (params.has('prod') && params.has('cat')) {
                     let productoId = params.get('prod');
                     let categoriaParam = params.get('cat').toLowerCase();
