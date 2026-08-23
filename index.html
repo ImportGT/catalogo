@@ -1390,7 +1390,7 @@
             cambiarTienda('pandora');
             actualizarEnlaceCompartible();
 
-            // Mapeo corregido de categorías y apertura automática de galería
+            // LÓGICA DE BÚSQUEDA PRECISA: Coincidencia exacta de ID y Categoría
             setTimeout(() => {
                 const params = new URLSearchParams(window.location.search);
                 if (params.has('prod') && params.has('cat')) {
@@ -1436,7 +1436,18 @@
                         }
 
                         let productosActivos = obtenerProductosActuales();
-                        let productoEncontrado = productosActivos.find(p => String(p.id) === String(productoId));
+                        
+                        let palabraClaveCategoria = categoriaParam.replace(/_/g, ' ').replace('pandora', '').replace('swarovski', '').replace('baño de plata', '').trim();
+                        
+                        let productoEncontrado = productosActivos.find(p => {
+                            let coincideId = String(p.id) === String(productoId);
+                            let coincideCat = p.categoria.toLowerCase().includes(palabraClaveCategoria) || palabraClaveCategoria.includes(p.categoria.toLowerCase());
+                            return coincideId && coincideCat;
+                        });
+
+                        if (!productoEncontrado) {
+                            productoEncontrado = productosActivos.find(p => String(p.id) === String(productoId));
+                        }
                         
                         if (productoEncontrado) {
                             abrirGaleria(productoEncontrado.categoria, productoEncontrado.id);
