@@ -14,50 +14,48 @@ class PDFCatalogoUnificado(FPDF):
         pass
 
     def footer(self):
-        # Menú inferior elegante en dos líneas limpias para evitar saturación (excepto en la página 1 del índice)
+        # Menú inferior flotante de dos filas limpias (excepto en la página 1 del índice)
         if self.page_no() > 1:
             self.set_y(-18)
             self.set_font('helvetica', '', 7)
             
-            # Línea divisoria sutil
+            # Línea divisoria superior sutil
             self.set_draw_color(210, 210, 210)
-            self.line(14, self.get_y(), 196, self.get_y())
+            self.line(12, self.get_y(), 198, self.get_y())
             self.ln(2)
             
-            # Fila 1 del menú: Índice y primera mitad de categorías
-            self.set_text_color(100, 100, 100)
-            self.cell(12, 4, "Menú:", align='L')
-            
-            if self.link_indice:
-                self.set_text_color(31, 78, 121)
-                self.set_font('helvetica', 'B', 7)
-                self.cell(14, 4, "[ Índice ]", link=self.link_indice, align='L')
-            
-            self.set_font('helvetica', '', 7)
-            
-            # Dividir categorías en dos filas si son muchas (ej. Pandora)
+            # Dividir categorías en dos bloques exactos para una visualización limpia
             mitad = (len(self.lista_categorias_cortas) + 1) // 2
             fila_1 = self.lista_categorias_cortas[:mitad]
             fila_2 = self.lista_categorias_cortas[mitad:]
 
+            # Fila 1: [Índice] + Primera mitad de categorías
+            self.set_text_color(100, 100, 100)
+            self.cell(10, 4, "Ir:", align='L')
+            
+            if self.link_indice:
+                self.set_text_color(31, 78, 121)
+                self.set_font('helvetica', 'B', 7)
+                self.cell(14, 4, "[Índice]", link=self.link_indice, align='L')
+            
+            self.set_font('helvetica', '', 7)
             for nombre_corto, l_obj in fila_1:
-                ancho_celda = max(len(nombre_corto) * 2.2 + 4, 14)
                 self.set_text_color(0, 102, 204)
-                self.cell(ancho_celda, 4, f"[{nombre_corto}]", link=l_obj, align='L')
+                self.cell(len(nombre_corto) * 2.1 + 3, 4, f"[{nombre_corto}]", link=l_obj, align='L')
 
+            # Número de página alineado a la derecha en la fila 1
             self.set_text_color(140, 140, 140)
-            self.set_xy(175, self.get_y())
-            self.cell(20, 4, f"Pág. {self.page_no()}", align='R')
+            self.set_xy(180, self.get_y())
+            self.cell(18, 4, f"Pág. {self.page_no()}", align='R')
 
-            # Fila 2 del menú (si aplica)
+            # Fila 2: Segunda mitad de categorías (si aplica)
             if fila_2:
                 self.ln(4)
-                self.set_x(14)
-                self.cell(26, 4, "", align='L') # Espacio de alineación
+                self.set_x(12)
+                self.cell(24, 4, "", align='L')
                 for nombre_corto, l_obj in fila_2:
-                    ancho_celda = max(len(nombre_corto) * 2.2 + 4, 14)
                     self.set_text_color(0, 102, 204)
-                    self.cell(ancho_celda, 4, f"[{nombre_corto}]", link=l_obj, align='L')
+                    self.cell(len(nombre_corto) * 2.1 + 3, 4, f"[{nombre_corto}]", link=l_obj, align='L')
 
 def generar_pdf_desde_excel(ruta_excel, nombre_linea, coleccion_carpeta, prefijo_archivo, carpeta_imagenes, mostrar_precios=True, margen_porcentaje=0):
     subcarpeta_tipo = "Catálogo PDF precios" if mostrar_precios else "Catálogo PDF"
@@ -70,7 +68,7 @@ def generar_pdf_desde_excel(ruta_excel, nombre_linea, coleccion_carpeta, prefijo
     nombre_archivo = os.path.join(carpeta_destino, f"{prefijo_archivo}{sufijo_precio}.pdf")
 
     if not os.path.exists(ruta_excel):
-        print(f"\n[Aviso] El archivo '{ruta_excel}' no se encuentra en el directorio. Asegúrate de colocarlo para generar esta línea.")
+        print(f"\n[Aviso] El archivo '{ruta_excel}' no se encuentra en el directorio.")
         return
 
     try:
@@ -86,7 +84,7 @@ def generar_pdf_desde_excel(ruta_excel, nombre_linea, coleccion_carpeta, prefijo
                 df = pd.read_excel(ruta_excel, header=2)
         else:
             if "Aretes" in nombre_linea:
-                df = pd.read_excel(ruta_excel, header=3)
+                df = pd.read_excel(ruta_excel, header=0) # Aretes Pandora usa header=0 con columna 'NUM.'
             else:
                 df = pd.read_excel(ruta_excel)
         
@@ -115,7 +113,15 @@ def generar_pdf_desde_excel(ruta_excel, nombre_linea, coleccion_carpeta, prefijo
         return
 
     for index, row in df.iterrows():
-        raw_id = row.get('NUMERO', '')
+        # Detección flexible de la columna de identificación de producto
+        raw_id = None
+        for col_id in ['NUMERO', 'NUM.', 'CODIGO', 'CÓDIGO']:
+            if col_id in row and not pd.isna(row[col_id]):
+                raw_id = row[col_id]
+                break
+        if raw_id is None:
+            raw_id = row.iloc[0] # Fallorf a la primera columna
+
         try:
             prod_id = int(float(raw_id))
         except (ValueError, TypeError):
@@ -153,29 +159,40 @@ def generar_pdf_desde_excel(ruta_excel, nombre_linea, coleccion_carpeta, prefijo
                 palabra_clave = "cadenasbp"
             else:
                 palabra_clave = "pulserasbp"
-        elif "Charms Accesorios ME" in nombre_linea:
-            palabra_clave = "chamE"
-        elif "Charms ME" in nombre_linea:
-            palabra_clave = "chme"
-        elif "Charms Reflexion" in nombre_linea:
-            palabra_clave = "chr"
-        elif "Charms Locket" in nombre_linea:
-            palabra_clave = "chl"
-        elif "Charms Clips y Topes" in nombre_linea:
-            palabra_clave = "chct"
-        elif "Charms Muranos" in nombre_linea:
-            palabra_clave = "chm"
-        elif "Charms Cadenas de Seguridad" in nombre_linea:
-            palabra_clave = "chcsd"
-        elif "Charms Beads Disney" in nombre_linea:
-            palabra_clave = "chbd"
-        elif "Charms Colgantes Disney" in nombre_linea:
-            palabra_clave = "chcd"
-        elif "Charms Beads" in nombre_linea:
-            palabra_clave = "chb"
-        elif "Charms Colgantes" in nombre_linea:
-            palabra_clave = "chc"
-            separador = "."
+        elif coleccion_carpeta.lower() == "pandora":
+            if "Aretes" in nombre_linea:
+                palabra_clave = "aretes"
+            elif "Anillos" in nombre_linea:
+                palabra_clave = "anillos"
+            elif "Collares" in nombre_linea:
+                palabra_clave = "collares"
+            elif "Pulseras" in nombre_linea:
+                palabra_clave = "pulseras"
+            elif "Charms Accesorios ME" in nombre_linea:
+                palabra_clave = "chamE"
+            elif "Charms ME" in nombre_linea:
+                palabra_clave = "chme"
+            elif "Charms Reflexion" in nombre_linea:
+                palabra_clave = "chr"
+            elif "Charms Locket" in nombre_linea:
+                palabra_clave = "chl"
+            elif "Charms Clips y Topes" in nombre_linea:
+                palabra_clave = "chct"
+            elif "Charms Muranos" in nombre_linea:
+                palabra_clave = "chm"
+            elif "Charms Cadenas de Seguridad" in nombre_linea:
+                palabra_clave = "chcsd"
+            elif "Charms Beads Disney" in nombre_linea:
+                palabra_clave = "chbd"
+            elif "Charms Colgantes Disney" in nombre_linea:
+                palabra_clave = "chcd"
+            elif "Charms Beads" in nombre_linea:
+                palabra_clave = "chb"
+            elif "Charms Colgantes" in nombre_linea:
+                palabra_clave = "chc"
+                separador = "."
+            else:
+                palabra_clave = nombre_linea.split()[0].lower()
         else:
             palabra_clave = nombre_linea.split()[0].lower()
             
@@ -244,11 +261,11 @@ def generar_pdf_unificado(tareas, coleccion_carpeta, mostrar_precios=True, marge
     sufijo_precio = "p" if mostrar_precios else ""
     nombre_archivo = os.path.join(carpeta_destino, f"catalogo_general_{coleccion_carpeta.lower()}{sufijo_precio}.pdf")
 
-    # Función para generar etiquetas cortas y únicas para el menú inferior
+    # Generador de nombres cortos únicos para evitar repeticiones en el menú
     def obtener_nombre_corto(nombre_largo):
         l = nombre_largo.lower()
         if "disney" in l:
-            return "Disney" if "beads" in l else "Colg. Disney"
+            return "Disney Beads" if "beads" in l else "Disney Colg."
         if "seguridad" in l:
             return "Seguridad"
         if "accesorios" in l:
@@ -259,6 +276,8 @@ def generar_pdf_unificado(tareas, coleccion_carpeta, mostrar_precios=True, marge
             return "Lockets"
         if "topes" in l:
             return "Clips/Topes"
+        if "muranos" in l:
+            return "Muranos"
         partes = nombre_largo.split()
         if len(partes) > 1:
             if partes[0].lower() == "charms":
@@ -353,7 +372,7 @@ def generar_pdf_unificado(tareas, coleccion_carpeta, mostrar_precios=True, marge
                     df = pd.read_excel(ruta_excel, header=2)
             else:
                 if "Aretes" in nombre_linea:
-                    df = pd.read_excel(ruta_excel, header=3)
+                    df = pd.read_excel(ruta_excel, header=0)
                 else:
                     df = pd.read_excel(ruta_excel)
             df.columns = [str(c).strip().upper() for c in df.columns]
@@ -387,7 +406,14 @@ def generar_pdf_unificado(tareas, coleccion_carpeta, mostrar_precios=True, marge
         currentY += 12
 
         for index, row in df.iterrows():
-            raw_id = row.get('NUMERO', '')
+            raw_id = None
+            for col_id in ['NUMERO', 'NUM.', 'CODIGO', 'CÓDIGO']:
+                if col_id in row and not pd.isna(row[col_id]):
+                    raw_id = row[col_id]
+                    break
+            if raw_id is None:
+                raw_id = row.iloc[0]
+
             try:
                 prod_id = int(float(raw_id))
             except (ValueError, TypeError):
@@ -424,29 +450,40 @@ def generar_pdf_unificado(tareas, coleccion_carpeta, mostrar_precios=True, marge
                     palabra_clave = "cadenasbp"
                 else:
                     palabra_clave = "pulserasbp"
-            elif "Charms Accesorios ME" in nombre_linea:
-                palabra_clave = "chamE"
-            elif "Charms ME" in nombre_linea:
-                palabra_clave = "chme"
-            elif "Charms Reflexion" in nombre_linea:
-                palabra_clave = "chr"
-            elif "Charms Locket" in nombre_linea:
-                palabra_clave = "chl"
-            elif "Charms Clips y Topes" in nombre_linea:
-                palabra_clave = "chct"
-            elif "Charms Muranos" in nombre_linea:
-                palabra_clave = "chm"
-            elif "Charms Cadenas de Seguridad" in nombre_linea:
-                palabra_clave = "chcsd"
-            elif "Charms Beads Disney" in nombre_linea:
-                palabra_clave = "chbd"
-            elif "Charms Colgantes Disney" in nombre_linea:
-                palabra_clave = "chcd"
-            elif "Charms Beads" in nombre_linea:
-                palabra_clave = "chb"
-            elif "Charms Colgantes" in nombre_linea:
-                palabra_clave = "chc"
-                separador = "."
+            elif coleccion_carpeta.lower() == "pandora":
+                if "Aretes" in nombre_linea:
+                    palabra_clave = "aretes"
+                elif "Anillos" in nombre_linea:
+                    palabra_clave = "anillos"
+                elif "Collares" in nombre_linea:
+                    palabra_clave = "collares"
+                elif "Pulseras" in nombre_linea:
+                    palabra_clave = "pulseras"
+                elif "Charms Accesorios ME" in nombre_linea:
+                    palabra_clave = "chamE"
+                elif "Charms ME" in nombre_linea:
+                    palabra_clave = "chme"
+                elif "Charms Reflexion" in nombre_linea:
+                    palabra_clave = "chr"
+                elif "Charms Locket" in nombre_linea:
+                    palabra_clave = "chl"
+                elif "Charms Clips y Topes" in nombre_linea:
+                    palabra_clave = "chct"
+                elif "Charms Muranos" in nombre_linea:
+                    palabra_clave = "chm"
+                elif "Charms Cadenas de Seguridad" in nombre_linea:
+                    palabra_clave = "chcsd"
+                elif "Charms Beads Disney" in nombre_linea:
+                    palabra_clave = "chbd"
+                elif "Charms Colgantes Disney" in nombre_linea:
+                    palabra_clave = "chcd"
+                elif "Charms Beads" in nombre_linea:
+                    palabra_clave = "chb"
+                elif "Charms Colgantes" in nombre_linea:
+                    palabra_clave = "chc"
+                    separador = "."
+                else:
+                    palabra_clave = nombre_linea.split()[0].lower()
             else:
                 palabra_clave = nombre_linea.split()[0].lower()
                 
@@ -561,7 +598,7 @@ if __name__ == "__main__":
             continue
 
         print(f"\n--- Opciones para {coleccion_nombre} ---")
-        print("1. Generar Catálogo UNIFICADO (Con menú inferior de dos filas y detección robusta)")
+        print("1. Generar Catálogo UNIFICADO (Con aretes de Pandora y menú inferior optimizado)")
         print("2. Generar una línea específica directamente")
         
         tipo_gen = input("\nSelecciona una opción: ").strip()

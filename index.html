@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Catálogo Digital de Productos</title>
-    <!-- Librería jsPDF para exportar a PDF -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <style>
         :root {
             --primary-color: #1F4E79;
@@ -108,20 +106,6 @@
             white-space: nowrap;
         }
         .clear-cart-global-btn:hover { background: #a00000; }
-
-        .catalog-pdf-btn {
-            background: var(--accent-green);
-            color: white;
-            border: none;
-            padding: 5px 10px;
-            border-radius: 6px;
-            font-weight: bold;
-            cursor: pointer;
-            font-size: 11px;
-            height: 31px;
-            white-space: nowrap;
-        }
-        .catalog-pdf-btn:hover { background: #006600; }
 
         .margin-box {
             display: flex;
@@ -577,7 +561,7 @@
 
     <!-- Barra Superior Fija -->
     <div class="sticky-top-bar" id="panel-distribuidor">
-        <!-- Fila Superior Fija: Tienda, Categoría, Buscador, Catálogo PDF y Vaciar Carrito -->
+        <!-- Fila Superior Fija: Tienda, Categoría, Buscador y Vaciar Carrito -->
         <div class="sticky-row" style="background: #eef2f7; padding: 6px; border-radius: 6px; display: flex; justify-content: center; align-items: center; gap: 8px; flex-wrap: wrap;">
             <div style="display: flex; align-items: center; gap: 4px;">
                 <span style="font-size: 11px; font-weight: bold; color: var(--primary-color);">Tienda:</span>
@@ -595,7 +579,6 @@
             <div style="display: flex; align-items: center; gap: 4px;">
                 <input type="text" id="input-busqueda" class="search-input" placeholder="Buscar por código..." oninput="renderizarCatalogo()" style="max-width: 130px;">
             </div>
-            <button class="catalog-pdf-btn" onclick="preguntarCategoriaPDF()">Catálogo PDF</button>
             <button class="clear-cart-global-btn" onclick="limpiarCarrito()">Vaciar carrito</button>
         </div>
 
@@ -1344,128 +1327,6 @@
             }
             
             doc.save("Resumen_Pedido.pdf");
-        }
-
-        function preguntarCategoriaPDF() {
-            const productosActivos = obtenerProductosActuales();
-            const categorias = [...new Set(productosActivos.map(p => p.categoria))];
-
-            let opcionesTexto = "Elige una categoría para exportar a PDF:\n\n";
-            categorias.forEach((cat, index) => {
-                let count = productosActivos.filter(p => p.categoria === cat).length;
-                opcionesTexto += `${index + 1}. ${cat} (${count} productos)\n`;
-            });
-            opcionesTexto += `\n0. Exportar TODO por bloques de 100`;
-
-            let seleccion = prompt(opcionesTexto, "1");
-            if (seleccion === null) return;
-
-            let opcionIndex = parseInt(seleccion);
-            if (opcionIndex === 0) {
-                exportarCatalogoEnBloques(productosActivos);
-            } else if (opcionIndex > 0 && opcionIndex <= categorias.length) {
-                let catSeleccionada = categorias[opcionIndex - 1];
-                let productosFiltrados = productosActivos.filter(p => p.categoria === catSeleccionada);
-                
-                if (productosFiltrados.length > 100) {
-                    if (confirm(`La categoría "${catSeleccionada}" tiene ${productosFiltrados.length} productos. ¿Deseas exportarla dividida en bloques de 100?`)) {
-                        exportarCatalogoEnBloques(productosFiltrados, catSeleccionada);
-                        return;
-                    }
-                }
-
-                let nombreArchivo = `Catalogo_${catSeleccionada.replace(/\s+/g, '_')}.pdf`;
-                descargarCatalogoCompletoPDF(productosFiltrados, nombreArchivo);
-            } else {
-                alert("Opción no válida.");
-            }
-        }
-
-        async function exportarCatalogoEnBloques(listaProductos, nombreBase = "Catalogo_Bloque") {
-            let tamañoBloque = 100;
-            let totalBloques = Math.ceil(listaProductos.length / tamañoBloque);
-
-            for (let b = 0; b < totalBloques; b++) {
-                let inicio = b * tamañoBloque;
-                let fin = inicio + tamañoBloque;
-                let subLista = listaProductos.slice(inicio, fin);
-                let nombreArchivo = `${nombreBase.replace(/\s+/g, '_')}_parte_${b + 1}_de_${totalBloques}.pdf`;
-                
-                await descargarCatalogoCompletoPDF(subLista, nombreArchivo);
-            }
-            alert(`¡Se han generado y descargado ${totalBloques} archivos PDF en total!`);
-        }
-
-        async function descargarCatalogoCompletoPDF(listaProductos, nombreArchivo) {
-            const { jsPDF } = window.jspdf;
-            const doc = new jsPDF();
-
-            if (listaProductos.length === 0) return;
-
-            doc.setFont("helvetica", "bold");
-            doc.setFontSize(16);
-            doc.text(`CATÁLOGO - ${tiendaActual.toUpperCase()}`, 14, 15);
-            doc.setFontSize(9);
-            doc.setFont("helvetica", "normal");
-            doc.text("Fecha: " + new Date().toLocaleDateString(), 14, 21);
-
-            let startX = 14;
-            let startY = 28;
-            let cols = 4;
-            let cardWidth = 42;
-            let cardHeight = preciosVisibles ? 52 : 44;
-            let gapX = 5;
-            let gapY = 8;
-            
-            let currentX = startX;
-            let currentY = startY;
-            let countInRow = 0;
-
-            for (let i = 0; i < listaProductos.length; i++) {
-                let prod = listaProductos[i];
-                let precioFinal = calcularPrecioFinal(prod.precio);
-
-                if (currentY + cardHeight > 280) {
-                    doc.addPage();
-                    currentY = 20;
-                    currentX = startX;
-                    countInRow = 0;
-                }
-
-                doc.setDrawColor(220, 220, 220);
-                doc.setFillColor(255, 255, 255);
-                doc.roundedRect(currentX, currentY, cardWidth, cardHeight, 2, 2, 'FD');
-
-                let base64Img = await getBase64ImageFromUrl(prod.imagen);
-                if (base64Img) {
-                    try {
-                        doc.addImage(base64Img, 'JPEG', currentX + 6, currentY + 4, 30, 30);
-                    } catch(e) {}
-                }
-
-                doc.setFont("helvetica", "bold");
-                doc.setFontSize(10);
-                doc.setTextColor(44, 62, 80);
-                doc.text(`Cod. ${prod.id}`, currentX + (cardWidth / 2), currentY + 39, { align: 'center' });
-
-                if (preciosVisibles) {
-                    doc.setFont("helvetica", "bold");
-                    doc.setFontSize(10);
-                    doc.setTextColor(0, 128, 0);
-                    doc.text(`Q${precioFinal.toFixed(2)}`, currentX + (cardWidth / 2), currentY + 47, { align: 'center' });
-                }
-
-                countInRow++;
-                if (countInRow >= cols) {
-                    countInRow = 0;
-                    currentX = startX;
-                    currentY += cardHeight + gapY;
-                } else {
-                    currentX += cardWidth + gapX;
-                }
-            }
-
-            doc.save(nombreArchivo);
         }
 
         window.onload = function() {
