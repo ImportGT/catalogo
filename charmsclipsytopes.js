@@ -134,9 +134,7 @@ const productosCharmsClipsYTopes = [
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_154.0.jpg",
-        "stockTallas": {
-            "1.0": 1
-        },
+        "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",

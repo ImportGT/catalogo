@@ -66,7 +66,9 @@ const productosCharmsColgantesDisney = [
         "categoria": "Charms Colgantes Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_colgantes_disney/chcd_275.webp",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -99,7 +101,9 @@ const productosCharmsColgantesDisney = [
         "categoria": "Charms Colgantes Disney",
         "precio": 75.0,
         "imagen": "imagenes/charms_colgantes_disney/chcd_274.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -184,7 +188,9 @@ const productosCharmsColgantesDisney = [
         "categoria": "Charms Colgantes Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_colgantes_disney/chcd_269.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -265,7 +271,9 @@ const productosCharmsColgantesDisney = [
         "categoria": "Charms Colgantes Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_colgantes_disney/chcd_264.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -588,7 +596,9 @@ const productosCharmsColgantesDisney = [
         "categoria": "Charms Colgantes Disney",
         "precio": 75.0,
         "imagen": "imagenes/charms_colgantes_disney/chcd_241.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -665,7 +675,9 @@ const productosCharmsColgantesDisney = [
         "categoria": "Charms Colgantes Disney",
         "precio": 75.0,
         "imagen": "imagenes/charms_colgantes_disney/chcd_236.webp",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",

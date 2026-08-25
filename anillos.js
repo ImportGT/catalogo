@@ -83,7 +83,9 @@ const productosAnillos = [
         "categoria": "Anillos",
         "precio": 65.0,
         "imagen": "imagenes/anillos/anillos_574.webp",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -112,7 +114,9 @@ const productosAnillos = [
         "categoria": "Anillos",
         "precio": 70.0,
         "imagen": "imagenes/anillos/anillos_573.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -474,9 +478,7 @@ const productosAnillos = [
         "categoria": "Anillos",
         "precio": 65.0,
         "imagen": "imagenes/anillos/anillos_561.1.webp",
-        "stockTallas": {
-            "1.0": 1
-        },
+        "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
@@ -505,9 +507,7 @@ const productosAnillos = [
         "categoria": "Anillos",
         "precio": 65.0,
         "imagen": "imagenes/anillos/anillos_560.1.webp",
-        "stockTallas": {
-            "1.0": 1
-        },
+        "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
@@ -563,7 +563,9 @@ const productosAnillos = [
         "categoria": "Anillos",
         "precio": 70.0,
         "imagen": "imagenes/anillos/anillos_558.1.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -671,7 +673,9 @@ const productosAnillos = [
         "categoria": "Anillos",
         "precio": 65.0,
         "imagen": "imagenes/anillos/anillos_554.1.webp",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -733,7 +737,9 @@ const productosAnillos = [
         "categoria": "Anillos",
         "precio": 90.0,
         "imagen": "imagenes/anillos/anillos_552.1.webp",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -762,7 +768,9 @@ const productosAnillos = [
         "categoria": "Anillos",
         "precio": 90.0,
         "imagen": "imagenes/anillos/anillos_551.1.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -791,7 +799,9 @@ const productosAnillos = [
         "categoria": "Anillos",
         "precio": 70.0,
         "imagen": "imagenes/anillos/anillos_550.1.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -911,7 +921,9 @@ const productosAnillos = [
         "categoria": "Anillos",
         "precio": 65.0,
         "imagen": "imagenes/anillos/anillos_546.1.webp",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -969,7 +981,9 @@ const productosAnillos = [
         "categoria": "Anillos",
         "precio": 75.0,
         "imagen": "imagenes/anillos/anillos_544.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -1085,7 +1099,9 @@ const productosAnillos = [
         "categoria": "Anillos",
         "precio": 90.0,
         "imagen": "imagenes/anillos/anillos_540.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -1143,7 +1159,9 @@ const productosAnillos = [
         "categoria": "Anillos",
         "precio": 80.0,
         "imagen": "imagenes/anillos/anillos_538.1.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",

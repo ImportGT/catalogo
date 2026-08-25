@@ -30,7 +30,9 @@ const productosCharmsMuranos = [
         "categoria": "Charms Muranos",
         "precio": 75.0,
         "imagen": "imagenes/charms_muranos/chm_160.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "2.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -141,7 +143,9 @@ const productosCharmsMuranos = [
         "categoria": "Charms Muranos",
         "precio": 75.0,
         "imagen": "imagenes/charms_muranos/chm_153.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "2.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
@@ -174,9 +178,7 @@ const productosCharmsMuranos = [
         "categoria": "Charms Muranos",
         "precio": 70.0,
         "imagen": "imagenes/charms_muranos/chm_152.0.jpg",
-        "stockTallas": {
-            "1.0": 1
-        },
+        "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
@@ -215,7 +217,9 @@ const productosCharmsMuranos = [
         "categoria": "Charms Muranos",
         "precio": 75.0,
         "imagen": "imagenes/charms_muranos/chm_149.webp",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",

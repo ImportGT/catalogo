@@ -1,0 +1,63 @@
+{
+    "cliente": "GRECIA RODRIGUEZ",
+    "margen": "0",
+    "anticipo": "305",
+    "items": [
+        {
+            "id": 512,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 2,
+            "precio_base": 60.0,
+            "imagen": "imagenes/aretes/aretes_512.jpg"
+        },
+        {
+            "id": 269,
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 75.0,
+            "imagen": "imagenes/charms_beads_disney/chbd_269.jpg"
+        },
+        {
+            "id": 268,
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "imagen": "imagenes/charms_beads_disney/chbd_268.jpg"
+        },
+        {
+            "id": 398,
+            "categoria": "Pulseras Pandora",
+            "talla": "18",
+            "qty": 1,
+            "precio_base": 150.0,
+            "imagen": "imagenes/pulseras/pulseras_398.0.jpg"
+        },
+        {
+            "id": 14,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "imagen": "imagenes/aretes/aretes_14.jpg"
+        },
+        {
+            "id": 15,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 55.0,
+            "imagen": "imagenes/aretes/aretes_15.jpg"
+        },
+        {
+            "id": 49,
+            "categoria": "Charms Cadenas de Seguridad Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "imagen": "imagenes/charms_cadenasseguridad/chcsd_49.0.jpg"
+        }
+    ]
+}

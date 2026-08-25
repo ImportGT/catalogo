@@ -134,9 +134,7 @@ const productosCharmsLocket = [
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_71.0.jpg",
-        "stockTallas": {
-            "1.0": 1
-        },
+        "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",

@@ -134,9 +134,7 @@ const productosCharmsCadenasSeguridad = [
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_42.0.jpg",
-        "stockTallas": {
-            "1.0": 1
-        },
+        "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",

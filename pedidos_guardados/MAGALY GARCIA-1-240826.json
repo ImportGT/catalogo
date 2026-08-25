@@ -1,0 +1,135 @@
+{
+    "cliente": "MAGALY GARCIA",
+    "margen": "0",
+    "anticipo": "550",
+    "items": [
+        {
+            "id": 526,
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 60.0,
+            "imagen": "imagenes/anillos/anillos_526.jpg"
+        },
+        {
+            "id": 537,
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/anillos/anillos_537.jpg"
+        },
+        {
+            "id": 517,
+            "categoria": "Anillos Pandora",
+            "talla": "8",
+            "qty": 1,
+            "precio_base": 70.0,
+            "imagen": "imagenes/anillos/anillos_517.jpg"
+        },
+        {
+            "id": 504,
+            "categoria": "Anillos Pandora",
+            "talla": "8",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/anillos/anillos_504.webp"
+        },
+        {
+            "id": 496,
+            "categoria": "Anillos Pandora",
+            "talla": "9",
+            "qty": 1,
+            "precio_base": 60.0,
+            "imagen": "imagenes/anillos/anillos_496.jpg"
+        },
+        {
+            "id": 26,
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 60.0,
+            "imagen": "imagenes/anillos/anillos_26.jpg"
+        },
+        {
+            "id": 330,
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 70.0,
+            "imagen": "imagenes/anillos/anillos_330.jpg"
+        },
+        {
+            "id": 274,
+            "categoria": "Collares Pandora",
+            "talla": "50cms",
+            "qty": 1,
+            "precio_base": 75.0,
+            "imagen": "imagenes/collares/collares_274.0.jpg"
+        },
+        {
+            "id": 273,
+            "categoria": "Collares Pandora",
+            "talla": "50cms",
+            "qty": 1,
+            "precio_base": 75.0,
+            "imagen": "imagenes/collares/collares_273.0.jpg"
+        },
+        {
+            "id": 270,
+            "categoria": "Collares Pandora",
+            "talla": "50cms",
+            "qty": 1,
+            "precio_base": 60.0,
+            "imagen": "imagenes/collares/collares_270.0.jpg"
+        },
+        {
+            "id": 271,
+            "categoria": "Collares Pandora",
+            "talla": "50cms",
+            "qty": 1,
+            "precio_base": 60.0,
+            "imagen": "imagenes/collares/collares_271.0.jpg"
+        },
+        {
+            "id": 837,
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/charms_colgantes/chc.837.0.jpg"
+        },
+        {
+            "id": 807,
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/charms_colgantes/chc.807.0.jpg"
+        },
+        {
+            "id": 146,
+            "categoria": "Charms Colgantes Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/charms_colgantes_disney/chcd_146.0.jpg"
+        },
+        {
+            "id": 572,
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/charms_colgantes/chc.572.0.jpg"
+        },
+        {
+            "id": 395,
+            "categoria": "Collares Pandora",
+            "talla": "50cms",
+            "qty": 1,
+            "precio_base": 95.0,
+            "imagen": "imagenes/collares/collares_395.png"
+        }
+    ]
+}
