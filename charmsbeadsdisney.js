@@ -120,7 +120,7 @@ const productosCharmsBeadsDisney = [
     {
         "id": 269,
         "categoria": "Charms Beads Disney",
-        "precio": 75.0,
+        "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_269.jpg",
         "stockTallas": {
             "1.0": 1
