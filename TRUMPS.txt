@@ -1,0 +1,28 @@
+
+
+
+
+CMD PARA ACTUALIZAR
+
+python actualizar_catalogo.py
+
+
+CMD PARA SUBIR A GITHUB
+
+git add .
+git commit -m "actualización general"
+git push origin main
+
+
+
+
+CMD PARA GENERAR PDF
+
+python generador_pdf.py
+
+
+CMD PARA GENERAR COTIZACION
+
+python gestor_pedidos.py
+
+
