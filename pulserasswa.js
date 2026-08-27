@@ -45,6 +45,72 @@ const productosPulserasSwa = [
         ]
     },
     {
+        "id": 8,
+        "categoria": "Pulseras Swarovski",
+        "precio": 165.0,
+        "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_8.avif",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_8.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_8.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_8.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_8.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_8.5.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_8.6.webm"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "categoria": "Pulseras Swarovski",
+        "precio": 180.0,
+        "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_7.avif",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_7.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_7.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_7.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_7.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_7.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_7.6.avif"
+            }
+        ]
+    },
+    {
         "id": 6,
         "categoria": "Pulseras Swarovski",
         "precio": 120.0,
