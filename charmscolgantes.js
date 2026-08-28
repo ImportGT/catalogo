@@ -1,5 +1,126 @@
 const productosCharmsColgantes = [
     {
+        "id": 1011,
+        "categoria": "Charms Colgantes",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_colgantes/chc.1011.0.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1011.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1011.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1011.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1011.4.webp"
+            }
+        ]
+    },
+    {
+        "id": 1010,
+        "categoria": "Charms Colgantes",
+        "precio": 85.0,
+        "imagen": "imagenes/charms_colgantes/chc.1010.0.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1010.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1010.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1010.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1010.4.webp"
+            }
+        ]
+    },
+    {
+        "id": 1009,
+        "categoria": "Charms Colgantes",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_colgantes/chc.1009.0.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1009.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1009.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1009.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1009.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1009.5.jpg"
+            }
+        ]
+    },
+    {
+        "id": 1008,
+        "categoria": "Charms Colgantes",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_colgantes/chc.1008.0.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1008.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1008.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1008.3.webp"
+            }
+        ]
+    },
+    {
+        "id": 1007,
+        "categoria": "Charms Colgantes",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_colgantes/chc.1007.0.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1007.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1007.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1007.3.jpg"
+            }
+        ]
+    },
+    {
         "id": 1006,
         "categoria": "Charms Colgantes",
         "precio": 70.0,
@@ -1227,7 +1348,7 @@ const productosCharmsColgantes = [
     {
         "id": 937,
         "categoria": "Charms Colgantes",
-        "precio": 65.0,
+        "precio": 85.0,
         "imagen": "imagenes/charms_colgantes/chc.937.0.jpg",
         "stockTallas": {},
         "galeria": [
