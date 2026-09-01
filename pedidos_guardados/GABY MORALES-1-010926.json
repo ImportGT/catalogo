@@ -1,0 +1,31 @@
+{
+    "cliente": "GABY MORALES",
+    "margen": "0",
+    "anticipo": "95",
+    "items": [
+        {
+            "id": 564,
+            "categoria": "Anillos Pandora",
+            "talla": "5",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/anillos/anillos_564.1.jpg"
+        },
+        {
+            "id": 490,
+            "categoria": "Anillos Pandora",
+            "talla": "5",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/anillos/anillos_490.jpg"
+        },
+        {
+            "id": 171,
+            "categoria": "Anillos Pandora",
+            "talla": "8",
+            "qty": 1,
+            "precio_base": 60.0,
+            "imagen": "imagenes/anillos/anillos_171.jpg"
+        }
+    ]
+}
