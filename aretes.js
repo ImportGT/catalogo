@@ -1,5 +1,30 @@
 const productosAretes = [
     {
+        "id": 561,
+        "categoria": "Aretes",
+        "precio": 65.0,
+        "imagen": "imagenes/aretes/aretes_561.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_561.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_561.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_561.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_561.4.jpg"
+            }
+        ]
+    },
+    {
         "id": 560,
         "categoria": "Aretes",
         "precio": 85.0,
