@@ -1,0 +1,71 @@
+{
+    "cliente": "BRENDA YOMARA",
+    "margen": "0",
+    "anticipo": "305",
+    "items": [
+        {
+            "id": 543,
+            "categoria": "Anillos Pandora",
+            "talla": "6",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/anillos/anillos_543.webp"
+        },
+        {
+            "id": 542,
+            "categoria": "Anillos Pandora",
+            "talla": "6",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/anillos/anillos_542.jpg"
+        },
+        {
+            "id": 541,
+            "categoria": "Anillos Pandora",
+            "talla": "6",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/anillos/anillos_541.webp"
+        },
+        {
+            "id": 510,
+            "categoria": "Anillos Pandora",
+            "talla": "6",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/anillos/anillos_510.jpg"
+        },
+        {
+            "id": 115,
+            "categoria": "Anillos Pandora",
+            "talla": "6",
+            "qty": 1,
+            "precio_base": 60.0,
+            "imagen": "imagenes/anillos/anillos_115.jpg"
+        },
+        {
+            "id": 110,
+            "categoria": "Anillos Pandora",
+            "talla": "6",
+            "qty": 1,
+            "precio_base": 60.0,
+            "imagen": "imagenes/anillos/anillos_110.jpg"
+        },
+        {
+            "id": 109,
+            "categoria": "Anillos Pandora",
+            "talla": "6",
+            "qty": 1,
+            "precio_base": 60.0,
+            "imagen": "imagenes/anillos/anillos_109.jpg"
+        },
+        {
+            "id": 226,
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 175.0,
+            "imagen": "imagenes/anillos/anillos_226.jpg"
+        }
+    ]
+}
