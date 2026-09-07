@@ -1,5 +1,86 @@
 const productosPulseras = [
     {
+        "id": 524,
+        "categoria": "Pulseras",
+        "precio": 150.0,
+        "imagen": "imagenes/pulseras/pulseras_524.png",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_524.png"
+            }
+        ]
+    },
+    {
+        "id": 523,
+        "categoria": "Pulseras",
+        "precio": 110.0,
+        "imagen": "imagenes/pulseras/pulseras_523.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_523.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_523.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_523.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_523.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_523.5.jpg"
+            }
+        ]
+    },
+    {
+        "id": 522,
+        "categoria": "Pulseras",
+        "precio": 150.0,
+        "imagen": "imagenes/pulseras/pulseras_522.png",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_522.png"
+            }
+        ]
+    },
+    {
+        "id": 521,
+        "categoria": "Pulseras",
+        "precio": 150.0,
+        "imagen": "imagenes/pulseras/pulseras_521.png",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_521.png"
+            }
+        ]
+    },
+    {
+        "id": 520,
+        "categoria": "Pulseras",
+        "precio": 150.0,
+        "imagen": "imagenes/pulseras/pulseras_520.png",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_520.png"
+            }
+        ]
+    },
+    {
         "id": 519,
         "categoria": "Pulseras",
         "precio": 150.0,
