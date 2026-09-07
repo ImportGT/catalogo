@@ -33,6 +33,151 @@ const productosCollaresSwa = [
         ]
     },
     {
+        "id": 26,
+        "categoria": "Collares Swarovski",
+        "precio": 295.0,
+        "imagen": "imagenes/SWA/collares_swa/collares_swa_26.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_26.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_26.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_26.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_26.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_26.5.webp"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "categoria": "Collares Swarovski",
+        "precio": 365.0,
+        "imagen": "imagenes/SWA/collares_swa/collares_swa_25.avif",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_25.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_25.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_25.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_25.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_25.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_25.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_25.7.avif"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "categoria": "Collares Swarovski",
+        "precio": 120.0,
+        "imagen": "imagenes/SWA/collares_swa/collares_swa_24.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_24.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_24.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_24.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_24.4.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_24.5.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_24.6.png"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "categoria": "Collares Swarovski",
+        "precio": 120.0,
+        "imagen": "imagenes/SWA/collares_swa/collares_swa_23.avif",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_23.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_23.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_23.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_23.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_23.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_23.6.avif"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "categoria": "Collares Swarovski",
+        "precio": 160.0,
+        "imagen": "imagenes/SWA/collares_swa/collares_swa_22.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_22.webp"
+            }
+        ]
+    },
+    {
         "id": 21,
         "categoria": "Collares Swarovski",
         "precio": 120.0,
