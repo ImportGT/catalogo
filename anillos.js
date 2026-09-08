@@ -1099,28 +1099,12 @@ const productosAnillos = [
         "id": 548,
         "categoria": "Anillos",
         "precio": 80.0,
-        "imagen": "imagenes/anillos/anillos_548.1.webp",
+        "imagen": "imagenes/anillos/anillos_548.1.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_548.1.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_548.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_548.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_548.4.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/anillos/anillos_548.5.jpg"
+                "url": "imagenes/anillos/anillos_548.1.png"
             }
         ]
     },

@@ -1,7 +1,7 @@
 {
     "cliente": "GABY MORALES",
     "margen": "0",
-    "anticipo": "95",
+    "anticipo": "300",
     "items": [
         {
             "id": 564,
@@ -26,6 +26,46 @@
             "qty": 1,
             "precio_base": 60.0,
             "imagen": "imagenes/anillos/anillos_171.jpg"
+        },
+        {
+            "id": 3,
+            "categoria": "Pulseras Pandora",
+            "talla": "19",
+            "qty": 1,
+            "precio_base": 150.0,
+            "imagen": "imagenes/pulseras/pulseras_3.0.jpg"
+        },
+        {
+            "id": 317,
+            "categoria": "Charms Beads Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/charms_beads/chb_317.0.jpg"
+        },
+        {
+            "id": 359,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "imagen": "imagenes/aretes/aretes_359.jpg"
+        },
+        {
+            "id": 541,
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/anillos/anillos_541.webp"
+        },
+        {
+            "id": 477,
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/anillos/anillos_477.jpg"
         }
     ]
 }

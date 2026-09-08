@@ -1,5 +1,44 @@
 const productosPulseras = [
     {
+        "id": 527,
+        "categoria": "Pulseras",
+        "precio": 150.0,
+        "imagen": "imagenes/pulseras/pulseras_527.png",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_527.png"
+            }
+        ]
+    },
+    {
+        "id": 526,
+        "categoria": "Pulseras",
+        "precio": 150.0,
+        "imagen": "imagenes/pulseras/pulseras_526.png",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_526.png"
+            }
+        ]
+    },
+    {
+        "id": 525,
+        "categoria": "Pulseras",
+        "precio": 150.0,
+        "imagen": "imagenes/pulseras/pulseras_525.png",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_525.png"
+            }
+        ]
+    },
+    {
         "id": 524,
         "categoria": "Pulseras",
         "precio": 150.0,
