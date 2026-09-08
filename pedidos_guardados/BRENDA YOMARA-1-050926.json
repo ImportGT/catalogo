@@ -1,7 +1,7 @@
 {
     "cliente": "BRENDA YOMARA",
     "margen": "0",
-    "anticipo": "305",
+    "anticipo": "430",
     "items": [
         {
             "id": 543,
@@ -66,6 +66,22 @@
             "qty": 1,
             "precio_base": 175.0,
             "imagen": "imagenes/anillos/anillos_226.jpg"
+        },
+        {
+            "id": 308,
+            "categoria": "Collares Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 125.0,
+            "imagen": "imagenes/collares/collares_308.0.jpg"
+        },
+        {
+            "id": 306,
+            "categoria": "Collares Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 125.0,
+            "imagen": "imagenes/collares/collares_306.0.jpg"
         }
     ]
 }

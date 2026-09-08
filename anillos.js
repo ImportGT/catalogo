@@ -475,7 +475,7 @@ const productosAnillos = [
     {
         "id": 569,
         "categoria": "Anillos",
-        "precio": 115.0,
+        "precio": 80.0,
         "imagen": "imagenes/anillos/anillos_569.1.webp",
         "stockTallas": {},
         "galeria": [

@@ -1,0 +1,55 @@
+{
+    "cliente": "JOSEPH FERNANDEZ",
+    "margen": "0",
+    "anticipo": "215",
+    "items": [
+        {
+            "id": 821,
+            "categoria": "Charms Beads Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/charms_beads/chb_821.0.jpg"
+        },
+        {
+            "id": 835,
+            "categoria": "Charms Beads Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/charms_beads/chb_835.0.jpg"
+        },
+        {
+            "id": 843,
+            "categoria": "Charms Beads Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/charms_beads/chb_843.0.jpg"
+        },
+        {
+            "id": 854,
+            "categoria": "Charms Beads Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/charms_beads/chb_854.0.jpg"
+        },
+        {
+            "id": 107,
+            "categoria": "Collares Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 110.0,
+            "imagen": "imagenes/collares/collares_107.0.jpg"
+        },
+        {
+            "id": 490,
+            "categoria": "Anillos Pandora",
+            "talla": "8",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/anillos/anillos_490.jpg"
+        }
+    ]
+}

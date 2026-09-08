@@ -294,6 +294,14 @@ const productosCharmsBeads = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_beads/chb_990.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_990.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_990.3.jpg"
             }
         ]
     },
@@ -406,12 +414,32 @@ const productosCharmsBeads = [
         "id": 986,
         "categoria": "Charms Beads",
         "precio": 65.0,
-        "imagen": "imagenes/charms_beads/chb_986.0.jpg",
+        "imagen": "imagenes/charms_beads/chb_986.0.webp",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_beads/chb_986.0.jpg"
+                "url": "imagenes/charms_beads/chb_986.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_986.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_986.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_986.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_986.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_986.6.jpg"
             }
         ]
     },
@@ -454,14 +482,34 @@ const productosCharmsBeads = [
         "id": 984,
         "categoria": "Charms Beads",
         "precio": 55.0,
-        "imagen": "imagenes/charms_beads/chb_984.0.jpg",
+        "imagen": "imagenes/charms_beads/chb_984.0.webp",
         "stockTallas": {
             "1.0": 1
         },
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_beads/chb_984.0.jpg"
+                "url": "imagenes/charms_beads/chb_984.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_984.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_984.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_984.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_984.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_984.6.jpg"
             }
         ]
     },
@@ -533,6 +581,26 @@ const productosCharmsBeads = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_beads/chb_979.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_979.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_979.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_979.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_979.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_979.6.jpg"
             }
         ]
     },
@@ -576,6 +644,26 @@ const productosCharmsBeads = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_beads/chb_976.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_976.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_976.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_976.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_976.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_976.6.jpg"
             }
         ]
     },

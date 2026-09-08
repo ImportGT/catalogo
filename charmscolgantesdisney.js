@@ -144,7 +144,7 @@ const productosCharmsColgantesDisney = [
     {
         "id": 276,
         "categoria": "Charms Colgantes Disney",
-        "precio": 70.0,
+        "precio": 80.0,
         "imagen": "imagenes/charms_colgantes_disney/chcd_276.0.jpg",
         "stockTallas": {},
         "galeria": [
@@ -847,7 +847,7 @@ const productosCharmsColgantesDisney = [
     {
         "id": 233,
         "categoria": "Charms Colgantes Disney",
-        "precio": 65.0,
+        "precio": 75.0,
         "imagen": "imagenes/charms_colgantes_disney/chcd_233.0.jpg",
         "stockTallas": {},
         "galeria": [
@@ -977,7 +977,7 @@ const productosCharmsColgantesDisney = [
     {
         "id": 223,
         "categoria": "Charms Colgantes Disney",
-        "precio": 65.0,
+        "precio": 70.0,
         "imagen": "imagenes/charms_colgantes_disney/chcd_223.0.jpg",
         "stockTallas": {},
         "galeria": [
