@@ -1,0 +1,55 @@
+{
+    "cliente": "SO KIUT",
+    "margen": "0",
+    "anticipo": "0.00",
+    "items": [
+        {
+            "id": 554,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 85.0,
+            "imagen": "imagenes/aretes/aretes_554.webp"
+        },
+        {
+            "id": 508,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/aretes/aretes_508.webp"
+        },
+        {
+            "id": 504,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/aretes/aretes_504.webp"
+        },
+        {
+            "id": 489,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 75.0,
+            "imagen": "imagenes/aretes/aretes_489.jpg"
+        },
+        {
+            "id": 487,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/aretes/aretes_487.jpg"
+        },
+        {
+            "id": 435,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/aretes/aretes_435.jpg"
+        }
+    ]
+}

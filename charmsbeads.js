@@ -561,9 +561,7 @@ const productosCharmsBeads = [
         "categoria": "Charms Beads",
         "precio": 55.0,
         "imagen": "imagenes/charms_beads/chb_980.0.jpg",
-        "stockTallas": {
-            "1.0": 1
-        },
+        "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
@@ -742,9 +740,7 @@ const productosCharmsBeads = [
         "categoria": "Charms Beads",
         "precio": 55.0,
         "imagen": "imagenes/charms_beads/chb_973.0.webp",
-        "stockTallas": {
-            "1.0": 1
-        },
+        "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
@@ -1051,7 +1047,9 @@ const productosCharmsBeads = [
         "categoria": "Charms Beads",
         "precio": 55.0,
         "imagen": "imagenes/charms_beads/chb_956.jpg",
-        "stockTallas": {},
+        "stockTallas": {
+            "1.0": 1
+        },
         "galeria": [
             {
                 "tipo": "imagen",
