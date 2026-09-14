@@ -1,0 +1,71 @@
+{
+    "cliente": "CONY RAMIREZ",
+    "margen": "0",
+    "anticipo": "280",
+    "items": [
+        {
+            "id": 205,
+            "categoria": "Anillos Pandora",
+            "talla": "56",
+            "qty": 1,
+            "precio_base": 75.0,
+            "imagen": "imagenes/anillos/anillos_205.jpg"
+        },
+        {
+            "id": 530,
+            "categoria": "Anillos Pandora",
+            "talla": "58",
+            "qty": 1,
+            "precio_base": 75.0,
+            "imagen": "imagenes/anillos/anillos_530.jpg"
+        },
+        {
+            "id": 221,
+            "categoria": "Anillos Pandora",
+            "talla": "58",
+            "qty": 1,
+            "precio_base": 75.0,
+            "imagen": "imagenes/anillos/anillos_221.jpg"
+        },
+        {
+            "id": 440,
+            "categoria": "Anillos Pandora",
+            "talla": "54",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/anillos/anillos_440.jpg"
+        },
+        {
+            "id": 439,
+            "categoria": "Anillos Pandora",
+            "talla": "54",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/anillos/anillos_439.jpg"
+        },
+        {
+            "id": 482,
+            "categoria": "Anillos Pandora",
+            "talla": "54",
+            "qty": 1,
+            "precio_base": 60.0,
+            "imagen": "imagenes/anillos/anillos_482.jpg"
+        },
+        {
+            "id": 438,
+            "categoria": "Anillos Pandora",
+            "talla": "54",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/anillos/anillos_438.jpg"
+        },
+        {
+            "id": 549,
+            "categoria": "Anillos Pandora",
+            "talla": "58",
+            "qty": 1,
+            "precio_base": 80.0,
+            "imagen": "imagenes/anillos/anillos_549.1.webp"
+        }
+    ]
+}

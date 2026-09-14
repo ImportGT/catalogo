@@ -714,60 +714,60 @@ const productosAretes = [
         ]
     },
     {
-        "id": 538,
+        "id": "538Pequeños",
         "categoria": "Aretes",
         "precio": 65.0,
-        "imagen": "imagenes/aretes/aretes_538.jpg",
+        "imagen": "imagenes/aretes/aretes_538Pequeños.1.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538.jpg"
+                "url": "imagenes/aretes/aretes_538Pequeños.1.jpg"
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538.2.jpg"
+                "url": "imagenes/aretes/aretes_538Pequeños.2.jpg"
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538.3.jpg"
+                "url": "imagenes/aretes/aretes_538Pequeños.3.jpg"
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538.4.jpg"
+                "url": "imagenes/aretes/aretes_538Pequeños.4.jpg"
             },
             {
                 "tipo": "video",
-                "url": "imagenes/aretes/aretes_538.5.mp4"
+                "url": "imagenes/aretes/aretes_538Pequeños.5.mp4"
             }
         ]
     },
     {
-        "id": 538,
+        "id": "538Grandes",
         "categoria": "Aretes",
         "precio": 70.0,
-        "imagen": "imagenes/aretes/aretes_538.jpg",
+        "imagen": "imagenes/aretes/aretes_538Grandes.2.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538.jpg"
+                "url": "imagenes/aretes/aretes_538Grandes.2.jpg"
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538.2.jpg"
+                "url": "imagenes/aretes/aretes_538Grandes.3.jpg"
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538.4.jpg"
+                "url": "imagenes/aretes/aretes_538Grandes.4.jpg"
             },
             {
                 "tipo": "video",
-                "url": "imagenes/aretes/aretes_538.5.mp4"
+                "url": "imagenes/aretes/aretes_538Grandes.5.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Grandes.jpg"
             }
         ]
     },

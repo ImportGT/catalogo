@@ -41,6 +41,47 @@ const productosAnillosSwa = [
         ]
     },
     {
+        "id": 52,
+        "categoria": "Anillos Swarovski",
+        "precio": 145.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_52.avif",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_52.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_52.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_52.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_52.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_52.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_52.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_52.7.webm"
+            }
+        ]
+    },
+    {
         "id": 51,
         "categoria": "Anillos Swarovski",
         "precio": 110.0,
