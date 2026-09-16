@@ -1592,7 +1592,7 @@ const productosAnillos = [
     {
         "id": 530,
         "categoria": "Anillos",
-        "precio": 75.0,
+        "precio": 80.0,
         "imagen": "imagenes/anillos/anillos_530.jpg",
         "stockTallas": {},
         "galeria": [
@@ -2528,7 +2528,7 @@ const productosAnillos = [
     {
         "id": 490,
         "categoria": "Anillos",
-        "precio": 65.0,
+        "precio": 70.0,
         "imagen": "imagenes/anillos/anillos_490.jpg",
         "stockTallas": {},
         "galeria": [
@@ -6257,7 +6257,7 @@ const productosAnillos = [
     {
         "id": 205,
         "categoria": "Anillos",
-        "precio": 75.0,
+        "precio": 80.0,
         "imagen": "imagenes/anillos/anillos_205.jpg",
         "stockTallas": {},
         "galeria": [

@@ -9339,7 +9339,7 @@ const productosCharmsBeads = [
     {
         "id": 317,
         "categoria": "Charms Beads",
-        "precio": 65.0,
+        "precio": 55.0,
         "imagen": "imagenes/charms_beads/chb_317.0.jpg",
         "stockTallas": {},
         "galeria": [

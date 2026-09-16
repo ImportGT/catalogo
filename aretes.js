@@ -256,7 +256,7 @@ const productosAretes = [
     {
         "id": 554,
         "categoria": "Aretes",
-        "precio": 85.0,
+        "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_554.webp",
         "stockTallas": {},
         "galeria": [
@@ -3313,7 +3313,7 @@ const productosAretes = [
     {
         "id": 359,
         "categoria": "Aretes",
-        "precio": 70.0,
+        "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_359.jpg",
         "stockTallas": {},
         "galeria": [
