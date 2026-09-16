@@ -66,6 +66,35 @@ const productosAretesSwa = [
         ]
     },
     {
+        "id": 39,
+        "categoria": "Aretes Swarovski",
+        "precio": 150.0,
+        "imagen": "imagenes/SWA/aretes_swa/aretes_swa_39.avif",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_39.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_39.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_39.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_39.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_39.5.avif"
+            }
+        ]
+    },
+    {
         "id": 38,
         "categoria": "Aretes Swarovski",
         "precio": 120.0,
