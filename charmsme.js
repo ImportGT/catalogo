@@ -1,5 +1,42 @@
 const productosCharmsME = [
     {
+        "id": 132,
+        "categoria": "Charms ME",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_me/chme_132.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_132.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_132.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_132.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_132.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_132.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_132.6.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_132.7.mp4"
+            }
+        ]
+    },
+    {
         "id": 131,
         "categoria": "Charms ME",
         "precio": 65.0,

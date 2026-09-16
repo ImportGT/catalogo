@@ -1,5 +1,137 @@
 const productosCharmsColgantes = [
     {
+        "id": 1020,
+        "categoria": "Charms Colgantes",
+        "precio": 75.0,
+        "imagen": "imagenes/charms_colgantes/chc.1020.0.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1020.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1020.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1020.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1020.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1020.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_colgantes/chc.1020.6.mp4"
+            }
+        ]
+    },
+    {
+        "id": 1019,
+        "categoria": "Charms Colgantes",
+        "precio": 85.0,
+        "imagen": "imagenes/charms_colgantes/chc.1019.0.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1019.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1019.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1019.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1019.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1019.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_colgantes/chc.1019.6.mp4"
+            }
+        ]
+    },
+    {
+        "id": 1018,
+        "categoria": "Charms Colgantes",
+        "precio": 75.0,
+        "imagen": "imagenes/charms_colgantes/chc.1018.0.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1018.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1018.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1018.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1018.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1018.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_colgantes/chc.1018.6.mp4"
+            }
+        ]
+    },
+    {
+        "id": 1017,
+        "categoria": "Charms Colgantes",
+        "precio": 75.0,
+        "imagen": "imagenes/charms_colgantes/chc.1017.0.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1017.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1017.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1017.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1017.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes/chc.1017.5.webp"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_colgantes/chc.1017.6.mp4"
+            }
+        ]
+    },
+    {
         "id": 1016,
         "categoria": "Charms Colgantes",
         "precio": 75.0,
@@ -97,7 +229,7 @@ const productosCharmsColgantes = [
     {
         "id": 1013,
         "categoria": "Charms Colgantes",
-        "precio": 85.0,
+        "precio": 75.0,
         "imagen": "imagenes/charms_colgantes/chc.1013.0.webp",
         "stockTallas": {},
         "galeria": [
