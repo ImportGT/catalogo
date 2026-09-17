@@ -1,5 +1,170 @@
 const productosCharmsBeads = [
     {
+        "id": 1004,
+        "categoria": "Charms Beads",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_beads/chb_1004.0.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1004.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1004.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1004.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1004.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1004.5.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1004.6.webp"
+            }
+        ]
+    },
+    {
+        "id": 1003,
+        "categoria": "Charms Beads",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_beads/chb_1003.0.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1003.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1003.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1003.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1003.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1003.5.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1003.6.webp"
+            }
+        ]
+    },
+    {
+        "id": 1002,
+        "categoria": "Charms Beads",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_beads/chb_1002.0.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1002.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1002.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1002.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1002.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1002.5.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1002.6.webp"
+            }
+        ]
+    },
+    {
+        "id": 1001,
+        "categoria": "Charms Beads",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_beads/chb_1001.0.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1001.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1001.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1001.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1001.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1001.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1001.6.jpg"
+            }
+        ]
+    },
+    {
+        "id": 1000,
+        "categoria": "Charms Beads",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_beads/chb_1000.0.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1000.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1000.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1000.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1000.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1000.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1000.6.jpg"
+            }
+        ]
+    },
+    {
         "id": 999,
         "categoria": "Charms Beads",
         "precio": 65.0,
