@@ -1,0 +1,39 @@
+{
+    "cliente": "JOSSELINE PAIZ",
+    "margen": "0",
+    "anticipo": "437.50",
+    "items": [
+        {
+            "id": 381,
+            "categoria": "Collares Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 440.0,
+            "imagen": "imagenes/collares/collares_381.0.jpg"
+        },
+        {
+            "id": 540,
+            "categoria": "Anillos Pandora",
+            "talla": "56",
+            "qty": 1,
+            "precio_base": 90.0,
+            "imagen": "imagenes/anillos/anillos_540.jpg"
+        },
+        {
+            "id": 995,
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/charms_colgantes/chc.995.0.jpg"
+        },
+        {
+            "id": 502,
+            "categoria": "Pulseras Pandora",
+            "talla": "19",
+            "qty": 1,
+            "precio_base": 280.0,
+            "imagen": "imagenes/pulseras/pulseras_502.0.jpg"
+        }
+    ]
+}

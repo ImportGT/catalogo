@@ -1,7 +1,7 @@
 {
     "cliente": "JOSEPH FERNANDEZ",
     "margen": "0",
-    "anticipo": "215",
+    "anticipo": "320",
     "items": [
         {
             "id": 821,
@@ -50,6 +50,30 @@
             "qty": 1,
             "precio_base": 65.0,
             "imagen": "imagenes/anillos/anillos_490.jpg"
+        },
+        {
+            "id": 147,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 75.0,
+            "imagen": "imagenes/aretes/aretes_147.jpg"
+        },
+        {
+            "id": 508,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/aretes/aretes_508.webp"
+        },
+        {
+            "id": 768,
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/charms_colgantes/chc.768.0.jpg"
         }
     ]
 }

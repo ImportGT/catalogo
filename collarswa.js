@@ -1,38 +1,5 @@
 const productosCollaresSwa = [
     {
-        "id": 202,
-        "categoria": "Collares Swarovski",
-        "precio": 235.0,
-        "imagen": "imagenes/SWA/collares_swa/collares_swa_202.avif",
-        "stockTallas": {},
-        "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/collares_swa/collares_swa_202.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/collares_swa/collares_swa_202.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/collares_swa/collares_swa_202.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/collares_swa/collares_swa_202.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/collares_swa/collares_swa_202.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/collares_swa/collares_swa_202.6.avif"
-            }
-        ]
-    },
-    {
         "id": 55,
         "categoria": "Collares Swarovski",
         "precio": 460.0,
@@ -1273,7 +1240,7 @@ const productosCollaresSwa = [
     {
         "id": 17,
         "categoria": "Collares Swarovski",
-        "precio": 920.0,
+        "precio": 1030.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_17.avif",
         "stockTallas": {},
         "galeria": [
@@ -1314,7 +1281,7 @@ const productosCollaresSwa = [
     {
         "id": 16,
         "categoria": "Collares Swarovski",
-        "precio": 395.0,
+        "precio": 470.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_16.avif",
         "stockTallas": {},
         "galeria": [
@@ -1343,7 +1310,7 @@ const productosCollaresSwa = [
     {
         "id": 15,
         "categoria": "Collares Swarovski",
-        "precio": 270.0,
+        "precio": 330.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_15.avif",
         "stockTallas": {},
         "galeria": [
@@ -1384,7 +1351,7 @@ const productosCollaresSwa = [
     {
         "id": 14,
         "categoria": "Collares Swarovski",
-        "precio": 120.0,
+        "precio": 175.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_14.avif",
         "stockTallas": {},
         "galeria": [
@@ -1421,7 +1388,7 @@ const productosCollaresSwa = [
     {
         "id": 13,
         "categoria": "Collares Swarovski",
-        "precio": 145.0,
+        "precio": 190.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_13.avif",
         "stockTallas": {},
         "galeria": [
@@ -1454,7 +1421,7 @@ const productosCollaresSwa = [
     {
         "id": 12,
         "categoria": "Collares Swarovski",
-        "precio": 125.0,
+        "precio": 150.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_12.avif",
         "stockTallas": {},
         "galeria": [
@@ -1483,7 +1450,7 @@ const productosCollaresSwa = [
     {
         "id": 11,
         "categoria": "Collares Swarovski",
-        "precio": 115.0,
+        "precio": 145.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_11.avif",
         "stockTallas": {},
         "galeria": [
@@ -1524,7 +1491,7 @@ const productosCollaresSwa = [
     {
         "id": 10,
         "categoria": "Collares Swarovski",
-        "precio": 125.0,
+        "precio": 150.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_10.avif",
         "stockTallas": {},
         "galeria": [
@@ -1557,7 +1524,7 @@ const productosCollaresSwa = [
     {
         "id": 9,
         "categoria": "Collares Swarovski",
-        "precio": 170.0,
+        "precio": 215.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_9.avif",
         "stockTallas": {},
         "galeria": [
@@ -1594,7 +1561,7 @@ const productosCollaresSwa = [
     {
         "id": 8,
         "categoria": "Collares Swarovski",
-        "precio": 295.0,
+        "precio": 345.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_8.avif",
         "stockTallas": {},
         "galeria": [
@@ -1627,7 +1594,7 @@ const productosCollaresSwa = [
     {
         "id": 7,
         "categoria": "Collares Swarovski",
-        "precio": 295.0,
+        "precio": 345.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_7.jpg",
         "stockTallas": {},
         "galeria": [
@@ -1656,7 +1623,7 @@ const productosCollaresSwa = [
     {
         "id": 6,
         "categoria": "Collares Swarovski",
-        "precio": 305.0,
+        "precio": 355.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_6.jpg",
         "stockTallas": {},
         "galeria": [
@@ -1697,7 +1664,7 @@ const productosCollaresSwa = [
     {
         "id": 5,
         "categoria": "Collares Swarovski",
-        "precio": 405.0,
+        "precio": 470.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_5.jpg",
         "stockTallas": {},
         "galeria": [
@@ -1738,7 +1705,7 @@ const productosCollaresSwa = [
     {
         "id": 4,
         "categoria": "Collares Swarovski",
-        "precio": 105.0,
+        "precio": 125.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_4.jpg",
         "stockTallas": {},
         "galeria": [
@@ -1775,7 +1742,7 @@ const productosCollaresSwa = [
     {
         "id": 3,
         "categoria": "Collares Swarovski",
-        "precio": 160.0,
+        "precio": 200.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_3.jpg",
         "stockTallas": {},
         "galeria": [
@@ -1808,7 +1775,7 @@ const productosCollaresSwa = [
     {
         "id": 2,
         "categoria": "Collares Swarovski",
-        "precio": 155.0,
+        "precio": 180.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_2.jpg",
         "stockTallas": {},
         "galeria": [
@@ -1837,7 +1804,7 @@ const productosCollaresSwa = [
     {
         "id": 1,
         "categoria": "Collares Swarovski",
-        "precio": 105.0,
+        "precio": 125.0,
         "imagen": "imagenes/SWA/collares_swa/collares_swa_1.jpg",
         "stockTallas": {},
         "galeria": [

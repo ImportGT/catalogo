@@ -370,12 +370,32 @@ const productosPulseras = [
         "id": 504,
         "categoria": "Pulseras",
         "precio": 150.0,
-        "imagen": "imagenes/pulseras/pulseras_504.0.jpg",
+        "imagen": "imagenes/pulseras/pulseras_504.0.webp",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/pulseras/pulseras_504.0.jpg"
+                "url": "imagenes/pulseras/pulseras_504.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_504.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_504.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_504.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_504.5.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_504.6.webp"
             }
         ]
     },
@@ -395,7 +415,7 @@ const productosPulseras = [
     {
         "id": 502,
         "categoria": "Pulseras",
-        "precio": 280.0,
+        "precio": 250.0,
         "imagen": "imagenes/pulseras/pulseras_502.0.jpg",
         "stockTallas": {
             "1.0": 1
@@ -671,12 +691,28 @@ const productosPulseras = [
         "id": 483,
         "categoria": "Pulseras",
         "precio": 150.0,
-        "imagen": "imagenes/pulseras/pulseras_483.0.jpg",
+        "imagen": "imagenes/pulseras/pulseras_483.0.webp",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/pulseras/pulseras_483.0.jpg"
+                "url": "imagenes/pulseras/pulseras_483.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_483.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_483.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_483.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_483.5.webp"
             }
         ]
     },
@@ -807,6 +843,22 @@ const productosPulseras = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/pulseras/pulseras_473.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_473.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_473.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_473.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_473.6.jpg"
             }
         ]
     },
@@ -872,6 +924,22 @@ const productosPulseras = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/pulseras/pulseras_468.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_468.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_468.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_468.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/pulseras/pulseras_468.5.mp4"
             }
         ]
     },
@@ -2790,12 +2858,24 @@ const productosPulseras = [
         "id": 320,
         "categoria": "Pulseras",
         "precio": 150.0,
-        "imagen": "imagenes/pulseras/pulseras_320.0.jpg",
+        "imagen": "imagenes/pulseras/pulseras_320.0.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/pulseras/pulseras_320.0.jpg"
+                "url": "imagenes/pulseras/pulseras_320.0.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_320.2.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_320.3.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_320.4.png"
             }
         ]
     },

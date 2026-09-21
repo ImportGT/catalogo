@@ -829,7 +829,7 @@ const productosCharmsColgantes = [
     {
         "id": 995,
         "categoria": "Charms Colgantes",
-        "precio": 65.0,
+        "precio": 70.0,
         "imagen": "imagenes/charms_colgantes/chc.995.0.jpg",
         "stockTallas": {},
         "galeria": [

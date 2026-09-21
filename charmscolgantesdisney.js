@@ -947,12 +947,32 @@ const productosCharmsColgantesDisney = [
         "id": 233,
         "categoria": "Charms Colgantes Disney",
         "precio": 75.0,
-        "imagen": "imagenes/charms_colgantes_disney/chcd_233.0.jpg",
+        "imagen": "imagenes/charms_colgantes_disney/chcd_233.0.webp",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_colgantes_disney/chcd_233.0.jpg"
+                "url": "imagenes/charms_colgantes_disney/chcd_233.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_233.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_233.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_233.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_233.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_233.6.webp"
             }
         ]
     },
@@ -1083,6 +1103,26 @@ const productosCharmsColgantesDisney = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_colgantes_disney/chcd_223.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_223.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_223.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_223.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_223.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_223.6.jpg"
             }
         ]
     },

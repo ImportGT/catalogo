@@ -1,0 +1,55 @@
+{
+    "cliente": "SO KIUT",
+    "margen": "0",
+    "anticipo": "0.00",
+    "items": [
+        {
+            "id": 435,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/aretes/aretes_435.jpg"
+        },
+        {
+            "id": 289,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 85.0,
+            "imagen": "imagenes/aretes/aretes_289.jpg"
+        },
+        {
+            "id": 282,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/aretes/aretes_282.jpg"
+        },
+        {
+            "id": 1001,
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/charms_colgantes/chc.1001.0.jpg"
+        },
+        {
+            "id": 991,
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "imagen": "imagenes/charms_colgantes/chc.991.0.jpg"
+        },
+        {
+            "id": 989,
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "imagen": "imagenes/charms_colgantes/chc.989.0.jpg"
+        }
+    ]
+}
