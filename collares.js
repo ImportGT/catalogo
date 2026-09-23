@@ -4044,7 +4044,7 @@ const productosCollares = [
     {
         "id": 107,
         "categoria": "Collares",
-        "precio": 110.0,
+        "precio": 120.0,
         "imagen": "imagenes/collares/collares_107.0.jpg",
         "stockTallas": {},
         "galeria": [

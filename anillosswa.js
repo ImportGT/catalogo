@@ -1,9 +1,9 @@
 const productosAnillosSwa = [
     {
-        "id": 100,
+        "id": 54,
         "categoria": "Anillos Swarovski",
-        "precio": 115.0,
-        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_100.avif",
+        "precio": 120.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_54.avif",
         "stockTallas": {
             "6": 1,
             "7": 1,
@@ -12,31 +12,72 @@ const productosAnillosSwa = [
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/anillos_swa/anillos_swa_100.avif"
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_54.avif"
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/anillos_swa/anillos_swa_100.2.avif"
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_54.2.avif"
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/anillos_swa/anillos_swa_100.3.avif"
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_54.3.avif"
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/anillos_swa/anillos_swa_100.4.avif"
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_54.4.avif"
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/anillos_swa/anillos_swa_100.5.avif"
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_54.5.avif"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "categoria": "Anillos Swarovski",
+        "precio": 135.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_53.avif",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_53.avif"
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/anillos_swa/anillos_swa_100.6.avif"
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_53.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_53.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_53.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_53.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_53.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_53.7.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_53.8.avif"
             },
             {
                 "tipo": "video",
-                "url": "imagenes/SWA/anillos_swa/anillos_swa_100.7.webm"
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_53.9.webm"
             }
         ]
     },

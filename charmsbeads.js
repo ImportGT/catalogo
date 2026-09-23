@@ -1,5 +1,59 @@
 const productosCharmsBeads = [
     {
+        "id": 1016,
+        "categoria": "Charms Beads",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_beads/chb_1016.0.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1016.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1016.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1016.3.jpg"
+            }
+        ]
+    },
+    {
+        "id": 1015,
+        "categoria": "Charms Beads",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_beads/chb_1015.0.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1015.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1015.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1015.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1015.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads/chb_1015.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_beads/chb_1015.6.mp4"
+            }
+        ]
+    },
+    {
         "id": 1014,
         "categoria": "Charms Beads",
         "precio": 65.0,
@@ -2851,7 +2905,7 @@ const productosCharmsBeads = [
     {
         "id": 854,
         "categoria": "Charms Beads",
-        "precio": 65.0,
+        "precio": 85.0,
         "imagen": "imagenes/charms_beads/chb_854.0.jpg",
         "stockTallas": {},
         "galeria": [
@@ -2942,7 +2996,7 @@ const productosCharmsBeads = [
     {
         "id": 847,
         "categoria": "Charms Beads",
-        "precio": 65.0,
+        "precio": 85.0,
         "imagen": "imagenes/charms_beads/chb_847.0.jpg",
         "stockTallas": {},
         "galeria": [
@@ -2994,7 +3048,7 @@ const productosCharmsBeads = [
     {
         "id": 843,
         "categoria": "Charms Beads",
-        "precio": 65.0,
+        "precio": 85.0,
         "imagen": "imagenes/charms_beads/chb_843.0.jpg",
         "stockTallas": {},
         "galeria": [
@@ -3098,7 +3152,7 @@ const productosCharmsBeads = [
     {
         "id": 835,
         "categoria": "Charms Beads",
-        "precio": 65.0,
+        "precio": 75.0,
         "imagen": "imagenes/charms_beads/chb_835.0.jpg",
         "stockTallas": {},
         "galeria": [
@@ -3111,7 +3165,7 @@ const productosCharmsBeads = [
     {
         "id": 834,
         "categoria": "Charms Beads",
-        "precio": 65.0,
+        "precio": 75.0,
         "imagen": "imagenes/charms_beads/chb_834.0.jpg",
         "stockTallas": {},
         "galeria": [
@@ -3124,7 +3178,7 @@ const productosCharmsBeads = [
     {
         "id": 833,
         "categoria": "Charms Beads",
-        "precio": 65.0,
+        "precio": 75.0,
         "imagen": "imagenes/charms_beads/chb_833.0.jpg",
         "stockTallas": {},
         "galeria": [
@@ -3280,7 +3334,7 @@ const productosCharmsBeads = [
     {
         "id": 821,
         "categoria": "Charms Beads",
-        "precio": 65.0,
+        "precio": 80.0,
         "imagen": "imagenes/charms_beads/chb_821.0.jpg",
         "stockTallas": {},
         "galeria": [
