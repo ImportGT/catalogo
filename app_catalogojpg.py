@@ -1,4 +1,5 @@
 import os
+import re
 import pandas as pd
 import tkinter as tk
 from tkinter import messagebox, ttk
@@ -8,7 +9,7 @@ class AppGeneradorCatalogoJPG:
     def __init__(self, root):
         self.root = root
         self.root.title("Generador de Catálogos JPG - Joyería")
-        self.root.geometry("520x420")
+        self.root.geometry("520x450")
         self.root.config(bg="#f4f6f9")
 
         self.tareas_pandora = [
@@ -43,6 +44,11 @@ class AppGeneradorCatalogoJPG:
             ("PULSERAS BP.xlsx", "Pulseras Baño de Plata", "imagenes/BP/pulserasbp")
         ]
 
+        self.tareas_tous = [
+            ("ANILLOS TOUS.xlsx", "Anillos Tous", "imagenes/TOUS/anillos_tous"),
+            ("DIJES TOUS.xlsx", "Dijes Tous", "imagenes/TOUS/dijes_tous")
+        ]
+
         # --- INTERFAZ GRÁFICA ---
         frame_main = tk.LabelFrame(root, text=" Configuración de Catálogo JPG ", font=("Helvetica", 10, "bold"), bg="#f4f6f9", fg="#1F4E79", padx=15, pady=15)
         frame_main.pack(fill="both", expand=True, padx=20, pady=20)
@@ -53,10 +59,11 @@ class AppGeneradorCatalogoJPG:
         tk.Radiobutton(frame_main, text="Pandora (Completo)", variable=self.coleccion_var, value="Pandora", bg="#f4f6f9", font=("Helvetica", 9)).pack(anchor="w")
         tk.Radiobutton(frame_main, text="Swarovski", variable=self.coleccion_var, value="Swarovski", bg="#f4f6f9", font=("Helvetica", 9)).pack(anchor="w")
         tk.Radiobutton(frame_main, text="Baño de Plata", variable=self.coleccion_var, value="Bano_de_Plata", bg="#f4f6f9", font=("Helvetica", 9)).pack(anchor="w")
+        tk.Radiobutton(frame_main, text="Tous", variable=self.coleccion_var, value="Tous", bg="#f4f6f9", font=("Helvetica", 9)).pack(anchor="w")
 
         self.precios_var = tk.BooleanVar(value=True)
         chk_precios = tk.Checkbutton(frame_main, text="Incluir Precios en las Imágenes", variable=self.precios_var, bg="#f4f6f9", font=("Helvetica", 9, "bold"), command=self.toggle_margen)
-        chk_precios.pack(anchor="w", pady=(15, 5))
+        chk_precios.pack(anchor="w", pady=(10, 5))
 
         frame_margen = tk.Frame(frame_main, bg="#f4f6f9")
         frame_margen.pack(anchor="w", pady=5)
@@ -90,6 +97,9 @@ class AppGeneradorCatalogoJPG:
         elif col_op == "Swarovski":
             tareas = self.tareas_swarovski
             nombre_col = "Swarovski"
+        elif col_op == "Tous":
+            tareas = self.tareas_tous
+            nombre_col = "Tous"
         else:
             tareas = self.tareas_bano_plata
             nombre_col = "Bano_de_Plata"
@@ -107,7 +117,6 @@ class AppGeneradorCatalogoJPG:
 
         extensiones_validas = ['.jpg', '.jpeg', '.png', '.webp', '.avif', '.bmp', '.gif', '.tiff']
 
-        # Dimensiones del lienzo JPG (Formato vertical tipo plantilla web/móvil)
         canvas_width = 1200
         cols = 3
         margin_x = 50
@@ -127,7 +136,9 @@ class AppGeneradorCatalogoJPG:
             if not os.path.exists(ruta_excel):
                 continue
             try:
-                if "swarovski" in coleccion_nombre.lower() or "swa" in carpeta_imagenes.lower():
+                if "tous" in carpeta_imagenes.lower():
+                    df = pd.read_excel(ruta_excel, header=2)
+                elif "swarovski" in coleccion_nombre.lower() or "swa" in carpeta_imagenes.lower():
                     df = pd.read_excel(ruta_excel, header=3 if "Aretes" in nombre_linea else 2)
                 elif "baño" in coleccion_nombre.lower() or "bano" in coleccion_nombre.lower() or "bp" in carpeta_imagenes.lower():
                     df = pd.read_excel(ruta_excel, header=3 if "Aretes" in nombre_linea else 2)
@@ -151,8 +162,15 @@ class AppGeneradorCatalogoJPG:
                     raw_id = row.iloc[0]
 
                 try:
-                    prod_id = int(float(raw_id))
+                    val_float = float(raw_id)
+                    if val_float.is_integer():
+                        prod_id = str(int(val_float))
+                    else:
+                        prod_id = str(raw_id).strip()
                 except (ValueError, TypeError):
+                    prod_id = str(raw_id).strip()
+
+                if not prod_id or prod_id.lower() == 'nan':
                     continue
 
                 precio_base = 0.0
@@ -167,9 +185,11 @@ class AppGeneradorCatalogoJPG:
                 precio_final = precio_base * (1 + (margen_porcentaje / 100))
 
                 img_folder = carpeta_imagenes.lower()
-                separador_char = "_"
-                
-                if "swa" in img_folder:
+                if "dijes_tous" in img_folder:
+                    prefijo_base = "dijes_tous"
+                elif "anillos_tous" in img_folder:
+                    prefijo_base = "anillos_tous"
+                elif "swa" in img_folder:
                     if "Anillos" in nombre_linea: prefijo_base = "anillos_swa"
                     elif "Aretes" in nombre_linea: prefijo_base = "aretes_swa"
                     elif "Pulseras" in nombre_linea: prefijo_base = "pulseras_swa"
@@ -193,21 +213,20 @@ class AppGeneradorCatalogoJPG:
                     elif "Charms Cadenas de Seguridad" in nombre_linea: prefijo_base = "chcsd"
                     elif "Charms Beads Disney" in nombre_linea: prefijo_base = "chbd"
                     elif "Charms Colgantes Disney" in nombre_linea: prefijo_base = "chcd"
-                    elif "Charms Colgantes" in nombre_linea:
-                        prefijo_base = "chc"
-                        separador_char = "."
+                    elif "Charms Colgantes" in nombre_linea: prefijo_base = "chc"
                     elif "Charms Beads" in nombre_linea: prefijo_base = "chb"
                     else: prefijo_base = nombre_linea.split()[0].lower()
 
                 imagen_path = ""
-                patrones_portada = ['', '.1', '.0', '_1', '_0']
-                for suf in patrones_portada:
-                    for ext in extensiones_validas:
-                        prueba = f"{carpeta_imagenes}/{prefijo_base}{separador_char}{prod_id}{suf}{ext}"
-                        if os.path.exists(prueba):
-                            imagen_path = prueba
-                            break
-                    if imagen_path: break
+                if os.path.exists(carpeta_imagenes):
+                    base_comparacion = re.sub(r'[\s_\-\.]+', '', f"{prefijo_base}{prod_id}".lower())
+                    for archivo_dir in os.listdir(carpeta_imagenes):
+                        ext = archivo_dir.split('.')[-1].lower()
+                        if ext in [e.replace('.', '') for e in extensiones_validas]:
+                            archivo_limpio = re.sub(r'[\s_\-\.]+', '', archivo_dir.lower())
+                            if archivo_limpio.startswith(base_comparacion):
+                                imagen_path = os.path.join(carpeta_imagenes, archivo_dir)
+                                break
 
                 if imagen_path and os.path.exists(imagen_path):
                     productos_linea.append((prod_id, imagen_path, precio_final))
@@ -215,7 +234,6 @@ class AppGeneradorCatalogoJPG:
             if not productos_linea:
                 continue
 
-            # Agrupar en páginas de 15 productos por imagen JPG para mantener buena visibilidad
             productos_por_pagina = 15
             for pagina_idx in range(0, len(productos_linea), productos_por_pagina):
                 lote = productos_linea[pagina_idx:pagina_idx + productos_por_pagina]
@@ -228,7 +246,6 @@ class AppGeneradorCatalogoJPG:
                 img_canvas = Image.new("RGB", (canvas_width, canvas_height), (245, 247, 250))
                 draw = ImageDraw.Draw(img_canvas)
 
-                # Encabezado limpio
                 titulo_texto = f"{nombre_linea} (Parte {pagina_idx // productos_por_pagina + 1})" if len(productos_linea) > productos_por_pagina else nombre_linea
                 draw.text((margin_x, 40), titulo_texto, fill=(31, 78, 121), font=font_titulo)
 
@@ -237,7 +254,6 @@ class AppGeneradorCatalogoJPG:
                 col_idx = 0
 
                 for prod_id, foto_path, precio_val in lote:
-                    # Dibujar tarjeta blanca
                     draw.rectangle([curr_x, curr_y, curr_x + card_w, curr_y + card_h], fill=(255, 255, 255), outline=(220, 225, 230), width=2)
 
                     try:
@@ -246,7 +262,6 @@ class AppGeneradorCatalogoJPG:
                             prod_img = prod_img.convert("RGB")
                         prod_img.thumbnail((img_box_size, img_box_size), Image.Resampling.LANCZOS)
                         
-                        # Centrar imagen en su espacio asignado
                         p_w, p_h = prod_img.size
                         p_x = curr_x + (card_w - p_w) // 2
                         p_y = curr_y + 20 + (img_box_size - p_h) // 2
@@ -254,11 +269,9 @@ class AppGeneradorCatalogoJPG:
                     except Exception:
                         pass
 
-                    # Texto de Código
                     txt_cod = f"Cod. {prod_id}"
                     draw.text((curr_x + card_w // 2, curr_y + 315), txt_cod, fill=(44, 62, 80), font=font_codigo, anchor="mm")
 
-                    # Texto de Precio opcional
                     if mostrar_precios:
                         txt_precio = f"Q{precio_val:.2f}"
                         draw.text((curr_x + card_w // 2, curr_y + 365), txt_precio, fill=(0, 128, 0), font=font_precio, anchor="mm")

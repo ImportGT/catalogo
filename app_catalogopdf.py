@@ -1,4 +1,5 @@
 import os
+import re
 import io
 import pandas as pd
 import tkinter as tk
@@ -59,7 +60,7 @@ class AppGeneradorCatalogoPDF:
     def __init__(self, root):
         self.root = root
         self.root.title("Generador de Catálogos PDF - Joyería")
-        self.root.geometry("520x420")
+        self.root.geometry("520x480")
         self.root.config(bg="#f4f6f9")
 
         self.tareas_pandora = [
@@ -94,6 +95,11 @@ class AppGeneradorCatalogoPDF:
             ("PULSERAS BP.xlsx", "Pulseras Baño de Plata", "imagenes/BP/pulserasbp")
         ]
 
+        self.tareas_tous = [
+            ("ANILLOS TOUS.xlsx", "Anillos Tous", "imagenes/TOUS/anillos_tous"),
+            ("DIJES TOUS.xlsx", "Dijes Tous", "imagenes/TOUS/dijes_tous")
+        ]
+
         # --- INTERFAZ GRÁFICA ---
         frame_main = tk.LabelFrame(root, text=" Configuración de Catálogo PDF ", font=("Helvetica", 10, "bold"), bg="#f4f6f9", fg="#1F4E79", padx=15, pady=15)
         frame_main.pack(fill="both", expand=True, padx=20, pady=20)
@@ -104,10 +110,15 @@ class AppGeneradorCatalogoPDF:
         tk.Radiobutton(frame_main, text="Pandora (Completo)", variable=self.coleccion_var, value="Pandora", bg="#f4f6f9", font=("Helvetica", 9)).pack(anchor="w")
         tk.Radiobutton(frame_main, text="Swarovski", variable=self.coleccion_var, value="Swarovski", bg="#f4f6f9", font=("Helvetica", 9)).pack(anchor="w")
         tk.Radiobutton(frame_main, text="Baño de Plata", variable=self.coleccion_var, value="Bano_de_Plata", bg="#f4f6f9", font=("Helvetica", 9)).pack(anchor="w")
+        tk.Radiobutton(frame_main, text="Tous", variable=self.coleccion_var, value="Tous", bg="#f4f6f9", font=("Helvetica", 9)).pack(anchor="w")
 
         self.precios_var = tk.BooleanVar(value=True)
         chk_precios = tk.Checkbutton(frame_main, text="Incluir Precios en el Catálogo", variable=self.precios_var, bg="#f4f6f9", font=("Helvetica", 9, "bold"), command=self.toggle_margen)
-        chk_precios.pack(anchor="w", pady=(15, 5))
+        chk_precios.pack(anchor="w", pady=(10, 2))
+
+        self.galeria_var = tk.BooleanVar(value=True)
+        chk_galeria = tk.Checkbutton(frame_main, text="Agregar Galería de Imágenes Adicionales", variable=self.galeria_var, bg="#f4f6f9", font=("Helvetica", 9, "bold"))
+        chk_galeria.pack(anchor="w", pady=(5, 5))
 
         frame_margen = tk.Frame(frame_main, bg="#f4f6f9")
         frame_margen.pack(anchor="w", pady=5)
@@ -129,6 +140,7 @@ class AppGeneradorCatalogoPDF:
     def ejecutar_generacion(self):
         col_op = self.coleccion_var.get()
         mostrar_precios = self.precios_var.get()
+        incluir_galeria = self.galeria_var.get()
         
         try:
             margen_porcentaje = float(self.entry_margen.get().strip() or 0) if mostrar_precios else 0.0
@@ -141,12 +153,15 @@ class AppGeneradorCatalogoPDF:
         elif col_op == "Swarovski":
             tareas = self.tareas_swarovski
             nombre_col = "Swarovski"
+        elif col_op == "Tous":
+            tareas = self.tareas_tous
+            nombre_col = "Tous"
         else:
             tareas = self.tareas_bano_plata
             nombre_col = "Bano_de_Plata"
 
         try:
-            self.generar_pdf_estructurado(tareas, nombre_col, mostrar_precios, margen_porcentaje)
+            self.generar_pdf_estructurado(tareas, nombre_col, mostrar_precios, margen_porcentaje, incluir_galeria)
             messagebox.showinfo("¡Éxito!", f"El catálogo optimizado se ha generado correctamente en 'CATALOGOS PDF'.")
         except Exception as e:
             messagebox.showerror("Error", f"Ocurrió un error al generar el PDF: {e}")
@@ -164,7 +179,7 @@ class AppGeneradorCatalogoPDF:
         except Exception:
             return ruta_imagen
 
-    def generar_pdf_estructurado(self, tareas_coleccion, coleccion_nombre, mostrar_precios=True, margen_porcentaje=0):
+    def generar_pdf_estructurado(self, tareas_coleccion, coleccion_nombre, mostrar_precios=True, margen_porcentaje=0, incluir_galeria=True):
         carpeta_destino = "CATALOGOS PDF"
         if not os.path.exists(carpeta_destino):
             os.makedirs(carpeta_destino)
@@ -173,6 +188,8 @@ class AppGeneradorCatalogoPDF:
             nombre_archivo_final = "PRECIOS PANDORA.pdf" if mostrar_precios else "CATALOGO PANDORA.pdf"
         elif coleccion_nombre == "Swarovski":
             nombre_archivo_final = "PRECIOS SWAROVSKI.pdf" if mostrar_precios else "CATALOGO SWAROVSKI.pdf"
+        elif coleccion_nombre == "Tous":
+            nombre_archivo_final = "PRECIOS TOUS.pdf" if mostrar_precios else "CATALOGO TOUS.pdf"
         else:
             nombre_archivo_final = "BAÑO DE PLATA PRECIOS.pdf" if mostrar_precios else "CATALOGO BAÑO DE PLATA.pdf"
 
@@ -190,7 +207,7 @@ class AppGeneradorCatalogoPDF:
             partes = nombre_largo.split()
             if len(partes) > 1:
                 if partes[0].lower() == "charms": return partes[1]
-                elif partes[1].lower() in ["pandora", "swarovski", "baño", "de", "plata"]: return partes[0]
+                elif partes[1].lower() in ["pandora", "swarovski", "baño", "de", "plata", "tous"]: return partes[0]
                 else: return f"{partes[0]} {partes[1]}"
             return partes[0]
 
@@ -256,7 +273,9 @@ class AppGeneradorCatalogoPDF:
             if not os.path.exists(ruta_excel):
                 continue
             try:
-                if "swarovski" in coleccion_nombre.lower() or "swa" in carpeta_imagenes.lower():
+                if "tous" in carpeta_imagenes.lower():
+                    df = pd.read_excel(ruta_excel, header=2)
+                elif "swarovski" in coleccion_nombre.lower() or "swa" in carpeta_imagenes.lower():
                     df = pd.read_excel(ruta_excel, header=3 if "Aretes" in nombre_linea else 2)
                 elif "baño" in coleccion_nombre.lower() or "bano" in coleccion_nombre.lower() or "bp" in carpeta_imagenes.lower():
                     df = pd.read_excel(ruta_excel, header=3 if "Aretes" in nombre_linea else 2)
@@ -300,8 +319,15 @@ class AppGeneradorCatalogoPDF:
                     raw_id = row.iloc[0]
 
                 try:
-                    prod_id = int(float(raw_id))
+                    val_float = float(raw_id)
+                    if val_float.is_integer():
+                        prod_id = str(int(val_float))
+                    else:
+                        prod_id = str(raw_id).strip()
                 except (ValueError, TypeError):
+                    prod_id = str(raw_id).strip()
+
+                if not prod_id or prod_id.lower() == 'nan':
                     continue
 
                 precio_base = 0.0
@@ -316,9 +342,11 @@ class AppGeneradorCatalogoPDF:
                 precio_final = precio_base * (1 + (margen_porcentaje / 100))
 
                 img_folder = carpeta_imagenes.lower()
-                separador_char = "_"
-                
-                if "swa" in img_folder:
+                if "dijes_tous" in img_folder:
+                    prefijo_base = "dijes_tous"
+                elif "anillos_tous" in img_folder:
+                    prefijo_base = "anillos_tous"
+                elif "swa" in img_folder:
                     if "Anillos" in nombre_linea: prefijo_base = "anillos_swa"
                     elif "Aretes" in nombre_linea: prefijo_base = "aretes_swa"
                     elif "Pulseras" in nombre_linea: prefijo_base = "pulseras_swa"
@@ -342,31 +370,27 @@ class AppGeneradorCatalogoPDF:
                     elif "Charms Cadenas de Seguridad" in nombre_linea: prefijo_base = "chcsd"
                     elif "Charms Beads Disney" in nombre_linea: prefijo_base = "chbd"
                     elif "Charms Colgantes Disney" in nombre_linea: prefijo_base = "chcd"
-                    elif "Charms Colgantes" in nombre_linea:
-                        prefijo_base = "chc"
-                        separador_char = "."
+                    elif "Charms Colgantes" in nombre_linea: prefijo_base = "chc"
                     elif "Charms Beads" in nombre_linea: prefijo_base = "chb"
                     else: prefijo_base = nombre_linea.split()[0].lower()
 
                 imagen_path = ""
-                patrones_portada = ['', '.1', '.0', '_1', '_0']
-                for suf in patrones_portada:
-                    for ext in extensiones_validas:
-                        prueba = f"{carpeta_imagenes}/{prefijo_base}{separador_char}{prod_id}{suf}{ext}"
-                        if os.path.exists(prueba):
-                            imagen_path = prueba
-                            break
-                    if imagen_path: break
-
                 imagenes_extras = []
-                for ext in extensiones_validas:
-                    for i in range(2, 10):
-                        prueba_extra = f"{carpeta_imagenes}/{prefijo_base}{separador_char}{prod_id}_{i}{ext}"
-                        if os.path.exists(prueba_extra):
-                            imagenes_extras.append(prueba_extra)
-                        prueba_extra_pto = f"{carpeta_imagenes}/{prefijo_base}{separador_char}{prod_id}.{i}{ext}"
-                        if os.path.exists(prueba_extra_pto):
-                            imagenes_extras.append(prueba_extra_pto)
+                if os.path.exists(carpeta_imagenes):
+                    base_comparacion = re.sub(r'[\s_\-\.]+', '', f"{prefijo_base}{prod_id}".lower())
+                    archivos_encontrados = []
+                    for archivo_dir in os.listdir(carpeta_imagenes):
+                        ext = archivo_dir.split('.')[-1].lower()
+                        if ext in [e.replace('.', '') for e in extensiones_validas]:
+                            archivo_limpio = re.sub(r'[\s_\-\.]+', '', archivo_dir.lower())
+                            if archivo_limpio.startswith(base_comparacion):
+                                archivos_encontrados.append(os.path.join(carpeta_imagenes, archivo_dir))
+                    
+                    if archivos_encontrados:
+                        archivos_encontrados = sorted(archivos_encontrados)
+                        imagen_path = archivos_encontrados[0]
+                        if incluir_galeria and len(archivos_encontrados) > 1:
+                            imagenes_extras = archivos_encontrados[1:]
 
                 link_galeria = pdf.add_link() if imagenes_extras else None
                 link_retorno = pdf.add_link() if imagenes_extras else None
@@ -426,87 +450,85 @@ class AppGeneradorCatalogoPDF:
                 else:
                     currentX += cardWidth + gapX
 
-        # Generar páginas de galerías con ajuste dinámico absoluto para garantizar 1 sola página por producto
-        for prod_id, linea_prod, link_obj, link_ret, lista_imgs, img_portada, precio_item in galerias_productos:
-            pdf.add_page()
-            pdf.set_link(link_obj, y=0)
+        if incluir_galeria:
+            for prod_id, linea_prod, link_obj, link_ret, lista_imgs, img_portada, precio_item in galerias_productos:
+                pdf.add_page()
+                pdf.set_link(link_obj, y=0)
 
-            pdf.set_font('helvetica', 'B', 14)
-            pdf.set_text_color(31, 78, 121)
-            pdf.cell(0, 8, f"Galería: Cod. {prod_id} ({linea_prod})", new_x="LMARGIN", new_y="NEXT", align='L')
-            
-            if mostrar_precios:
-                pdf.set_font('helvetica', 'B', 11)
-                pdf.set_text_color(0, 128, 0)
-                pdf.cell(0, 5, f"Precio: Q{precio_item:.2f}", new_x="LMARGIN", new_y="NEXT", align='L')
-            
-            pdf.set_font('helvetica', 'B', 9)
-            pdf.set_text_color(192, 0, 0)
-            pdf.cell(0, 5, "<< Regresar al Catálogo", link=link_ret, new_x="LMARGIN", new_y="NEXT", align='L')
-            pdf.ln(3)
+                pdf.set_font('helvetica', 'B', 14)
+                pdf.set_text_color(31, 78, 121)
+                pdf.cell(0, 8, f"Galería: Cod. {prod_id} ({linea_prod})", new_x="LMARGIN", new_y="NEXT", align='L')
+                
+                if mostrar_precios:
+                    pdf.set_font('helvetica', 'B', 11)
+                    pdf.set_text_color(0, 128, 0)
+                    pdf.cell(0, 5, f"Precio: Q{precio_item:.2f}", new_x="LMARGIN", new_y="NEXT", align='L')
+                
+                pdf.set_font('helvetica', 'B', 9)
+                pdf.set_text_color(192, 0, 0)
+                pdf.cell(0, 5, "<< Regresar al Catálogo", link=link_ret, new_x="LMARGIN", new_y="NEXT", align='L')
+                pdf.ln(3)
 
-            todas_las_fotos = [img_portada] + lista_imgs if img_portada else lista_imgs
-            total_fotos = len(todas_las_fotos)
+                todas_las_fotos = [img_portada] + lista_imgs if img_portada else lista_imgs
+                total_fotos = len(todas_las_fotos)
 
-            # Cálculo dinámico de filas, columnas y dimensiones para que NUNCA rebase la única página
-            if total_fotos <= 2:
-                cols_gal = 2
-                filas_gal = 1
-                cardW_gal = 82
-                cardH_gal = 100
-                img_size = 75
-            elif total_fotos <= 4:
-                cols_gal = 2
-                filas_gal = 2
-                cardW_gal = 82
-                cardH_gal = 52
-                img_size = 40
-            elif total_fotos <= 6:
-                cols_gal = 2
-                filas_gal = 3
-                cardW_gal = 82
-                cardH_gal = 35
-                img_size = 28
-            else:
-                cols_gal = 3
-                filas_gal = (total_fotos + 2) // 3
-                cardW_gal = 52
-                cardH_gal = 32
-                img_size = 25
+                if total_fotos <= 2:
+                    cols_gal = 2
+                    filas_gal = 1
+                    cardW_gal = 82
+                    cardH_gal = 100
+                    img_size = 75
+                elif total_fotos <= 4:
+                    cols_gal = 2
+                    filas_gal = 2
+                    cardW_gal = 82
+                    cardH_gal = 52
+                    img_size = 40
+                elif total_fotos <= 6:
+                    cols_gal = 2
+                    filas_gal = 3
+                    cardW_gal = 82
+                    cardH_gal = 35
+                    img_size = 28
+                else:
+                    cols_gal = 3
+                    filas_gal = (total_fotos + 2) // 3
+                    cardW_gal = 52
+                    cardH_gal = 32
+                    img_size = 25
 
-            startX_gal = 20 if cols_gal == 2 else 15
-            startY_gal = pdf.get_y()
-            gap_x_gal = 8
-            gap_y_gal = 5
+                startX_gal = 20 if cols_gal == 2 else 15
+                startY_gal = pdf.get_y()
+                gap_x_gal = 8
+                gap_y_gal = 5
 
-            currX = startX_gal
-            currY = startY_gal
-            col_idx = 0
-            row_idx = 0
+                currX = startX_gal
+                currY = startY_gal
+                col_idx = 0
+                row_idx = 0
 
-            for foto_path in todas_las_fotos:
-                if foto_path and os.path.exists(foto_path):
-                    pdf.set_draw_color(200, 200, 200)
-                    pdf.set_fill_color(255, 255, 255)
-                    pdf.rect(currX, currY, cardW_gal, cardH_gal, 'DF')
+                for foto_path in todas_las_fotos:
+                    if foto_path and os.path.exists(foto_path):
+                        pdf.set_draw_color(200, 200, 200)
+                        pdf.set_fill_color(255, 255, 255)
+                        pdf.rect(currX, currY, cardW_gal, cardH_gal, 'DF')
 
-                    try:
-                        img_comprimida = self.comprimir_imagen_para_pdf(foto_path)
-                        # Centrar imagen dentro de su tarjeta dinámica
-                        off_x = (cardW_gal - img_size) / 2
-                        off_y = (cardH_gal - img_size) / 2
-                        pdf.image(img_comprimida, x=currX + off_x, y=currY + off_y, w=img_size, h=img_size)
-                    except Exception:
-                        pass
+                        try:
+                            img_comprimida = self.comprimir_imagen_para_pdf(foto_path)
+                            off_x = (cardW_gal - img_size) / 2
+                            off_y = (cardH_gal - img_size) / 2
+                            pdf.image(img_comprimida, x=currX + off_x, y=currY + off_y, w=img_size, h=img_size)
+                        except Exception:
+                            pass
 
-                    col_idx += 1
-                    if col_idx >= cols_gal:
-                        col_idx = 0
-                        currX = startX_gal
-                        currY += cardH_gal + gap_y_gal
-                        row_idx += 1
-                    else:
-                        currX += cardW_gal + gap_x_gal
+                        col_idx += 1
+                        if col_idx >= cols_gal:
+                            col_idx = 0
+                            currX = startX_gal
+                            currY += cardH_gal + gap_y_gal
+                            row_idx += 1
+                        else:
+                            currX += cardW_gal + gap_x_gal
 
         pdf.output(nombre_archivo)
 

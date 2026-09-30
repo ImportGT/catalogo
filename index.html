@@ -33,7 +33,6 @@
         h1 { color: var(--primary-color); margin: 0 0 2px 0; font-size: 18px; }
         h2 { color: #555; margin: 0; font-size: 12px; font-weight: normal; }
         
-        /* Panel Fijo Superior (Sticky Navigation & Controls) */
         .sticky-top-bar {
             position: sticky;
             top: 51px;
@@ -561,7 +560,6 @@
 
     <!-- Barra Superior Fija -->
     <div class="sticky-top-bar" id="panel-distribuidor">
-        <!-- Fila Superior Fija: Tienda, Categoría, Buscador y Vaciar Carrito -->
         <div class="sticky-row" style="background: #eef2f7; padding: 6px; border-radius: 6px; display: flex; justify-content: center; align-items: center; gap: 8px; flex-wrap: wrap;">
             <div style="display: flex; align-items: center; gap: 4px;">
                 <span style="font-size: 11px; font-weight: bold; color: var(--primary-color);">Tienda:</span>
@@ -569,6 +567,7 @@
                     <option value="pandora">Pandora</option>
                     <option value="swarovski">Swarovski</option>
                     <option value="banoplata">Baño de Plata</option>
+                    <option value="tous">Tous</option>
                 </select>
             </div>
             <div style="display: flex; align-items: center; gap: 4px;">
@@ -582,7 +581,6 @@
             <button class="clear-cart-global-btn" onclick="limpiarCarrito()">Vaciar carrito</button>
         </div>
 
-        <!-- Fila 1: Margen y Ocultar precios -->
         <div class="sticky-row admin-only-control">
             <div class="margin-box">
                 <label for="input-ganancia">Margen (%):</label>
@@ -591,7 +589,6 @@
             <button class="toggle-btn" id="btn-precios" onclick="alternarModoPrecios()">Ocultar precios</button>
         </div>
 
-        <!-- Fila 2: Enlace para copiar al cliente final (Encriptado) -->
         <div class="sticky-row admin-only-control" style="border-top: 1px dashed #d0dbe5; padding-top: 6px; flex-direction: column; gap: 4px;">
             <span style="font-size: 11px; color: var(--primary-color); font-weight: bold;">Enlace para tu cliente:</span>
             <div class="share-link-box">
@@ -674,6 +671,10 @@
     <script src="cadenasbp.js"></script>
     <script src="pulserasbp.js"></script>
 
+    <!-- Scripts de Datos Tous -->
+    <script src="anillostous.js"></script>
+    <script src="dijestous.js"></script>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 
     <script>
@@ -709,11 +710,17 @@
             ...(typeof productosPulserasBp !== 'undefined' ? productosPulserasBp : [])
         ];
 
+        const productosTous = [
+            ...(typeof productosAnillosTous !== 'undefined' ? productosAnillosTous : []),
+            ...(typeof productosDijesTous !== 'undefined' ? productosDijesTous : [])
+        ];
+
         let tiendaActual = 'pandora';
 
         function obtenerProductosActuales() {
             if (tiendaActual === 'swarovski') return productosSwarovski;
             if (tiendaActual === 'banoplata') return productosBanoPlata;
+            if (tiendaActual === 'tous') return productosTous;
             return productosPandora;
         }
 
@@ -721,6 +728,8 @@
         const opcionesTallasAnillosPandora = ["5", "6", "7", "8", "9", "10"];
         const opcionesTallasAnillosSwarovski = ["6", "7", "8"];
         const opcionesTallasAnillosBanoPlata = ["6", "7", "8"];
+        const opcionesTallasAnillosTous = ["6", "7", "8"];
+        const opcionesTallasDijesTous = ["16MM"];
         
         let carrito = JSON.parse(localStorage.getItem('mi_carrito_catalogo')) || {};
         let preciosVisibles = true;
@@ -735,6 +744,8 @@
                 document.getElementById('linea-titulo').innerText = 'Colección Swarovski';
             } else if (tiendaActual === 'banoplata') {
                 document.getElementById('linea-titulo').innerText = 'Colección Baño de Plata';
+            } else if (tiendaActual === 'tous') {
+                document.getElementById('linea-titulo').innerText = 'Colección Tous';
             } else {
                 document.getElementById('linea-titulo').innerText = 'Colección PANDORA';
             }
@@ -960,10 +971,12 @@
                 tallaInicial = "7"; 
             } else if (categoria.includes("Pulseras")) {
                 tallaInicial = "17";
+            } else if (categoria.includes("Dijes Tous")) {
+                tallaInicial = "16MM";
             }
 
             if (cambio > 0) {
-                if (categoria.includes("Anillos") || categoria.includes("Pulseras")) {
+                if (categoria.includes("Anillos") || categoria.includes("Pulseras") || categoria.includes("Dijes Tous")) {
                     let cartKey = `${id}-${categoria}-${tallaInicial}-${Date.now()}`;
                     carrito[cartKey] = { ...prod, qty: 1, talla: tallaInicial };
                 } else {
@@ -1019,6 +1032,8 @@
                 return 'Línea Swarovski';
             } else if (catUpper.includes('BAÑO DE PLATA') || catUpper.includes('BP')) {
                 return 'Línea Baño de Plata';
+            } else if (catUpper.includes('TOUS')) {
+                return 'Línea Tous';
             }
             return 'Línea Pandora';
         }
@@ -1035,8 +1050,8 @@
                 return;
             }
 
-            let gruposCarrito = { "Línea Pandora": [], "Línea Swarovski": [], "Línea Baño de Plata": [] };
-            let subtotalesGrupo = { "Línea Pandora": 0, "Línea Swarovski": 0, "Línea Baño de Plata": 0 };
+            let gruposCarrito = { "Línea Pandora": [], "Línea Swarovski": [], "Línea Baño de Plata": [], "Línea Tous": [] };
+            let subtotalesGrupo = { "Línea Pandora": 0, "Línea Swarovski": 0, "Línea Baño de Plata": 0, "Línea Tous": 0 };
             let totalGeneral = 0;
 
             keys.forEach(key => {
@@ -1072,10 +1087,11 @@
                         let catUp = item.categoria.toUpperCase();
                         let esSwa = catUp.includes('SWAROVSKI') || catUp.includes('SWA');
                         let esBp = catUp.includes('BAÑO DE PLATA') || catUp.includes('BP');
+                        let esTous = catUp.includes('TOUS');
 
                         if (item.categoria.includes('Anillos')) {
                             let opcionesMedidasHTML = "";
-                            let tallasBase = esSwa ? opcionesTallasAnillosSwarovski : (esBp ? opcionesTallasAnillosBanoPlata : opcionesTallasAnillosPandora);
+                            let tallasBase = esSwa ? opcionesTallasAnillosSwarovski : (esBp ? opcionesTallasAnillosBanoPlata : (esTous ? opcionesTallasAnillosTous : opcionesTallasAnillosPandora));
                             let listaCompletaOpciones = [...new Set([...tallasBase, item.talla])];
                             
                             listaCompletaOpciones.forEach(m => {
@@ -1086,6 +1102,24 @@
                             detalleHTML = `
                                 <div class="cart-size-select">
                                     Talla:
+                                    <select onchange="cambiarTallaKey('${key}', this.value)">
+                                        ${opcionesMedidasHTML}
+                                    </select>
+                                </div>
+                            `;
+                        } else if (item.categoria.includes('Dijes Tous')) {
+                            let opcionesMedidasHTML = "";
+                            let tallasBase = opcionesTallasDijesTous;
+                            let listaCompletaOpciones = [...new Set([...tallasBase, item.talla])];
+                            
+                            listaCompletaOpciones.forEach(m => {
+                                let selected = (item.talla === m) ? "selected" : "";
+                                opcionesMedidasHTML += `<option value="${m}" ${selected}>Medida ${m}</option>`;
+                            });
+
+                            detalleHTML = `
+                                <div class="cart-size-select">
+                                    Tamaño:
                                     <select onchange="cambiarTallaKey('${key}', this.value)">
                                         ${opcionesMedidasHTML}
                                     </select>
@@ -1237,8 +1271,8 @@
             doc.setFont("helvetica", "normal");
             doc.text("Fecha: " + new Date().toLocaleDateString(), 14, 28);
             
-            let gruposPDF = { "Línea Pandora": [], "Línea Swarovski": [], "Línea Baño de Plata": [] };
-            let subtotalesPDF = { "Línea Pandora": 0, "Línea Swarovski": 0, "Línea Baño de Plata": 0 };
+            let gruposPDF = { "Línea Pandora": [], "Línea Swarovski": [], "Línea Baño de Plata": [], "Línea Tous": [] };
+            let subtotalesPDF = { "Línea Pandora": 0, "Línea Swarovski": 0, "Línea Baño de Plata": 0, "Línea Tous": 0 };
             let totalGeneral = 0;
 
             for (let key in carrito) {
@@ -1390,7 +1424,6 @@
             cambiarTienda('pandora');
             actualizarEnlaceCompartible();
 
-            // BÚSQUEDA UNIVERSAL DIRECTA Y APERTURA DE GALERÍA DESDE EL PDF MAESTRO
             setTimeout(() => {
                 const params = new URLSearchParams(window.location.search);
                 
@@ -1407,19 +1440,18 @@
                     let productoId = params.get('prod');
                     let categoriaParam = params.get('cat').toLowerCase();
 
-                    // Detectar tienda de forma automática
                     if (categoriaParam.includes('swarovski') || categoriaParam.includes('swa')) {
                         cambiarTienda('swarovski');
                     } else if (categoriaParam.includes('baño') || categoriaParam.includes('bp')) {
                         cambiarTienda('banoplata');
+                    } else if (categoriaParam.includes('tous')) {
+                        cambiarTienda('tous');
                     } else {
                         cambiarTienda('pandora');
                     }
 
                     setTimeout(() => {
                         let productosActivos = obtenerProductosActuales();
-                        
-                        // Búsqueda robusta directa por ID del producto sin fallos
                         let productoEncontrado = productosActivos.find(p => String(p.id) === String(productoId));
 
                         if (productoEncontrado) {

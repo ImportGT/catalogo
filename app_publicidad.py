@@ -1,4 +1,5 @@
 import os
+import re
 import random
 import json
 import pandas as pd
@@ -12,7 +13,7 @@ class AppGeneradorPublicidad:
     def __init__(self, root):
         self.root = root
         self.root.title("Generador de Publicidad Estética - Joyería")
-        self.root.geometry("580x580")
+        self.root.geometry("580x610")
         self.root.config(bg="#f4f6f9")
 
         self.tareas_pandora = [
@@ -47,6 +48,11 @@ class AppGeneradorPublicidad:
             ("PULSERAS BP.xlsx", "Pulseras Baño de Plata", "imagenes/BP/pulserasbp")
         ]
 
+        self.tareas_tous = [
+            ("ANILLOS TOUS.xlsx", "Anillos Tous", "imagenes/TOUS/anillos_tous"),
+            ("DIJES TOUS.xlsx", "Dijes Tous", "imagenes/TOUS/dijes_tous")
+        ]
+
         # --- INTERFAZ GRÁFICA ---
         frame_main = tk.LabelFrame(root, text=" Creador de Publicidad Comercial Boutique ", font=("Helvetica", 10, "bold"), bg="#f4f6f9", fg="#1F4E79", padx=15, pady=15)
         frame_main.pack(fill="both", expand=True, padx=20, pady=20)
@@ -57,6 +63,7 @@ class AppGeneradorPublicidad:
         tk.Radiobutton(frame_main, text="Pandora", variable=self.coleccion_var, value="Pandora", bg="#f4f6f9", font=("Helvetica", 9), command=self.actualizar_lineas).pack(anchor="w")
         tk.Radiobutton(frame_main, text="Swarovski", variable=self.coleccion_var, value="Swarovski", bg="#f4f6f9", font=("Helvetica", 9), command=self.actualizar_lineas).pack(anchor="w")
         tk.Radiobutton(frame_main, text="Baño de Plata", variable=self.coleccion_var, value="Bano_de_Plata", bg="#f4f6f9", font=("Helvetica", 9), command=self.actualizar_lineas).pack(anchor="w")
+        tk.Radiobutton(frame_main, text="Tous", variable=self.coleccion_var, value="Tous", bg="#f4f6f9", font=("Helvetica", 9), command=self.actualizar_lineas).pack(anchor="w")
 
         # 2. Precios y Margen
         self.precios_var = tk.BooleanVar(value=True)
@@ -90,7 +97,7 @@ class AppGeneradorPublicidad:
         self.entry_codigo_esp = tk.Entry(frame_cod, width=12, font=("Helvetica", 9))
         self.entry_codigo_esp.pack(side="left")
 
-        self.frame_esp.pack_forget() # Oculto por defecto
+        self.frame_esp.pack_forget()
         self.actualizar_lineas()
 
         btn_generar = tk.Button(root, text="Generar Publicidad Estética", bg="#1F4E79", fg="white", font=("Helvetica", 10, "bold"), padx=15, pady=8, command=self.ejecutar_generacion)
@@ -114,6 +121,8 @@ class AppGeneradorPublicidad:
             tareas = self.tareas_pandora
         elif col_op == "Swarovski":
             tareas = self.tareas_swarovski
+        elif col_op == "Tous":
+            tareas = self.tareas_tous
         else:
             tareas = self.tareas_bano_plata
 
@@ -128,6 +137,8 @@ class AppGeneradorPublicidad:
             return self.tareas_pandora, "Pandora"
         elif col_op == "Swarovski":
             return self.tareas_swarovski, "Swarovski"
+        elif col_op == "Tous":
+            return self.tareas_tous, "Tous"
         else:
             return self.tareas_bano_plata, "Bano_de_Plata"
 
@@ -139,7 +150,9 @@ class AppGeneradorPublicidad:
             if not os.path.exists(ruta_excel):
                 continue
             try:
-                if "swarovski" in carpeta_imagenes.lower() or "swa" in carpeta_imagenes.lower():
+                if "tous" in carpeta_imagenes.lower():
+                    df = pd.read_excel(ruta_excel, header=2)
+                elif "swarovski" in carpeta_imagenes.lower() or "swa" in carpeta_imagenes.lower():
                     df = pd.read_excel(ruta_excel, header=3 if "Aretes" in nombre_linea else 2)
                 elif "baño" in carpeta_imagenes.lower() or "bano" in carpeta_imagenes.lower() or "bp" in carpeta_imagenes.lower():
                     df = pd.read_excel(ruta_excel, header=3 if "Aretes" in nombre_linea else 2)
@@ -159,8 +172,15 @@ class AppGeneradorPublicidad:
                     raw_id = row.iloc[0]
 
                 try:
-                    prod_id = int(float(raw_id))
+                    val_float = float(raw_id)
+                    if val_float.is_integer():
+                        prod_id = str(int(val_float))
+                    else:
+                        prod_id = str(raw_id).strip()
                 except (ValueError, TypeError):
+                    prod_id = str(raw_id).strip()
+
+                if not prod_id or prod_id.lower() == 'nan':
                     continue
 
                 precio_base = 0.0
@@ -173,8 +193,11 @@ class AppGeneradorPublicidad:
                             pass
 
                 img_folder = carpeta_imagenes.lower()
-                separador_char = "_"
-                if "swa" in img_folder:
+                if "dijes_tous" in img_folder:
+                    prefijo_base = "dijes_tous"
+                elif "anillos_tous" in img_folder:
+                    prefijo_base = "anillos_tous"
+                elif "swa" in img_folder:
                     if "Anillos" in nombre_linea: prefijo_base = "anillos_swa"
                     elif "Aretes" in nombre_linea: prefijo_base = "aretes_swa"
                     elif "Pulseras" in nombre_linea: prefijo_base = "pulseras_swa"
@@ -198,33 +221,34 @@ class AppGeneradorPublicidad:
                     elif "Charms Cadenas de Seguridad" in nombre_linea: prefijo_base = "chcsd"
                     elif "Charms Beads Disney" in nombre_linea: prefijo_base = "chbd"
                     elif "Charms Colgantes Disney" in nombre_linea: prefijo_base = "chcd"
-                    elif "Charms Colgantes" in nombre_linea:
-                        prefijo_base = "chc"
-                        separador_char = "."
+                    elif "Charms Colgantes" in nombre_linea: prefijo_base = "chc"
                     elif "Charms Beads" in nombre_linea: prefijo_base = "chb"
                     else: prefijo_base = nombre_linea.split()[0].lower()
 
                 imagen_path = ""
-                for suf in ['', '.1', '.0', '_1', '_0']:
-                    for ext in extensiones_validas:
-                        prueba = f"{carpeta_imagenes}/{prefijo_base}{separador_char}{prod_id}{suf}{ext}"
-                        if os.path.exists(prueba):
-                            imagen_path = prueba
-                            break
-                    if imagen_path: break
+                galeria_completa = []
+                
+                if os.path.exists(carpeta_imagenes):
+                    base_comparacion = re.sub(r'[\s_\-\.]+', '', f"{prefijo_base}{prod_id}".lower())
 
-                if not imagen_path or not os.path.exists(imagen_path):
+                    for archivo_dir in os.listdir(carpeta_imagenes):
+                        ext = archivo_dir.split('.')[-1].lower()
+                        if ext in [e.replace('.', '') for e in extensiones_validas]:
+                            archivo_limpio = re.sub(r'[\s_\-\.]+', '', archivo_dir.lower())
+                            if archivo_limpio.startswith(base_comparacion):
+                                full_p = os.path.join(carpeta_imagenes, archivo_dir)
+                                if full_p not in galeria_completa:
+                                    galeria_completa.append(full_p)
+
+                if galeria_completa:
+                    def extraer_tupla_orden(ruta_arch):
+                        nums = re.findall(r'\d+', os.path.basename(ruta_arch))
+                        return tuple([int(n) for n in nums[1:]]) if len(nums) > 1 else (0,)
+
+                    galeria_completa = sorted(galeria_completa, key=extraer_tupla_orden)
+                    imagen_path = galeria_completa[0]
+                else:
                     continue
-
-                imagenes_extras = []
-                for ext in extensiones_validas:
-                    for i in range(2, 15):
-                        p1 = f"{carpeta_imagenes}/{prefijo_base}{separador_char}{prod_id}_{i}{ext}"
-                        p2 = f"{carpeta_imagenes}/{prefijo_base}{separador_char}{prod_id}.{i}{ext}"
-                        if os.path.exists(p1) and p1 not in imagenes_extras: imagenes_extras.append(p1)
-                        if os.path.exists(p2) and p2 not in imagenes_extras: imagenes_extras.append(p2)
-
-                galeria_completa = [imagen_path] + [img for img in imagenes_extras if img != imagen_path]
 
                 try:
                     tiempo_mod = os.path.getmtime(imagen_path)
@@ -244,60 +268,58 @@ class AppGeneradorPublicidad:
         return todos_productos
 
     def ejecutar_generacion(self):
-        tareas, nombre_col = self.obtener_tareas_y_nombre()
-        mostrar_precios = self.precios_var.get()
-        
         try:
-            margen = float(self.entry_margen.get().strip() or 0) if mostrar_precios else 0.0
-        except ValueError:
-            margen = 0.0
+            tareas, nombre_col = self.obtener_tareas_y_nombre()
+            mostrar_precios = self.precios_var.get()
+            
+            try:
+                margen = float(self.entry_margen.get().strip() or 0) if mostrar_precios else 0.0
+            except ValueError:
+                margen = 0.0
 
-        tipo = self.tipo_pub_var.get()
-        productos = self.cargar_datos_coleccion(tareas)
+            tipo = self.tipo_pub_var.get()
+            productos = self.cargar_datos_coleccion(tareas)
 
-        if not productos:
-            messagebox.showerror("Error", "No se encontraron productos con imágenes en esta colección.")
-            return
+            if not productos:
+                messagebox.showerror("Aviso", f"No se encontraron productos con imágenes en la colección '{nombre_col}'. Revisa que los archivos Excel y las carpetas de imágenes existan.")
+                return
 
-        carpeta_destino = "PUBLICIDAD CREADA"
-        if not os.path.exists(carpeta_destino):
-            os.makedirs(carpeta_destino)
+            carpeta_destino = "PUBLICIDAD CREADA"
+            if not os.path.exists(carpeta_destino):
+                os.makedirs(carpeta_destino)
 
-        try:
             if tipo == "ultimos":
                 ultimos_5 = productos[-5:]
                 self.generar_imagen_ultimos_ingresos(ultimos_5, nombre_col, mostrar_precios, margen, carpeta_destino)
-                messagebox.showinfo("¡Éxito!", "Publicidad estética de Últimos Ingresos generada correctamente.")
+                messagebox.showinfo("¡Éxito!", "Publicidad estética de Últimos Ingresos generada correctamente en la carpeta PUBLICIDAD CREADA.")
 
             elif tipo == "dia":
                 con_galeria = [p for p in productos if len(p["galeria"]) > 1]
                 if not con_galeria:
-                    messagebox.showwarning("Aviso", "No hay productos con galería adicional en esta colección. Se usará cualquiera disponible.")
                     con_galeria = productos
 
                 prod_elegido = self.obtener_producto_dia_sin_repetir(con_galeria, nombre_col)
                 self.generar_imagen_producto_galeria(prod_elegido, "PRODUCTO DEL DÍA", nombre_col, mostrar_precios, margen, carpeta_destino)
-                messagebox.showinfo("¡Éxito!", f"¡Producto del Día (Cod. {prod_elegido['id']}) generado correctamente!")
+                messagebox.showinfo("¡Éxito!", f"¡Producto del Día (Cod. {prod_elegido['id']}) generado correctamente en PUBLICIDAD CREADA!")
 
             elif tipo == "especifico":
                 linea_elegida = self.combo_lineas.get()
                 cod_str = self.entry_codigo_esp.get().strip()
-                if not cod_str.isdigit():
+                if not cod_str:
                     messagebox.showerror("Error", "Ingresa un código de producto válido.")
                     return
-                cod_int = int(cod_str)
                 
-                encontrado = next((p for p in productos if p["id"] == cod_int and p["linea"] == linea_elegida), None)
+                encontrado = next((p for p in productos if str(p["id"]) == cod_str and p["linea"] == linea_elegida), None)
                 if not encontrado:
-                    messagebox.showerror("Error", f"No se encontró el producto con código {cod_int} en la línea '{linea_elegida}'.")
+                    messagebox.showerror("Error", f"No se encontró el producto con código {cod_str} en la línea '{linea_elegida}'.")
                     return
 
                 slogan = "¡Elegancia y estilo que enamoran en cada detalle!"
                 self.generar_imagen_producto_galeria(encontrado, slogan, nombre_col, mostrar_precios, margen, carpeta_destino, es_especifico=True)
-                messagebox.showinfo("¡Éxito!", f"Publicidad del producto {cod_int} generada correctamente.")
+                messagebox.showinfo("¡Éxito!", f"Publicidad del producto {cod_str} generada correctamente en PUBLICIDAD CREADA.")
 
         except Exception as e:
-            messagebox.showerror("Error", f"Ocurrió un error al generar la publicidad: {e}")
+            messagebox.showerror("Error Crítico", f"Ocurrió un error inesperado:\n{str(e)}")
 
     def obtener_producto_dia_sin_repetir(self, lista_productos, nombre_col):
         historial = {}
@@ -406,7 +428,6 @@ class AppGeneradorPublicidad:
         img = Image.new("RGB", (w, h), (248, 250, 252))
         draw = ImageDraw.Draw(img)
 
-        # Encabezado boutique
         draw.rectangle([0, 0, w, 140], fill=(24, 43, 73))
         draw.rectangle([0, 137, w, 140], fill=(212, 175, 55))
 
@@ -427,45 +448,41 @@ class AppGeneradorPublicidad:
         fotos = prod["galeria"]
         total = len(fotos)
 
-        # Diseño asimétrico inspirador (Estilo Revista / Editorial con una foto protagonista grande a la izquierda)
         if total == 1:
             coords_gr = [(150, 180, 1050, 1380)]
         elif total == 2:
             coords_gr = [
-                (80, 180, 680, 1380),   # Principal Izquierda Grande
-                (710, 180, 1120, 1380)  # Secundaria Derecha Alta
+                (80, 180, 680, 1380),
+                (710, 180, 1120, 1380)
             ]
         elif total == 3:
             coords_gr = [
-                (80, 180, 680, 1380),   # Principal Izquierda Grande
-                (710, 180, 1120, 765),  # Secundaria Der Sup
-                (710, 795, 1120, 1380)  # Secundaria Der Inf
+                (80, 180, 680, 1380),
+                (710, 180, 1120, 765),
+                (710, 795, 1120, 1380)
             ]
         elif total == 4:
             coords_gr = [
-                (80, 180, 680, 1380),   # Principal Izquierda Grande
-                (710, 180, 1120, 570),  # Der 1
-                (710, 585, 1120, 975),  # Der 2
-                (710, 990, 1120, 1380)  # Der 3
+                (80, 180, 680, 1380),
+                (710, 180, 1120, 570),
+                (710, 585, 1120, 975),
+                (710, 990, 1120, 1380)
             ]
         elif total == 5:
             coords_gr = [
-                (80, 180, 640, 1380),   # Principal Izq
-                (670, 180, 1120, 465),  # Der 1
-                (670, 480, 1120, 765),  # Der 2
-                (670, 780, 1120, 1065), # Der 3
-                (670, 1080, 1120, 1380) # Der 4
+                (80, 180, 640, 1380),
+                (670, 180, 1120, 465),
+                (670, 480, 1120, 765),
+                (670, 780, 1120, 1065),
+                (670, 1080, 1120, 1380)
             ]
         else:
-            # Si hay 6 o más fotos, 2 grandes principales izq y mosaico dinámico a la derecha
             coords_gr = []
             filas = (total - 1 + 1) // 2
             h_card = (1380 - 180 - ((filas - 1) * 20)) // filas
             
-            # Izquierda
             coords_gr.append((80, 180, 640, 1380))
             
-            # Derecha en mosaico
             for i in range(1, total):
                 col = (i - 1) % 2
                 row = (i - 1) // 2

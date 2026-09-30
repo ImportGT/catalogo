@@ -1,6 +1,6 @@
 const productosAretesBp = [
     {
-        "id": 1,
+        "id": "1",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_1.png",
@@ -9,11 +9,451 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_1.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_10.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_100.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_101.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_102.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_103.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_104.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_105.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_106.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_107.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_108.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_109.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_11.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_110.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_111.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_112.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_113.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_114.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_115.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_116.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_117.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_118.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_119.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_12.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_120.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_121.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_122.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_123.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_124.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_125.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_126.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_127.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_128.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_129.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_13.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_130.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_131.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_132.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_133.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_134.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_135.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_136.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_137.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_138.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_139.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_14.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_140.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_141.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_142.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_143.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_144.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_145.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_146.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_147.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_148.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_149.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_15.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_150.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_151.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_152.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_153.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_154.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_155.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_156.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_157.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_158.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_159.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_16.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_160.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_161.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_163.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_164.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_165.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_166.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_167.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_168.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_169.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_17.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_170.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_171.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_172.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_173.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_174.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_175.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_176.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_177.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_179.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_18.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_180.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_181.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_182.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_183.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_184.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_187.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_189.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_19.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_190.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_191.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_192.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_193.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_194.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_195.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_196A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_196B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_197.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_198.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199B.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199C.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199D.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199E.png"
             }
         ]
     },
     {
-        "id": 2,
+        "id": "2",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_2.png",
@@ -22,11 +462,335 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_2.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_20.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200B.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200C.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200D.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200E.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_202.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_203.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_204.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_205.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_206.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_207.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_208.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_209.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_21.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_210.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_211.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_212.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_213.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_214.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_215.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_216.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_217.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_218.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_219.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_22.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_220.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_221.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_224.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_225.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_226.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_227.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_228.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_229.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_23.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_230.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_231.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_232.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_233.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_234.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_235.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_236.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_237.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_238.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_239.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_24.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_240.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_241.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_242.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_243.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_244.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_245.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_246.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_247.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_248.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_249.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_25.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_250.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_251.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_253.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_254.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_255.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_256.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_257.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_258.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_259.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_26.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_260.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_261.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_262.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_264.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_267.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_27.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_28.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_29.jpg"
             }
         ]
     },
     {
-        "id": 3,
+        "id": "3",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_3.png",
@@ -35,11 +799,391 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_3.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_30.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_301.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_302.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_303.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_304.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_305.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_306.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_307.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_309.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_31.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_310.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_311.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_312.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_313.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_314.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_315.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_316.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_317.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_318.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_319.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_32.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_320.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_321.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_322.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_323.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_324.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_325.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_326.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_327.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_328.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_329.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_33.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_332.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_333.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_334.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_335.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_336.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_337.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_338.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_339.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_34.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_340.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_341.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_342.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_343.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_344.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_345.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_347.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_348.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_349.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_35.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_350.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_351.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_352.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_353.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_354.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_356.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_357.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_358.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_359.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_36.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_360.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_361.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_362.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_363.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_364.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_365.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_366.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_367.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_368.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_369.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_37.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_370.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_371.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_373.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_374A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_374B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_375.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_376.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_377.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_378.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_379.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_38.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_380.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_381.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_382.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_389.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_39.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_390.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_391.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_392.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_394.jpg"
             }
         ]
     },
     {
-        "id": 4,
+        "id": "4",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_4.png",
@@ -48,11 +1192,287 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_4.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_40.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_401.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_402.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_403.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_405.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_408.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_410.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_413.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_416.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_417.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_418.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_419.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_42.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_420.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_421.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_422.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_423.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_424.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_425A.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_425B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_426.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_427A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_427B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_428.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_429.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_43.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_430.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_431.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_432.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_433.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_435.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_436.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_437.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_438.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_439.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_44.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_440.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_441.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_45.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_450.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_451.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_452.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_453.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_454.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_456.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_457.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_458.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_459.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_46.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_460.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_461.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_462.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_463.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_464.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_465.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_466.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_467.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_468.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_469.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_47.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_470.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_471.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_472.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_48.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_49.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_41_Q25.png"
             }
         ]
     },
     {
-        "id": 5,
+        "id": "5",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_5.png",
@@ -61,11 +1481,51 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_5.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_50.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_51.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_52.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_53.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_54.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_55.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_56.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_57.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_58.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_59.png"
             }
         ]
     },
     {
-        "id": 6,
+        "id": "6",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_6.png",
@@ -74,11 +1534,47 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_6.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_60.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_61.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_62.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_63.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_64.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_65.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_66.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_68.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_69.jpg"
             }
         ]
     },
     {
-        "id": 7,
+        "id": "7",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_7.png",
@@ -87,11 +1583,51 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_7.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_70.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_71.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_72.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_73.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_74.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_75.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_76.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_77.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_78.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_79.jpg"
             }
         ]
     },
     {
-        "id": 8,
+        "id": "8",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_8.png",
@@ -100,11 +1636,47 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_8.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_80.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_81.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_82.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_84.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_85.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_86.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_87.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_88.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_89.jpg"
             }
         ]
     },
     {
-        "id": 9,
+        "id": "9",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_9.png",
@@ -113,11 +1685,51 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_9.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_90.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_91.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_92.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_93.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_94.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_95.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_96.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_97.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_98.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_99.jpg"
             }
         ]
     },
     {
-        "id": 10,
+        "id": "10",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_10.png",
@@ -126,11 +1738,51 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_10.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_100.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_101.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_102.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_103.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_104.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_105.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_106.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_107.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_108.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_109.png"
             }
         ]
     },
     {
-        "id": 11,
+        "id": "11",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_11.png",
@@ -139,11 +1791,51 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_11.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_110.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_111.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_112.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_113.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_114.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_115.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_116.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_117.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_118.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_119.jpg"
             }
         ]
     },
     {
-        "id": 12,
+        "id": "12",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_12.png",
@@ -152,11 +1844,51 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_12.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_120.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_121.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_122.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_123.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_124.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_125.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_126.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_127.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_128.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_129.jpg"
             }
         ]
     },
     {
-        "id": 13,
+        "id": "13",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_13.png",
@@ -165,11 +1897,51 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_13.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_130.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_131.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_132.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_133.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_134.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_135.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_136.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_137.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_138.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_139.jpg"
             }
         ]
     },
     {
-        "id": 14,
+        "id": "14",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_14.png",
@@ -178,11 +1950,51 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_14.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_140.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_141.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_142.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_143.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_144.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_145.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_146.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_147.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_148.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_149.jpg"
             }
         ]
     },
     {
-        "id": 15,
+        "id": "15",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_15.png",
@@ -191,11 +2003,51 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_15.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_150.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_151.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_152.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_153.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_154.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_155.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_156.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_157.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_158.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_159.jpg"
             }
         ]
     },
     {
-        "id": 16,
+        "id": "16",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_16.png",
@@ -204,11 +2056,47 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_16.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_160.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_161.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_163.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_164.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_165.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_166.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_167.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_168.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_169.jpg"
             }
         ]
     },
     {
-        "id": 17,
+        "id": "17",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_17.jpg",
@@ -217,11 +2105,47 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_17.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_170.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_171.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_172.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_173.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_174.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_175.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_176.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_177.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_179.jpg"
             }
         ]
     },
     {
-        "id": 18,
+        "id": "18",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_18.jpg",
@@ -230,11 +2154,39 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_18.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_180.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_181.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_182.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_183.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_184.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_187.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_189.jpg"
             }
         ]
     },
     {
-        "id": 19,
+        "id": "19",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_19.jpg",
@@ -243,11 +2195,71 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_19.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_190.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_191.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_192.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_193.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_194.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_195.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_196A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_196B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_197.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_198.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199B.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199C.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199D.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199E.png"
             }
         ]
     },
     {
-        "id": 20,
+        "id": "20",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_20.jpg",
@@ -256,11 +2268,87 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_20.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200B.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200C.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200D.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200E.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_202.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_203.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_204.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_205.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_206.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_207.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_208.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_209.jpg"
             }
         ]
     },
     {
-        "id": 21,
+        "id": "21",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_21.jpg",
@@ -269,11 +2357,51 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_21.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_210.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_211.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_212.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_213.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_214.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_215.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_216.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_217.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_218.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_219.jpg"
             }
         ]
     },
     {
-        "id": 22,
+        "id": "22",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_22.jpg",
@@ -282,11 +2410,43 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_22.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_220.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_221.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_224.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_225.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_226.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_227.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_228.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_229.jpg"
             }
         ]
     },
     {
-        "id": 23,
+        "id": "23",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_23.jpg",
@@ -295,11 +2455,51 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_23.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_230.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_231.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_232.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_233.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_234.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_235.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_236.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_237.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_238.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_239.png"
             }
         ]
     },
     {
-        "id": 24,
+        "id": "24",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_24.jpg",
@@ -308,11 +2508,51 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_24.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_240.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_241.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_242.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_243.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_244.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_245.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_246.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_247.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_248.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_249.png"
             }
         ]
     },
     {
-        "id": 25,
+        "id": "25",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_25.png",
@@ -321,11 +2561,47 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_25.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_250.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_251.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_253.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_254.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_255.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_256.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_257.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_258.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_259.jpg"
             }
         ]
     },
     {
-        "id": 26,
+        "id": "26",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_26.jpg",
@@ -334,11 +2610,31 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_26.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_260.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_261.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_262.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_264.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_267.jpg"
             }
         ]
     },
     {
-        "id": 27,
+        "id": "27",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_27.png",
@@ -351,7 +2647,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 28,
+        "id": "28",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_28.png",
@@ -364,7 +2660,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 29,
+        "id": "29",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_29.jpg",
@@ -377,7 +2673,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 30,
+        "id": "30",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_30.png",
@@ -386,11 +2682,43 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_30.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_301.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_302.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_303.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_304.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_305.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_306.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_307.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_309.jpg"
             }
         ]
     },
     {
-        "id": 31,
+        "id": "31",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_31.png",
@@ -399,11 +2727,51 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_31.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_310.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_311.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_312.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_313.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_314.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_315.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_316.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_317.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_318.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_319.jpg"
             }
         ]
     },
     {
-        "id": 32,
+        "id": "32",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_32.png",
@@ -412,11 +2780,51 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_32.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_320.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_321.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_322.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_323.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_324.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_325.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_326.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_327.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_328.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_329.png"
             }
         ]
     },
     {
-        "id": 33,
+        "id": "33",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_33.jpg",
@@ -425,11 +2833,43 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_33.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_332.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_333.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_334.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_335.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_336.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_337.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_338.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_339.jpg"
             }
         ]
     },
     {
-        "id": 34,
+        "id": "34",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_34.png",
@@ -438,11 +2878,47 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_34.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_340.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_341.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_342.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_343.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_344.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_345.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_347.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_348.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_349.jpg"
             }
         ]
     },
     {
-        "id": 35,
+        "id": "35",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_35.jpg",
@@ -451,11 +2927,47 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_35.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_350.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_351.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_352.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_353.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_354.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_356.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_357.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_358.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_359.jpg"
             }
         ]
     },
     {
-        "id": 36,
+        "id": "36",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_36.jpg",
@@ -464,11 +2976,51 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_36.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_360.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_361.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_362.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_363.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_364.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_365.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_366.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_367.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_368.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_369.jpg"
             }
         ]
     },
     {
-        "id": 37,
+        "id": "37",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_37.jpg",
@@ -477,11 +3029,63 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_37.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_370.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_371.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_373.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_374A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_374B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_375.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_376.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_377.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_378.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_379.jpg"
             }
         ]
     },
     {
-        "id": 38,
+        "id": "38",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_38.jpg",
@@ -490,11 +3094,27 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_38.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_380.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_381.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_382.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_389.jpg"
             }
         ]
     },
     {
-        "id": 39,
+        "id": "39",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_39.jpg",
@@ -503,11 +3123,27 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_39.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_390.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_391.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_392.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_394.jpg"
             }
         ]
     },
     {
-        "id": 40,
+        "id": "40",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_40.jpg",
@@ -516,16 +3152,60 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_40.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_401.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_402.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_403.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_405.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_408.jpg"
             }
         ]
     },
     {
-        "id": 41,
+        "id": "41",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_41_Q25.png",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_410.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_410.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_413.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_416.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_417.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_418.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_419.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_41_Q25.png"
@@ -533,7 +3213,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 42,
+        "id": "42",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_42.jpg",
@@ -542,11 +3222,59 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_42.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_420.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_421.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_422.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_423.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_424.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_425A.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_425B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_426.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_427A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_427B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_428.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_429.jpg"
             }
         ]
     },
     {
-        "id": 43,
+        "id": "43",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_43.jpg",
@@ -555,11 +3283,59 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_43.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_430.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_431.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_432.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_433.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_435.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_436.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_437.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_438.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_439.jpg"
             }
         ]
     },
     {
-        "id": 44,
+        "id": "44",
         "categoria": "Aretes Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_44.png",
@@ -568,11 +3344,19 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_44.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_440.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_441.jpg"
             }
         ]
     },
     {
-        "id": 45,
+        "id": "45",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_45.png",
@@ -581,11 +3365,47 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_45.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_450.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_451.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_452.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_453.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_454.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_456.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_457.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_458.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_459.jpg"
             }
         ]
     },
     {
-        "id": 46,
+        "id": "46",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_46.jpg",
@@ -594,11 +3414,51 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_46.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_460.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_461.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_462.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_463.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_464.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_465.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_466.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_467.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_468.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_469.jpg"
             }
         ]
     },
     {
-        "id": 47,
+        "id": "47",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_47.png",
@@ -607,11 +3467,23 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_47.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_470.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_471.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_472.jpg"
             }
         ]
     },
     {
-        "id": 48,
+        "id": "48",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_48.jpg",
@@ -624,7 +3496,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 49,
+        "id": "49",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_49.png",
@@ -637,7 +3509,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 50,
+        "id": "50",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_50.png",
@@ -650,7 +3522,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 51,
+        "id": "51",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_51.png",
@@ -663,7 +3535,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 52,
+        "id": "52",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_52.png",
@@ -676,7 +3548,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 53,
+        "id": "53",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_53.jpg",
@@ -689,7 +3561,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 54,
+        "id": "54",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_54.jpg",
@@ -702,7 +3574,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 55,
+        "id": "55",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_55.jpg",
@@ -715,7 +3587,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 56,
+        "id": "56",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_56.png",
@@ -728,7 +3600,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 57,
+        "id": "57",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_57.jpg",
@@ -741,7 +3613,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 58,
+        "id": "58",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_58.jpg",
@@ -754,7 +3626,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 59,
+        "id": "59",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_59.png",
@@ -767,7 +3639,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 60,
+        "id": "60",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_60.png",
@@ -780,7 +3652,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 61,
+        "id": "61",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_61.jpg",
@@ -793,7 +3665,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 62,
+        "id": "62",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_62.jpg",
@@ -806,7 +3678,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 63,
+        "id": "63",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_63.jpg",
@@ -819,7 +3691,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 64,
+        "id": "64",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_64.jpg",
@@ -832,7 +3704,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 65,
+        "id": "65",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_65.jpg",
@@ -845,7 +3717,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 66,
+        "id": "66",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_66.jpg",
@@ -858,7 +3730,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 68,
+        "id": "68",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_68.jpg",
@@ -871,7 +3743,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 69,
+        "id": "69",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_69.jpg",
@@ -884,7 +3756,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 70,
+        "id": "70",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_70.png",
@@ -897,7 +3769,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 71,
+        "id": "71",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_71.jpg",
@@ -910,7 +3782,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 72,
+        "id": "72",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_72.png",
@@ -923,7 +3795,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 73,
+        "id": "73",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_73.jpg",
@@ -936,7 +3808,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 74,
+        "id": "74",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_74.jpg",
@@ -949,7 +3821,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 75,
+        "id": "75",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_75.jpg",
@@ -962,7 +3834,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 76,
+        "id": "76",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_76.jpg",
@@ -975,7 +3847,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 77,
+        "id": "77",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_77.png",
@@ -988,7 +3860,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 78,
+        "id": "78",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_78.jpg",
@@ -1001,7 +3873,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 79,
+        "id": "79",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_79.jpg",
@@ -1014,7 +3886,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 80,
+        "id": "80",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_80.jpg",
@@ -1027,7 +3899,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 81,
+        "id": "81",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_81.jpg",
@@ -1040,7 +3912,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 82,
+        "id": "82",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_82.png",
@@ -1053,7 +3925,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 84,
+        "id": "84",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_84.png",
@@ -1066,7 +3938,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 85,
+        "id": "85",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_85.jpg",
@@ -1079,7 +3951,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 86,
+        "id": "86",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_86.jpg",
@@ -1092,7 +3964,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 87,
+        "id": "87",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_87.jpg",
@@ -1105,7 +3977,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 88,
+        "id": "88",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_88.jpg",
@@ -1118,7 +3990,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 89,
+        "id": "89",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_89.jpg",
@@ -1131,7 +4003,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 90,
+        "id": "90",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_90.png",
@@ -1144,7 +4016,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 91,
+        "id": "91",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_91.jpg",
@@ -1157,7 +4029,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 92,
+        "id": "92",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_92.png",
@@ -1170,7 +4042,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 93,
+        "id": "93",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_93.jpg",
@@ -1183,7 +4055,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 94,
+        "id": "94",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_94.jpg",
@@ -1196,7 +4068,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 95,
+        "id": "95",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_95.jpg",
@@ -1209,7 +4081,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 96,
+        "id": "96",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_96.png",
@@ -1222,7 +4094,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 97,
+        "id": "97",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_97.jpg",
@@ -1235,7 +4107,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 98,
+        "id": "98",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_98.jpg",
@@ -1248,7 +4120,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 99,
+        "id": "99",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_99.jpg",
@@ -1261,7 +4133,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 100,
+        "id": "100",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_100.jpg",
@@ -1274,7 +4146,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 101,
+        "id": "101",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_101.jpg",
@@ -1287,7 +4159,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 102,
+        "id": "102",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_102.jpg",
@@ -1300,7 +4172,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 103,
+        "id": "103",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_103.jpg",
@@ -1313,7 +4185,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 104,
+        "id": "104",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_104.jpg",
@@ -1326,7 +4198,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 105,
+        "id": "105",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_105.png",
@@ -1339,7 +4211,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 106,
+        "id": "106",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_106.jpg",
@@ -1352,7 +4224,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 108,
+        "id": "108",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_108.jpg",
@@ -1365,7 +4237,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 109,
+        "id": "109",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_109.png",
@@ -1378,7 +4250,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 110,
+        "id": "110",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_110.jpg",
@@ -1391,7 +4263,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 111,
+        "id": "111",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_111.jpg",
@@ -1404,7 +4276,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 112,
+        "id": "112",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_112.jpg",
@@ -1417,7 +4289,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 113,
+        "id": "113",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_113.jpg",
@@ -1430,7 +4302,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 114,
+        "id": "114",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_114.jpg",
@@ -1443,7 +4315,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 115,
+        "id": "115",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_115.png",
@@ -1456,7 +4328,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 116,
+        "id": "116",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_116.jpg",
@@ -1469,7 +4341,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 117,
+        "id": "117",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_117.jpg",
@@ -1482,7 +4354,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 118,
+        "id": "118",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_118.jpg",
@@ -1495,7 +4367,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 119,
+        "id": "119",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_119.jpg",
@@ -1508,7 +4380,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 120,
+        "id": "120",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_120.jpg",
@@ -1521,7 +4393,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 121,
+        "id": "121",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_121.jpg",
@@ -1534,7 +4406,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 122,
+        "id": "122",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_122.jpg",
@@ -1547,7 +4419,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 123,
+        "id": "123",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_123.jpg",
@@ -1560,7 +4432,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 124,
+        "id": "124",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_124.jpg",
@@ -1573,7 +4445,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 126,
+        "id": "126",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_126.jpg",
@@ -1586,7 +4458,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 127,
+        "id": "127",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_127.jpg",
@@ -1599,7 +4471,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 128,
+        "id": "128",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_128.jpg",
@@ -1612,7 +4484,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 129,
+        "id": "129",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_129.jpg",
@@ -1625,7 +4497,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 130,
+        "id": "130",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_130.png",
@@ -1638,7 +4510,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 131,
+        "id": "131",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_131.png",
@@ -1651,7 +4523,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 132,
+        "id": "132",
         "categoria": "Aretes Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_132.jpg",
@@ -1664,7 +4536,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 133,
+        "id": "133",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_133.jpg",
@@ -1677,7 +4549,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 134,
+        "id": "134",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_134.jpg",
@@ -1690,7 +4562,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 135,
+        "id": "135",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_135.jpg",
@@ -1703,7 +4575,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 136,
+        "id": "136",
         "categoria": "Aretes Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_136.jpg",
@@ -1716,7 +4588,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 137,
+        "id": "137",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_137.jpg",
@@ -1729,7 +4601,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 138,
+        "id": "138",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_138.jpg",
@@ -1742,7 +4614,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 139,
+        "id": "139",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_139.jpg",
@@ -1755,7 +4627,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 140,
+        "id": "140",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_140.jpg",
@@ -1768,7 +4640,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 141,
+        "id": "141",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_141.png",
@@ -1781,7 +4653,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 142,
+        "id": "142",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_142.jpg",
@@ -1794,7 +4666,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 143,
+        "id": "143",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_143.png",
@@ -1807,7 +4679,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 144,
+        "id": "144",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_144.jpg",
@@ -1820,7 +4692,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 145,
+        "id": "145",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_145.png",
@@ -1833,7 +4705,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 146,
+        "id": "146",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_146.png",
@@ -1846,7 +4718,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 148,
+        "id": "148",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_148.jpg",
@@ -1859,7 +4731,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 149,
+        "id": "149",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_149.jpg",
@@ -1872,7 +4744,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 150,
+        "id": "150",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_150.jpg",
@@ -1885,7 +4757,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 151,
+        "id": "151",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_151.jpg",
@@ -1898,7 +4770,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 152,
+        "id": "152",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_152.png",
@@ -1911,7 +4783,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 153,
+        "id": "153",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_153.jpg",
@@ -1924,7 +4796,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 154,
+        "id": "154",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_154.jpg",
@@ -1937,7 +4809,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 155,
+        "id": "155",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_155.jpg",
@@ -1950,7 +4822,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 156,
+        "id": "156",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_156.jpg",
@@ -1963,7 +4835,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 157,
+        "id": "157",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_157.jpg",
@@ -1976,7 +4848,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 158,
+        "id": "158",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_158.png",
@@ -1989,7 +4861,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 159,
+        "id": "159",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_159.jpg",
@@ -2002,7 +4874,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 160,
+        "id": "160",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_160.jpg",
@@ -2015,7 +4887,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 161,
+        "id": "161",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_161.jpg",
@@ -2028,7 +4900,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 163,
+        "id": "163",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_163.jpg",
@@ -2041,7 +4913,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 164,
+        "id": "164",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_164.jpg",
@@ -2054,7 +4926,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 165,
+        "id": "165",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_165.jpg",
@@ -2067,7 +4939,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 166,
+        "id": "166",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_166.jpg",
@@ -2080,7 +4952,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 167,
+        "id": "167",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_167.jpg",
@@ -2093,7 +4965,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 168,
+        "id": "168",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_168.jpg",
@@ -2106,7 +4978,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 169,
+        "id": "169",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_169.jpg",
@@ -2119,7 +4991,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 170,
+        "id": "170",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_170.jpg",
@@ -2132,7 +5004,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 171,
+        "id": "171",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_171.jpg",
@@ -2145,7 +5017,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 172,
+        "id": "172",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_172.jpg",
@@ -2158,7 +5030,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 173,
+        "id": "173",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_173.jpg",
@@ -2171,7 +5043,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 174,
+        "id": "174",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_174.jpg",
@@ -2184,7 +5056,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 175,
+        "id": "175",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_175.jpg",
@@ -2197,7 +5069,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 176,
+        "id": "176",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_176.jpg",
@@ -2210,7 +5082,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 177,
+        "id": "177",
         "categoria": "Aretes Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_177.jpg",
@@ -2223,7 +5095,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 179,
+        "id": "179",
         "categoria": "Aretes Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_179.jpg",
@@ -2236,7 +5108,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 180,
+        "id": "180",
         "categoria": "Aretes Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_180.jpg",
@@ -2249,7 +5121,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 181,
+        "id": "181",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_181.jpg",
@@ -2262,7 +5134,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 182,
+        "id": "182",
         "categoria": "Aretes Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_182.jpg",
@@ -2275,7 +5147,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 183,
+        "id": "183",
         "categoria": "Aretes Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_183.jpg",
@@ -2288,7 +5160,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 184,
+        "id": "184",
         "categoria": "Aretes Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_184.jpg",
@@ -2301,7 +5173,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 187,
+        "id": "187",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_187.jpg",
@@ -2314,7 +5186,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 189,
+        "id": "189",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_189.jpg",
@@ -2327,7 +5199,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 190,
+        "id": "190",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_190.jpg",
@@ -2340,7 +5212,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 191,
+        "id": "191",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_191.jpg",
@@ -2353,7 +5225,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 192,
+        "id": "192",
         "categoria": "Aretes Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_192.jpg",
@@ -2366,7 +5238,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 193,
+        "id": "193",
         "categoria": "Aretes Baño de Plata",
         "precio": 75.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_193.jpg",
@@ -2379,7 +5251,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 194,
+        "id": "194",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_194.jpg",
@@ -2392,7 +5264,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 195,
+        "id": "195",
         "categoria": "Aretes Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_195.jpg",
@@ -2431,7 +5303,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 197,
+        "id": "197",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_197.jpg",
@@ -2444,7 +5316,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 198,
+        "id": "198",
         "categoria": "Aretes Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_198.jpg",
@@ -2652,7 +5524,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 201,
+        "id": "201",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_201.jpg",
@@ -2661,11 +5533,31 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_201.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201E.jpg"
             }
         ]
     },
     {
-        "id": 202,
+        "id": "202",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_202.jpg",
@@ -2678,7 +5570,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 203,
+        "id": "203",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_203.jpg",
@@ -2691,7 +5583,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 204,
+        "id": "204",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_204.png",
@@ -2704,7 +5596,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 205,
+        "id": "205",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_205.jpg",
@@ -2717,7 +5609,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 206,
+        "id": "206",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_206.jpg",
@@ -2730,7 +5622,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 207,
+        "id": "207",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_207.jpg",
@@ -2743,7 +5635,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 208,
+        "id": "208",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_208.jpg",
@@ -2756,7 +5648,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 209,
+        "id": "209",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_209.jpg",
@@ -2769,7 +5661,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 210,
+        "id": "210",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_210.jpg",
@@ -2782,7 +5674,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 211,
+        "id": "211",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_211.jpg",
@@ -2795,7 +5687,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 212,
+        "id": "212",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_212.jpg",
@@ -2808,7 +5700,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 213,
+        "id": "213",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_213.jpg",
@@ -2821,7 +5713,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 214,
+        "id": "214",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_214.jpg",
@@ -2834,7 +5726,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 215,
+        "id": "215",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_215.jpg",
@@ -2847,7 +5739,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 216,
+        "id": "216",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_216.png",
@@ -2860,7 +5752,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 217,
+        "id": "217",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_217.png",
@@ -2873,7 +5765,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 218,
+        "id": "218",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_218.png",
@@ -2886,7 +5778,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 219,
+        "id": "219",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_219.jpg",
@@ -2899,7 +5791,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 220,
+        "id": "220",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_220.jpg",
@@ -2912,7 +5804,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 221,
+        "id": "221",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_221.png",
@@ -2925,7 +5817,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 224,
+        "id": "224",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_224.png",
@@ -2938,7 +5830,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 225,
+        "id": "225",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_225.jpg",
@@ -2951,7 +5843,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 226,
+        "id": "226",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_226.jpg",
@@ -2964,7 +5856,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 227,
+        "id": "227",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_227.png",
@@ -2977,7 +5869,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 228,
+        "id": "228",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_228.jpg",
@@ -2990,7 +5882,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 229,
+        "id": "229",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_229.jpg",
@@ -3003,7 +5895,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 230,
+        "id": "230",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_230.png",
@@ -3016,7 +5908,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 231,
+        "id": "231",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_231.jpg",
@@ -3029,7 +5921,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 232,
+        "id": "232",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_232.png",
@@ -3042,7 +5934,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 233,
+        "id": "233",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_233.jpg",
@@ -3055,7 +5947,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 234,
+        "id": "234",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_234.jpg",
@@ -3068,7 +5960,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 235,
+        "id": "235",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_235.jpg",
@@ -3081,7 +5973,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 236,
+        "id": "236",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_236.jpg",
@@ -3094,7 +5986,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 237,
+        "id": "237",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_237.png",
@@ -3107,7 +5999,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 238,
+        "id": "238",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_238.png",
@@ -3120,7 +6012,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 239,
+        "id": "239",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_239.png",
@@ -3133,7 +6025,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 240,
+        "id": "240",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_240.png",
@@ -3146,7 +6038,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 241,
+        "id": "241",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_241.png",
@@ -3159,7 +6051,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 242,
+        "id": "242",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_242.jpg",
@@ -3172,7 +6064,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 243,
+        "id": "243",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_243.jpg",
@@ -3185,7 +6077,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 244,
+        "id": "244",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_244.png",
@@ -3198,7 +6090,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 245,
+        "id": "245",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_245.jpg",
@@ -3211,7 +6103,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 246,
+        "id": "246",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_246.png",
@@ -3224,7 +6116,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 247,
+        "id": "247",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_247.png",
@@ -3237,7 +6129,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 248,
+        "id": "248",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_248.png",
@@ -3250,7 +6142,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 249,
+        "id": "249",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_249.png",
@@ -3263,7 +6155,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 250,
+        "id": "250",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_250.png",
@@ -3276,7 +6168,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 251,
+        "id": "251",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_251.png",
@@ -3289,7 +6181,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 253,
+        "id": "253",
         "categoria": "Aretes Baño de Plata",
         "precio": 100.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_253.jpg",
@@ -3302,7 +6194,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 254,
+        "id": "254",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_254.jpg",
@@ -3315,7 +6207,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 255,
+        "id": "255",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_255.jpg",
@@ -3328,7 +6220,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 256,
+        "id": "256",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_256.jpg",
@@ -3341,7 +6233,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 257,
+        "id": "257",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_257.jpg",
@@ -3354,7 +6246,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 258,
+        "id": "258",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_258.jpg",
@@ -3367,7 +6259,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 259,
+        "id": "259",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_259.jpg",
@@ -3380,7 +6272,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 260,
+        "id": "260",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_260.jpg",
@@ -3393,7 +6285,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 261,
+        "id": "261",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_261.jpg",
@@ -3406,7 +6298,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 262,
+        "id": "262",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_262.jpg",
@@ -3419,7 +6311,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 264,
+        "id": "264",
         "categoria": "Aretes Baño de Plata",
         "precio": 65.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_264.jpg",
@@ -3432,7 +6324,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 267,
+        "id": "267",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_267.jpg",
@@ -3445,7 +6337,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 301,
+        "id": "301",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_301.jpg",
@@ -3458,7 +6350,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 302,
+        "id": "302",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_302.jpg",
@@ -3471,7 +6363,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 303,
+        "id": "303",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_303.jpg",
@@ -3484,7 +6376,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 304,
+        "id": "304",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_304.jpg",
@@ -3497,7 +6389,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 305,
+        "id": "305",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_305.jpg",
@@ -3510,7 +6402,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 306,
+        "id": "306",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_306.jpg",
@@ -3523,7 +6415,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 307,
+        "id": "307",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_307.jpg",
@@ -3536,7 +6428,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 308,
+        "id": "308",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_308.jpg",
@@ -3549,7 +6441,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 309,
+        "id": "309",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_309.jpg",
@@ -3562,7 +6454,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 310,
+        "id": "310",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_310.jpg",
@@ -3575,7 +6467,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 311,
+        "id": "311",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_311.jpg",
@@ -3588,7 +6480,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 312,
+        "id": "312",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_312.jpg",
@@ -3601,7 +6493,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 313,
+        "id": "313",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_313.jpg",
@@ -3614,7 +6506,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 314,
+        "id": "314",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_314.jpg",
@@ -3627,7 +6519,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 315,
+        "id": "315",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_315.jpg",
@@ -3640,7 +6532,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 316,
+        "id": "316",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_316.jpg",
@@ -3653,7 +6545,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 317,
+        "id": "317",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_317.jpg",
@@ -3666,7 +6558,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 318,
+        "id": "318",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_318.jpg",
@@ -3679,7 +6571,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 319,
+        "id": "319",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_319.jpg",
@@ -3692,7 +6584,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 320,
+        "id": "320",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_320.jpg",
@@ -3705,7 +6597,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 321,
+        "id": "321",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_321.jpg",
@@ -3718,7 +6610,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 322,
+        "id": "322",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_322.jpg",
@@ -3731,7 +6623,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 323,
+        "id": "323",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_323.jpg",
@@ -3744,7 +6636,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 324,
+        "id": "324",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_324.jpg",
@@ -3757,7 +6649,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 325,
+        "id": "325",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_325.jpg",
@@ -3770,7 +6662,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 326,
+        "id": "326",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_326.jpg",
@@ -3783,7 +6675,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 327,
+        "id": "327",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_327.jpg",
@@ -3796,7 +6688,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 328,
+        "id": "328",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_328.jpg",
@@ -3809,7 +6701,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 329,
+        "id": "329",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_329.png",
@@ -3822,7 +6714,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 332,
+        "id": "332",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_332.png",
@@ -3835,7 +6727,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 333,
+        "id": "333",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_333.jpg",
@@ -3848,7 +6740,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 334,
+        "id": "334",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_334.jpg",
@@ -3861,7 +6753,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 335,
+        "id": "335",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_335.jpg",
@@ -3874,7 +6766,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 336,
+        "id": "336",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_336.jpg",
@@ -3887,7 +6779,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 337,
+        "id": "337",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_337.jpg",
@@ -3900,7 +6792,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 338,
+        "id": "338",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_338.jpg",
@@ -3913,7 +6805,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 339,
+        "id": "339",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_339.jpg",
@@ -3926,7 +6818,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 340,
+        "id": "340",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_340.jpg",
@@ -3939,7 +6831,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 341,
+        "id": "341",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_341.jpg",
@@ -3952,7 +6844,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 342,
+        "id": "342",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_342.jpg",
@@ -3965,7 +6857,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 343,
+        "id": "343",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_343.jpg",
@@ -3978,7 +6870,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 344,
+        "id": "344",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_344.jpg",
@@ -3991,7 +6883,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 345,
+        "id": "345",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_345.jpg",
@@ -4004,7 +6896,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 347,
+        "id": "347",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_347.jpg",
@@ -4017,7 +6909,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 348,
+        "id": "348",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_348.jpg",
@@ -4030,7 +6922,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 349,
+        "id": "349",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_349.jpg",
@@ -4043,7 +6935,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 350,
+        "id": "350",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_350.jpg",
@@ -4056,7 +6948,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 351,
+        "id": "351",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_351.jpg",
@@ -4069,7 +6961,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 352,
+        "id": "352",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_352.jpg",
@@ -4082,7 +6974,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 353,
+        "id": "353",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_353.png",
@@ -4095,7 +6987,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 354,
+        "id": "354",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_354.jpg",
@@ -4108,7 +7000,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 356,
+        "id": "356",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_356.jpg",
@@ -4121,7 +7013,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 357,
+        "id": "357",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_357.jpg",
@@ -4134,7 +7026,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 358,
+        "id": "358",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_358.jpg",
@@ -4147,7 +7039,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 359,
+        "id": "359",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_359.jpg",
@@ -4160,7 +7052,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 360,
+        "id": "360",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_360.jpg",
@@ -4173,7 +7065,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 361,
+        "id": "361",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_361.jpg",
@@ -4186,7 +7078,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 362,
+        "id": "362",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_362.jpg",
@@ -4199,7 +7091,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 363,
+        "id": "363",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_363.jpg",
@@ -4212,7 +7104,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 364,
+        "id": "364",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_364.jpg",
@@ -4225,7 +7117,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 365,
+        "id": "365",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_365.jpg",
@@ -4238,7 +7130,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 366,
+        "id": "366",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_366.jpg",
@@ -4251,7 +7143,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 367,
+        "id": "367",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_367.png",
@@ -4264,7 +7156,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 368,
+        "id": "368",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_368.jpg",
@@ -4277,7 +7169,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 369,
+        "id": "369",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_369.jpg",
@@ -4290,7 +7182,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 370,
+        "id": "370",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_370.jpg",
@@ -4303,7 +7195,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 371,
+        "id": "371",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_371.png",
@@ -4381,7 +7273,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 375,
+        "id": "375",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_375.jpg",
@@ -4394,7 +7286,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 376,
+        "id": "376",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_376.jpg",
@@ -4407,7 +7299,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 377,
+        "id": "377",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_377.jpg",
@@ -4420,7 +7312,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 378,
+        "id": "378",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_378.jpg",
@@ -4433,7 +7325,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 379,
+        "id": "379",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_379.jpg",
@@ -4446,7 +7338,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 380,
+        "id": "380",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_380.jpg",
@@ -4459,7 +7351,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 381,
+        "id": "381",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_381.jpg",
@@ -4472,7 +7364,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 382,
+        "id": "382",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_382.jpg",
@@ -4485,7 +7377,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 389,
+        "id": "389",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_389.jpg",
@@ -4498,7 +7390,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 390,
+        "id": "390",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_390.jpg",
@@ -4511,7 +7403,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 391,
+        "id": "391",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_391.jpg",
@@ -4524,7 +7416,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 392,
+        "id": "392",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_392.jpg",
@@ -4537,7 +7429,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 394,
+        "id": "394",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_394.jpg",
@@ -4550,7 +7442,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 401,
+        "id": "401",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_401.png",
@@ -4563,7 +7455,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 402,
+        "id": "402",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_402.jpg",
@@ -4576,7 +7468,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 403,
+        "id": "403",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_403.jpg",
@@ -4589,7 +7481,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 405,
+        "id": "405",
         "categoria": "Aretes Baño de Plata",
         "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_405.png",
@@ -4602,7 +7494,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 408,
+        "id": "408",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_408.jpg",
@@ -4615,7 +7507,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 410,
+        "id": "410",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_410.jpg",
@@ -4628,7 +7520,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 413,
+        "id": "413",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_413.jpg",
@@ -4641,7 +7533,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 416,
+        "id": "416",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_416.jpg",
@@ -4654,7 +7546,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 417,
+        "id": "417",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_417.jpg",
@@ -4667,7 +7559,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 418,
+        "id": "418",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_418.jpg",
@@ -4680,7 +7572,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 419,
+        "id": "419",
         "categoria": "Aretes Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_419.jpg",
@@ -4693,7 +7585,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 420,
+        "id": "420",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_420.jpg",
@@ -4706,7 +7598,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 421,
+        "id": "421",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_421.jpg",
@@ -4719,7 +7611,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 422,
+        "id": "422",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_422.jpg",
@@ -4732,7 +7624,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 423,
+        "id": "423",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_423.jpg",
@@ -4745,7 +7637,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 424,
+        "id": "424",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_424.jpg",
@@ -4784,7 +7676,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 426,
+        "id": "426",
         "categoria": "Aretes Baño de Plata",
         "precio": 65.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_426.jpg",
@@ -4823,7 +7715,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 428,
+        "id": "428",
         "categoria": "Aretes Baño de Plata",
         "precio": 60.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_428.jpg",
@@ -4836,7 +7728,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 429,
+        "id": "429",
         "categoria": "Aretes Baño de Plata",
         "precio": 85.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_429.jpg",
@@ -4849,7 +7741,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 430,
+        "id": "430",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_430.jpg",
@@ -4862,7 +7754,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 431,
+        "id": "431",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_431.jpg",
@@ -4875,7 +7767,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 432,
+        "id": "432",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_432.jpg",
@@ -4888,7 +7780,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 433,
+        "id": "433",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_433.jpg",
@@ -4940,7 +7832,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 435,
+        "id": "435",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_435.jpg",
@@ -4953,7 +7845,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 436,
+        "id": "436",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_436.jpg",
@@ -4966,7 +7858,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 437,
+        "id": "437",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_437.jpg",
@@ -4979,7 +7871,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 438,
+        "id": "438",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_438.jpg",
@@ -4992,7 +7884,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 439,
+        "id": "439",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_439.jpg",
@@ -5005,7 +7897,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 440,
+        "id": "440",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_440.jpg",
@@ -5018,7 +7910,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 441,
+        "id": "441",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_441.jpg",
@@ -5031,7 +7923,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 450,
+        "id": "450",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_450.jpg",
@@ -5044,7 +7936,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 451,
+        "id": "451",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_451.jpg",
@@ -5057,7 +7949,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 452,
+        "id": "452",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_452.jpg",
@@ -5070,7 +7962,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 453,
+        "id": "453",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_453.jpg",
@@ -5083,7 +7975,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 454,
+        "id": "454",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_454.jpg",
@@ -5096,7 +7988,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 456,
+        "id": "456",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_456.jpg",
@@ -5109,7 +8001,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 457,
+        "id": "457",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_457.jpg",
@@ -5122,7 +8014,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 458,
+        "id": "458",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_458.jpg",
@@ -5135,7 +8027,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 459,
+        "id": "459",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_459.jpg",
@@ -5148,7 +8040,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 460,
+        "id": "460",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_460.jpg",
@@ -5161,7 +8053,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 461,
+        "id": "461",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_461.jpg",
@@ -5174,7 +8066,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 462,
+        "id": "462",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_462.jpg",
@@ -5187,7 +8079,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 463,
+        "id": "463",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_463.jpg",
@@ -5200,7 +8092,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 464,
+        "id": "464",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_464.jpg",
@@ -5213,7 +8105,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 465,
+        "id": "465",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_465.jpg",
@@ -5226,7 +8118,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 466,
+        "id": "466",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_466.jpg",
@@ -5239,7 +8131,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 467,
+        "id": "467",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_467.jpg",
@@ -5252,7 +8144,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 468,
+        "id": "468",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_468.jpg",
@@ -5265,7 +8157,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 469,
+        "id": "469",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_469.jpg",
@@ -5278,7 +8170,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 470,
+        "id": "470",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_470.jpg",
@@ -5291,7 +8183,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 471,
+        "id": "471",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_471.jpg",
@@ -5304,7 +8196,7 @@ const productosAretesBp = [
         ]
     },
     {
-        "id": 472,
+        "id": "472",
         "categoria": "Aretes Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_472.jpg",

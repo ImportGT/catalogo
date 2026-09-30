@@ -1,6 +1,6 @@
 const productosPulserasBp = [
     {
-        "id": 1,
+        "id": "1",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_1.png",
@@ -9,11 +9,467 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_1.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_10.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_100.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_101.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_102.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_103.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_104.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_105.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_106.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_107.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_108.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_109.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_11.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_110.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_111.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_112.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_113.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_114.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_115.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_116.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_117.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_118.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_119.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_12.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_120.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_121.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_122.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_123.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_124.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_125.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_126.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_127.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_128.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_129.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_13.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_130.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_131.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_132.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_134.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_135.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_136.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_137.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_138.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_139.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_14.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_140.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_141.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_142.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_143.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_144.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_145.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_146.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_147.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_148.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_149.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_15.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_150.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_151.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_152.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_153.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_154.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_155.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_156.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_157.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_158.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_159.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_16.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_160.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_161.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_162.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_163.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_164.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_165.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_166.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_167.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_168.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_169.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_17.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_170.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_171.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_172.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_173.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_174.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_175.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_176.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_177.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_178.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_179.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_18.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_180.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_181.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_182.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_183.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_184.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_185.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_186.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_187.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_188.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_189.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_19.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_190.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_191.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_192.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_193.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_194.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_195.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_196.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_197.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_198.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_199.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.1.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.2.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.3 (1).jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.5.jpg"
             }
         ]
     },
     {
-        "id": 2,
+        "id": "2",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_2.png",
@@ -22,11 +478,463 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_2.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_20.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_200.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_201.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_203.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_204.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_205.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_206.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_207.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_208.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_209.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_21.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_210.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_211.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_212.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_213.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_214.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_215.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_216.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_217.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_218.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_219.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_22.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_220.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_221.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_222.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_224.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_225.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_226.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_227.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_228.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_229.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_23.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_230.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_231.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_232.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_233.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_234.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_235.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_236.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_237.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_239.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_24.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_240.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_241.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_242.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_243.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_244.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_245.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_246.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_247.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_248.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_249.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_25.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_250.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_251.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_252.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_253.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_254.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_255.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_256.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_257.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_258.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_259.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_26.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_260.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_261.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_262.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_263.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_264.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_265.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_266.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_267.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_268.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_269.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_27.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_270.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_271.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_272.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_273.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_274.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_275.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_276.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_277.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_278.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_279.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_28.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_280.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_281.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_282.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_283.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_284.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_285.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_286.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_287.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_288.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_289.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_29.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_290.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_291.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_292.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_293A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_293B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_294.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_295.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_296.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_297.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_298.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_299.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.5.jpg"
             }
         ]
     },
     {
-        "id": 3,
+        "id": "3",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_3.png",
@@ -35,11 +943,555 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_3.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_30.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_300.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_301.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_302.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_303.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_304.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_305.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_306.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_307A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_307B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_309.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_31.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_310.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_311.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_312.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_315A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_315B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_316.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_317.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_318.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_32.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_321.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_322.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_323.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_33.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_339.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_34.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_340.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_341.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_342.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_343.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_344.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_345.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_346.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_347.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_348.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_349.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_35.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_354.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_355.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_359.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_36.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_360.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_361.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_362.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_363.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_364.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_37.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_373.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_374.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_376.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_377.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_378.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_38.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_380.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_381.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_382.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_383.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_384.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_386.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_39.png"
             }
         ]
     },
     {
-        "id": 4,
+        "id": "4",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_4.png",
@@ -48,11 +1500,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_4.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_40.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_41.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_42.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_43.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_44.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_45.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_46.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_47.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_48.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_49.jpg"
             }
         ]
     },
     {
-        "id": 5,
+        "id": "5",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_5.png",
@@ -61,11 +1553,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_5.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_50.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_51.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_52.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_53.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_54.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_55.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_56.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_57.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_58.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_59.jpg"
             }
         ]
     },
     {
-        "id": 6,
+        "id": "6",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_6.png",
@@ -74,11 +1606,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_6.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_60.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_61.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_62.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_63.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_64.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_65.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_66.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_67.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_68.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_69.png"
             }
         ]
     },
     {
-        "id": 7,
+        "id": "7",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_7.png",
@@ -87,11 +1659,43 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_7.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_70.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_73.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_74.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_75.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_76.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_77.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_78.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_79.jpg"
             }
         ]
     },
     {
-        "id": 8,
+        "id": "8",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_8.png",
@@ -100,11 +1704,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_8.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_80.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_81.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_82.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_83.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_84.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_85.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_86.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_87.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_88.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_89.jpg"
             }
         ]
     },
     {
-        "id": 9,
+        "id": "9",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_9.png",
@@ -113,11 +1757,47 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_9.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_90.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_91.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_92.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_93.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_94.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_95.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_96.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_97.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_99.jpg"
             }
         ]
     },
     {
-        "id": 10,
+        "id": "10",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_10.png",
@@ -126,11 +1806,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_10.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_100.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_101.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_102.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_103.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_104.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_105.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_106.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_107.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_108.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_109.jpg"
             }
         ]
     },
     {
-        "id": 11,
+        "id": "11",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_11.png",
@@ -139,11 +1859,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_11.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_110.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_111.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_112.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_113.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_114.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_115.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_116.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_117.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_118.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_119.jpg"
             }
         ]
     },
     {
-        "id": 12,
+        "id": "12",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_12.png",
@@ -152,11 +1912,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_12.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_120.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_121.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_122.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_123.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_124.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_125.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_126.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_127.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_128.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_129.jpg"
             }
         ]
     },
     {
-        "id": 13,
+        "id": "13",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_13.png",
@@ -165,11 +1965,67 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_13.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_130.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_131.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_132.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_134.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_135.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_136.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_137.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_138.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_139.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.1.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.2.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.3 (1).jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.5.jpg"
             }
         ]
     },
     {
-        "id": 14,
+        "id": "14",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_14.png",
@@ -178,11 +2034,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_14.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_140.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_141.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_142.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_143.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_144.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_145.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_146.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_147.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_148.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_149.jpg"
             }
         ]
     },
     {
-        "id": 15,
+        "id": "15",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_15.png",
@@ -191,11 +2087,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_15.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_150.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_151.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_152.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_153.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_154.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_155.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_156.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_157.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_158.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_159.jpg"
             }
         ]
     },
     {
-        "id": 16,
+        "id": "16",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_16.jpg",
@@ -204,11 +2140,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_16.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_160.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_161.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_162.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_163.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_164.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_165.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_166.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_167.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_168.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_169.jpg"
             }
         ]
     },
     {
-        "id": 17,
+        "id": "17",
         "categoria": "Pulseras Baño de Plata",
         "precio": 60.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_17.jpg",
@@ -217,11 +2193,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_17.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_170.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_171.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_172.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_173.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_174.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_175.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_176.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_177.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_178.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_179.jpg"
             }
         ]
     },
     {
-        "id": 18,
+        "id": "18",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_18.png",
@@ -230,11 +2246,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_18.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_180.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_181.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_182.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_183.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_184.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_185.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_186.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_187.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_188.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_189.jpg"
             }
         ]
     },
     {
-        "id": 19,
+        "id": "19",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_19.png",
@@ -243,11 +2299,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_19.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_190.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_191.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_192.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_193.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_194.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_195.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_196.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_197.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_198.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_199.jpg"
             }
         ]
     },
     {
-        "id": 20,
+        "id": "20",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_20.jpg",
@@ -256,11 +2352,47 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_20.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_200.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_201.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_203.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_204.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_205.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_206.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_207.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_208.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_209.jpg"
             }
         ]
     },
     {
-        "id": 21,
+        "id": "21",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_21.jpg",
@@ -269,11 +2401,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_21.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_210.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_211.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_212.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_213.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_214.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_215.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_216.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_217.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_218.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_219.jpg"
             }
         ]
     },
     {
-        "id": 22,
+        "id": "22",
         "categoria": "Pulseras Baño de Plata",
         "precio": 65.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_22.jpg",
@@ -282,11 +2454,67 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_22.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_220.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_221.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_222.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_224.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_225.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_226.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_227.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_228.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_229.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.5.jpg"
             }
         ]
     },
     {
-        "id": 23,
+        "id": "23",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_23.jpg",
@@ -295,11 +2523,47 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_23.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_230.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_231.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_232.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_233.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_234.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_235.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_236.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_237.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_239.jpg"
             }
         ]
     },
     {
-        "id": 24,
+        "id": "24",
         "categoria": "Pulseras Baño de Plata",
         "precio": 65.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_24.jpg",
@@ -308,11 +2572,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_24.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_240.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_241.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_242.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_243.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_244.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_245.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_246.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_247.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_248.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_249.png"
             }
         ]
     },
     {
-        "id": 25,
+        "id": "25",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_25.jpg",
@@ -321,11 +2625,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_25.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_250.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_251.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_252.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_253.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_254.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_255.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_256.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_257.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_258.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_259.jpg"
             }
         ]
     },
     {
-        "id": 26,
+        "id": "26",
         "categoria": "Pulseras Baño de Plata",
         "precio": 65.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_26.jpg",
@@ -334,11 +2678,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_26.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_260.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_261.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_262.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_263.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_264.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_265.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_266.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_267.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_268.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_269.jpg"
             }
         ]
     },
     {
-        "id": 27,
+        "id": "27",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_27.jpg",
@@ -347,11 +2731,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_27.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_270.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_271.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_272.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_273.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_274.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_275.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_276.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_277.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_278.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_279.jpg"
             }
         ]
     },
     {
-        "id": 28,
+        "id": "28",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_28.png",
@@ -360,11 +2784,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_28.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_280.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_281.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_282.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_283.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_284.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_285.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_286.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_287.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_288.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_289.jpg"
             }
         ]
     },
     {
-        "id": 29,
+        "id": "29",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_29.jpg",
@@ -373,11 +2837,55 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_29.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_290.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_291.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_292.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_293A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_293B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_294.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_295.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_296.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_297.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_298.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_299.jpg"
             }
         ]
     },
     {
-        "id": 30,
+        "id": "30",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_30.jpg",
@@ -386,11 +2894,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_30.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_300.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_301.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_302.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_303.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_304.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_305.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_306.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_307A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_307B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_309.jpg"
             }
         ]
     },
     {
-        "id": 31,
+        "id": "31",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_31.jpg",
@@ -399,11 +2947,159 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_31.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_310.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_311.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_312.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_315A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_315B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_316.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_317.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_318.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
     {
-        "id": 32,
+        "id": "32",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_32.jpg",
@@ -412,11 +3108,123 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_32.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_321.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_322.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_323.jpg"
             }
         ]
     },
     {
-        "id": 33,
+        "id": "33",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_33.jpg",
@@ -425,11 +3233,15 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_33.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_339.jpg"
             }
         ]
     },
     {
-        "id": 34,
+        "id": "34",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_34.jpg",
@@ -438,11 +3250,51 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_34.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_340.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_341.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_342.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_343.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_344.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_345.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_346.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_347.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_348.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_349.jpg"
             }
         ]
     },
     {
-        "id": 35,
+        "id": "35",
         "categoria": "Pulseras Baño de Plata",
         "precio": 65.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_35.jpg",
@@ -451,11 +3303,23 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_35.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_354.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_355.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_359.jpg"
             }
         ]
     },
     {
-        "id": 36,
+        "id": "36",
         "categoria": "Pulseras Baño de Plata",
         "precio": 60.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_36.png",
@@ -464,11 +3328,79 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_36.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_360.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_361.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_362.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_363.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_364.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369C.jpg"
             }
         ]
     },
     {
-        "id": 37,
+        "id": "37",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_37.jpg",
@@ -477,11 +3409,67 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_37.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_373.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_374.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_376.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_377.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_378.jpg"
             }
         ]
     },
     {
-        "id": 38,
+        "id": "38",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_38.png",
@@ -490,11 +3478,35 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_38.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_380.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_381.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_382.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_383.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_384.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_386.jpg"
             }
         ]
     },
     {
-        "id": 39,
+        "id": "39",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_39.png",
@@ -507,7 +3519,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 40,
+        "id": "40",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_40.jpg",
@@ -520,7 +3532,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 41,
+        "id": "41",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_41.jpg",
@@ -533,7 +3545,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 42,
+        "id": "42",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_42.jpg",
@@ -546,7 +3558,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 43,
+        "id": "43",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_43.png",
@@ -559,7 +3571,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 44,
+        "id": "44",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_44.jpg",
@@ -572,7 +3584,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 45,
+        "id": "45",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_45.jpg",
@@ -585,7 +3597,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 46,
+        "id": "46",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_46.jpg",
@@ -598,7 +3610,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 47,
+        "id": "47",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_47.png",
@@ -611,7 +3623,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 48,
+        "id": "48",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_48.jpg",
@@ -624,7 +3636,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 49,
+        "id": "49",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_49.jpg",
@@ -637,7 +3649,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 50,
+        "id": "50",
         "categoria": "Pulseras Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_50.jpg",
@@ -650,7 +3662,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 51,
+        "id": "51",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_51.jpg",
@@ -663,7 +3675,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 52,
+        "id": "52",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_52.jpg",
@@ -676,7 +3688,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 53,
+        "id": "53",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_53.jpg",
@@ -689,7 +3701,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 54,
+        "id": "54",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_54.jpg",
@@ -702,7 +3714,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 55,
+        "id": "55",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_55.jpg",
@@ -715,7 +3727,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 56,
+        "id": "56",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_56.jpg",
@@ -728,7 +3740,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 57,
+        "id": "57",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_57.jpg",
@@ -741,7 +3753,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 58,
+        "id": "58",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_58.jpg",
@@ -754,7 +3766,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 59,
+        "id": "59",
         "categoria": "Pulseras Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_59.jpg",
@@ -767,7 +3779,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 60,
+        "id": "60",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_60.jpg",
@@ -780,7 +3792,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 61,
+        "id": "61",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_61.jpg",
@@ -793,7 +3805,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 62,
+        "id": "62",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_62.jpg",
@@ -806,7 +3818,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 63,
+        "id": "63",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_63.jpg",
@@ -819,7 +3831,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 64,
+        "id": "64",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_64.jpg",
@@ -832,7 +3844,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 65,
+        "id": "65",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_65.jpg",
@@ -845,7 +3857,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 66,
+        "id": "66",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_66.jpg",
@@ -858,7 +3870,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 67,
+        "id": "67",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_67.jpg",
@@ -871,7 +3883,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 68,
+        "id": "68",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_68.jpg",
@@ -884,7 +3896,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 69,
+        "id": "69",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_69.png",
@@ -897,7 +3909,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 70,
+        "id": "70",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_70.jpg",
@@ -910,7 +3922,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 73,
+        "id": "73",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_73.jpg",
@@ -923,7 +3935,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 74,
+        "id": "74",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_74.jpg",
@@ -936,7 +3948,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 75,
+        "id": "75",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_75.jpg",
@@ -949,7 +3961,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 76,
+        "id": "76",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_76.png",
@@ -962,7 +3974,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 77,
+        "id": "77",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_77.jpg",
@@ -975,7 +3987,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 78,
+        "id": "78",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_78.jpg",
@@ -988,7 +4000,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 79,
+        "id": "79",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_79.jpg",
@@ -1001,7 +4013,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 80,
+        "id": "80",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_80.jpg",
@@ -1014,7 +4026,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 81,
+        "id": "81",
         "categoria": "Pulseras Baño de Plata",
         "precio": 60.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_81.jpg",
@@ -1027,7 +4039,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 82,
+        "id": "82",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_82.jpg",
@@ -1040,7 +4052,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 83,
+        "id": "83",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_83.png",
@@ -1053,7 +4065,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 84,
+        "id": "84",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_84.jpg",
@@ -1066,7 +4078,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 85,
+        "id": "85",
         "categoria": "Pulseras Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_85.png",
@@ -1079,7 +4091,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 86,
+        "id": "86",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_86.jpg",
@@ -1092,7 +4104,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 87,
+        "id": "87",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_87.jpg",
@@ -1105,7 +4117,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 88,
+        "id": "88",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_88.jpg",
@@ -1118,7 +4130,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 89,
+        "id": "89",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_89.jpg",
@@ -1131,7 +4143,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 90,
+        "id": "90",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_90.jpg",
@@ -1144,7 +4156,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 91,
+        "id": "91",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_91.jpg",
@@ -1157,7 +4169,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 92,
+        "id": "92",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_92.jpg",
@@ -1170,7 +4182,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 93,
+        "id": "93",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_93.png",
@@ -1183,7 +4195,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 94,
+        "id": "94",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_94.jpg",
@@ -1196,7 +4208,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 95,
+        "id": "95",
         "categoria": "Pulseras Baño de Plata",
         "precio": 60.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_95.png",
@@ -1209,7 +4221,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 96,
+        "id": "96",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_96.png",
@@ -1222,7 +4234,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 98,
+        "id": "98",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_98.jpg",
@@ -1235,7 +4247,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 99,
+        "id": "99",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_99.jpg",
@@ -1248,7 +4260,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 100,
+        "id": "100",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_100.jpg",
@@ -1261,7 +4273,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 101,
+        "id": "101",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_101.jpg",
@@ -1274,7 +4286,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 102,
+        "id": "102",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_102.jpg",
@@ -1287,7 +4299,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 103,
+        "id": "103",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_103.jpg",
@@ -1300,7 +4312,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 104,
+        "id": "104",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_104.jpg",
@@ -1313,7 +4325,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 105,
+        "id": "105",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_105.jpg",
@@ -1326,7 +4338,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 106,
+        "id": "106",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_106.jpg",
@@ -1339,7 +4351,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 107,
+        "id": "107",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_107.jpg",
@@ -1352,7 +4364,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 108,
+        "id": "108",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_108.jpg",
@@ -1365,7 +4377,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 109,
+        "id": "109",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_109.jpg",
@@ -1378,7 +4390,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 110,
+        "id": "110",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_110.jpg",
@@ -1391,7 +4403,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 111,
+        "id": "111",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_111.jpg",
@@ -1404,7 +4416,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 112,
+        "id": "112",
         "categoria": "Pulseras Baño de Plata",
         "precio": 60.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_112.jpg",
@@ -1417,7 +4429,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 113,
+        "id": "113",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_113.png",
@@ -1430,7 +4442,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 114,
+        "id": "114",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_114.jpg",
@@ -1443,7 +4455,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 115,
+        "id": "115",
         "categoria": "Pulseras Baño de Plata",
         "precio": 60.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_115.jpg",
@@ -1456,7 +4468,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 116,
+        "id": "116",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_116.jpg",
@@ -1469,7 +4481,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 117,
+        "id": "117",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_117.jpg",
@@ -1482,7 +4494,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 118,
+        "id": "118",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_118.jpg",
@@ -1495,7 +4507,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 119,
+        "id": "119",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_119.jpg",
@@ -1508,7 +4520,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 120,
+        "id": "120",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_120.jpg",
@@ -1521,7 +4533,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 121,
+        "id": "121",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_121.jpg",
@@ -1534,7 +4546,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 122,
+        "id": "122",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_122.jpg",
@@ -1547,7 +4559,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 123,
+        "id": "123",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_123.jpg",
@@ -1560,7 +4572,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 124,
+        "id": "124",
         "categoria": "Pulseras Baño de Plata",
         "precio": 65.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_124.jpg",
@@ -1573,7 +4585,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 125,
+        "id": "125",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_125.jpg",
@@ -1586,7 +4598,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 126,
+        "id": "126",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_126.jpg",
@@ -1599,7 +4611,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 127,
+        "id": "127",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_127.jpg",
@@ -1612,7 +4624,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 128,
+        "id": "128",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_128.jpg",
@@ -1625,7 +4637,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 129,
+        "id": "129",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_129.jpg",
@@ -1638,7 +4650,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 130,
+        "id": "130",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_130.jpg",
@@ -1651,7 +4663,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 131,
+        "id": "131",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_131.jpg",
@@ -1664,7 +4676,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 132,
+        "id": "132",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_132.jpg",
@@ -1677,7 +4689,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 133,
+        "id": "133",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_133.1.jpg",
@@ -1706,7 +4718,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 134,
+        "id": "134",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_134.jpg",
@@ -1719,7 +4731,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 135,
+        "id": "135",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_135.jpg",
@@ -1732,7 +4744,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 136,
+        "id": "136",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_136.jpg",
@@ -1745,7 +4757,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 137,
+        "id": "137",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_137.jpg",
@@ -1758,7 +4770,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 138,
+        "id": "138",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_138.jpg",
@@ -1771,7 +4783,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 139,
+        "id": "139",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_139.jpg",
@@ -1784,7 +4796,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 140,
+        "id": "140",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_140.jpg",
@@ -1797,7 +4809,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 141,
+        "id": "141",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_141.jpg",
@@ -1810,7 +4822,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 142,
+        "id": "142",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_142.jpg",
@@ -1823,7 +4835,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 143,
+        "id": "143",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_143.jpg",
@@ -1836,7 +4848,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 144,
+        "id": "144",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_144.jpg",
@@ -1849,7 +4861,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 145,
+        "id": "145",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_145.png",
@@ -1862,7 +4874,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 146,
+        "id": "146",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_146.jpg",
@@ -1875,7 +4887,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 147,
+        "id": "147",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_147.jpg",
@@ -1888,7 +4900,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 148,
+        "id": "148",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_148.jpg",
@@ -1901,7 +4913,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 149,
+        "id": "149",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_149.jpg",
@@ -1914,7 +4926,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 150,
+        "id": "150",
         "categoria": "Pulseras Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_150.jpg",
@@ -1927,7 +4939,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 151,
+        "id": "151",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_151.jpg",
@@ -1940,7 +4952,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 152,
+        "id": "152",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_152.jpg",
@@ -1953,7 +4965,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 153,
+        "id": "153",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_153.jpg",
@@ -1966,7 +4978,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 154,
+        "id": "154",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_154.jpg",
@@ -1979,7 +4991,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 155,
+        "id": "155",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_155.jpg",
@@ -1992,7 +5004,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 156,
+        "id": "156",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_156.jpg",
@@ -2005,7 +5017,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 157,
+        "id": "157",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_157.jpg",
@@ -2018,7 +5030,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 158,
+        "id": "158",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_158.jpg",
@@ -2031,7 +5043,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 159,
+        "id": "159",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_159.jpg",
@@ -2044,7 +5056,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 160,
+        "id": "160",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_160.jpg",
@@ -2057,7 +5069,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 161,
+        "id": "161",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_161.jpg",
@@ -2070,7 +5082,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 162,
+        "id": "162",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_162.jpg",
@@ -2083,7 +5095,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 163,
+        "id": "163",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_163.jpg",
@@ -2096,7 +5108,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 164,
+        "id": "164",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_164.jpg",
@@ -2109,7 +5121,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 165,
+        "id": "165",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_165.jpg",
@@ -2122,7 +5134,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 166,
+        "id": "166",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_166.jpg",
@@ -2135,7 +5147,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 167,
+        "id": "167",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_167.jpg",
@@ -2148,7 +5160,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 168,
+        "id": "168",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_168.jpg",
@@ -2161,7 +5173,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 169,
+        "id": "169",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_169.jpg",
@@ -2174,7 +5186,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 170,
+        "id": "170",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_170.jpg",
@@ -2187,7 +5199,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 171,
+        "id": "171",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_171.jpg",
@@ -2200,7 +5212,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 172,
+        "id": "172",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_172.jpg",
@@ -2213,7 +5225,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 173,
+        "id": "173",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_173.jpg",
@@ -2226,7 +5238,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 174,
+        "id": "174",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_174.jpg",
@@ -2239,7 +5251,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 175,
+        "id": "175",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_175.jpg",
@@ -2252,7 +5264,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 176,
+        "id": "176",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_176.jpg",
@@ -2265,7 +5277,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 177,
+        "id": "177",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_177.jpg",
@@ -2278,7 +5290,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 178,
+        "id": "178",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_178.jpg",
@@ -2291,7 +5303,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 179,
+        "id": "179",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_179.jpg",
@@ -2304,7 +5316,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 180,
+        "id": "180",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_180.jpg",
@@ -2317,7 +5329,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 181,
+        "id": "181",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_181.jpg",
@@ -2330,7 +5342,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 182,
+        "id": "182",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_182.jpg",
@@ -2343,7 +5355,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 183,
+        "id": "183",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_183.jpg",
@@ -2356,7 +5368,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 184,
+        "id": "184",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_184.jpg",
@@ -2369,7 +5381,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 185,
+        "id": "185",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_185.jpg",
@@ -2382,7 +5394,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 186,
+        "id": "186",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_186.jpg",
@@ -2395,7 +5407,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 187,
+        "id": "187",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_187.jpg",
@@ -2408,7 +5420,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 188,
+        "id": "188",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_188.jpg",
@@ -2421,7 +5433,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 189,
+        "id": "189",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_189.jpg",
@@ -2434,7 +5446,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 190,
+        "id": "190",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_190.png",
@@ -2447,7 +5459,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 191,
+        "id": "191",
         "categoria": "Pulseras Baño de Plata",
         "precio": 60.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_191.jpg",
@@ -2460,7 +5472,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 192,
+        "id": "192",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_192.jpg",
@@ -2473,7 +5485,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 193,
+        "id": "193",
         "categoria": "Pulseras Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_193.jpg",
@@ -2486,7 +5498,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 194,
+        "id": "194",
         "categoria": "Pulseras Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_194.jpg",
@@ -2499,7 +5511,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 195,
+        "id": "195",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_195.jpg",
@@ -2512,7 +5524,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 196,
+        "id": "196",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_196.png",
@@ -2525,7 +5537,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 197,
+        "id": "197",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_197.jpg",
@@ -2538,7 +5550,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 198,
+        "id": "198",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_198.jpg",
@@ -2551,7 +5563,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 199,
+        "id": "199",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_199.jpg",
@@ -2564,7 +5576,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 200,
+        "id": "200",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_200.jpg",
@@ -2577,7 +5589,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 201,
+        "id": "201",
         "categoria": "Pulseras Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_201.jpg",
@@ -2590,7 +5602,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 203,
+        "id": "203",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_203.jpg",
@@ -2603,7 +5615,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 204,
+        "id": "204",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_204.jpg",
@@ -2616,7 +5628,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 205,
+        "id": "205",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_205.jpg",
@@ -2629,7 +5641,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 206,
+        "id": "206",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_206.jpg",
@@ -2642,7 +5654,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 207,
+        "id": "207",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_207.png",
@@ -2655,7 +5667,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 208,
+        "id": "208",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_208.jpg",
@@ -2668,7 +5680,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 209,
+        "id": "209",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_209.jpg",
@@ -2681,7 +5693,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 210,
+        "id": "210",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_210.jpg",
@@ -2694,7 +5706,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 211,
+        "id": "211",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_211.jpg",
@@ -2707,7 +5719,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 212,
+        "id": "212",
         "categoria": "Pulseras Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_212.jpg",
@@ -2720,7 +5732,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 213,
+        "id": "213",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_213.jpg",
@@ -2733,7 +5745,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 214,
+        "id": "214",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_214.jpg",
@@ -2746,7 +5758,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 215,
+        "id": "215",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_215.png",
@@ -2759,7 +5771,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 216,
+        "id": "216",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_216.jpg",
@@ -2772,7 +5784,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 217,
+        "id": "217",
         "categoria": "Pulseras Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_217.jpg",
@@ -2785,7 +5797,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 218,
+        "id": "218",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_218.jpg",
@@ -2798,7 +5810,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 219,
+        "id": "219",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_219.jpg",
@@ -2811,7 +5823,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 220,
+        "id": "220",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_220.jpg",
@@ -2824,7 +5836,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 221,
+        "id": "221",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_221.jpg",
@@ -2837,7 +5849,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 222,
+        "id": "222",
         "categoria": "Pulseras Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_222.png",
@@ -2850,7 +5862,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 223,
+        "id": "223",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_223.jpg",
@@ -2879,7 +5891,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 224,
+        "id": "224",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_224.png",
@@ -2892,7 +5904,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 225,
+        "id": "225",
         "categoria": "Pulseras Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_225.jpg",
@@ -2905,7 +5917,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 226,
+        "id": "226",
         "categoria": "Pulseras Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_226.jpg",
@@ -2918,7 +5930,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 227,
+        "id": "227",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_227.jpg",
@@ -2931,7 +5943,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 228,
+        "id": "228",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_228.png",
@@ -2944,7 +5956,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 229,
+        "id": "229",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_229.jpg",
@@ -2957,7 +5969,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 230,
+        "id": "230",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_230.png",
@@ -2970,7 +5982,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 231,
+        "id": "231",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_231.jpg",
@@ -2983,7 +5995,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 232,
+        "id": "232",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_232.jpg",
@@ -2996,7 +6008,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 233,
+        "id": "233",
         "categoria": "Pulseras Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_233.png",
@@ -3009,7 +6021,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 234,
+        "id": "234",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_234.jpg",
@@ -3022,7 +6034,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 235,
+        "id": "235",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_235.jpg",
@@ -3035,7 +6047,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 236,
+        "id": "236",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_236.jpg",
@@ -3048,7 +6060,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 237,
+        "id": "237",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_237.png",
@@ -3061,7 +6073,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 239,
+        "id": "239",
         "categoria": "Pulseras Baño de Plata",
         "precio": 60.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_239.jpg",
@@ -3074,7 +6086,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 240,
+        "id": "240",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_240.jpg",
@@ -3087,7 +6099,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 241,
+        "id": "241",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_241.jpg",
@@ -3100,7 +6112,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 242,
+        "id": "242",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_242.jpg",
@@ -3113,7 +6125,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 243,
+        "id": "243",
         "categoria": "Pulseras Baño de Plata",
         "precio": 60.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_243.jpg",
@@ -3126,7 +6138,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 244,
+        "id": "244",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_244.png",
@@ -3139,7 +6151,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 245,
+        "id": "245",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_245.png",
@@ -3152,7 +6164,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 246,
+        "id": "246",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_246.jpg",
@@ -3165,7 +6177,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 247,
+        "id": "247",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_247.jpg",
@@ -3178,7 +6190,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 248,
+        "id": "248",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_248.png",
@@ -3191,7 +6203,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 249,
+        "id": "249",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_249.png",
@@ -3204,7 +6216,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 250,
+        "id": "250",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_250.png",
@@ -3217,7 +6229,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 251,
+        "id": "251",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_251.jpg",
@@ -3230,7 +6242,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 252,
+        "id": "252",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_252.jpg",
@@ -3243,7 +6255,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 253,
+        "id": "253",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_253.jpg",
@@ -3256,7 +6268,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 254,
+        "id": "254",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_254.png",
@@ -3269,7 +6281,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 255,
+        "id": "255",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_255.jpg",
@@ -3282,7 +6294,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 256,
+        "id": "256",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_256.jpg",
@@ -3295,7 +6307,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 257,
+        "id": "257",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_257.jpg",
@@ -3308,7 +6320,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 258,
+        "id": "258",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_258.jpg",
@@ -3321,7 +6333,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 259,
+        "id": "259",
         "categoria": "Pulseras Baño de Plata",
         "precio": 60.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_259.jpg",
@@ -3334,7 +6346,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 260,
+        "id": "260",
         "categoria": "Pulseras Baño de Plata",
         "precio": 60.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_260.jpg",
@@ -3347,7 +6359,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 261,
+        "id": "261",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_261.jpg",
@@ -3360,7 +6372,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 262,
+        "id": "262",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_262.jpg",
@@ -3373,7 +6385,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 263,
+        "id": "263",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_263.jpg",
@@ -3386,7 +6398,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 264,
+        "id": "264",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_264.png",
@@ -3399,7 +6411,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 265,
+        "id": "265",
         "categoria": "Pulseras Baño de Plata",
         "precio": 60.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_265.jpg",
@@ -3412,7 +6424,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 266,
+        "id": "266",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_266.png",
@@ -3425,7 +6437,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 267,
+        "id": "267",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_267.png",
@@ -3438,7 +6450,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 268,
+        "id": "268",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_268.jpg",
@@ -3451,7 +6463,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 269,
+        "id": "269",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_269.jpg",
@@ -3464,7 +6476,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 270,
+        "id": "270",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_270.jpg",
@@ -3477,7 +6489,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 271,
+        "id": "271",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_271.jpg",
@@ -3490,7 +6502,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 272,
+        "id": "272",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_272.jpg",
@@ -3503,7 +6515,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 273,
+        "id": "273",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_273.jpg",
@@ -3516,7 +6528,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 274,
+        "id": "274",
         "categoria": "Pulseras Baño de Plata",
         "precio": 60.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_274.jpg",
@@ -3529,7 +6541,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 275,
+        "id": "275",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_275.jpg",
@@ -3542,7 +6554,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 276,
+        "id": "276",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_276.jpg",
@@ -3555,7 +6567,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 277,
+        "id": "277",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_277.jpg",
@@ -3568,7 +6580,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 278,
+        "id": "278",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_278.jpg",
@@ -3581,7 +6593,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 279,
+        "id": "279",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_279.jpg",
@@ -3594,7 +6606,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 280,
+        "id": "280",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_280.jpg",
@@ -3607,7 +6619,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 281,
+        "id": "281",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_281.jpg",
@@ -3620,7 +6632,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 282,
+        "id": "282",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_282.jpg",
@@ -3633,7 +6645,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 283,
+        "id": "283",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_283.jpg",
@@ -3646,7 +6658,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 284,
+        "id": "284",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_284.jpg",
@@ -3659,7 +6671,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 285,
+        "id": "285",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_285.jpg",
@@ -3672,7 +6684,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 286,
+        "id": "286",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_286.jpg",
@@ -3685,7 +6697,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 287,
+        "id": "287",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_287.jpg",
@@ -3698,7 +6710,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 288,
+        "id": "288",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_288.jpg",
@@ -3711,7 +6723,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 289,
+        "id": "289",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_289.jpg",
@@ -3724,7 +6736,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 290,
+        "id": "290",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_290.jpg",
@@ -3737,7 +6749,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 291,
+        "id": "291",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_291.jpg",
@@ -3750,7 +6762,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 292,
+        "id": "292",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_292.jpg",
@@ -3789,7 +6801,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 294,
+        "id": "294",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_294.jpg",
@@ -3802,7 +6814,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 295,
+        "id": "295",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_295.jpg",
@@ -3815,7 +6827,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 296,
+        "id": "296",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_296.jpg",
@@ -3828,7 +6840,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 297,
+        "id": "297",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_297.jpg",
@@ -3841,7 +6853,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 298,
+        "id": "298",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_298.jpg",
@@ -3854,7 +6866,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 299,
+        "id": "299",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_299.jpg",
@@ -3867,7 +6879,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 300,
+        "id": "300",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_300.jpg",
@@ -3880,7 +6892,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 301,
+        "id": "301",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_301.jpg",
@@ -3893,7 +6905,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 302,
+        "id": "302",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_302.jpg",
@@ -3906,7 +6918,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 303,
+        "id": "303",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_303.jpg",
@@ -3919,7 +6931,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 304,
+        "id": "304",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_304.jpg",
@@ -3932,7 +6944,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 305,
+        "id": "305",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_305.jpg",
@@ -3945,7 +6957,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 306,
+        "id": "306",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_306.jpg",
@@ -3984,7 +6996,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 309,
+        "id": "309",
         "categoria": "Pulseras Baño de Plata",
         "precio": 55.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_309.jpg",
@@ -3997,7 +7009,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 310,
+        "id": "310",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_310.jpg",
@@ -4010,7 +7022,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 311,
+        "id": "311",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_311.jpg",
@@ -4023,7 +7035,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 312,
+        "id": "312",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_312.jpg",
@@ -4101,7 +7113,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 316,
+        "id": "316",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_316.jpg",
@@ -4114,7 +7126,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 317,
+        "id": "317",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_317.jpg",
@@ -4127,7 +7139,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 318,
+        "id": "318",
         "categoria": "Pulseras Baño de Plata",
         "precio": 60.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_318.png",
@@ -4803,7 +7815,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 321,
+        "id": "321",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_321.jpg",
@@ -4816,7 +7828,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 322,
+        "id": "322",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_322.jpg",
@@ -4829,7 +7841,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 323,
+        "id": "323",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_323.jpg",
@@ -4842,7 +7854,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 339,
+        "id": "339",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_339.jpg",
@@ -4855,7 +7867,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 340,
+        "id": "340",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_340.jpg",
@@ -4868,7 +7880,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 341,
+        "id": "341",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_341.jpg",
@@ -4881,7 +7893,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 342,
+        "id": "342",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_342.jpg",
@@ -4894,7 +7906,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 343,
+        "id": "343",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_343.jpg",
@@ -4907,7 +7919,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 344,
+        "id": "344",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_344.jpg",
@@ -4920,7 +7932,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 345,
+        "id": "345",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_345.jpg",
@@ -4933,7 +7945,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 346,
+        "id": "346",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_346.jpg",
@@ -4946,7 +7958,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 347,
+        "id": "347",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_347.jpg",
@@ -4959,7 +7971,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 348,
+        "id": "348",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_348.jpg",
@@ -4972,7 +7984,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 349,
+        "id": "349",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_349.jpg",
@@ -4985,7 +7997,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 354,
+        "id": "354",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_354.jpg",
@@ -4998,7 +8010,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 355,
+        "id": "355",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_355.jpg",
@@ -5011,7 +8023,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 359,
+        "id": "359",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_359.jpg",
@@ -5024,7 +8036,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 360,
+        "id": "360",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_360.jpg",
@@ -5037,7 +8049,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 361,
+        "id": "361",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_361.jpg",
@@ -5050,7 +8062,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 362,
+        "id": "362",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_362.jpg",
@@ -5063,7 +8075,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 363,
+        "id": "363",
         "categoria": "Pulseras Baño de Plata",
         "precio": 35.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_363.jpg",
@@ -5076,7 +8088,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 364,
+        "id": "364",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_364.jpg",
@@ -5362,7 +8374,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 373,
+        "id": "373",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_373.jpg",
@@ -5375,7 +8387,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 374,
+        "id": "374",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_374.jpg",
@@ -5388,7 +8400,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 376,
+        "id": "376",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_376.jpg",
@@ -5401,7 +8413,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 377,
+        "id": "377",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_377.jpg",
@@ -5414,7 +8426,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 378,
+        "id": "378",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_378.jpg",
@@ -5427,7 +8439,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 380,
+        "id": "380",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_380.jpg",
@@ -5440,7 +8452,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 381,
+        "id": "381",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_381.jpg",
@@ -5453,7 +8465,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 382,
+        "id": "382",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_382.jpg",
@@ -5466,7 +8478,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 383,
+        "id": "383",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_383.jpg",
@@ -5479,7 +8491,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 384,
+        "id": "384",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_384.jpg",
@@ -5492,7 +8504,7 @@ const productosPulserasBp = [
         ]
     },
     {
-        "id": 386,
+        "id": "386",
         "categoria": "Pulseras Baño de Plata",
         "precio": 45.0,
         "imagen": "imagenes/BP/pulserasbp/pulserasbp_386.jpg",

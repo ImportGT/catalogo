@@ -1,6 +1,147 @@
 const productosAretes = [
     {
-        "id": 569,
+        "id": "574",
+        "categoria": "Aretes",
+        "precio": 70.0,
+        "imagen": "imagenes/aretes/aretes_574.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_574.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_574.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_574.3.webp"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_574.4.mp4"
+            }
+        ]
+    },
+    {
+        "id": "573",
+        "categoria": "Aretes",
+        "precio": 65.0,
+        "imagen": "imagenes/aretes/aretes_573.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_573.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_573.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_573.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_573.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_573.5.mp4"
+            }
+        ]
+    },
+    {
+        "id": "572",
+        "categoria": "Aretes",
+        "precio": 65.0,
+        "imagen": "imagenes/aretes/aretes_572.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_572.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_572.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_572.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_572.4.webp"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_572.5.mp4"
+            }
+        ]
+    },
+    {
+        "id": "571",
+        "categoria": "Aretes",
+        "precio": 65.0,
+        "imagen": "imagenes/aretes/aretes_571.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_571.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_571.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_571.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_571.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_571.5.mp4"
+            }
+        ]
+    },
+    {
+        "id": "570",
+        "categoria": "Aretes",
+        "precio": 65.0,
+        "imagen": "imagenes/aretes/aretes_570.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_570.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_570.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_570.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_570.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_570.5.mp4"
+            }
+        ]
+    },
+    {
+        "id": "569",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_569.webp",
@@ -29,7 +170,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 568,
+        "id": "568",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_568.webp",
@@ -50,7 +191,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 567,
+        "id": "567",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_567.jpg",
@@ -75,7 +216,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 566,
+        "id": "566",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_566.jpg",
@@ -100,7 +241,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 565,
+        "id": "565",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_565.jpg",
@@ -121,7 +262,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 564,
+        "id": "564",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_564.jpg",
@@ -142,7 +283,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 563,
+        "id": "563",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_563.webp",
@@ -171,7 +312,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 562,
+        "id": "562",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_562.webp",
@@ -196,7 +337,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 561,
+        "id": "561",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_561.jpg",
@@ -221,7 +362,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 560,
+        "id": "560",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_560.jpg",
@@ -246,7 +387,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 559,
+        "id": "559",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_559.webp",
@@ -275,7 +416,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 558,
+        "id": "558",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_558.jpg",
@@ -300,7 +441,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 557,
+        "id": "557",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_557.webp",
@@ -325,7 +466,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 556,
+        "id": "556",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_556.jpg",
@@ -350,7 +491,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 555,
+        "id": "555",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_555.jpg",
@@ -375,7 +516,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 554,
+        "id": "554",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_554.webp",
@@ -400,7 +541,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 553,
+        "id": "553",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_553.webp",
@@ -429,7 +570,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 552,
+        "id": "552",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_552.webp",
@@ -454,7 +595,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 551,
+        "id": "551",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_551.jpg",
@@ -483,7 +624,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 550,
+        "id": "550",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_550.webp",
@@ -512,7 +653,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 549,
+        "id": "549",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_549.jpg",
@@ -541,7 +682,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 548,
+        "id": "548",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_548.jpg",
@@ -572,7 +713,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 547,
+        "id": "547",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_547.jpg",
@@ -601,7 +742,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 546,
+        "id": "546",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_546.webp",
@@ -632,7 +773,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 545,
+        "id": "545",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_545.jpg",
@@ -661,7 +802,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 544,
+        "id": "544",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_544.jpg",
@@ -690,7 +831,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 543,
+        "id": "543",
         "categoria": "Aretes",
         "precio": 95.0,
         "imagen": "imagenes/aretes/aretes_543.jpg",
@@ -719,7 +860,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 542,
+        "id": "542",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_542.jpg",
@@ -748,7 +889,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 541,
+        "id": "541",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_541.webp",
@@ -775,7 +916,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 540,
+        "id": "540",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_540.jpg",
@@ -806,7 +947,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 539,
+        "id": "539",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_539.jpg",
@@ -867,9 +1008,13 @@ const productosAretes = [
         "id": "538Grandes",
         "categoria": "Aretes",
         "precio": 70.0,
-        "imagen": "imagenes/aretes/aretes_538Grandes.2.jpg",
+        "imagen": "imagenes/aretes/aretes_538Grandes.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Grandes.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_538Grandes.2.jpg"
@@ -885,15 +1030,11 @@ const productosAretes = [
             {
                 "tipo": "video",
                 "url": "imagenes/aretes/aretes_538Grandes.5.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538Grandes.jpg"
             }
         ]
     },
     {
-        "id": 537,
+        "id": "537",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_537.jpg",
@@ -918,7 +1059,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 536,
+        "id": "536",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_536.jpg",
@@ -939,7 +1080,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 535,
+        "id": "535",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_535.jpg",
@@ -952,7 +1093,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 534,
+        "id": "534",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_534.jpg",
@@ -965,7 +1106,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 533,
+        "id": "533",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_533.jpg",
@@ -978,7 +1119,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 532,
+        "id": "532",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_532.jpg",
@@ -991,7 +1132,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 531,
+        "id": "531",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_531.jpg",
@@ -1004,7 +1145,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 530,
+        "id": "530",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_530.webp",
@@ -1035,7 +1176,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 529,
+        "id": "529",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_529.webp",
@@ -1062,7 +1203,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 528,
+        "id": "528",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_528.webp",
@@ -1089,7 +1230,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 527,
+        "id": "527",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_527.jpg",
@@ -1102,7 +1243,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 526,
+        "id": "526",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_526.jpg",
@@ -1115,7 +1256,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 525,
+        "id": "525",
         "categoria": "Aretes",
         "precio": 105.0,
         "imagen": "imagenes/aretes/aretes_525.jpg",
@@ -1128,7 +1269,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 524,
+        "id": "524",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_524.jpg",
@@ -1157,7 +1298,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 523,
+        "id": "523",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_523.webp",
@@ -1188,7 +1329,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 522,
+        "id": "522",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_522.jpg",
@@ -1201,7 +1342,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 521,
+        "id": "521",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_521.jpg",
@@ -1214,7 +1355,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 520,
+        "id": "520",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_520.jpg",
@@ -1227,7 +1368,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 519,
+        "id": "519",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_519.jpg",
@@ -1240,7 +1381,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 518,
+        "id": "518",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_518.jpg",
@@ -1253,7 +1394,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 517,
+        "id": "517",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_517.jpg",
@@ -1280,7 +1421,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 516,
+        "id": "516",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_516.webp",
@@ -1309,7 +1450,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 515,
+        "id": "515",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_515.jpg",
@@ -1322,7 +1463,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 514,
+        "id": "514",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_514.jpg",
@@ -1351,7 +1492,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 513,
+        "id": "513",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_513.jpg",
@@ -1364,7 +1505,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 512,
+        "id": "512",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_512.jpg",
@@ -1377,7 +1518,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 511,
+        "id": "511",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_511.jpg",
@@ -1390,7 +1531,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 510,
+        "id": "510",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_510.jpg",
@@ -1403,7 +1544,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 509,
+        "id": "509",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_509.jpg",
@@ -1428,7 +1569,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 508,
+        "id": "508",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_508.webp",
@@ -1453,7 +1594,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 507,
+        "id": "507",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_507.jpg",
@@ -1466,7 +1607,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 506,
+        "id": "506",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_506.jpg",
@@ -1479,7 +1620,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 505,
+        "id": "505",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_505.webp",
@@ -1508,7 +1649,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 504,
+        "id": "504",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_504.webp",
@@ -1533,7 +1674,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 503,
+        "id": "503",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_503.jpg",
@@ -1546,7 +1687,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 502,
+        "id": "502",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_502.webp",
@@ -1575,7 +1716,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 501,
+        "id": "501",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_501.jpg",
@@ -1588,7 +1729,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 500,
+        "id": "500",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_500.jpg",
@@ -1601,7 +1742,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 499,
+        "id": "499",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_499.webp",
@@ -1626,7 +1767,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 498,
+        "id": "498",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_498.jpg",
@@ -1651,7 +1792,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 497,
+        "id": "497",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_497.jpg",
@@ -1664,7 +1805,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 496,
+        "id": "496",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_496.jpg",
@@ -1693,7 +1834,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 495,
+        "id": "495",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_495.jpg",
@@ -1706,7 +1847,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 494,
+        "id": "494",
         "categoria": "Aretes",
         "precio": 100.0,
         "imagen": "imagenes/aretes/aretes_494.jpg",
@@ -1719,7 +1860,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 493,
+        "id": "493",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_493.jpg",
@@ -1732,7 +1873,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 492,
+        "id": "492",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_492.jpg",
@@ -1745,7 +1886,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 491,
+        "id": "491",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_491.webp",
@@ -1770,7 +1911,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 490,
+        "id": "490",
         "categoria": "Aretes",
         "precio": 95.0,
         "imagen": "imagenes/aretes/aretes_490.jpg",
@@ -1795,7 +1936,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 489,
+        "id": "489",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_489.jpg",
@@ -1808,7 +1949,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 488,
+        "id": "488",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_488.jpg",
@@ -1821,7 +1962,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 487,
+        "id": "487",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_487.jpg",
@@ -1834,7 +1975,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 486,
+        "id": "486",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_486.jpg",
@@ -1847,7 +1988,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 485,
+        "id": "485",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_485.jpg",
@@ -1860,7 +2001,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 484,
+        "id": "484",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_484.jpg",
@@ -1873,7 +2014,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 483,
+        "id": "483",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_483.jpg",
@@ -1886,7 +2027,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 482,
+        "id": "482",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_482.jpg",
@@ -1899,7 +2040,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 481,
+        "id": "481",
         "categoria": "Aretes",
         "precio": 50.0,
         "imagen": "imagenes/aretes/aretes_481.jpg",
@@ -1912,7 +2053,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 480,
+        "id": "480",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_480.jpg",
@@ -1925,7 +2066,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 479,
+        "id": "479",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_479.jpg",
@@ -1938,7 +2079,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 478,
+        "id": "478",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_478.jpg",
@@ -1951,7 +2092,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 477,
+        "id": "477",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_477.jpg",
@@ -1964,7 +2105,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 476,
+        "id": "476",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_476.jpg",
@@ -1977,7 +2118,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 475,
+        "id": "475",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_475.jpg",
@@ -1990,7 +2131,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 474,
+        "id": "474",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_474.jpg",
@@ -2003,7 +2144,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 473,
+        "id": "473",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_473.jpg",
@@ -2016,7 +2157,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 472,
+        "id": "472",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_472.jpg",
@@ -2029,7 +2170,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 471,
+        "id": "471",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_471.jpg",
@@ -2042,7 +2183,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 470,
+        "id": "470",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_470.jpg",
@@ -2055,7 +2196,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 469,
+        "id": "469",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_469.jpg",
@@ -2068,7 +2209,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 468,
+        "id": "468",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_468.jpg",
@@ -2081,7 +2222,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 467,
+        "id": "467",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_467.jpg",
@@ -2094,7 +2235,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 466,
+        "id": "466",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_466.jpg",
@@ -2107,7 +2248,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 465,
+        "id": "465",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_465.jpg",
@@ -2120,7 +2261,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 464,
+        "id": "464",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_464.jpg",
@@ -2133,7 +2274,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 463,
+        "id": "463",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_463.jpg",
@@ -2146,7 +2287,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 462,
+        "id": "462",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_462.jpg",
@@ -2159,7 +2300,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 461,
+        "id": "461",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_461.jpg",
@@ -2172,7 +2313,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 460,
+        "id": "460",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_460.jpg",
@@ -2185,7 +2326,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 459,
+        "id": "459",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_459.jpg",
@@ -2198,7 +2339,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 458,
+        "id": "458",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_458.jpg",
@@ -2211,7 +2352,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 457,
+        "id": "457",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_457.jpg",
@@ -2224,7 +2365,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 456,
+        "id": "456",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_456.jpg",
@@ -2237,7 +2378,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 455,
+        "id": "455",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_455.jpg",
@@ -2250,7 +2391,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 454,
+        "id": "454",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_454.jpg",
@@ -2263,7 +2404,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 453,
+        "id": "453",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_453.jpg",
@@ -2276,7 +2417,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 452,
+        "id": "452",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_452.jpg",
@@ -2289,7 +2430,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 451,
+        "id": "451",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_451.jpg",
@@ -2302,7 +2443,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 450,
+        "id": "450",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_450.jpg",
@@ -2315,7 +2456,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 449,
+        "id": "449",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_449.jpg",
@@ -2328,7 +2469,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 448,
+        "id": "448",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_448.jpg",
@@ -2341,7 +2482,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 447,
+        "id": "447",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_447.jpg",
@@ -2354,7 +2495,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 446,
+        "id": "446",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_446.jpg",
@@ -2367,7 +2508,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 445,
+        "id": "445",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_445.jpg",
@@ -2380,7 +2521,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 444,
+        "id": "444",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_444.jpg",
@@ -2393,7 +2534,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 443,
+        "id": "443",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_443.jpg",
@@ -2406,7 +2547,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 442,
+        "id": "442",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_442.jpg",
@@ -2419,7 +2560,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 441,
+        "id": "441",
         "categoria": "Aretes",
         "precio": 120.0,
         "imagen": "imagenes/aretes/aretes_441.jpg",
@@ -2432,7 +2573,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 440,
+        "id": "440",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_440.jpg",
@@ -2445,7 +2586,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 439,
+        "id": "439",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_439.jpg",
@@ -2458,7 +2599,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 438,
+        "id": "438",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_438.jpg",
@@ -2471,7 +2612,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 437,
+        "id": "437",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_437.jpg",
@@ -2484,7 +2625,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 436,
+        "id": "436",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_436.jpg",
@@ -2497,7 +2638,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 435,
+        "id": "435",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_435.jpg",
@@ -2510,7 +2651,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 434,
+        "id": "434",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_434.jpg",
@@ -2523,7 +2664,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 433,
+        "id": "433",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_433.jpg",
@@ -2536,7 +2677,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 432,
+        "id": "432",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_432.jpg",
@@ -2549,7 +2690,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 431,
+        "id": "431",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_431.jpg",
@@ -2562,7 +2703,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 430,
+        "id": "430",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_430.jpg",
@@ -2575,7 +2716,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 429,
+        "id": "429",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_429.jpg",
@@ -2588,7 +2729,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 428,
+        "id": "428",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_428.jpg",
@@ -2601,7 +2742,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 427,
+        "id": "427",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_427.jpg",
@@ -2614,7 +2755,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 426,
+        "id": "426",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_426.jpg",
@@ -2627,7 +2768,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 425,
+        "id": "425",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_425.jpg",
@@ -2640,7 +2781,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 424,
+        "id": "424",
         "categoria": "Aretes",
         "precio": 105.0,
         "imagen": "imagenes/aretes/aretes_424.jpg",
@@ -2653,7 +2794,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 423,
+        "id": "423",
         "categoria": "Aretes",
         "precio": 100.0,
         "imagen": "imagenes/aretes/aretes_423.jpg",
@@ -2666,7 +2807,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 422,
+        "id": "422",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_422.jpg",
@@ -2679,7 +2820,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 421,
+        "id": "421",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_421.jpg",
@@ -2692,7 +2833,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 420,
+        "id": "420",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_420.jpg",
@@ -2705,7 +2846,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 419,
+        "id": "419",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_419.jpg",
@@ -2718,7 +2859,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 418,
+        "id": "418",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_418.jpg",
@@ -2731,7 +2872,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 417,
+        "id": "417",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_417.jpg",
@@ -2744,7 +2885,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 416,
+        "id": "416",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_416.jpg",
@@ -2757,7 +2898,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 415,
+        "id": "415",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_415.jpg",
@@ -2770,7 +2911,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 414,
+        "id": "414",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_414.jpg",
@@ -2783,7 +2924,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 413,
+        "id": "413",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_413.jpg",
@@ -2796,7 +2937,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 412,
+        "id": "412",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_412.jpg",
@@ -2809,7 +2950,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 411,
+        "id": "411",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_411.jpg",
@@ -2822,7 +2963,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 410,
+        "id": "410",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_410.jpg",
@@ -2835,7 +2976,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 409,
+        "id": "409",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_409.jpg",
@@ -2848,7 +2989,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 408,
+        "id": "408",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_408.jpg",
@@ -2861,7 +3002,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 407,
+        "id": "407",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_407.jpg",
@@ -2874,7 +3015,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 406,
+        "id": "406",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_406.jpg",
@@ -2887,7 +3028,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 405,
+        "id": "405",
         "categoria": "Aretes",
         "precio": 105.0,
         "imagen": "imagenes/aretes/aretes_405.jpg",
@@ -2900,7 +3041,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 404,
+        "id": "404",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_404.jpg",
@@ -2913,7 +3054,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 403,
+        "id": "403",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_403.jpg",
@@ -2926,7 +3067,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 402,
+        "id": "402",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_402.jpg",
@@ -2939,7 +3080,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 401,
+        "id": "401",
         "categoria": "Aretes",
         "precio": 95.0,
         "imagen": "imagenes/aretes/aretes_401.jpg",
@@ -2952,7 +3093,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 400,
+        "id": "400",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_400.jpg",
@@ -2965,7 +3106,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 399,
+        "id": "399",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_399.jpg",
@@ -2978,7 +3119,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 398,
+        "id": "398",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_398.jpg",
@@ -2991,7 +3132,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 397,
+        "id": "397",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_397.jpg",
@@ -3004,7 +3145,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 396,
+        "id": "396",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_396.jpg",
@@ -3017,7 +3158,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 395,
+        "id": "395",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_395.jpg",
@@ -3030,7 +3171,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 394,
+        "id": "394",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_394.jpg",
@@ -3043,7 +3184,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 393,
+        "id": "393",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_393.jpg",
@@ -3056,7 +3197,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 392,
+        "id": "392",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_392.jpg",
@@ -3069,7 +3210,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 391,
+        "id": "391",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_391.jpg",
@@ -3082,7 +3223,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 390,
+        "id": "390",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_390.jpg",
@@ -3095,7 +3236,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 389,
+        "id": "389",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_389.jpg",
@@ -3108,7 +3249,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 388,
+        "id": "388",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_388.jpg",
@@ -3121,7 +3262,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 387,
+        "id": "387",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_387.jpg",
@@ -3134,7 +3275,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 386,
+        "id": "386",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_386.jpg",
@@ -3147,7 +3288,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 385,
+        "id": "385",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_385.jpg",
@@ -3160,7 +3301,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 384,
+        "id": "384",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_384.jpg",
@@ -3173,7 +3314,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 383,
+        "id": "383",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_383.jpg",
@@ -3186,7 +3327,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 382,
+        "id": "382",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_382.jpg",
@@ -3199,7 +3340,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 381,
+        "id": "381",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_381.jpg",
@@ -3212,7 +3353,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 380,
+        "id": "380",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_380.jpg",
@@ -3225,7 +3366,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 379,
+        "id": "379",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_379.jpg",
@@ -3238,7 +3379,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 378,
+        "id": "378",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_378.jpg",
@@ -3251,7 +3392,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 377,
+        "id": "377",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_377.jpg",
@@ -3264,7 +3405,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 376,
+        "id": "376",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_376.jpg",
@@ -3277,7 +3418,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 375,
+        "id": "375",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_375.jpg",
@@ -3290,7 +3431,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 374,
+        "id": "374",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_374.jpg",
@@ -3303,7 +3444,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 373,
+        "id": "373",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_373.jpg",
@@ -3316,7 +3457,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 372,
+        "id": "372",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_372.jpg",
@@ -3329,7 +3470,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 371,
+        "id": "371",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_371.jpg",
@@ -3342,7 +3483,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 370,
+        "id": "370",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_370.jpg",
@@ -3355,7 +3496,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 369,
+        "id": "369",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_369.jpg",
@@ -3368,7 +3509,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 368,
+        "id": "368",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_368.jpg",
@@ -3381,7 +3522,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 367,
+        "id": "367",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_367.jpg",
@@ -3394,7 +3535,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 366,
+        "id": "366",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_366.jpg",
@@ -3407,7 +3548,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 365,
+        "id": "365",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_365.jpg",
@@ -3420,7 +3561,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 364,
+        "id": "364",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_364.jpg",
@@ -3433,7 +3574,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 363,
+        "id": "363",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_363.jpg",
@@ -3446,7 +3587,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 362,
+        "id": "362",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_362.jpg",
@@ -3459,7 +3600,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 361,
+        "id": "361",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_361.jpg",
@@ -3472,7 +3613,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 360,
+        "id": "360",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_360.jpg",
@@ -3485,7 +3626,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 359,
+        "id": "359",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_359.jpg",
@@ -3498,7 +3639,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 358,
+        "id": "358",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_358.jpg",
@@ -3511,7 +3652,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 357,
+        "id": "357",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_357.jpg",
@@ -3524,7 +3665,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 356,
+        "id": "356",
         "categoria": "Aretes",
         "precio": 125.0,
         "imagen": "imagenes/aretes/aretes_356.jpg",
@@ -3537,7 +3678,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 355,
+        "id": "355",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_355.jpg",
@@ -3550,7 +3691,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 354,
+        "id": "354",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_354.jpg",
@@ -3563,7 +3704,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 353,
+        "id": "353",
         "categoria": "Aretes",
         "precio": 50.0,
         "imagen": "imagenes/aretes/aretes_353.jpg",
@@ -3576,7 +3717,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 352,
+        "id": "352",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_352.jpg",
@@ -3589,7 +3730,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 351,
+        "id": "351",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_351.jpg",
@@ -3602,7 +3743,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 350,
+        "id": "350",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_350.jpg",
@@ -3615,7 +3756,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 349,
+        "id": "349",
         "categoria": "Aretes",
         "precio": 50.0,
         "imagen": "imagenes/aretes/aretes_349.jpg",
@@ -3628,7 +3769,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 348,
+        "id": "348",
         "categoria": "Aretes",
         "precio": 50.0,
         "imagen": "imagenes/aretes/aretes_348.jpg",
@@ -3641,7 +3782,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 347,
+        "id": "347",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_347.jpg",
@@ -3654,7 +3795,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 346,
+        "id": "346",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_346.jpg",
@@ -3667,7 +3808,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 345,
+        "id": "345",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_345.jpg",
@@ -3680,7 +3821,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 344,
+        "id": "344",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_344.jpg",
@@ -3693,7 +3834,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 343,
+        "id": "343",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_343.jpg",
@@ -3706,7 +3847,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 342,
+        "id": "342",
         "categoria": "Aretes",
         "precio": 50.0,
         "imagen": "imagenes/aretes/aretes_342.jpg",
@@ -3719,7 +3860,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 341,
+        "id": "341",
         "categoria": "Aretes",
         "precio": 50.0,
         "imagen": "imagenes/aretes/aretes_341.jpg",
@@ -3732,7 +3873,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 340,
+        "id": "340",
         "categoria": "Aretes",
         "precio": 50.0,
         "imagen": "imagenes/aretes/aretes_340.jpg",
@@ -3745,7 +3886,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 339,
+        "id": "339",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_339.jpg",
@@ -3758,7 +3899,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 338,
+        "id": "338",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_338.jpg",
@@ -3771,7 +3912,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 337,
+        "id": "337",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_337.jpg",
@@ -3784,7 +3925,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 336,
+        "id": "336",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_336.jpg",
@@ -3797,7 +3938,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 335,
+        "id": "335",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_335.jpg",
@@ -3810,7 +3951,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 334,
+        "id": "334",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_334.jpg",
@@ -3823,7 +3964,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 333,
+        "id": "333",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_333.jpg",
@@ -3836,7 +3977,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 332,
+        "id": "332",
         "categoria": "Aretes",
         "precio": 90.0,
         "imagen": "imagenes/aretes/aretes_332.jpg",
@@ -3849,7 +3990,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 331,
+        "id": "331",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_331.jpg",
@@ -3862,7 +4003,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 330,
+        "id": "330",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_330.jpg",
@@ -3875,7 +4016,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 329,
+        "id": "329",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_329.jpg",
@@ -3888,7 +4029,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 328,
+        "id": "328",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_328.jpg",
@@ -3901,7 +4042,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 327,
+        "id": "327",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_327.jpg",
@@ -3914,7 +4055,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 326,
+        "id": "326",
         "categoria": "Aretes",
         "precio": 90.0,
         "imagen": "imagenes/aretes/aretes_326.jpg",
@@ -3927,7 +4068,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 325,
+        "id": "325",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_325.jpg",
@@ -3940,7 +4081,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 324,
+        "id": "324",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_324.jpg",
@@ -3953,7 +4094,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 323,
+        "id": "323",
         "categoria": "Aretes",
         "precio": 160.0,
         "imagen": "imagenes/aretes/aretes_323.jpg",
@@ -3966,7 +4107,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 322,
+        "id": "322",
         "categoria": "Aretes",
         "precio": 50.0,
         "imagen": "imagenes/aretes/aretes_322.jpg",
@@ -3979,7 +4120,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 321,
+        "id": "321",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_321.jpg",
@@ -3992,7 +4133,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 320,
+        "id": "320",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_320.jpg",
@@ -4005,7 +4146,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 319,
+        "id": "319",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_319.jpg",
@@ -4018,7 +4159,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 318,
+        "id": "318",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_318.jpg",
@@ -4031,7 +4172,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 317,
+        "id": "317",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_317.jpg",
@@ -4044,7 +4185,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 316,
+        "id": "316",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_316.jpg",
@@ -4057,7 +4198,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 315,
+        "id": "315",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_315.jpg",
@@ -4070,7 +4211,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 314,
+        "id": "314",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_314.jpg",
@@ -4083,7 +4224,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 313,
+        "id": "313",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_313.jpg",
@@ -4096,7 +4237,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 312,
+        "id": "312",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_312.jpg",
@@ -4109,7 +4250,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 311,
+        "id": "311",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_311.jpg",
@@ -4122,7 +4263,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 310,
+        "id": "310",
         "categoria": "Aretes",
         "precio": 90.0,
         "imagen": "imagenes/aretes/aretes_310.jpg",
@@ -4135,7 +4276,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 309,
+        "id": "309",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_309.jpg",
@@ -4148,7 +4289,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 308,
+        "id": "308",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_308.jpg",
@@ -4161,7 +4302,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 307,
+        "id": "307",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_307.jpg",
@@ -4174,7 +4315,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 306,
+        "id": "306",
         "categoria": "Aretes",
         "precio": 95.0,
         "imagen": "imagenes/aretes/aretes_306.jpg",
@@ -4187,7 +4328,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 305,
+        "id": "305",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_305.jpg",
@@ -4200,7 +4341,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 304,
+        "id": "304",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_304.jpg",
@@ -4213,7 +4354,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 303,
+        "id": "303",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_303.jpg",
@@ -4226,7 +4367,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 302,
+        "id": "302",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_302.jpg",
@@ -4239,7 +4380,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 301,
+        "id": "301",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_301.jpg",
@@ -4252,7 +4393,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 300,
+        "id": "300",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_300.jpg",
@@ -4265,7 +4406,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 299,
+        "id": "299",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_299.jpg",
@@ -4278,7 +4419,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 298,
+        "id": "298",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_298.jpg",
@@ -4291,7 +4432,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 297,
+        "id": "297",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_297.jpg",
@@ -4304,7 +4445,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 296,
+        "id": "296",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_296.jpg",
@@ -4317,7 +4458,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 295,
+        "id": "295",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_295.jpg",
@@ -4330,7 +4471,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 294,
+        "id": "294",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_294.jpg",
@@ -4343,7 +4484,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 293,
+        "id": "293",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_293.jpg",
@@ -4356,7 +4497,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 292,
+        "id": "292",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_292.jpg",
@@ -4369,7 +4510,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 291,
+        "id": "291",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_291.jpg",
@@ -4382,7 +4523,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 290,
+        "id": "290",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_290.jpg",
@@ -4395,7 +4536,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 289,
+        "id": "289",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_289.jpg",
@@ -4408,7 +4549,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 288,
+        "id": "288",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_288.jpg",
@@ -4421,7 +4562,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 287,
+        "id": "287",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_287.jpg",
@@ -4434,7 +4575,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 286,
+        "id": "286",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_286.jpg",
@@ -4447,7 +4588,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 285,
+        "id": "285",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_285.jpg",
@@ -4460,7 +4601,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 284,
+        "id": "284",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_284.jpg",
@@ -4473,7 +4614,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 283,
+        "id": "283",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_283.jpg",
@@ -4486,7 +4627,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 282,
+        "id": "282",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_282.jpg",
@@ -4499,7 +4640,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 281,
+        "id": "281",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_281.jpg",
@@ -4512,7 +4653,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 280,
+        "id": "280",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_280.jpg",
@@ -4525,7 +4666,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 279,
+        "id": "279",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_279.jpg",
@@ -4538,7 +4679,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 278,
+        "id": "278",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_278.jpg",
@@ -4551,7 +4692,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 277,
+        "id": "277",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_277.jpg",
@@ -4564,7 +4705,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 276,
+        "id": "276",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_276.jpg",
@@ -4577,7 +4718,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 275,
+        "id": "275",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_275.jpg",
@@ -4590,7 +4731,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 274,
+        "id": "274",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_274.jpg",
@@ -4603,7 +4744,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 273,
+        "id": "273",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_273.jpg",
@@ -4616,7 +4757,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 272,
+        "id": "272",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_272.jpg",
@@ -4629,7 +4770,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 271,
+        "id": "271",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_271.jpg",
@@ -4642,7 +4783,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 270,
+        "id": "270",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_270.jpg",
@@ -4655,7 +4796,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 269,
+        "id": "269",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_269.jpg",
@@ -4668,7 +4809,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 268,
+        "id": "268",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_268.jpg",
@@ -4681,7 +4822,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 267,
+        "id": "267",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_267.jpg",
@@ -4694,7 +4835,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 266,
+        "id": "266",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_266.jpg",
@@ -4707,7 +4848,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 265,
+        "id": "265",
         "categoria": "Aretes",
         "precio": 95.0,
         "imagen": "imagenes/aretes/aretes_265.jpg",
@@ -4720,7 +4861,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 264,
+        "id": "264",
         "categoria": "Aretes",
         "precio": 95.0,
         "imagen": "imagenes/aretes/aretes_264.jpg",
@@ -4733,7 +4874,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 263,
+        "id": "263",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_263.jpg",
@@ -4746,7 +4887,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 262,
+        "id": "262",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_262.jpg",
@@ -4759,7 +4900,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 261,
+        "id": "261",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_261.jpg",
@@ -4772,7 +4913,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 260,
+        "id": "260",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_260.jpg",
@@ -4785,7 +4926,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 259,
+        "id": "259",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_259.jpg",
@@ -4798,7 +4939,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 258,
+        "id": "258",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_258.jpg",
@@ -4811,7 +4952,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 257,
+        "id": "257",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_257.jpg",
@@ -4824,7 +4965,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 256,
+        "id": "256",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_256.jpg",
@@ -4837,7 +4978,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 255,
+        "id": "255",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_255.jpg",
@@ -4850,7 +4991,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 254,
+        "id": "254",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_254.jpg",
@@ -4863,7 +5004,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 253,
+        "id": "253",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_253.jpg",
@@ -4876,7 +5017,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 252,
+        "id": "252",
         "categoria": "Aretes",
         "precio": 170.0,
         "imagen": "imagenes/aretes/aretes_252.jpg",
@@ -4889,7 +5030,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 251,
+        "id": "251",
         "categoria": "Aretes",
         "precio": 130.0,
         "imagen": "imagenes/aretes/aretes_251.jpg",
@@ -4902,7 +5043,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 250,
+        "id": "250",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_250.jpg",
@@ -4915,7 +5056,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 249,
+        "id": "249",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_249.jpg",
@@ -4928,7 +5069,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 248,
+        "id": "248",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_248.jpg",
@@ -4941,7 +5082,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 247,
+        "id": "247",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_247.jpg",
@@ -4954,7 +5095,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 246,
+        "id": "246",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_246.jpg",
@@ -4967,7 +5108,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 245,
+        "id": "245",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_245.jpg",
@@ -4980,7 +5121,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 244,
+        "id": "244",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_244.jpg",
@@ -4993,7 +5134,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 243,
+        "id": "243",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_243.jpg",
@@ -5006,7 +5147,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 242,
+        "id": "242",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_242.jpg",
@@ -5019,7 +5160,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 241,
+        "id": "241",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_241.jpg",
@@ -5032,7 +5173,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 240,
+        "id": "240",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_240.jpg",
@@ -5045,7 +5186,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 239,
+        "id": "239",
         "categoria": "Aretes",
         "precio": 100.0,
         "imagen": "imagenes/aretes/aretes_239.jpg",
@@ -5058,7 +5199,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 238,
+        "id": "238",
         "categoria": "Aretes",
         "precio": 100.0,
         "imagen": "imagenes/aretes/aretes_238.jpg",
@@ -5071,7 +5212,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 237,
+        "id": "237",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_237.jpg",
@@ -5084,7 +5225,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 236,
+        "id": "236",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_236.jpg",
@@ -5097,7 +5238,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 235,
+        "id": "235",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_235.jpg",
@@ -5112,7 +5253,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 234,
+        "id": "234",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_234.jpg",
@@ -5125,7 +5266,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 233,
+        "id": "233",
         "categoria": "Aretes",
         "precio": 50.0,
         "imagen": "imagenes/aretes/aretes_233.jpg",
@@ -5138,7 +5279,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 232,
+        "id": "232",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_232.jpg",
@@ -5151,7 +5292,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 231,
+        "id": "231",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_231.jpg",
@@ -5164,7 +5305,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 230,
+        "id": "230",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_230.jpg",
@@ -5177,7 +5318,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 229,
+        "id": "229",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_229.jpg",
@@ -5190,7 +5331,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 228,
+        "id": "228",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_228.jpg",
@@ -5203,7 +5344,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 227,
+        "id": "227",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_227.jpg",
@@ -5216,7 +5357,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 226,
+        "id": "226",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_226.jpg",
@@ -5229,7 +5370,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 225,
+        "id": "225",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_225.jpg",
@@ -5242,7 +5383,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 224,
+        "id": "224",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_224.jpg",
@@ -5255,7 +5396,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 223,
+        "id": "223",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_223.jpg",
@@ -5268,7 +5409,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 222,
+        "id": "222",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_222.jpg",
@@ -5281,7 +5422,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 221,
+        "id": "221",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_221.jpg",
@@ -5294,7 +5435,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 220,
+        "id": "220",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_220.jpg",
@@ -5307,7 +5448,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 219,
+        "id": "219",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_219.jpg",
@@ -5320,7 +5461,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 218,
+        "id": "218",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_218.jpg",
@@ -5333,7 +5474,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 217,
+        "id": "217",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_217.jpg",
@@ -5346,7 +5487,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 216,
+        "id": "216",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_216.jpg",
@@ -5359,7 +5500,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 215,
+        "id": "215",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_215.jpg",
@@ -5372,7 +5513,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 214,
+        "id": "214",
         "categoria": "Aretes",
         "precio": 45.0,
         "imagen": "imagenes/aretes/aretes_214.jpg",
@@ -5385,7 +5526,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 213,
+        "id": "213",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_213.jpg",
@@ -5398,7 +5539,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 212,
+        "id": "212",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_212.jpg",
@@ -5411,7 +5552,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 211,
+        "id": "211",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_211.jpg",
@@ -5424,7 +5565,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 210,
+        "id": "210",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_210.jpg",
@@ -5437,7 +5578,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 209,
+        "id": "209",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_209.jpg",
@@ -5450,7 +5591,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 208,
+        "id": "208",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_208.jpg",
@@ -5463,7 +5604,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 207,
+        "id": "207",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_207.jpg",
@@ -5476,7 +5617,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 206,
+        "id": "206",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_206.jpg",
@@ -5489,7 +5630,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 205,
+        "id": "205",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_205.jpg",
@@ -5502,7 +5643,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 204,
+        "id": "204",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_204.jpg",
@@ -5515,7 +5656,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 203,
+        "id": "203",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_203.jpg",
@@ -5528,7 +5669,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 202,
+        "id": "202",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_202.jpg",
@@ -5541,7 +5682,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 201,
+        "id": "201",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_201.jpg",
@@ -5554,7 +5695,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 200,
+        "id": "200",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_200.jpg",
@@ -5567,7 +5708,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 199,
+        "id": "199",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_199.jpg",
@@ -5580,7 +5721,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 198,
+        "id": "198",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_198.jpg",
@@ -5593,7 +5734,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 197,
+        "id": "197",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_197.jpg",
@@ -5606,7 +5747,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 196,
+        "id": "196",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_196.jpg",
@@ -5619,7 +5760,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 195,
+        "id": "195",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_195.jpg",
@@ -5632,7 +5773,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 194,
+        "id": "194",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_194.jpg",
@@ -5645,7 +5786,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 193,
+        "id": "193",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_193.jpg",
@@ -5658,7 +5799,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 192,
+        "id": "192",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_192.jpg",
@@ -5671,7 +5812,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 191,
+        "id": "191",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_191.jpg",
@@ -5684,7 +5825,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 190,
+        "id": "190",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_190.jpg",
@@ -5697,7 +5838,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 189,
+        "id": "189",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_189.jpg",
@@ -5710,7 +5851,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 188,
+        "id": "188",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_188.jpg",
@@ -5723,7 +5864,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 187,
+        "id": "187",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_187.jpg",
@@ -5736,7 +5877,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 186,
+        "id": "186",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_186.jpg",
@@ -5749,7 +5890,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 185,
+        "id": "185",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_185.jpg",
@@ -5762,7 +5903,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 184,
+        "id": "184",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_184.jpg",
@@ -5775,7 +5916,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 183,
+        "id": "183",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_183.jpg",
@@ -5788,7 +5929,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 182,
+        "id": "182",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_182.jpg",
@@ -5801,7 +5942,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 181,
+        "id": "181",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_181.jpg",
@@ -5814,7 +5955,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 180,
+        "id": "180",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_180.jpg",
@@ -5827,7 +5968,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 179,
+        "id": "179",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_179.jpg",
@@ -5840,7 +5981,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 178,
+        "id": "178",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_178.jpg",
@@ -5853,7 +5994,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 177,
+        "id": "177",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_177.jpg",
@@ -5866,7 +6007,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 176,
+        "id": "176",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_176.jpg",
@@ -5879,7 +6020,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 175,
+        "id": "175",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_175.jpg",
@@ -5892,7 +6033,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 174,
+        "id": "174",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_174.jpg",
@@ -5905,7 +6046,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 173,
+        "id": "173",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_173.jpg",
@@ -5918,7 +6059,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 172,
+        "id": "172",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_172.jpg",
@@ -5931,7 +6072,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 171,
+        "id": "171",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_171.jpg",
@@ -5944,7 +6085,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 170,
+        "id": "170",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_170.jpg",
@@ -5957,7 +6098,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 169,
+        "id": "169",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_169.jpg",
@@ -5970,7 +6111,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 168,
+        "id": "168",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_168.jpg",
@@ -5983,7 +6124,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 167,
+        "id": "167",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_167.jpg",
@@ -5996,7 +6137,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 166,
+        "id": "166",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_166.jpg",
@@ -6009,7 +6150,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 165,
+        "id": "165",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_165.jpg",
@@ -6022,7 +6163,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 164,
+        "id": "164",
         "categoria": "Aretes",
         "precio": 90.0,
         "imagen": "imagenes/aretes/aretes_164.jpg",
@@ -6035,7 +6176,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 163,
+        "id": "163",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_163.jpg",
@@ -6048,7 +6189,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 162,
+        "id": "162",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_162.jpg",
@@ -6061,7 +6202,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 161,
+        "id": "161",
         "categoria": "Aretes",
         "precio": 90.0,
         "imagen": "imagenes/aretes/aretes_161.jpg",
@@ -6074,7 +6215,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 160,
+        "id": "160",
         "categoria": "Aretes",
         "precio": 90.0,
         "imagen": "imagenes/aretes/aretes_160.jpg",
@@ -6087,7 +6228,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 159,
+        "id": "159",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_159.jpg",
@@ -6100,7 +6241,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 158,
+        "id": "158",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_158.jpg",
@@ -6113,7 +6254,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 157,
+        "id": "157",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_157.jpg",
@@ -6126,7 +6267,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 156,
+        "id": "156",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_156.jpg",
@@ -6139,7 +6280,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 155,
+        "id": "155",
         "categoria": "Aretes",
         "precio": 50.0,
         "imagen": "imagenes/aretes/aretes_155.jpg",
@@ -6152,7 +6293,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 154,
+        "id": "154",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_154.jpg",
@@ -6165,7 +6306,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 153,
+        "id": "153",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_153.jpg",
@@ -6178,7 +6319,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 152,
+        "id": "152",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_152.jpg",
@@ -6191,7 +6332,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 151,
+        "id": "151",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_151.jpg",
@@ -6204,7 +6345,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 150,
+        "id": "150",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_150.jpg",
@@ -6217,7 +6358,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 149,
+        "id": "149",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_149.jpg",
@@ -6230,7 +6371,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 148,
+        "id": "148",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_148.jpg",
@@ -6243,7 +6384,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 147,
+        "id": "147",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_147.jpg",
@@ -6256,7 +6397,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 146,
+        "id": "146",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_146.jpg",
@@ -6269,7 +6410,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 145,
+        "id": "145",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_145.jpg",
@@ -6282,7 +6423,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 144,
+        "id": "144",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_144.jpg",
@@ -6295,7 +6436,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 143,
+        "id": "143",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_143.jpg",
@@ -6308,7 +6449,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 142,
+        "id": "142",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_142.jpg",
@@ -6321,7 +6462,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 141,
+        "id": "141",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_141.jpg",
@@ -6334,7 +6475,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 140,
+        "id": "140",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_140.jpg",
@@ -6347,7 +6488,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 139,
+        "id": "139",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_139.jpg",
@@ -6360,7 +6501,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 138,
+        "id": "138",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_138.jpg",
@@ -6373,7 +6514,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 137,
+        "id": "137",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_137.jpg",
@@ -6386,7 +6527,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 136,
+        "id": "136",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_136.jpg",
@@ -6399,7 +6540,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 135,
+        "id": "135",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_135.jpg",
@@ -6412,7 +6553,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 134,
+        "id": "134",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_134.jpg",
@@ -6425,7 +6566,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 133,
+        "id": "133",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_133.jpg",
@@ -6438,7 +6579,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 132,
+        "id": "132",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_132.jpg",
@@ -6451,7 +6592,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 131,
+        "id": "131",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_131.jpg",
@@ -6464,7 +6605,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 130,
+        "id": "130",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_130.jpg",
@@ -6477,7 +6618,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 129,
+        "id": "129",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_129.jpg",
@@ -6490,7 +6631,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 128,
+        "id": "128",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_128.jpg",
@@ -6503,7 +6644,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 127,
+        "id": "127",
         "categoria": "Aretes",
         "precio": 90.0,
         "imagen": "imagenes/aretes/aretes_127.jpg",
@@ -6516,7 +6657,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 126,
+        "id": "126",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_126.jpg",
@@ -6529,7 +6670,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 125,
+        "id": "125",
         "categoria": "Aretes",
         "precio": 90.0,
         "imagen": "imagenes/aretes/aretes_125.jpg",
@@ -6542,7 +6683,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 124,
+        "id": "124",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_124.jpg",
@@ -6555,7 +6696,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 123,
+        "id": "123",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_123.jpg",
@@ -6568,7 +6709,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 122,
+        "id": "122",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_122.jpg",
@@ -6581,7 +6722,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 121,
+        "id": "121",
         "categoria": "Aretes",
         "precio": 90.0,
         "imagen": "imagenes/aretes/aretes_121.jpg",
@@ -6594,7 +6735,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 120,
+        "id": "120",
         "categoria": "Aretes",
         "precio": 90.0,
         "imagen": "imagenes/aretes/aretes_120.jpg",
@@ -6607,7 +6748,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 119,
+        "id": "119",
         "categoria": "Aretes",
         "precio": 90.0,
         "imagen": "imagenes/aretes/aretes_119.jpg",
@@ -6620,7 +6761,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 118,
+        "id": "118",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_118.jpg",
@@ -6633,7 +6774,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 117,
+        "id": "117",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_117.jpg",
@@ -6646,7 +6787,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 116,
+        "id": "116",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_116.jpg",
@@ -6659,7 +6800,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 115,
+        "id": "115",
         "categoria": "Aretes",
         "precio": 50.0,
         "imagen": "imagenes/aretes/aretes_115.jpg",
@@ -6672,7 +6813,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 114,
+        "id": "114",
         "categoria": "Aretes",
         "precio": 100.0,
         "imagen": "imagenes/aretes/aretes_114.jpg",
@@ -6685,7 +6826,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 113,
+        "id": "113",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_113.jpg",
@@ -6698,7 +6839,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 112,
+        "id": "112",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_112.jpg",
@@ -6711,7 +6852,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 111,
+        "id": "111",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_111.jpg",
@@ -6724,7 +6865,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 110,
+        "id": "110",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_110.jpg",
@@ -6737,7 +6878,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 109,
+        "id": "109",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_109.jpg",
@@ -6750,7 +6891,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 108,
+        "id": "108",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_108.jpg",
@@ -6763,7 +6904,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 107,
+        "id": "107",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_107.jpg",
@@ -6776,7 +6917,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 106,
+        "id": "106",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_106.jpg",
@@ -6789,7 +6930,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 105,
+        "id": "105",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_105.jpg",
@@ -6802,7 +6943,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 104,
+        "id": "104",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_104.jpg",
@@ -6815,7 +6956,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 103,
+        "id": "103",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_103.jpg",
@@ -6828,7 +6969,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 102,
+        "id": "102",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_102.jpg",
@@ -6841,7 +6982,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 101,
+        "id": "101",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_101.jpg",
@@ -6854,7 +6995,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 100,
+        "id": "100",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_100.jpg",
@@ -6867,7 +7008,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 99,
+        "id": "99",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_99.jpg",
@@ -6880,7 +7021,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 98,
+        "id": "98",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_98.jpg",
@@ -6893,7 +7034,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 97,
+        "id": "97",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_97.jpg",
@@ -6906,7 +7047,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 96,
+        "id": "96",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_96.jpg",
@@ -6919,7 +7060,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 95,
+        "id": "95",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_95.jpg",
@@ -6932,7 +7073,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 94,
+        "id": "94",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_94.jpg",
@@ -6945,7 +7086,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 93,
+        "id": "93",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_93.jpg",
@@ -6958,7 +7099,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 92,
+        "id": "92",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_92.jpg",
@@ -6971,7 +7112,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 91,
+        "id": "91",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_91.jpg",
@@ -6984,7 +7125,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 90,
+        "id": "90",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_90.jpg",
@@ -6997,7 +7138,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 89,
+        "id": "89",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_89.jpg",
@@ -7010,7 +7151,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 88,
+        "id": "88",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_88.jpg",
@@ -7023,7 +7164,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 87,
+        "id": "87",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_87.jpg",
@@ -7036,7 +7177,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 86,
+        "id": "86",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_86.jpg",
@@ -7049,7 +7190,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 85,
+        "id": "85",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_85.jpg",
@@ -7062,7 +7203,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 84,
+        "id": "84",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_84.jpg",
@@ -7075,7 +7216,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 83,
+        "id": "83",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_83.jpg",
@@ -7088,7 +7229,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 82,
+        "id": "82",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_82.jpg",
@@ -7101,7 +7242,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 81,
+        "id": "81",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_81.jpg",
@@ -7114,7 +7255,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 80,
+        "id": "80",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_80.jpg",
@@ -7127,7 +7268,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 79,
+        "id": "79",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_79.jpg",
@@ -7140,7 +7281,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 78,
+        "id": "78",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_78.jpg",
@@ -7153,7 +7294,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 77,
+        "id": "77",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_77.jpg",
@@ -7166,7 +7307,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 76,
+        "id": "76",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_76.jpg",
@@ -7179,7 +7320,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 75,
+        "id": "75",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_75.jpg",
@@ -7192,7 +7333,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 74,
+        "id": "74",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_74.jpg",
@@ -7205,7 +7346,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 73,
+        "id": "73",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_73.jpg",
@@ -7218,7 +7359,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 72,
+        "id": "72",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_72.jpg",
@@ -7231,7 +7372,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 71,
+        "id": "71",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_71.jpg",
@@ -7244,7 +7385,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 70,
+        "id": "70",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_70.jpg",
@@ -7257,7 +7398,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 69,
+        "id": "69",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_69.jpg",
@@ -7270,7 +7411,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 68,
+        "id": "68",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_68.jpg",
@@ -7283,7 +7424,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 67,
+        "id": "67",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_67.jpg",
@@ -7296,7 +7437,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 66,
+        "id": "66",
         "categoria": "Aretes",
         "precio": 140.0,
         "imagen": "imagenes/aretes/aretes_66.jpg",
@@ -7309,7 +7450,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 65,
+        "id": "65",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_65.jpg",
@@ -7322,7 +7463,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 64,
+        "id": "64",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_64.jpg",
@@ -7335,7 +7476,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 63,
+        "id": "63",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_63.jpg",
@@ -7348,7 +7489,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 62,
+        "id": "62",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_62.jpg",
@@ -7361,7 +7502,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 61,
+        "id": "61",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_61.jpg",
@@ -7374,7 +7515,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 60,
+        "id": "60",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_60.jpg",
@@ -7387,7 +7528,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 59,
+        "id": "59",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_59.jpg",
@@ -7400,7 +7541,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 58,
+        "id": "58",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_58.jpg",
@@ -7413,7 +7554,7 @@ const productosAretes = [
         ]
     },
     {
-        "id": 57,
+        "id": "57",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_57.jpg",
@@ -7422,11 +7563,107 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_57.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_570.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_571.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_572.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_573.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_574.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_570.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_571.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_572.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_573.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_574.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_570.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_571.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_572.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_573.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_574.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_570.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_571.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_572.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_573.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_574.4.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_570.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_571.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_572.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_573.5.mp4"
             }
         ]
     },
     {
-        "id": 56,
+        "id": "56",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_56.jpg",
@@ -7435,11 +7672,167 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_56.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_560.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_561.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_562.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_563.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_564.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_565.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_566.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_567.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_568.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_569.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_560.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_561.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_562.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_563.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_564.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_565.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_566.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_567.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_568.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_569.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_560.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_561.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_562.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_563.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_564.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_565.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_566.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_567.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_568.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_569.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_560.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_561.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_562.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_563.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_566.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_567.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_569.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_563.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_569.5.mp4"
             }
         ]
     },
     {
-        "id": 55,
+        "id": "55",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_55.jpg",
@@ -7448,11 +7841,187 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_55.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_550.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_551.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_552.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_553.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_554.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_555.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_556.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_557.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_558.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_559.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_550.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_551.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_552.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_553.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_554.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_555.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_556.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_557.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_558.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_559.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_550.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_551.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_552.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_553.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_554.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_555.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_556.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_557.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_558.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_559.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_550.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_551.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_553.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_559.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_552.4.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_554.4.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_555.4.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_556.4.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_557.4.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_558.4.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_559.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_550.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_551.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_553.5.mp4"
             }
         ]
     },
     {
-        "id": 54,
+        "id": "54",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_54.jpg",
@@ -7461,11 +8030,207 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_54.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_540.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_541.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_542.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_543.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_544.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_545.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_546.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_547.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_548.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_549.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_540.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_541.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_542.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_543.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_544.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_545.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_546.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_547.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_548.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_549.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_540.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_541.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_542.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_543.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_544.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_545.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_546.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_547.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_548.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_549.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_540.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_541.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_542.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_543.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_544.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_545.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_546.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_547.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_548.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_549.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_546.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_548.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_549.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_540.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_542.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_543.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_544.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_545.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_547.5.mp4"
             }
         ]
     },
     {
-        "id": 53,
+        "id": "53",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_53.jpg",
@@ -7474,11 +8239,139 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_53.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_530.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_531.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_532.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_533.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_534.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_535.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_536.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_537.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Grandes.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_539.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Pequeños.1.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_530.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_536.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_537.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Grandes.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Pequeños.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_539.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_530.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_536.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_537.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Grandes.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Pequeños.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_539.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_530.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Grandes.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Pequeños.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_539.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_537.4.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_530.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_539.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_538Grandes.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_538Pequeños.5.mp4"
             }
         ]
     },
     {
-        "id": 52,
+        "id": "52",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_52.jpg",
@@ -7487,11 +8380,107 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_52.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_520.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_521.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_522.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_523.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_524.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_525.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_526.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_527.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_528.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_529.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_523.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_524.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_528.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_529.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_523.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_524.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_528.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_529.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_523.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_524.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_528.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_529.4.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_523.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_524.5.mp4"
             }
         ]
     },
     {
-        "id": 51,
+        "id": "51",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_51.jpg",
@@ -7500,11 +8489,95 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_51.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_510.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_511.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_512.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_513.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_514.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_515.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_516.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_517.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_518.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_519.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_514.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_516.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_517.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_514.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_516.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_517.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_514.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_516.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_517.4.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_514.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_516.5.jpg"
             }
         ]
     },
     {
-        "id": 50,
+        "id": "50",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_50.jpg",
@@ -7513,11 +8586,119 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_50.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_500.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_501.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_502.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_503.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_504.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_505.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_506.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_507.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_508.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_509.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_502.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_504.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_505.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_508.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_509.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_502.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_504.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_505.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_508.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_509.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_502.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_504.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_505.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_508.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_509.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_502.5.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_505.5.jpg"
             }
         ]
     },
     {
-        "id": 49,
+        "id": "49",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_49.jpg",
@@ -7526,11 +8707,115 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_49.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_490.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_491.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_492.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_493.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_494.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_495.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_496.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_497.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_498.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_499.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_490.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_491.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_496.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_498.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_499.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_490.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_491.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_496.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_498.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_499.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_490.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_491.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_496.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_498.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_499.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_496.5.jpg"
             }
         ]
     },
     {
-        "id": 48,
+        "id": "48",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_48.jpg",
@@ -7539,11 +8824,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_48.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_480.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_481.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_482.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_483.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_484.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_485.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_486.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_487.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_488.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_489.jpg"
             }
         ]
     },
     {
-        "id": 46,
+        "id": "46",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_46.jpg",
@@ -7552,11 +8877,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_46.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_460.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_461.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_462.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_463.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_464.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_465.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_466.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_467.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_468.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_469.jpg"
             }
         ]
     },
     {
-        "id": 45,
+        "id": "45",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_45.jpg",
@@ -7565,11 +8930,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_45.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_450.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_451.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_452.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_453.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_454.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_455.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_456.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_457.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_458.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_459.jpg"
             }
         ]
     },
     {
-        "id": 44,
+        "id": "44",
         "categoria": "Aretes",
         "precio": 80.0,
         "imagen": "imagenes/aretes/aretes_44.jpg",
@@ -7578,11 +8983,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_44.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_440.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_441.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_442.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_443.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_444.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_445.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_446.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_447.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_448.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_449.jpg"
             }
         ]
     },
     {
-        "id": 43,
+        "id": "43",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_43.jpg",
@@ -7591,11 +9036,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_43.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_430.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_431.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_432.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_433.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_434.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_435.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_436.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_437.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_438.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_439.jpg"
             }
         ]
     },
     {
-        "id": 42,
+        "id": "42",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_42.jpg",
@@ -7604,11 +9089,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_42.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_420.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_421.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_422.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_423.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_424.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_425.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_426.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_427.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_428.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_429.jpg"
             }
         ]
     },
     {
-        "id": 41,
+        "id": "41",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_41.jpg",
@@ -7617,11 +9142,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_41.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_410.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_411.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_412.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_413.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_414.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_415.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_416.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_417.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_418.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_419.jpg"
             }
         ]
     },
     {
-        "id": 40,
+        "id": "40",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_40.jpg",
@@ -7630,11 +9195,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_40.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_400.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_401.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_402.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_403.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_404.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_405.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_406.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_407.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_408.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_409.jpg"
             }
         ]
     },
     {
-        "id": 39,
+        "id": "39",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_39.jpg",
@@ -7643,11 +9248,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_39.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_390.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_391.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_392.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_393.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_394.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_395.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_396.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_397.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_398.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_399.jpg"
             }
         ]
     },
     {
-        "id": 38,
+        "id": "38",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_38.jpg",
@@ -7656,11 +9301,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_38.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_380.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_381.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_382.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_383.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_384.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_385.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_386.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_387.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_388.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_389.jpg"
             }
         ]
     },
     {
-        "id": 37,
+        "id": "37",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_37.jpg",
@@ -7669,11 +9354,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_37.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_370.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_371.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_372.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_373.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_374.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_375.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_376.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_377.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_378.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_379.jpg"
             }
         ]
     },
     {
-        "id": 36,
+        "id": "36",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_36.jpg",
@@ -7682,11 +9407,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_36.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_360.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_361.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_362.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_363.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_364.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_365.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_366.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_367.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_368.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_369.jpg"
             }
         ]
     },
     {
-        "id": 35,
+        "id": "35",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_35.jpg",
@@ -7695,11 +9460,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_35.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_350.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_351.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_352.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_353.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_354.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_355.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_356.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_357.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_358.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_359.jpg"
             }
         ]
     },
     {
-        "id": 34,
+        "id": "34",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_34.jpg",
@@ -7708,11 +9513,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_34.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_340.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_341.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_342.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_343.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_344.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_345.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_346.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_347.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_348.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_349.jpg"
             }
         ]
     },
     {
-        "id": 33,
+        "id": "33",
         "categoria": "Aretes",
         "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_33.jpg",
@@ -7721,11 +9566,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_33.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_330.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_331.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_332.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_333.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_334.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_335.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_336.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_337.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_338.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_339.jpg"
             }
         ]
     },
     {
-        "id": 32,
+        "id": "32",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_32.jpg",
@@ -7734,11 +9619,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_32.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_320.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_321.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_322.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_323.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_324.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_325.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_326.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_327.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_328.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_329.jpg"
             }
         ]
     },
     {
-        "id": 31,
+        "id": "31",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_31.jpg",
@@ -7747,11 +9672,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_31.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_310.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_311.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_312.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_313.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_314.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_315.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_316.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_317.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_318.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_319.jpg"
             }
         ]
     },
     {
-        "id": 30,
+        "id": "30",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_30.jpg",
@@ -7760,11 +9725,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_30.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_300.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_301.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_302.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_303.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_304.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_305.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_306.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_307.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_308.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_309.jpg"
             }
         ]
     },
     {
-        "id": 29,
+        "id": "29",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_29.jpg",
@@ -7773,11 +9778,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_29.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_290.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_291.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_292.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_293.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_294.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_295.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_296.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_297.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_298.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_299.jpg"
             }
         ]
     },
     {
-        "id": 28,
+        "id": "28",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_28.jpg",
@@ -7786,11 +9831,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_28.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_280.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_281.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_282.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_283.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_284.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_285.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_286.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_287.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_288.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_289.jpg"
             }
         ]
     },
     {
-        "id": 27,
+        "id": "27",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_27.jpg",
@@ -7799,11 +9884,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_27.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_270.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_271.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_272.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_273.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_274.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_275.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_276.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_277.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_278.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_279.jpg"
             }
         ]
     },
     {
-        "id": 26,
+        "id": "26",
         "categoria": "Aretes",
         "precio": 130.0,
         "imagen": "imagenes/aretes/aretes_26.jpg",
@@ -7812,11 +9937,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_26.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_260.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_261.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_262.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_263.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_264.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_265.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_266.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_267.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_268.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_269.jpg"
             }
         ]
     },
     {
-        "id": 25,
+        "id": "25",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_25.jpg",
@@ -7825,11 +9990,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_25.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_250.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_251.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_252.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_253.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_254.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_255.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_256.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_257.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_258.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_259.jpg"
             }
         ]
     },
     {
-        "id": 24,
+        "id": "24",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_24.jpg",
@@ -7838,11 +10043,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_24.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_240.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_241.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_242.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_243.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_244.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_245.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_246.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_247.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_248.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_249.jpg"
             }
         ]
     },
     {
-        "id": 23,
+        "id": "23",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_23.jpg",
@@ -7851,11 +10096,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_23.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_230.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_231.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_232.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_233.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_234.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_235.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_236.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_237.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_238.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_239.jpg"
             }
         ]
     },
     {
-        "id": 22,
+        "id": "22",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_22.jpg",
@@ -7864,11 +10149,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_22.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_220.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_221.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_222.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_223.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_224.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_225.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_226.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_227.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_228.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_229.jpg"
             }
         ]
     },
     {
-        "id": 21,
+        "id": "21",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_21.jpg",
@@ -7877,11 +10202,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_21.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_210.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_211.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_212.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_213.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_214.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_215.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_216.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_217.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_218.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_219.jpg"
             }
         ]
     },
     {
-        "id": 20,
+        "id": "20",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_20.jpg",
@@ -7890,11 +10255,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_20.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_200.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_201.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_202.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_203.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_204.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_205.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_206.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_207.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_208.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_209.jpg"
             }
         ]
     },
     {
-        "id": 19,
+        "id": "19",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_19.jpg",
@@ -7903,11 +10308,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_19.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_190.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_191.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_192.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_193.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_194.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_195.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_196.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_197.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_198.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_199.jpg"
             }
         ]
     },
     {
-        "id": 18,
+        "id": "18",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_18.jpg",
@@ -7916,11 +10361,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_18.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_180.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_181.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_182.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_183.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_184.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_185.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_186.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_187.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_188.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_189.jpg"
             }
         ]
     },
     {
-        "id": 17,
+        "id": "17",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_17.jpg",
@@ -7929,11 +10414,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_17.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_170.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_171.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_172.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_173.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_174.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_175.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_176.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_177.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_178.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_179.jpg"
             }
         ]
     },
     {
-        "id": 16,
+        "id": "16",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_16.jpg",
@@ -7942,11 +10467,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_16.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_160.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_161.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_162.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_163.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_164.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_165.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_166.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_167.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_168.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_169.jpg"
             }
         ]
     },
     {
-        "id": 15,
+        "id": "15",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_15.jpg",
@@ -7955,11 +10520,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_15.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_150.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_151.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_152.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_153.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_154.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_155.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_156.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_157.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_158.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_159.jpg"
             }
         ]
     },
     {
-        "id": 14,
+        "id": "14",
         "categoria": "Aretes",
         "precio": 75.0,
         "imagen": "imagenes/aretes/aretes_14.jpg",
@@ -7968,11 +10573,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_14.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_140.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_141.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_142.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_143.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_144.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_145.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_146.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_147.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_148.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_149.jpg"
             }
         ]
     },
     {
-        "id": 13,
+        "id": "13",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_13.jpg",
@@ -7981,11 +10626,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_13.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_130.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_131.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_132.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_133.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_134.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_135.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_136.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_137.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_138.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_139.jpg"
             }
         ]
     },
     {
-        "id": 12,
+        "id": "12",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_12.jpg",
@@ -7994,11 +10679,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_12.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_120.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_121.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_122.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_123.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_124.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_125.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_126.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_127.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_128.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_129.jpg"
             }
         ]
     },
     {
-        "id": 11,
+        "id": "11",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_11.jpg",
@@ -8007,11 +10732,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_11.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_110.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_111.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_112.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_113.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_114.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_115.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_116.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_117.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_118.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_119.jpg"
             }
         ]
     },
     {
-        "id": 10,
+        "id": "10",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_10.jpg",
@@ -8020,11 +10785,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_10.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_100.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_101.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_102.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_103.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_104.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_105.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_106.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_107.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_108.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_109.jpg"
             }
         ]
     },
     {
-        "id": 9,
+        "id": "9",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_9.jpg",
@@ -8033,11 +10838,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_9.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_90.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_91.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_92.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_93.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_94.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_95.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_96.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_97.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_98.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_99.jpg"
             }
         ]
     },
     {
-        "id": 8,
+        "id": "8",
         "categoria": "Aretes",
         "precio": 70.0,
         "imagen": "imagenes/aretes/aretes_8.jpg",
@@ -8046,11 +10891,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_8.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_80.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_81.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_82.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_83.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_84.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_85.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_86.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_87.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_88.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_89.jpg"
             }
         ]
     },
     {
-        "id": 7,
+        "id": "7",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_7.jpg",
@@ -8059,11 +10944,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_7.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_70.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_71.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_72.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_73.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_74.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_75.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_76.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_77.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_78.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_79.jpg"
             }
         ]
     },
     {
-        "id": 6,
+        "id": "6",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_6.jpg",
@@ -8072,11 +10997,51 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_6.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_60.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_61.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_62.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_63.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_64.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_65.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_66.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_67.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_68.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_69.jpg"
             }
         ]
     },
     {
-        "id": 5,
+        "id": "5",
         "categoria": "Aretes",
         "precio": 55.0,
         "imagen": "imagenes/aretes/aretes_5.jpg",
@@ -8085,11 +11050,1091 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_50.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_500.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_501.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_502.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_503.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_504.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_505.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_506.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_507.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_508.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_509.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_51.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_510.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_511.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_512.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_513.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_514.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_515.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_516.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_517.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_518.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_519.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_52.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_520.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_521.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_522.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_523.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_524.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_525.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_526.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_527.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_528.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_529.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_53.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_530.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_531.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_532.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_533.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_534.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_535.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_536.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_537.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Grandes.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_539.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_54.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_540.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_541.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_542.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_543.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_544.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_545.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_546.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_547.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_548.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_549.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_55.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_550.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_551.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_552.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_553.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_554.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_555.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_556.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_557.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_558.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_559.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_56.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_560.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_561.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_562.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_563.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_564.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_565.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_566.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_567.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_568.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_569.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_57.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_570.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_571.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_572.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_573.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_574.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_58.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_59.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Pequeños.1.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_502.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_504.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_505.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_508.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_509.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_514.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_516.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_517.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_523.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_524.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_528.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_529.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_530.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_536.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_537.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Grandes.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Pequeños.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_539.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_540.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_541.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_542.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_543.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_544.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_545.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_546.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_547.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_548.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_549.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_550.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_551.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_552.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_553.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_554.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_555.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_556.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_557.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_558.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_559.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_560.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_561.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_562.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_563.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_564.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_565.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_566.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_567.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_568.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_569.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_570.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_571.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_572.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_573.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_574.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_502.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_504.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_505.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_508.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_509.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_514.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_516.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_517.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_523.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_524.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_528.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_529.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_530.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_536.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_537.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Grandes.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Pequeños.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_539.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_540.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_541.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_542.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_543.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_544.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_545.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_546.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_547.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_548.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_549.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_550.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_551.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_552.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_553.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_554.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_555.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_556.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_557.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_558.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_559.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_560.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_561.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_562.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_563.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_564.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_565.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_566.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_567.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_568.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_569.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_570.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_571.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_572.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_573.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_574.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_502.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_504.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_505.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_508.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_509.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_514.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_516.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_523.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_524.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_528.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_530.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Grandes.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_538Pequeños.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_539.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_540.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_541.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_542.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_543.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_544.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_545.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_546.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_547.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_548.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_549.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_550.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_551.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_553.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_559.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_560.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_561.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_562.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_563.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_566.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_567.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_569.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_570.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_571.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_572.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_573.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_517.4.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_529.4.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_537.4.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_552.4.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_554.4.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_555.4.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_556.4.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_557.4.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_558.4.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_574.4.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_502.5.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_505.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_514.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_516.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_530.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_539.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_546.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_548.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_549.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_559.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_563.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_523.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_524.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_538Grandes.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_538Pequeños.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_540.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_542.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_543.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_544.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_545.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_547.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_550.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_551.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_553.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_569.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_570.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_571.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_572.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/aretes/aretes_573.5.mp4"
             }
         ]
     },
     {
-        "id": 4,
+        "id": "4",
         "categoria": "Aretes",
         "precio": 65.0,
         "imagen": "imagenes/aretes/aretes_4.jpg",
@@ -8098,11 +12143,515 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_40.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_400.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_401.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_402.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_403.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_404.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_405.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_406.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_407.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_408.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_409.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_41.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_410.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_411.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_412.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_413.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_414.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_415.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_416.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_417.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_418.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_419.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_42.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_420.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_421.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_422.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_423.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_424.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_425.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_426.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_427.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_428.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_429.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_43.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_430.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_431.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_432.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_433.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_434.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_435.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_436.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_437.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_438.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_439.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_44.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_440.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_441.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_442.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_443.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_444.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_445.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_446.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_447.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_448.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_449.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_45.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_450.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_451.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_452.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_453.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_454.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_455.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_456.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_457.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_458.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_459.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_46.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_460.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_461.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_462.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_463.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_464.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_465.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_466.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_467.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_468.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_469.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_47.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_470.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_471.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_472.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_473.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_474.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_475.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_476.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_477.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_478.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_479.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_48.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_480.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_481.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_482.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_483.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_484.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_485.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_486.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_487.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_488.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_489.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_49.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_490.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_491.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_492.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_493.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_494.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_495.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_496.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_497.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_498.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_499.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_490.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_491.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_496.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_498.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_499.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_490.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_491.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_496.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_498.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_499.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_490.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_491.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_496.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_498.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_499.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_496.5.jpg"
             }
         ]
     },
     {
-        "id": 3,
+        "id": "3",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_3.jpg",
@@ -8111,11 +12660,451 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_30.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_300.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_301.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_302.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_303.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_304.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_305.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_306.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_307.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_308.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_309.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_31.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_310.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_311.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_312.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_313.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_314.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_315.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_316.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_317.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_318.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_319.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_32.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_320.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_321.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_322.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_323.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_324.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_325.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_326.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_327.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_328.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_329.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_33.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_330.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_331.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_332.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_333.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_334.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_335.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_336.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_337.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_338.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_339.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_34.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_340.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_341.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_342.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_343.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_344.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_345.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_346.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_347.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_348.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_349.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_35.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_350.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_351.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_352.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_353.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_354.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_355.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_356.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_357.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_358.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_359.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_36.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_360.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_361.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_362.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_363.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_364.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_365.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_366.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_367.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_368.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_369.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_37.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_370.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_371.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_372.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_373.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_374.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_375.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_376.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_377.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_378.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_379.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_38.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_380.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_381.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_382.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_383.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_384.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_385.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_386.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_387.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_388.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_389.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_39.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_390.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_391.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_392.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_393.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_394.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_395.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_396.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_397.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_398.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_399.jpg"
             }
         ]
     },
     {
-        "id": 2,
+        "id": "2",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_2.jpg",
@@ -8124,11 +13113,451 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_20.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_200.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_201.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_202.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_203.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_204.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_205.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_206.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_207.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_208.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_209.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_21.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_210.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_211.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_212.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_213.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_214.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_215.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_216.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_217.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_218.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_219.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_22.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_220.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_221.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_222.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_223.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_224.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_225.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_226.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_227.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_228.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_229.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_23.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_230.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_231.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_232.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_233.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_234.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_235.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_236.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_237.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_238.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_239.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_24.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_240.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_241.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_242.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_243.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_244.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_245.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_246.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_247.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_248.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_249.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_25.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_250.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_251.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_252.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_253.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_254.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_255.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_256.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_257.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_258.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_259.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_26.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_260.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_261.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_262.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_263.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_264.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_265.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_266.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_267.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_268.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_269.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_27.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_270.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_271.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_272.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_273.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_274.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_275.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_276.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_277.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_278.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_279.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_28.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_280.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_281.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_282.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_283.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_284.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_285.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_286.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_287.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_288.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_289.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_29.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_290.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_291.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_292.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_293.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_294.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_295.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_296.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_297.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_298.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_299.jpg"
             }
         ]
     },
     {
-        "id": 1,
+        "id": "1",
         "categoria": "Aretes",
         "precio": 60.0,
         "imagen": "imagenes/aretes/aretes_1.jpg",
@@ -8137,6 +13566,446 @@ const productosAretes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_1.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_10.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_100.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_101.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_102.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_103.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_104.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_105.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_106.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_107.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_108.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_109.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_11.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_110.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_111.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_112.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_113.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_114.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_115.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_116.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_117.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_118.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_119.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_12.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_120.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_121.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_122.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_123.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_124.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_125.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_126.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_127.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_128.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_129.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_13.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_130.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_131.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_132.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_133.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_134.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_135.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_136.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_137.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_138.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_139.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_14.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_140.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_141.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_142.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_143.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_144.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_145.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_146.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_147.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_148.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_149.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_15.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_150.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_151.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_152.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_153.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_154.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_155.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_156.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_157.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_158.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_159.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_16.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_160.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_161.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_162.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_163.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_164.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_165.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_166.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_167.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_168.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_169.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_17.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_170.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_171.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_172.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_173.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_174.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_175.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_176.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_177.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_178.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_179.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_18.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_180.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_181.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_182.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_183.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_184.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_185.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_186.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_187.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_188.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_189.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_19.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_190.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_191.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_192.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_193.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_194.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_195.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_196.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_197.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_198.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/aretes/aretes_199.jpg"
             }
         ]
     }

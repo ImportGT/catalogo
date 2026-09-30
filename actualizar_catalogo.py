@@ -195,6 +195,24 @@ CONFIGURACIONES = [
         "prefijo": "pulserasbp",
         "carpeta": "imagenes/BP/pulserasbp",
         "header_excel": 2
+    },
+    {
+        "categoria": "Anillos Tous",
+        "excel": "ANILLOS TOUS.xlsx",
+        "js": "anillostous.js",
+        "variable_js": "productosAnillosTous",
+        "prefijo": "anillos_tous",
+        "carpeta": "imagenes/TOUS/anillos_tous",
+        "header_excel": 2
+    },
+    {
+        "categoria": "Dijes Tous",
+        "excel": "DIJES TOUS.xlsx",
+        "js": "dijestous.js",
+        "variable_js": "productosDijesTous",
+        "prefijo": "dijes_tous",
+        "carpeta": "imagenes/TOUS/dijes_tous",
+        "header_excel": 2
     }
 ]
 
@@ -207,6 +225,8 @@ def buscar_archivo_flexible(nombre_buscado):
     return None
 
 def actualizar_todo():
+    extensiones_validas = ('jpg', 'jpeg', 'png', 'webp', 'avif', 'mp4', 'mov', 'webm')
+    
     for conf in CONFIGURACIONES:
         cat = conf["categoria"]
         excel_esperado = conf["excel"]
@@ -224,11 +244,7 @@ def actualizar_todo():
             continue
 
         if not os.path.exists(carpeta):
-            carpeta_alt = carpeta.replace("imagenes/", "images/")
-            if os.path.exists(carpeta_alt):
-                carpeta = carpeta_alt
-            else:
-                os.makedirs(carpeta, exist_ok=True)
+            os.makedirs(carpeta, exist_ok=True)
 
         try:
             df = pd.read_excel(excel_path, header=header_fila)
@@ -247,18 +263,19 @@ def actualizar_todo():
             
             if not col_id or pd.isna(row[col_id]):
                 if len(df.columns) > 1:
-                    col_id = df.columns[1]
+                    col_id = df.columns[0]
                 else:
                     continue
                 
-            # Soportar tanto IDs numéricos como alfanuméricos (ej. 199, 199A)
             raw_id = row[col_id]
+            
             try:
-                if isinstance(raw_id, float) and raw_id.is_integer():
-                    prod_id = str(int(raw_id))
+                val_float = float(raw_id)
+                if val_float.is_integer():
+                    prod_id = str(int(val_float))
                 else:
                     prod_id = str(raw_id).strip()
-            except:
+            except (ValueError, TypeError):
                 prod_id = str(raw_id).strip()
             
             if not prod_id or prod_id.lower() == 'nan':
@@ -275,7 +292,7 @@ def actualizar_todo():
             stock_tallas = {}
             for col in df.columns:
                 col_upper = str(col).strip().upper()
-                if col_upper.startswith('STOCK') or col_upper == 'TALLAS DISPONIBLES' or col_upper == 'TALLAS':
+                if col_upper.startswith('STOCK') or col_upper == 'TALLAS DISPONIBLES' or col_upper == 'TALLAS' or col_upper == 'TAMAÑO':
                     tallas_str = str(row[col])
                     if tallas_str and tallas_str != 'nan':
                         for t in tallas_str.replace(" ", "").split("-"):
@@ -284,16 +301,19 @@ def actualizar_todo():
 
             archivos_encontrados = []
             if os.path.exists(carpeta):
-                # Patrón ajustado para soportar IDs alfanuméricos y sub-imágenes (ej. anillosbp_199A.png, anillosbp_199A.0.jpg)
-                patron_estricto = re.compile(rf"^{re.escape(prefijo)}[_\.]?{re.escape(prod_id)}(?:\.\d+)?(?:[\._\(]|$)", re.IGNORECASE)
+                # Normalizamos el prefijo + id del producto (quitando espacios y guiones para comparar de forma infalible)
+                base_comparacion = re.sub(r'[\s_\-\.]+', '', f"{prefijo}{prod_id}".lower())
 
                 for archivo in os.listdir(carpeta):
-                    if patron_estricto.match(archivo):
-                        ext = archivo.split('.')[-1].lower()
-                        if ext in ('jpg', 'jpeg', 'png', 'webp', 'avif', 'mp4', 'mov', 'webm'):
-                            base_nombre = re.sub(r'\.[^.]+$', '', archivo)
-                            sub_part = base_nombre[len(f"{prefijo}_{prod_id}"):] if f"{prefijo}_{prod_id}" in base_nombre.lower() else ""
-                            tupla_orden = (0,) if not sub_part else tuple([int(n) for n in re.findall(r'\d+', sub_part)] or [0])
+                    ext = archivo.split('.')[-1].lower()
+                    if ext in extensiones_validas:
+                        # Limpiamos el nombre del archivo en disco para verificar si pertenece al producto
+                        archivo_limpio = re.sub(r'[\s_\-\.]+', '', archivo.lower())
+                        if archivo_limpio.startswith(base_comparacion):
+                            # Extraer números del archivo para ordenar correctamente la galería (ej: .0, .2, .3, etc.)
+                            numeros_extra = re.findall(r'\d+', archivo)
+                            # Si tiene números adicionales después del prefijo y id, los usamos para ordenar
+                            tupla_orden = tuple([int(n) for n in numeros_extra[1:]]) if len(numeros_extra) > 1 else (0,)
                             
                             tipo_media = "video" if ext in ('mp4', 'mov', 'webm') else "imagen"
                             archivos_encontrados.append({
@@ -315,14 +335,8 @@ def actualizar_todo():
             else:
                 imagen_principal = galeria_items[0]["url"]
 
-            # Si el ID en JS se maneja mejor como string o número según el caso, lo guardamos conservando el formato
-            try:
-                id_para_json = int(prod_id) if prod_id.isdigit() else prod_id
-            except:
-                id_para_json = prod_id
-
             producto_obj = {
-                "id": id_para_json,
+                "id": prod_id,
                 "categoria": cat,
                 "precio": precio,
                 "imagen": imagen_principal,
