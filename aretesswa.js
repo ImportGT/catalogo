@@ -1,5 +1,63 @@
 const productosAretesSwa = [
     {
+        "id": "56",
+        "categoria": "Aretes Swarovski",
+        "precio": 180.0,
+        "imagen": "imagenes/SWA/aretes_swa/aretes_swa_56.avif",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_56.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_56.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_56.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_56.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_56.5.avif"
+            }
+        ]
+    },
+    {
+        "id": "55",
+        "categoria": "Aretes Swarovski",
+        "precio": 125.0,
+        "imagen": "imagenes/SWA/aretes_swa/aretes_swa_55.avif",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_55.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_55.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_55.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_55.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_55.5.avif"
+            }
+        ]
+    },
+    {
         "id": "54",
         "categoria": "Aretes Swarovski",
         "precio": 145.0,
@@ -17,10 +75,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_54.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_5.4.avif"
             },
             {
                 "tipo": "imagen",
@@ -53,10 +107,6 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_5.3.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_53.3.avif"
             },
             {
@@ -79,10 +129,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_52.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_5.2.avif"
             },
             {
                 "tipo": "imagen",
@@ -227,10 +273,6 @@ const productosAretesSwa = [
             {
                 "tipo": "video",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_48.6.webm"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_4.8.mp4"
             }
         ]
     },
@@ -260,10 +302,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_47.5.avif"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_4.7.mp4"
             }
         ]
     },
@@ -293,10 +331,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_46.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_4.6.avif"
             },
             {
                 "tipo": "imagen",
@@ -333,10 +367,6 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_4.5.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_45.5.avif"
             },
             {
@@ -363,10 +393,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_44.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_4.4.avif"
             },
             {
                 "tipo": "imagen",
@@ -407,10 +433,6 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_4.3.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_43.3.avif"
             },
             {
@@ -445,10 +467,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_42.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_4.2.avif"
             },
             {
                 "tipo": "imagen",
@@ -544,10 +562,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_39.5.avif"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_3.9.mp4"
             }
         ]
     },
@@ -646,10 +660,6 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_3.6.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_36.6.avif"
             },
             {
@@ -683,10 +693,6 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_3.5.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_35.5.jpg"
             }
         ]
@@ -712,10 +718,6 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_3.4.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_34.4.jpg"
             },
             {
@@ -738,10 +740,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_33.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_3.3.avif"
             }
         ]
     },
@@ -755,10 +753,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_32.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_3.2.avif"
             },
             {
                 "tipo": "imagen",
@@ -878,10 +872,6 @@ const productosAretesSwa = [
             {
                 "tipo": "video",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_29.8.webm"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_2.9.mp4"
             }
         ]
     },
@@ -975,10 +965,6 @@ const productosAretesSwa = [
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_26.5.avif"
             },
             {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_2.6.avif"
-            },
-            {
                 "tipo": "video",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_26.6.webm"
             }
@@ -1006,10 +992,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_25.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_2.5.avif"
             },
             {
                 "tipo": "imagen",
@@ -1054,10 +1036,6 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_2.4.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_24.4.jpg"
             },
             {
@@ -1080,10 +1058,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_23.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_2.3.avif"
             },
             {
                 "tipo": "imagen",
@@ -1122,10 +1096,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_21.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_2.1.avif"
             },
             {
                 "tipo": "imagen",
@@ -1275,10 +1245,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_16.5.avif"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_1.6.mp4"
             }
         ]
     },
@@ -1304,10 +1270,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_15.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_1.5.jpg"
             }
         ]
     },
@@ -1329,10 +1291,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_14.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_1.4.jpg"
             },
             {
                 "tipo": "imagen",
@@ -1358,10 +1316,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_13.2.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_1.3.jpg"
             },
             {
                 "tipo": "imagen",
@@ -1399,10 +1353,6 @@ const productosAretesSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_12.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_1.2.jpg"
             },
             {
                 "tipo": "imagen",
@@ -1633,47 +1583,7 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_50.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_51.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_52.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_53.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_54.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_5.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_50.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_51.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_52.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_53.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_54.2.avif"
             },
             {
                 "tipo": "imagen",
@@ -1681,79 +1591,11 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_50.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_51.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_52.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_53.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_54.3.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_5.4.avif"
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_50.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_51.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_52.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_53.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_54.4.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_5.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_50.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_51.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_52.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_53.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_54.5.avif"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_50.6.webm"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_54.6.webm"
             },
             {
                 "tipo": "video",
@@ -1774,87 +1616,7 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_40.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_41.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_42.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_43.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_44.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_45.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_46.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_47.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_48.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_49.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_4.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_40.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_41.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_42.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_43.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_44.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_45.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_46.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_47.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_48.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_49.2.avif"
             },
             {
                 "tipo": "imagen",
@@ -1862,79 +1624,7 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_40.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_42.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_43.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_44.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_45.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_46.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_47.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_48.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_49.3.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_4.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_40.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_42.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_43.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_44.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_45.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_46.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_47.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_48.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_49.4.avif"
             },
             {
                 "tipo": "imagen",
@@ -1942,95 +1632,11 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_40.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_42.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_43.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_44.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_45.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_46.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_47.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_48.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_49.5.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_4.6.avif"
             },
             {
                 "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_40.6.webm"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_43.6.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_44.6.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_45.6.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_46.6.avif"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_48.6.webm"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_49.6.webm"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_43.7.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_44.7.avif"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_46.7.webm"
-            },
-            {
-                "tipo": "video",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_4.7.mp4"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_43.8.webm"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_44.8.webm"
             },
             {
                 "tipo": "video",
@@ -2051,87 +1657,7 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_30.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_31.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_32.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_33.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_34.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_35.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_36.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_37.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_38.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_39.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_3.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_30.2.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_31.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_32.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_33.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_34.2.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_35.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_36.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_37.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_38.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_39.2.avif"
             },
             {
                 "tipo": "imagen",
@@ -2139,75 +1665,7 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_30.3.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_31.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_32.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_34.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_35.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_36.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_37.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_38.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_39.3.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_3.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_30.4.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_31.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_34.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_35.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_36.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_37.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_38.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_39.4.avif"
             },
             {
                 "tipo": "imagen",
@@ -2215,67 +1673,7 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_30.5.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_31.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_34.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_35.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_36.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_37.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_38.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_39.5.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_3.6.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_31.6.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_36.6.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_37.6.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_31.7.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_36.7.avif"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_37.7.webm"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_31.8.avif"
             },
             {
                 "tipo": "video",
@@ -2296,83 +1694,7 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_20.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_21.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_22.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_23.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_24.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_26.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_27.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_28.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_29.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_2.1.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_20.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_21.2.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_23.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_24.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_26.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_27.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_28.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_29.2.avif"
             },
             {
                 "tipo": "imagen",
@@ -2380,71 +1702,7 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_20.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_23.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_24.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_26.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_27.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_28.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_29.3.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_2.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_20.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_23.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_24.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_26.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_27.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_28.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_29.4.avif"
             },
             {
                 "tipo": "imagen",
@@ -2452,83 +1710,7 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_20.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_23.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_24.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_26.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_28.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_29.5.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_2.6.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_20.6.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.6.avif"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_26.6.webm"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_28.6.webm"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_29.6.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_20.7.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.7.avif"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_28.7.webm"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_29.7.webm"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.8.webm"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_29.8.webm"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.9.webm"
             },
             {
                 "tipo": "video",
@@ -2549,83 +1731,7 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_10.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_11.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_12.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_13.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_14.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_15.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_16.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_17.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_18.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_19.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_1.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_10.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_11.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_12.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_13.2.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_14.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_15.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_16.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_17.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_19.2.avif"
             },
             {
                 "tipo": "imagen",
@@ -2633,147 +1739,15 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_10.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_11.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_12.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_13.3.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_14.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_15.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_16.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_17.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_19.3.avif"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_1.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_10.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_11.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_12.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_14.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_15.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_16.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_17.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_19.4.avif"
             },
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_1.5.jpg"
             },
             {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_10.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_11.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_13.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_14.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_16.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_17.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_19.5.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_11.6.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_13.6.jpg"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_17.6.webm"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_19.6.avif"
-            },
-            {
                 "tipo": "video",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_1.6.mp4"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_10.6.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_13.7.jpg"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_10.7.mp4"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_13.8.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/aretes_swa/aretes_swa_13.9.jpg"
             }
         ]
     }

@@ -301,18 +301,16 @@ def actualizar_todo():
 
             archivos_encontrados = []
             if os.path.exists(carpeta):
-                # Normalizamos el prefijo + id del producto (quitando espacios y guiones para comparar de forma infalible)
-                base_comparacion = re.sub(r'[\s_\-\.]+', '', f"{prefijo}{prod_id}".lower())
-
                 for archivo in os.listdir(carpeta):
                     ext = archivo.split('.')[-1].lower()
                     if ext in extensiones_validas:
-                        # Limpiamos el nombre del archivo en disco para verificar si pertenece al producto
-                        archivo_limpio = re.sub(r'[\s_\-\.]+', '', archivo.lower())
-                        if archivo_limpio.startswith(base_comparacion):
-                            # Extraer números del archivo para ordenar correctamente la galería (ej: .0, .2, .3, etc.)
-                            numeros_extra = re.findall(r'\d+', archivo)
-                            # Si tiene números adicionales después del prefijo y id, los usamos para ordenar
+                        nombre_base = os.path.splitext(archivo)[0]
+                        numeros_extra = re.findall(r'\d+', nombre_base)
+                        
+                        # VERIFICACIÓN ESTRICTA: El primer número extraído del archivo debe coincidir 
+                        # exactamente con el código del producto (prod_id). Esto evita que "15" haga match 
+                        # con "150" o que "3" haga match con "30".
+                        if numeros_extra and numeros_extra[0].lower() == str(prod_id).lower():
                             tupla_orden = tuple([int(n) for n in numeros_extra[1:]]) if len(numeros_extra) > 1 else (0,)
                             
                             tipo_media = "video" if ext in ('mp4', 'mov', 'webm') else "imagen"

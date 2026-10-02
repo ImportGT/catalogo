@@ -1,5 +1,166 @@
 const productosCharmsME = [
     {
+        "id": "137",
+        "categoria": "Charms ME",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_me/chme_137.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_137.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_137.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_137.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_137.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_137.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_137.6.mp4"
+            }
+        ]
+    },
+    {
+        "id": "136",
+        "categoria": "Charms ME",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_me/chme_136.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_136.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_136.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_136.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_136.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_136.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_136.6.mp4"
+            }
+        ]
+    },
+    {
+        "id": "135",
+        "categoria": "Charms ME",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_me/chme_135.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_135.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_135.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_135.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_135.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_135.5.mp4"
+            }
+        ]
+    },
+    {
+        "id": "134",
+        "categoria": "Charms ME",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_me/chme_134.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_134.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_134.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_134.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_134.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_134.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_134.6.mp4"
+            }
+        ]
+    },
+    {
+        "id": "133",
+        "categoria": "Charms ME",
+        "precio": 65.0,
+        "imagen": "imagenes/charms_me/chme_133.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_133.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_133.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_133.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_133.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_133.5.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_133.6.jpg"
+            }
+        ]
+    },
+    {
         "id": "132",
         "categoria": "Charms ME",
         "precio": 65.0,
@@ -69,13 +230,9 @@ const productosCharmsME = [
         "id": "130",
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme_13.0.jpg",
+        "imagen": "imagenes/charms_me/chme_130.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_13.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_130.jpg"
@@ -379,13 +536,9 @@ const productosCharmsME = [
         "id": "120",
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme_12.0.jpg",
+        "imagen": "imagenes/charms_me/chme_120.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_12.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_120.0.jpg"
@@ -513,13 +666,9 @@ const productosCharmsME = [
         "id": "110",
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme_11.0.jpg",
+        "imagen": "imagenes/charms_me/chme_110.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_11.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_110.0.jpg"
@@ -647,13 +796,9 @@ const productosCharmsME = [
         "id": "100",
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme_10.0.jpg",
+        "imagen": "imagenes/charms_me/chme_100.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_10.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_100.0.jpg"
@@ -781,13 +926,9 @@ const productosCharmsME = [
         "id": "90",
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme_9.0.jpg",
+        "imagen": "imagenes/charms_me/chme_90.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_9.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_90.0.jpg"
@@ -915,13 +1056,9 @@ const productosCharmsME = [
         "id": "80",
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme_8.0.jpg",
+        "imagen": "imagenes/charms_me/chme_80.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_8.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_80.0.jpg"
@@ -1049,13 +1186,9 @@ const productosCharmsME = [
         "id": "70",
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme_7.0.jpg",
+        "imagen": "imagenes/charms_me/chme_70.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_7.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_70.0.jpg"
@@ -1183,13 +1316,9 @@ const productosCharmsME = [
         "id": "60",
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme_6.0.jpg",
+        "imagen": "imagenes/charms_me/chme_60.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_6.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_60.0.jpg"
@@ -1317,13 +1446,9 @@ const productosCharmsME = [
         "id": "50",
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme_5.0.jpg",
+        "imagen": "imagenes/charms_me/chme_50.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_5.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_50.0.jpg"
@@ -1451,13 +1576,9 @@ const productosCharmsME = [
         "id": "40",
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme_4.0.jpg",
+        "imagen": "imagenes/charms_me/chme_40.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_4.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_40.0.jpg"
@@ -1585,13 +1706,9 @@ const productosCharmsME = [
         "id": "30",
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme_3.0.jpg",
+        "imagen": "imagenes/charms_me/chme_30.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_3.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_30.0.jpg"
@@ -1719,13 +1836,9 @@ const productosCharmsME = [
         "id": "20",
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme_2.0.jpg",
+        "imagen": "imagenes/charms_me/chme_20.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_2.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_20.0.jpg"
@@ -1820,78 +1933,6 @@ const productosCharmsME = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_13.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_130.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_131.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_132.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_130.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_131.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_132.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_130.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_131.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_132.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_130.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_131.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_132.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_130.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_131.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_132.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_130.6.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_132.6.jpg"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/charms_me/chme_132.7.mp4"
             }
         ]
     },
@@ -1905,202 +1946,6 @@ const productosCharmsME = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_12.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_120.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_121.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_122.0.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_123.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_124.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_125.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_126.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_127.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_128.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_129.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_122.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_123.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_124.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_125.2.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_126.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_127.2.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_128.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_129.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_122.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_123.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_124.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_125.3.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_126.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_127.3.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_128.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_129.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_122.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_123.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_124.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_125.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_126.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_127.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_128.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_129.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_122.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_123.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_124.5.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_125.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_126.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_127.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_128.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_129.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_122.6.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_123.6.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_127.6.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_129.6.jpg"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/charms_me/chme_125.6.mp4"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/charms_me/chme_126.6.mp4"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/charms_me/chme_128.6.mp4"
             }
         ]
     },
@@ -2114,46 +1959,6 @@ const productosCharmsME = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_11.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_110.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_111.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_112.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_113.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_114.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_115.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_116.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_117.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_118.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_119.0.jpg"
             }
         ]
     },
@@ -2161,56 +1966,12 @@ const productosCharmsME = [
         "id": "10",
         "categoria": "Charms ME",
         "precio": 65.0,
-        "imagen": "imagenes/charms_me/chme_1.0.jpg",
+        "imagen": "imagenes/charms_me/chme_10.0.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_1.0.jpg"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_10.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_100.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_101.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_102.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_103.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_104.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_105.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_106.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_107.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_108.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_109.0.jpg"
             }
         ]
     },
@@ -2224,46 +1985,6 @@ const productosCharmsME = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_9.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_90.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_91.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_92.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_93.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_94.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_95.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_96.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_97.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_98.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_99.0.jpg"
             }
         ]
     },
@@ -2277,46 +1998,6 @@ const productosCharmsME = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_8.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_80.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_81.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_82.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_83.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_84.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_85.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_86.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_87.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_88.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_89.0.jpg"
             }
         ]
     },
@@ -2330,46 +2011,6 @@ const productosCharmsME = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_7.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_70.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_71.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_72.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_73.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_74.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_75.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_76.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_77.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_78.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_79.0.jpg"
             }
         ]
     },
@@ -2383,46 +2024,6 @@ const productosCharmsME = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_6.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_60.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_61.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_62.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_63.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_64.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_65.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_66.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_67.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_68.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_69.0.jpg"
             }
         ]
     },
@@ -2436,46 +2037,6 @@ const productosCharmsME = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_5.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_50.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_51.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_52.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_53.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_54.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_55.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_56.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_57.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_58.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_59.0.jpg"
             }
         ]
     },
@@ -2489,46 +2050,6 @@ const productosCharmsME = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_4.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_40.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_41.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_42.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_43.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_44.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_45.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_46.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_47.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_48.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_49.0.jpg"
             }
         ]
     },
@@ -2542,46 +2063,6 @@ const productosCharmsME = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_3.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_30.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_31.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_32.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_33.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_34.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_35.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_36.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_37.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_38.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_39.0.jpg"
             }
         ]
     },
@@ -2595,46 +2076,6 @@ const productosCharmsME = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_2.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_20.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_21.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_22.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_23.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_24.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_25.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_26.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_27.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_28.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_29.0.jpg"
             }
         ]
     },
@@ -2648,394 +2089,6 @@ const productosCharmsME = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_1.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_10.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_100.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_101.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_102.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_103.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_104.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_105.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_106.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_107.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_108.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_109.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_11.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_110.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_111.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_112.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_113.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_114.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_115.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_116.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_117.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_118.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_119.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_12.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_120.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_121.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_122.0.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_123.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_124.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_125.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_126.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_127.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_128.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_129.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_13.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_130.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_131.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_132.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_14.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_15.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_16.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_17.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_18.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_19.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_122.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_123.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_124.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_125.2.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_126.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_127.2.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_128.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_129.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_130.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_131.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_132.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_122.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_123.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_124.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_125.3.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_126.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_127.3.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_128.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_129.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_130.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_131.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_132.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_122.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_123.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_124.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_125.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_126.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_127.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_128.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_129.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_130.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_131.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_132.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_122.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_123.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_124.5.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_125.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_126.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_127.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_128.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_129.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_130.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_131.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_132.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_122.6.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_123.6.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_127.6.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_129.6.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_130.6.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_me/chme_132.6.jpg"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/charms_me/chme_125.6.mp4"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/charms_me/chme_126.6.mp4"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/charms_me/chme_128.6.mp4"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/charms_me/chme_132.7.mp4"
             }
         ]
     }

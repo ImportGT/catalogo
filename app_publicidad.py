@@ -192,50 +192,16 @@ class AppGeneradorPublicidad:
                         except (ValueError, TypeError):
                             pass
 
-                img_folder = carpeta_imagenes.lower()
-                if "dijes_tous" in img_folder:
-                    prefijo_base = "dijes_tous"
-                elif "anillos_tous" in img_folder:
-                    prefijo_base = "anillos_tous"
-                elif "swa" in img_folder:
-                    if "Anillos" in nombre_linea: prefijo_base = "anillos_swa"
-                    elif "Aretes" in nombre_linea: prefijo_base = "aretes_swa"
-                    elif "Pulseras" in nombre_linea: prefijo_base = "pulseras_swa"
-                    else: prefijo_base = "collares_swa"
-                elif "bp" in img_folder:
-                    if "Anillos" in nombre_linea: prefijo_base = "anillosbp"
-                    elif "Aretes" in nombre_linea: prefijo_base = "aretessbp"
-                    elif "Cadenas" in nombre_linea: prefijo_base = "cadenasbp"
-                    else: prefijo_base = "pulserasbp"
-                else:
-                    if "Aretes" in nombre_linea: prefijo_base = "aretes"
-                    elif "Anillos" in nombre_linea: prefijo_base = "anillos"
-                    elif "Collares" in nombre_linea: prefijo_base = "collares"
-                    elif "Pulseras" in nombre_linea: prefijo_base = "pulseras"
-                    elif "Charms Accesorios ME" in nombre_linea: prefijo_base = "chamE"
-                    elif "Charms ME" in nombre_linea: prefijo_base = "chme"
-                    elif "Charms Reflexion" in nombre_linea: prefijo_base = "chr"
-                    elif "Charms Locket" in nombre_linea: prefijo_base = "chl"
-                    elif "Charms Clips y Topes" in nombre_linea: prefijo_base = "chct"
-                    elif "Charms Muranos" in nombre_linea: prefijo_base = "chm"
-                    elif "Charms Cadenas de Seguridad" in nombre_linea: prefijo_base = "chcsd"
-                    elif "Charms Beads Disney" in nombre_linea: prefijo_base = "chbd"
-                    elif "Charms Colgantes Disney" in nombre_linea: prefijo_base = "chcd"
-                    elif "Charms Colgantes" in nombre_linea: prefijo_base = "chc"
-                    elif "Charms Beads" in nombre_linea: prefijo_base = "chb"
-                    else: prefijo_base = nombre_linea.split()[0].lower()
-
                 imagen_path = ""
                 galeria_completa = []
                 
                 if os.path.exists(carpeta_imagenes):
-                    base_comparacion = re.sub(r'[\s_\-\.]+', '', f"{prefijo_base}{prod_id}".lower())
-
                     for archivo_dir in os.listdir(carpeta_imagenes):
                         ext = archivo_dir.split('.')[-1].lower()
                         if ext in [e.replace('.', '') for e in extensiones_validas]:
-                            archivo_limpio = re.sub(r'[\s_\-\.]+', '', archivo_dir.lower())
-                            if archivo_limpio.startswith(base_comparacion):
+                            nombre_base = os.path.splitext(archivo_dir)[0]
+                            numeros_extra = re.findall(r'\d+', nombre_base)
+                            if numeros_extra and numeros_extra[0].lower() == str(prod_id).lower():
                                 full_p = os.path.join(carpeta_imagenes, archivo_dir)
                                 if full_p not in galeria_completa:
                                     galeria_completa.append(full_p)

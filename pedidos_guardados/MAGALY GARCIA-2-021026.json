@@ -1,0 +1,175 @@
+{
+    "cliente": "MAGALY GARCIA",
+    "margen": "0",
+    "anticipo": "990",
+    "items": [
+        {
+            "id": 807,
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 2,
+            "precio_base": 75.0,
+            "imagen": "imagenes/charms_colgantes/chc.807.0.jpg"
+        },
+        {
+            "id": 539,
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 75.0,
+            "imagen": "imagenes/anillos/anillos_539.jpg"
+        },
+        {
+            "id": 539,
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 75.0,
+            "imagen": "imagenes/anillos/anillos_539.jpg"
+        },
+        {
+            "id": 539,
+            "categoria": "Anillos Pandora",
+            "talla": "8",
+            "qty": 1,
+            "precio_base": 75.0,
+            "imagen": "imagenes/anillos/anillos_539.jpg"
+        },
+        {
+            "id": 539,
+            "categoria": "Anillos Pandora",
+            "talla": "8",
+            "qty": 1,
+            "precio_base": 75.0,
+            "imagen": "imagenes/anillos/anillos_539.jpg"
+        },
+        {
+            "id": 371,
+            "categoria": "Anillos Pandora",
+            "talla": "6",
+            "qty": 1,
+            "precio_base": 70.0,
+            "imagen": "imagenes/anillos/anillos_371.jpg"
+        },
+        {
+            "id": 542,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 2,
+            "precio_base": 70.0,
+            "imagen": "imagenes/aretes/aretes_542.jpg"
+        },
+        {
+            "id": 508,
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/aretes/aretes_508.webp"
+        },
+        {
+            "id": 15,
+            "categoria": "Collares Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 110.0,
+            "imagen": "imagenes/collares/collares_15.0.jpg"
+        },
+        {
+            "id": 277,
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 2,
+            "precio_base": 70.0,
+            "imagen": "imagenes/charms_beads_disney/chbd_277.0.jpg"
+        },
+        {
+            "id": 598,
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/charms_colgantes/chc.598.0.jpg"
+        },
+        {
+            "id": 468,
+            "categoria": "Pulseras Pandora",
+            "talla": "17",
+            "qty": 1,
+            "precio_base": 150.0,
+            "imagen": "imagenes/pulseras/pulseras_468.0.jpg"
+        },
+        {
+            "id": 459,
+            "categoria": "Pulseras Pandora",
+            "talla": "20",
+            "qty": 1,
+            "precio_base": 120.0,
+            "imagen": "imagenes/pulseras/pulseras_459.0.jpg"
+        },
+        {
+            "id": 202,
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "imagen": "imagenes/charms_beads_disney/chbd_202.0.jpg"
+        },
+        {
+            "id": 232,
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "imagen": "imagenes/charms_beads_disney/chbd_232.0.jpg"
+        },
+        {
+            "id": 582,
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 90.0,
+            "imagen": "imagenes/anillos/anillos_582.webp"
+        },
+        {
+            "id": 580,
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/anillos/anillos_580.webp"
+        },
+        {
+            "id": 581,
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 65.0,
+            "imagen": "imagenes/anillos/anillos_581.webp"
+        },
+        {
+            "id": 128,
+            "categoria": "Collares Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 90.0,
+            "imagen": "imagenes/collares/collares_128.0.jpg"
+        },
+        {
+            "id": 276,
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "imagen": "imagenes/charms_beads_disney/chbd_276.0.jpg"
+        },
+        {
+            "id": 410,
+            "categoria": "Pulseras Pandora",
+            "talla": "17",
+            "qty": 1,
+            "precio_base": 150.0,
+            "imagen": "imagenes/pulseras/pulseras_410.0.jpg"
+        }
+    ]
+}

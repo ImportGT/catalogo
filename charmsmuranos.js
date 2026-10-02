@@ -29,15 +29,11 @@ const productosCharmsMuranos = [
         "id": "160",
         "categoria": "Charms Muranos",
         "precio": 75.0,
-        "imagen": "imagenes/charms_muranos/chm_16.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_160.jpg",
         "stockTallas": {
             "2.0": 1
         },
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_16.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_160.jpg"
@@ -207,13 +203,9 @@ const productosCharmsMuranos = [
         "id": "150",
         "categoria": "Charms Muranos",
         "precio": 70.0,
-        "imagen": "imagenes/charms_muranos/chm_15.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_150.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_15.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_150.0.jpg"
@@ -359,13 +351,9 @@ const productosCharmsMuranos = [
         "id": "140",
         "categoria": "Charms Muranos",
         "precio": 70.0,
-        "imagen": "imagenes/charms_muranos/chm_14.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_140.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_14.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_140.0.jpg"
@@ -493,13 +481,9 @@ const productosCharmsMuranos = [
         "id": "130",
         "categoria": "Charms Muranos",
         "precio": 70.0,
-        "imagen": "imagenes/charms_muranos/chm_13.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_130.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_13.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_130.0.jpg"
@@ -627,13 +611,9 @@ const productosCharmsMuranos = [
         "id": "120",
         "categoria": "Charms Muranos",
         "precio": 70.0,
-        "imagen": "imagenes/charms_muranos/chm_12.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_120.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_12.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_120.0.jpg"
@@ -761,13 +741,9 @@ const productosCharmsMuranos = [
         "id": "110",
         "categoria": "Charms Muranos",
         "precio": 50.0,
-        "imagen": "imagenes/charms_muranos/chm_11.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_110.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_11.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_110.0.jpg"
@@ -895,13 +871,9 @@ const productosCharmsMuranos = [
         "id": "100",
         "categoria": "Charms Muranos",
         "precio": 70.0,
-        "imagen": "imagenes/charms_muranos/chm_10.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_100.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_10.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_100.0.jpg"
@@ -1029,13 +1001,9 @@ const productosCharmsMuranos = [
         "id": "90",
         "categoria": "Charms Muranos",
         "precio": 70.0,
-        "imagen": "imagenes/charms_muranos/chm_9.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_90.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_9.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_90.0.jpg"
@@ -1163,13 +1131,9 @@ const productosCharmsMuranos = [
         "id": "80",
         "categoria": "Charms Muranos",
         "precio": 70.0,
-        "imagen": "imagenes/charms_muranos/chm_8.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_80.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_8.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_80.0.jpg"
@@ -1297,13 +1261,9 @@ const productosCharmsMuranos = [
         "id": "70",
         "categoria": "Charms Muranos",
         "precio": 70.0,
-        "imagen": "imagenes/charms_muranos/chm_7.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_70.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_7.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_70.0.jpg"
@@ -1431,13 +1391,9 @@ const productosCharmsMuranos = [
         "id": "60",
         "categoria": "Charms Muranos",
         "precio": 70.0,
-        "imagen": "imagenes/charms_muranos/chm_6.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_60.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_6.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_60.0.jpg"
@@ -1565,13 +1521,9 @@ const productosCharmsMuranos = [
         "id": "50",
         "categoria": "Charms Muranos",
         "precio": 70.0,
-        "imagen": "imagenes/charms_muranos/chm_5.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_50.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_5.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_50.0.jpg"
@@ -1699,13 +1651,9 @@ const productosCharmsMuranos = [
         "id": "40",
         "categoria": "Charms Muranos",
         "precio": 70.0,
-        "imagen": "imagenes/charms_muranos/chm_4.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_40.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_4.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_40.0.jpg"
@@ -1833,13 +1781,9 @@ const productosCharmsMuranos = [
         "id": "30",
         "categoria": "Charms Muranos",
         "precio": 70.0,
-        "imagen": "imagenes/charms_muranos/chm_3.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_30.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_3.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_30.0.jpg"
@@ -1967,13 +1911,9 @@ const productosCharmsMuranos = [
         "id": "20",
         "categoria": "Charms Muranos",
         "precio": 70.0,
-        "imagen": "imagenes/charms_muranos/chm_2.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_20.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_2.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_20.0.jpg"
@@ -2029,38 +1969,6 @@ const productosCharmsMuranos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_16.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_160.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_161.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_162.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_160.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_160.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_160.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_160.5.jpg"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/charms_muranos/chm_160.6.mp4"
             }
         ]
     },
@@ -2074,66 +1982,6 @@ const productosCharmsMuranos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_15.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_150.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_151.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_152.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_153.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_154.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_155.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_156.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_157.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_158.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_159.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_153.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_153.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_153.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_153.5.jpg"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/charms_muranos/chm_153.6.mp4"
             }
         ]
     },
@@ -2147,62 +1995,6 @@ const productosCharmsMuranos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_14.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_140.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_141.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_142.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_143.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_144.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_145.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_146.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_147.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_148.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_149.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_149.2.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_149.3.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_149.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_149.5.jpg"
             }
         ]
     },
@@ -2216,46 +2008,6 @@ const productosCharmsMuranos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_13.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_130.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_131.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_132.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_133.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_134.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_135.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_136.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_137.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_138.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_139.0.jpg"
             }
         ]
     },
@@ -2269,46 +2021,6 @@ const productosCharmsMuranos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_12.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_120.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_121.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_122.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_123.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_124.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_125.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_126.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_127.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_128.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_129.0.jpg"
             }
         ]
     },
@@ -2322,46 +2034,6 @@ const productosCharmsMuranos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_11.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_110.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_111.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_112.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_113.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_114.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_115.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_116.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_117.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_118.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_119.0.jpg"
             }
         ]
     },
@@ -2369,56 +2041,12 @@ const productosCharmsMuranos = [
         "id": "10",
         "categoria": "Charms Muranos",
         "precio": 70.0,
-        "imagen": "imagenes/charms_muranos/chm_1.0.jpg",
+        "imagen": "imagenes/charms_muranos/chm_10.0.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_1.0.jpg"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_10.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_100.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_101.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_102.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_103.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_104.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_105.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_106.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_107.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_108.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_109.0.jpg"
             }
         ]
     },
@@ -2432,46 +2060,6 @@ const productosCharmsMuranos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_9.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_90.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_91.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_92.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_93.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_94.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_95.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_96.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_97.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_98.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_99.0.jpg"
             }
         ]
     },
@@ -2485,46 +2073,6 @@ const productosCharmsMuranos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_8.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_80.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_81.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_82.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_83.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_84.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_85.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_86.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_87.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_88.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_89.0.jpg"
             }
         ]
     },
@@ -2538,46 +2086,6 @@ const productosCharmsMuranos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_7.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_70.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_71.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_72.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_73.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_74.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_75.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_76.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_77.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_78.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_79.0.jpg"
             }
         ]
     },
@@ -2591,46 +2099,6 @@ const productosCharmsMuranos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_6.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_60.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_61.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_62.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_63.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_64.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_65.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_66.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_67.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_68.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_69.0.jpg"
             }
         ]
     },
@@ -2644,46 +2112,6 @@ const productosCharmsMuranos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_5.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_50.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_51.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_52.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_53.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_54.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_55.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_56.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_57.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_58.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_59.0.jpg"
             }
         ]
     },
@@ -2697,46 +2125,6 @@ const productosCharmsMuranos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_4.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_40.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_41.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_42.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_43.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_44.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_45.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_46.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_47.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_48.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_49.0.jpg"
             }
         ]
     },
@@ -2750,46 +2138,6 @@ const productosCharmsMuranos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_3.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_30.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_31.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_32.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_33.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_34.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_35.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_36.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_37.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_38.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_39.0.jpg"
             }
         ]
     },
@@ -2803,46 +2151,6 @@ const productosCharmsMuranos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_2.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_20.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_21.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_22.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_23.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_24.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_25.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_26.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_27.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_28.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_29.0.jpg"
             }
         ]
     },
@@ -2856,354 +2164,6 @@ const productosCharmsMuranos = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_muranos/chm_1.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_10.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_100.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_101.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_102.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_103.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_104.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_105.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_106.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_107.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_108.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_109.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_11.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_110.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_111.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_112.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_113.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_114.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_115.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_116.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_117.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_118.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_119.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_12.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_120.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_121.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_122.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_123.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_124.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_125.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_126.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_127.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_128.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_129.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_13.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_130.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_131.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_132.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_133.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_134.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_135.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_136.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_137.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_138.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_139.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_14.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_140.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_141.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_142.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_143.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_144.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_145.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_146.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_147.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_148.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_149.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_15.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_150.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_151.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_152.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_153.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_154.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_155.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_156.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_157.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_158.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_159.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_16.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_160.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_161.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_162.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_17.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_18.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_19.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_149.2.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_153.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_160.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_149.3.webp"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_153.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_160.3.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_149.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_153.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_160.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_149.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_153.5.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_muranos/chm_160.5.jpg"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/charms_muranos/chm_153.6.mp4"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/charms_muranos/chm_160.6.mp4"
             }
         ]
     }

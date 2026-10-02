@@ -55,13 +55,9 @@ const productosCharmsClipsYTopes = [
         "id": "160",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_clipsytopes/chct_16.0.jpg",
+        "imagen": "imagenes/charms_clipsytopes/chct_160.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_16.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_160.0.jpg"
@@ -189,13 +185,9 @@ const productosCharmsClipsYTopes = [
         "id": "150",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_clipsytopes/chct_15.0.jpg",
+        "imagen": "imagenes/charms_clipsytopes/chct_150.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_15.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_150.0.jpg"
@@ -323,13 +315,9 @@ const productosCharmsClipsYTopes = [
         "id": "140",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_clipsytopes/chct_14.0.jpg",
+        "imagen": "imagenes/charms_clipsytopes/chct_140.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_14.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_140.0.jpg"
@@ -457,13 +445,9 @@ const productosCharmsClipsYTopes = [
         "id": "130",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_clipsytopes/chct_13.0.jpg",
+        "imagen": "imagenes/charms_clipsytopes/chct_130.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_13.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_130.0.jpg"
@@ -591,13 +575,9 @@ const productosCharmsClipsYTopes = [
         "id": "120",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_clipsytopes/chct_12.0.jpg",
+        "imagen": "imagenes/charms_clipsytopes/chct_120.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_12.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_120.0.jpg"
@@ -725,13 +705,9 @@ const productosCharmsClipsYTopes = [
         "id": "110",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_clipsytopes/chct_11.0.jpg",
+        "imagen": "imagenes/charms_clipsytopes/chct_110.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_11.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_110.0.jpg"
@@ -859,13 +835,9 @@ const productosCharmsClipsYTopes = [
         "id": "100",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_clipsytopes/chct_10.0.jpg",
+        "imagen": "imagenes/charms_clipsytopes/chct_100.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_10.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_100.0.jpg"
@@ -993,13 +965,9 @@ const productosCharmsClipsYTopes = [
         "id": "90",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_clipsytopes/chct_9.0.jpg",
+        "imagen": "imagenes/charms_clipsytopes/chct_90.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_9.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_90.0.jpg"
@@ -1127,13 +1095,9 @@ const productosCharmsClipsYTopes = [
         "id": "80",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_clipsytopes/chct_8.0.jpg",
+        "imagen": "imagenes/charms_clipsytopes/chct_80.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_8.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_80.0.jpg"
@@ -1261,13 +1225,9 @@ const productosCharmsClipsYTopes = [
         "id": "70",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_clipsytopes/chct_7.0.jpg",
+        "imagen": "imagenes/charms_clipsytopes/chct_70.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_7.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_70.0.jpg"
@@ -1395,13 +1355,9 @@ const productosCharmsClipsYTopes = [
         "id": "60",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_clipsytopes/chct_6.0.jpg",
+        "imagen": "imagenes/charms_clipsytopes/chct_60.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_6.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_60.0.jpg"
@@ -1529,13 +1485,9 @@ const productosCharmsClipsYTopes = [
         "id": "50",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_clipsytopes/chct_5.0.jpg",
+        "imagen": "imagenes/charms_clipsytopes/chct_50.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_5.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_50.0.jpg"
@@ -1663,13 +1615,9 @@ const productosCharmsClipsYTopes = [
         "id": "40",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_clipsytopes/chct_4.0.jpg",
+        "imagen": "imagenes/charms_clipsytopes/chct_40.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_4.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_40.0.jpg"
@@ -1797,13 +1745,9 @@ const productosCharmsClipsYTopes = [
         "id": "30",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_clipsytopes/chct_3.0.jpg",
+        "imagen": "imagenes/charms_clipsytopes/chct_30.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_3.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_30.0.jpg"
@@ -1931,13 +1875,9 @@ const productosCharmsClipsYTopes = [
         "id": "20",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_clipsytopes/chct_2.0.jpg",
+        "imagen": "imagenes/charms_clipsytopes/chct_20.0.jpg",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_2.0.jpg"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_20.0.jpg"
@@ -1993,26 +1933,6 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_16.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_160.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_161.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_162.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_163.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_164.0.jpg"
             }
         ]
     },
@@ -2026,46 +1946,6 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_15.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_150.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_151.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_152.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_153.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_154.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_155.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_156.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_157.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_158.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_159.0.jpg"
             }
         ]
     },
@@ -2079,46 +1959,6 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_14.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_140.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_141.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_142.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_143.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_144.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_145.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_146.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_147.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_148.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_149.0.jpg"
             }
         ]
     },
@@ -2132,46 +1972,6 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_13.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_130.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_131.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_132.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_133.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_134.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_135.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_136.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_137.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_138.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_139.0.jpg"
             }
         ]
     },
@@ -2185,46 +1985,6 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_12.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_120.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_121.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_122.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_123.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_124.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_125.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_126.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_127.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_128.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_129.0.jpg"
             }
         ]
     },
@@ -2238,46 +1998,6 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_11.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_110.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_111.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_112.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_113.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_114.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_115.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_116.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_117.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_118.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_119.0.jpg"
             }
         ]
     },
@@ -2285,56 +2005,12 @@ const productosCharmsClipsYTopes = [
         "id": "10",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
-        "imagen": "imagenes/charms_clipsytopes/chct_1.0.jpg",
+        "imagen": "imagenes/charms_clipsytopes/chct_10.0.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_1.0.jpg"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_10.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_100.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_101.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_102.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_103.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_104.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_105.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_106.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_107.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_108.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_109.0.jpg"
             }
         ]
     },
@@ -2348,46 +2024,6 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_9.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_90.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_91.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_92.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_93.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_94.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_95.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_96.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_97.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_98.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_99.0.jpg"
             }
         ]
     },
@@ -2401,46 +2037,6 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_8.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_80.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_81.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_82.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_83.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_84.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_85.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_86.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_87.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_88.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_89.0.jpg"
             }
         ]
     },
@@ -2454,46 +2050,6 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_7.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_70.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_71.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_72.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_73.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_74.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_75.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_76.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_77.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_78.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_79.0.jpg"
             }
         ]
     },
@@ -2507,46 +2063,6 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_6.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_60.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_61.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_62.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_63.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_64.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_65.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_66.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_67.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_68.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_69.0.jpg"
             }
         ]
     },
@@ -2560,46 +2076,6 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_5.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_50.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_51.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_52.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_53.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_54.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_55.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_56.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_57.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_58.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_59.0.jpg"
             }
         ]
     },
@@ -2613,46 +2089,6 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_4.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_40.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_41.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_42.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_43.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_44.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_45.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_46.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_47.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_48.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_49.0.jpg"
             }
         ]
     },
@@ -2666,46 +2102,6 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_3.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_30.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_31.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_32.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_33.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_34.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_35.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_36.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_37.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_38.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_39.0.jpg"
             }
         ]
     },
@@ -2719,46 +2115,6 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_2.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_20.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_21.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_22.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_23.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_24.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_25.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_26.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_27.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_28.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_29.0.jpg"
             }
         ]
     },
@@ -2772,306 +2128,6 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_1.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_10.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_100.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_101.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_102.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_103.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_104.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_105.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_106.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_107.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_108.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_109.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_11.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_110.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_111.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_112.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_113.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_114.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_115.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_116.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_117.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_118.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_119.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_12.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_120.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_121.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_122.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_123.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_124.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_125.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_126.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_127.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_128.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_129.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_13.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_130.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_131.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_132.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_133.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_134.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_135.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_136.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_137.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_138.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_139.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_14.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_140.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_141.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_142.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_143.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_144.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_145.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_146.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_147.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_148.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_149.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_15.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_150.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_151.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_152.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_153.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_154.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_155.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_156.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_157.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_158.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_159.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_16.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_160.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_161.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_162.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_163.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_164.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_17.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_18.0.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/charms_clipsytopes/chct_19.0.jpg"
             }
         ]
     }
