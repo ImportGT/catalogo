@@ -1,5 +1,142 @@
 const productosAnillos = [
     {
+        "id": "601",
+        "categoria": "Anillos",
+        "precio": 65.0,
+        "imagen": "imagenes/anillos/anillos_601.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_601.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_601.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_601.3.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_601.4.mp4"
+            }
+        ]
+    },
+    {
+        "id": "600",
+        "categoria": "Anillos",
+        "precio": 65.0,
+        "imagen": "imagenes/anillos/anillos_600.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_600.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_600.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_600.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_600.4.webp"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_600.5.mp4"
+            }
+        ]
+    },
+    {
+        "id": "599",
+        "categoria": "Anillos",
+        "precio": 65.0,
+        "imagen": "imagenes/anillos/anillos_599.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_599.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_599.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_599.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_599.4.jpg"
+            }
+        ]
+    },
+    {
+        "id": "598",
+        "categoria": "Anillos",
+        "precio": 65.0,
+        "imagen": "imagenes/anillos/anillos_598.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_598.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_598.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_598.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_598.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_598.5.jpg"
+            }
+        ]
+    },
+    {
+        "id": "597",
+        "categoria": "Anillos",
+        "precio": 65.0,
+        "imagen": "imagenes/anillos/anillos_597.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_597.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_597.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_597.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_597.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_597.5.webp"
+            }
+        ]
+    },
+    {
         "id": "596",
         "categoria": "Anillos",
         "precio": 75.0,

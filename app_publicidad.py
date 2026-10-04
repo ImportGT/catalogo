@@ -162,6 +162,15 @@ class AppGeneradorPublicidad:
             except Exception:
                 continue
 
+            # Determinamos el prefijo correspondiente según la carpeta de imágenes
+            prefijo_asociado = ""
+            if "dijes_tous" in carpeta_imagenes:
+                prefijo_asociado = "dijes_tous"
+            elif "anillos_tous" in carpeta_imagenes:
+                prefijo_asociado = "anillos_tous"
+            # O podemos deducirlo del nombre de la carpeta base o asignarlo según la tarea
+            # (En el bucle de archivos evaluamos de forma flexible)
+
             for _, row in df.iterrows():
                 raw_id = None
                 for col_id in ['NUMERO', 'NUM.', 'CODIGO', 'CÓDIGO']:
@@ -201,7 +210,18 @@ class AppGeneradorPublicidad:
                         if ext in [e.replace('.', '') for e in extensiones_validas]:
                             nombre_base = os.path.splitext(archivo_dir)[0]
                             numeros_extra = re.findall(r'\d+', nombre_base)
-                            if numeros_extra and numeros_extra[0].lower() == str(prod_id).lower():
+                            
+                            es_match = False
+                            if "dijes_tous" in carpeta_imagenes:
+                                id_limpio = re.sub(r'[\s\-]+', '', str(prod_id)).lower()
+                                archivo_limpio = re.sub(r'[\s_\-]+', '', nombre_base).lower()
+                                if id_limpio in archivo_limpio and archivo_limpio.startswith("dijestous"):
+                                    es_match = True
+                            else:
+                                if numeros_extra and numeros_extra[0].lower() == str(prod_id).lower():
+                                    es_match = True
+
+                            if es_match:
                                 full_p = os.path.join(carpeta_imagenes, archivo_dir)
                                 if full_p not in galeria_completa:
                                     galeria_completa.append(full_p)

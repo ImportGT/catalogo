@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import glob
 import pandas as pd
@@ -10,23 +11,41 @@ from openpyxl import Workbook
 from openpyxl.drawing.image import Image as OpenpyxlImage
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 
-# Diccionario completo con todas las líneas de Pandora y sus rutas exactas
-CONFIGURACION_LINEAS = {
-    "Anillos Pandora": {"excel": "ANILLOS.xlsx", "carpeta": "imagenes/anillos", "prefijo": "anillos", "header": 0},
-    "Aretes Pandora": {"excel": "ARETES.xlsx", "carpeta": "imagenes/aretes", "prefijo": "aretes", "header": 0},
-    "Collares Pandora": {"excel": "COLLARES.xlsx", "carpeta": "imagenes/collares", "prefijo": "collares", "header": 0},
-    "Pulseras Pandora": {"excel": "PULSERAS.xlsx", "carpeta": "imagenes/pulseras", "prefijo": "pulseras", "header": 0},
-    "Charms Beads Pandora": {"excel": "CHARMS BEADS.xlsx", "carpeta": "imagenes/charms_beads", "prefijo": "chb", "header": 0},
-    "Charms Colgantes Pandora": {"excel": "CHARMS COLGANTES.xlsx", "carpeta": "imagenes/charms_colgantes", "prefijo": "chc", "header": 0, "separador": "."},
-    "Charms Beads Disney Pandora": {"excel": "CHARMS BEADS DISNEY.xlsx", "carpeta": "imagenes/charms_beads_disney", "prefijo": "chbd", "header": 0},
-    "Charms Colgantes Disney Pandora": {"excel": "CHARMS COLGANTES DISNEY.xlsx", "carpeta": "imagenes/charms_colgantes_disney", "prefijo": "chcd", "header": 0},
-    "Charms Cadenas de Seguridad Pandora": {"excel": "CHARMS CADENAS DE SEGURIDAD.xlsx", "carpeta": "imagenes/charms_cadenasseguridad", "prefijo": "chcsd", "header": 0},
-    "Charms Muranos Pandora": {"excel": "CHARMS MURANOS.xlsx", "carpeta": "imagenes/charms_muranos", "prefijo": "chm", "header": 0},
-    "Charms Clips y Topes Pandora": {"excel": "CHARMS CLIPS Y TOPES.xlsx", "carpeta": "imagenes/charms_clipsytopes", "prefijo": "chct", "header": 0},
-    "Charms Locket Pandora": {"excel": "CHARMS LOCKET.xlsx", "carpeta": "imagenes/charms_lockets", "prefijo": "chl", "header": 0},
-    "Charms Reflexion Pandora": {"excel": "CHARMS REFLEXION.xlsx", "carpeta": "imagenes/charms_reflexion", "prefijo": "chr", "header": 0},
-    "Charms ME Pandora": {"excel": "CHARMS ME.xlsx", "carpeta": "imagenes/charms_me", "prefijo": "chme", "header": 0},
-    "Charms Accesorios ME Pandora": {"excel": "CHARMS ACCESORIOS ME.xlsx", "carpeta": "imagenes/charms_accesoriosme", "prefijo": "chamE", "header": 0}
+# Diccionario agrupado por Colección
+COLECCIONES_LINEAS = {
+    "Pandora": {
+        "Anillos Pandora": {"excel": "ANILLOS.xlsx", "carpeta": "imagenes/anillos", "prefijo": "anillos", "header": 0},
+        "Aretes Pandora": {"excel": "ARETES.xlsx", "carpeta": "imagenes/aretes", "prefijo": "aretes", "header": 0},
+        "Collares Pandora": {"excel": "COLLARES.xlsx", "carpeta": "imagenes/collares", "prefijo": "collares", "header": 0},
+        "Pulseras Pandora": {"excel": "PULSERAS.xlsx", "carpeta": "imagenes/pulseras", "prefijo": "pulseras", "header": 0},
+        "Charms Beads Pandora": {"excel": "CHARMS BEADS.xlsx", "carpeta": "imagenes/charms_beads", "prefijo": "chb", "header": 0},
+        "Charms Colgantes Pandora": {"excel": "CHARMS COLGANTES.xlsx", "carpeta": "imagenes/charms_colgantes", "prefijo": "chc", "header": 0, "separador": "."},
+        "Charms Beads Disney Pandora": {"excel": "CHARMS BEADS DISNEY.xlsx", "carpeta": "imagenes/charms_beads_disney", "prefijo": "chbd", "header": 0},
+        "Charms Colgantes Disney Pandora": {"excel": "CHARMS COLGANTES DISNEY.xlsx", "carpeta": "imagenes/charms_colgantes_disney", "prefijo": "chcd", "header": 0},
+        "Charms Cadenas de Seguridad Pandora": {"excel": "CHARMS CADENAS DE SEGURIDAD.xlsx", "carpeta": "imagenes/charms_cadenasseguridad", "prefijo": "chcsd", "header": 0},
+        "Charms Muranos Pandora": {"excel": "CHARMS MURANOS.xlsx", "carpeta": "imagenes/charms_muranos", "prefijo": "chm", "header": 0},
+        "Charms Clips y Topes Pandora": {"excel": "CHARMS CLIPS Y TOPES.xlsx", "carpeta": "imagenes/charms_clipsytopes", "prefijo": "chct", "header": 0},
+        "Charms Locket Pandora": {"excel": "CHARMS LOCKET.xlsx", "carpeta": "imagenes/charms_lockets", "prefijo": "chl", "header": 0},
+        "Charms Reflexion Pandora": {"excel": "CHARMS REFLEXION.xlsx", "carpeta": "imagenes/charms_reflexion", "prefijo": "chr", "header": 0},
+        "Charms ME Pandora": {"excel": "CHARMS ME.xlsx", "carpeta": "imagenes/charms_me", "prefijo": "chme", "header": 0},
+        "Charms Accesorios ME Pandora": {"excel": "CHARMS ACCESORIOS ME.xlsx", "carpeta": "imagenes/charms_accesoriosme", "prefijo": "chamE", "header": 0}
+    },
+    "Swarovski": {
+        "Anillos Swarovski": {"excel": "ANILLOS SWA.xlsx", "carpeta": "imagenes/SWA/anillos_swa", "prefijo": "anillos_swa", "header": 2},
+        "Aretes Swarovski": {"excel": "ARETES SWA.xlsx", "carpeta": "imagenes/SWA/aretesswa", "prefijo": "aretes_swa", "header": 3},
+        "Pulseras Swarovski": {"excel": "PULSERAS SWA.xlsx", "carpeta": "imagenes/SWA/pulseras_swa", "prefijo": "pulseras_swa", "header": 2},
+        "Collares Swarovski": {"excel": "COLLARES SWA.xlsx", "carpeta": "imagenes/SWA/collares_swa", "prefijo": "collares_swa", "header": 2}
+    },
+    "Baño de Plata": {
+        "Anillos Baño de Plata": {"excel": "ANILLOS BP.xlsx", "carpeta": "imagenes/BP/anillosbp", "prefijo": "anillosbp", "header": 2},
+        "Aretes Baño de Plata": {"excel": "ARETES BP.xlsx", "carpeta": "imagenes/BP/aretessbp", "prefijo": "aretessbp", "header": 3},
+        "Cadenas Baño de Plata": {"excel": "CADENAS BP.xlsx", "carpeta": "imagenes/BP/cadenasbp", "prefijo": "cadenasbp", "header": 2},
+        "Pulseras Baño de Plata": {"excel": "PULSERAS BP.xlsx", "carpeta": "imagenes/BP/pulserasbp", "prefijo": "pulserasbp", "header": 2}
+    },
+    "Tous": {
+        "Anillos Tous": {"excel": "ANILLOS TOUS.xlsx", "carpeta": "imagenes/TOUS/anillos_tous", "prefijo": "anillos_tous", "header": 2},
+        "Dijes Tous": {"excel": "DIJES TOUS.xlsx", "carpeta": "imagenes/TOUS/dijes_tous", "prefijo": "dijes_tous", "header": 2}
+    }
 }
 
 CARPETA_GUARDADOS = "pedidos_guardados"
@@ -40,6 +59,7 @@ class AppGestorPedidos:
 
         self.items_pedido = []
         self.imagenes_referencias = []
+        self.zoom_window = None  # Referencia para la ventana flotante de zoom
         self.nombre_archivo_actual = None
 
         if not os.path.exists(CARPETA_GUARDADOS):
@@ -108,35 +128,43 @@ class AppGestorPedidos:
         self.entry_anticipo.grid(row=0, column=5, padx=2, sticky="w")
         self.entry_anticipo.bind("<KeyRelease>", lambda e: self.actualizar_totales_pantalla())
 
-        # --- SECCIÓN MEDIA: ENTRADA DE PRODUCTOS ---
+        # --- SECCIÓN MEDIA: ENTRADA DE PRODUCTOS (SELECCIÓN JERÁRQUICA) ---
         frame_mid = tk.LabelFrame(left_frame, text=" Agregar Producto ", font=("Helvetica", 10, "bold"), bg="#f4f6f9", fg="#1F4E79", padx=10, pady=8)
         frame_mid.pack(fill="x", padx=5, pady=5)
 
-        tk.Label(frame_mid, text="Categoría / Línea:", bg="#f4f6f9", font=("Helvetica", 9)).grid(row=0, column=0, sticky="w", padx=2)
-        self.combo_linea = ttk.Combobox(frame_mid, values=list(CONFIGURACION_LINEAS.keys()), width=28, state="readonly", font=("Helvetica", 9))
-        self.combo_linea.grid(row=0, column=1, padx=2, sticky="w")
-        if CONFIGURACION_LINEAS:
-            self.combo_linea.current(0)
+        # 1. Selector de Colección
+        tk.Label(frame_mid, text="Colección:", bg="#f4f6f9", font=("Helvetica", 9, "bold")).grid(row=0, column=0, sticky="w", padx=2, pady=2)
+        self.combo_coleccion = ttk.Combobox(frame_mid, values=list(COLECCIONES_LINEAS.keys()), width=24, state="readonly", font=("Helvetica", 9))
+        self.combo_coleccion.grid(row=0, column=1, padx=2, sticky="w", pady=2)
+        self.combo_coleccion.current(0)
+        self.combo_coleccion.bind("<<ComboboxSelected>>", self.actualizar_lineas_por_coleccion)
+
+        # 2. Selector de Línea / Categoría dependiente
+        tk.Label(frame_mid, text="Línea / Categoría:", bg="#f4f6f9", font=("Helvetica", 9)).grid(row=1, column=0, sticky="w", padx=2, pady=2)
+        self.combo_linea = ttk.Combobox(frame_mid, width=24, state="readonly", font=("Helvetica", 9))
+        self.combo_linea.grid(row=1, column=1, padx=2, sticky="w", pady=2)
 
         tk.Label(frame_mid, text="Código:", bg="#f4f6f9", font=("Helvetica", 9)).grid(row=0, column=2, sticky="w", padx=5)
         self.entry_codigo = tk.Entry(frame_mid, width=8, font=("Helvetica", 10))
         self.entry_codigo.grid(row=0, column=3, padx=2, sticky="w")
 
-        tk.Label(frame_mid, text="Talla:", bg="#f4f6f9", font=("Helvetica", 9)).grid(row=1, column=0, sticky="w", padx=2, pady=6)
-        self.entry_talla = tk.Entry(frame_mid, width=12, font=("Helvetica", 10))
+        tk.Label(frame_mid, text="Talla:", bg="#f4f6f9", font=("Helvetica", 9)).grid(row=1, column=2, sticky="w", padx=5, pady=6)
+        self.entry_talla = tk.Entry(frame_mid, width=8, font=("Helvetica", 10))
         self.entry_talla.insert(0, "única")
-        self.entry_talla.grid(row=1, column=1, padx=2, sticky="w", pady=6)
+        self.entry_talla.grid(row=1, column=3, padx=2, sticky="w", pady=6)
 
-        tk.Label(frame_mid, text="Cant:", bg="#f4f6f9", font=("Helvetica", 9)).grid(row=1, column=2, sticky="w", padx=5, pady=6)
+        tk.Label(frame_mid, text="Cant:", bg="#f4f6f9", font=("Helvetica", 9)).grid(row=2, column=0, sticky="w", padx=2, pady=2)
         self.entry_qty = tk.Entry(frame_mid, width=6, font=("Helvetica", 10))
         self.entry_qty.insert(0, "1")
-        self.entry_qty.grid(row=1, column=3, padx=2, sticky="w", pady=6)
+        self.entry_qty.grid(row=2, column=1, padx=2, sticky="w", pady=2)
 
         btn_agregar = tk.Button(frame_mid, text="Agregar", bg="#1F4E79", fg="white", font=("Helvetica", 9, "bold"), padx=10, command=self.agregar_producto)
-        btn_agregar.grid(row=0, column=4, rowspan=2, padx=10, sticky="nsew")
+        btn_agregar.grid(row=0, column=4, rowspan=3, padx=10, sticky="nsew")
+
+        self.actualizar_lineas_por_coleccion(None)
 
         # --- SECCIÓN LISTA ENLISTADA CON MINIATURAS ---
-        frame_lista_container = tk.LabelFrame(left_frame, text=" Productos en el Pedido Actual ", font=("Helvetica", 10, "bold"), bg="#f4f6f9", fg="#1F4E79", padx=5, pady=5)
+        frame_lista_container = tk.LabelFrame(left_frame, text=" Productos en el Pedido Actual (Pase el cursor sobre la imagen para ampliar) ", font=("Helvetica", 10, "bold"), bg="#f4f6f9", fg="#1F4E79", padx=5, pady=5)
         frame_lista_container.pack(fill="both", expand=True, padx=5, pady=5)
 
         self.canvas = tk.Canvas(frame_lista_container, bg="white", highlightthickness=0)
@@ -172,32 +200,85 @@ class AppGestorPedidos:
         btn_inventario = tk.Button(frame_bottom_panel, text="Reporte Inv.", bg="#595959", fg="white", font=("Helvetica", 9, "bold"), padx=6, pady=4, command=self.generar_reporte_inventario)
         btn_inventario.pack(side="right", padx=2)
 
+    def mostrar_zoom_imagen(self, ruta_imagen, info_producto):
+        """Muestra una ventana flotante con la imagen ampliada del producto"""
+        if not ruta_imagen or not os.path.exists(ruta_imagen):
+            return
+
+        if self.zoom_window and self.zoom_window.winfo_exists():
+            self.zoom_window.destroy()
+
+        self.zoom_window = tk.Toplevel(self.root)
+        self.zoom_window.title(f"Vista Ampliada - {info_producto}")
+        self.zoom_window.geometry("420x450")
+        self.zoom_window.config(bg="white")
+        self.zoom_window.grab_release() # Permite seguir interactuando con la ventana principal
+
+        try:
+            img_pil = Image.open(ruta_imagen)
+            # Redimensionar manteniendo buena resolución para la ventana flotante (ej. 350x350)
+            img_pil.thumbnail((380, 380), Image.Resampling.LANCZOS)
+            img_tk = ImageTk.PhotoImage(img_pil)
+            
+            # Guardamos referencia para que el recolector de basura de python no la elimine
+            self.zoom_window.img_ref = img_tk
+
+            lbl_titulo = tk.Label(self.zoom_window, text=info_producto, font=("Helvetica", 10, "bold"), bg="white", fg="#1F4E79", pady=5)
+            lbl_titulo.pack(side="top")
+
+            lbl_img_zoom = tk.Label(self.zoom_window, image=img_tk, bg="white")
+            lbl_img_zoom.pack(side="top", expand=True, fill="both", padx=10, pady=5)
+
+            lbl_instruccion = tk.Label(self.zoom_window, text="Mueva el cursor fuera de la miniatura para continuar", font=("Helvetica", 8, "italic"), bg="white", fg="gray")
+            lbl_instruccion.pack(side="bottom", pady=5)
+        except Exception as e:
+            print(f"Error al mostrar zoom: {e}")
+
+    def ocultar_zoom_imagen(self, event):
+        """Cierra la ventana flotante de zoom cuando el cursor sale de la imagen"""
+        if self.zoom_window and self.zoom_window.winfo_exists():
+            self.zoom_window.destroy()
+            self.zoom_window = None
+
+    def actualizar_lineas_por_coleccion(self, event):
+        col_seleccionada = self.combo_coleccion.get()
+        if col_seleccionada in COLECCIONES_LINEAS:
+            lineas_disponibles = list(COLECCIONES_LINEAS[col_seleccionada].keys())
+            self.combo_linea['values'] = lineas_disponibles
+            if lineas_disponibles:
+                self.combo_linea.current(0)
+
+    def obtener_configuracion_linea(self, nombre_linea):
+        for col_name, lineas in COLECCIONES_LINEAS.items():
+            if nombre_linea in lineas:
+                return lineas[nombre_linea]
+        return None
+
     def cargar_datos_inventario_pantalla(self):
         for row in self.tree_inventario.get_children():
             self.tree_inventario.delete(row)
 
-        for nombre_linea, cfg in CONFIGURACION_LINEAS.items():
-            total_stock = 0.0
-            if os.path.exists(cfg["excel"]):
-                try:
-                    df = pd.read_excel(cfg["excel"], header=cfg["header"])
-                    df.columns = [str(c).strip().upper() for c in df.columns]
-                    
-                    # Buscar todas las columnas que contengan la palabra "STOCK" (ej. STOCK 7, STOCK 8, etc.)
-                    columnas_stock = [c for c in df.columns if "STOCK" in c]
-                    
-                    if columnas_stock:
-                        for col in columnas_stock:
-                            for val in df[col]:
-                                if not pd.isna(val):
-                                    try:
-                                        total_stock += float(val)
-                                    except (ValueError, TypeError):
-                                        pass
-                except Exception:
-                    pass
-            
-            self.tree_inventario.insert("", "end", values=(nombre_linea, f"{total_stock:.0f}"))
+        for col_name, lineas in COLECCIONES_LINEAS.items():
+            for nombre_linea, cfg in lineas.items():
+                total_stock = 0.0
+                if os.path.exists(cfg["excel"]):
+                    try:
+                        df = pd.read_excel(cfg["excel"], header=cfg["header"])
+                        df.columns = [str(c).strip().upper() for c in df.columns]
+                        
+                        columnas_stock = [c for c in df.columns if "STOCK" in c]
+                        if columnas_stock:
+                            for col in columnas_stock:
+                                for val in df[col]:
+                                    if not pd.isna(val):
+                                        try:
+                                            total_stock += float(val)
+                                        except (ValueError, TypeError):
+                                            pass
+                    except Exception:
+                        pass
+                
+                self.tree_inventario.insert("", "end", values=(nombre_linea, f"{total_stock:.0f}"))
 
     def actualizar_combo_guardados(self):
         if os.path.exists(CARPETA_GUARDADOS):
@@ -292,8 +373,8 @@ class AppGestorPedidos:
             messagebox.showerror("Error", f"No se pudo cargar el archivo: {e}")
 
     def buscar_en_excel(self, nombre_linea, prod_id):
-        cfg = CONFIGURACION_LINEAS[nombre_linea]
-        if not os.path.exists(cfg["excel"]):
+        cfg = self.obtener_configuracion_linea(nombre_linea)
+        if not cfg or not os.path.exists(cfg["excel"]):
             return 0.0, "", 0.0
 
         try:
@@ -313,11 +394,12 @@ class AppGestorPedidos:
                 raw_id = row.iloc[0]
 
             try:
-                current_id = int(float(raw_id))
+                val_float = float(raw_id)
+                current_id_str = str(int(val_float)) if val_float.is_integer() else str(raw_id).strip()
             except (ValueError, TypeError):
-                continue
+                current_id_str = str(raw_id).strip()
 
-            if current_id == int(prod_id):
+            if current_id_str.lower() == str(prod_id).lower():
                 precio_base = 0.0
                 for col_p in ['PRECIO', 'VENTA MAYORISTA', 'PRECIO MAYORISTA', 'PRECIO DOBLE']:
                     matches_p = [c for c in df.columns if c == col_p]
@@ -328,7 +410,6 @@ class AppGestorPedidos:
                         except (ValueError, TypeError):
                             pass
 
-                # Sumar el stock de todas las columnas que contengan "STOCK" para este producto específico
                 stock_disponible = 0.0
                 columnas_stock = [c for c in df.columns if "STOCK" in c]
                 for col in columnas_stock:
@@ -339,21 +420,29 @@ class AppGestorPedidos:
                             pass
 
                 carpeta = cfg["carpeta"]
-                prefijo = cfg["prefijo"]
-                separador = cfg.get("separador", "_")
-                
-                extensiones = ['.jpg', '.jpeg', '.avif', '.webp', '.png']
-                patrones_sufijos = ['', '.1', '.0', '_1', '_0']
-                
+                extensiones_validas = ['.jpg', '.jpeg', '.png', '.webp', '.avif', '.bmp', '.gif', '.tiff']
                 imagen_path = ""
-                for suf in patrones_sufijos:
-                    for ext in extensiones:
-                        prueba_ruta = f"{carpeta}/{prefijo}{separador}{prod_id}{suf}{ext}"
-                        if os.path.exists(prueba_ruta):
-                            imagen_path = prueba_ruta
-                            break
-                    if imagen_path:
-                        break
+
+                if os.path.exists(carpeta):
+                    for archivo_dir in os.listdir(carpeta):
+                        ext = archivo_dir.split('.')[-1].lower()
+                        if ext in [e.replace('.', '') for e in extensiones_validas]:
+                            nombre_base = os.path.splitext(archivo_dir)[0]
+                            numeros_extra = re.findall(r'\d+', nombre_base)
+                            
+                            es_match = False
+                            if "dijes_tous" in carpeta:
+                                id_limpio = re.sub(r'[\s\-]+', '', str(prod_id)).lower()
+                                archivo_limpio = re.sub(r'[\s_\-]+', '', nombre_base).lower()
+                                if id_limpio in archivo_limpio and archivo_limpio.startswith("dijestous"):
+                                    es_match = True
+                            else:
+                                if numeros_extra and numeros_extra[0].lower() == str(prod_id).lower():
+                                    es_match = True
+
+                            if es_match:
+                                imagen_path = os.path.join(carpeta, archivo_dir)
+                                break
 
                 return precio_base, imagen_path, stock_disponible
 
@@ -365,15 +454,19 @@ class AppGestorPedidos:
         talla = self.entry_talla.get().strip() or "única"
         qty_str = self.entry_qty.get().strip()
 
+        if not linea:
+            messagebox.showerror("Error", "Selecciona una línea o categoría válida.")
+            return
+
         if not codigo_str:
             messagebox.showerror("Error", "Debes ingresar un código de producto.")
             return
 
         try:
-            prod_id = int(codigo_str)
+            prod_id = codigo_str
             qty = int(qty_str)
         except ValueError:
-            messagebox.showerror("Error", "El código y la cantidad deben ser números enteros.")
+            messagebox.showerror("Error", "La cantidad debe ser un número entero.")
             return
 
         precio_base, imagen_encontrada, stock_disponible = self.buscar_en_excel(linea, prod_id)
@@ -412,14 +505,20 @@ class AppGestorPedidos:
             card = tk.Frame(self.scrollable_frame, bg="#ffffff", bd=1, relief="solid", padx=4, pady=4)
             card.pack(fill="x", padx=4, pady=3)
 
-            lbl_img = tk.Label(card, bg="#f0f0f0", width=40, height=40)
+            lbl_img = tk.Label(card, bg="#f0f0f0", width=42, height=42, cursor="hand2")
             if item["imagen"] and os.path.exists(item["imagen"]):
                 try:
                     img_pil = Image.open(item["imagen"])
-                    img_pil = img_pil.resize((35, 35), Image.Resampling.LANCZOS)
+                    img_pil = img_pil.resize((38, 38), Image.Resampling.LANCZOS)
                     img_tk = ImageTk.PhotoImage(img_pil)
                     self.imagenes_referencias.append(img_tk)
                     lbl_img.config(image=img_tk, text="")
+                    
+                    # Eventos para mostrar y ocultar la ventana ampliada de la imagen
+                    info_zoom_str = f"Cód: {item['id']} - {item['categoria']} (Talla: {item['talla']})"
+                    lbl_img.bind("<Enter>", lambda e, path=item["imagen"], desc=info_zoom_str: self.mostrar_zoom_imagen(path, desc))
+                    lbl_img.bind("<Leave>", self.ocultar_zoom_imagen)
+                    lbl_img.bind("<Button-1>", lambda e, path=item["imagen"], desc=info_zoom_str: self.mostrar_zoom_imagen(path, desc))
                 except Exception:
                     lbl_img.config(text="[Sin img]")
             else:
@@ -500,43 +599,44 @@ class AppGestorPedidos:
             start_row = 5
             row_idx = start_row
 
-            for nombre_linea, cfg in CONFIGURACION_LINEAS.items():
-                total_refs = 0
-                total_stock = 0.0
+            for col_name, lineas in COLECCIONES_LINEAS.items():
+                for nombre_linea, cfg in lineas.items():
+                    total_refs = 0
+                    total_stock = 0.0
 
-                if os.path.exists(cfg["excel"]):
-                    try:
-                        df = pd.read_excel(cfg["excel"], header=cfg["header"])
-                        df.columns = [str(c).strip().upper() for c in df.columns]
-                        total_refs = len(df)
+                    if os.path.exists(cfg["excel"]):
+                        try:
+                            df = pd.read_excel(cfg["excel"], header=cfg["header"])
+                            df.columns = [str(c).strip().upper() for c in df.columns]
+                            total_refs = len(df)
 
-                        columnas_stock = [c for c in df.columns if "STOCK" in c]
-                        for col in columnas_stock:
-                            for val in df[col]:
-                                if not pd.isna(val):
-                                    try:
-                                        total_stock += float(val)
-                                    except (ValueError, TypeError):
-                                        pass
-                    except Exception:
-                        pass
+                            columnas_stock = [c for c in df.columns if "STOCK" in c]
+                            for col in columnas_stock:
+                                for val in df[col]:
+                                    if not pd.isna(val):
+                                        try:
+                                            total_stock += float(val)
+                                        except (ValueError, TypeError):
+                                            pass
+                        except Exception:
+                            pass
 
-                ws.row_dimensions[row_idx].height = 20
-                c1 = ws.cell(row=row_idx, column=1, value=nombre_linea)
-                c2 = ws.cell(row=row_idx, column=2, value=total_refs)
-                c3 = ws.cell(row=row_idx, column=3, value=total_stock)
-                c4 = ws.cell(row=row_idx, column=4, value=f'=IF(C{row_idx}<5, "REVISAR / PEDIR", "OK")')
+                    ws.row_dimensions[row_idx].height = 20
+                    c1 = ws.cell(row=row_idx, column=1, value=nombre_linea)
+                    c2 = ws.cell(row=row_idx, column=2, value=total_refs)
+                    c3 = ws.cell(row=row_idx, column=3, value=total_stock)
+                    c4 = ws.cell(row=row_idx, column=4, value=f'=IF(C{row_idx}<5, "REVISAR / PEDIR", "OK")')
 
-                c1.alignment = align_left
-                c2.alignment = align_center
-                c3.alignment = align_center
-                c4.alignment = align_center
+                    c1.alignment = align_left
+                    c2.alignment = align_center
+                    c3.alignment = align_center
+                    c4.alignment = align_center
 
-                for c in [c1, c2, c3, c4]:
-                    c.border = thin_border
-                    c.font = Font(name="Calibri", size=10)
+                    for c in [c1, c2, c3, c4]:
+                        c.border = thin_border
+                        c.font = Font(name="Calibri", size=10)
 
-                row_idx += 1
+                    row_idx += 1
 
             ws.column_dimensions['A'].width = 35
             ws.column_dimensions['B'].width = 20

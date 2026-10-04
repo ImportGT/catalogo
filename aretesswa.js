@@ -1,5 +1,137 @@
 const productosAretesSwa = [
     {
+        "id": "60",
+        "categoria": "Aretes Swarovski",
+        "precio": 120.0,
+        "imagen": "imagenes/SWA/aretes_swa/aretes_swa_60.avif",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_60.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_60.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_60.3.avif"
+            }
+        ]
+    },
+    {
+        "id": "59",
+        "categoria": "Aretes Swarovski",
+        "precio": 190.0,
+        "imagen": "imagenes/SWA/aretes_swa/aretes_swa_59.avif",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_59.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_59.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_59.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_59.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_59.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_59.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_59.7.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_59.8.webm"
+            }
+        ]
+    },
+    {
+        "id": "58",
+        "categoria": "Aretes Swarovski",
+        "precio": 145.0,
+        "imagen": "imagenes/SWA/aretes_swa/aretes_swa_58.avif",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_58.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_58.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_58.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_58.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_58.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_58.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_58.7.webm"
+            }
+        ]
+    },
+    {
+        "id": "57",
+        "categoria": "Aretes Swarovski",
+        "precio": 120.0,
+        "imagen": "imagenes/SWA/aretes_swa/aretes_swa_57.avif",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_57.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_57.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_57.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_57.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_57.5.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_57.6.webm"
+            }
+        ]
+    },
+    {
         "id": "56",
         "categoria": "Aretes Swarovski",
         "precio": 180.0,

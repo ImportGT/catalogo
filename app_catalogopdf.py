@@ -350,7 +350,18 @@ class AppGeneradorCatalogoPDF:
                         if ext in [e.replace('.', '') for e in extensiones_validas]:
                             nombre_base = os.path.splitext(archivo_dir)[0]
                             numeros_extra = re.findall(r'\d+', nombre_base)
-                            if numeros_extra and numeros_extra[0].lower() == str(prod_id).lower():
+                            
+                            es_match = False
+                            if "dijes_tous" in carpeta_imagenes:
+                                id_limpio = re.sub(r'[\s\-]+', '', str(prod_id)).lower()
+                                archivo_limpio = re.sub(r'[\s_\-]+', '', nombre_base).lower()
+                                if id_limpio in archivo_limpio and archivo_limpio.startswith("dijestous"):
+                                    es_match = True
+                            else:
+                                if numeros_extra and numeros_extra[0].lower() == str(prod_id).lower():
+                                    es_match = True
+
+                            if es_match:
                                 archivos_encontrados.append(os.path.join(carpeta_imagenes, archivo_dir))
                     
                     if archivos_encontrados:

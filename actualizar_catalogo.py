@@ -307,10 +307,25 @@ def actualizar_todo():
                         nombre_base = os.path.splitext(archivo)[0]
                         numeros_extra = re.findall(r'\d+', nombre_base)
                         
-                        # VERIFICACIÓN ESTRICTA: El primer número extraído del archivo debe coincidir 
-                        # exactamente con el código del producto (prod_id). Esto evita que "15" haga match 
-                        # con "150" o que "3" haga match con "30".
-                        if numeros_extra and numeros_extra[0].lower() == str(prod_id).lower():
+                        es_match = False
+                        
+                        # --- REGLA ESPECIAL Y SEGURA PARA DIJES TOUS ---
+                        if prefijo == "dijes_tous":
+                            # El prod_id en dijes tous es ej. "6 - 11MM". Normalizamos quitando espacios/letras para comparar con el archivo (ej. dijes_tous_6-11mm)
+                            id_limpio = re.sub(r'[\s\-]+', '', str(prod_id)).lower() # ej: "611mm" o "611"
+                            archivo_limpio = re.sub(r'[\s_\-]+', '', nombre_base).lower() # ej: "dijestous611mm0"
+                            
+                            # Verificamos si el archivo contiene el prefijo y el ID exacto con su tamaño
+                            if id_limpio in archivo_limpio and archivo_limpio.startswith(prefijo.replace("_", "")):
+                                es_match = True
+                        else:
+                            # --- VALIDACIÓN ESTÁNDAR PARA EL RESTO DE COLECCIONES ---
+                            # Evita por completo el problema del 15 y 150 (verificación numérica exacta)
+                            if numeros_extra and numeros_extra[0].lower() == str(prod_id).lower():
+                                es_match = True
+
+                        if es_match:
+                            # Extraer números de orden de la galería (ej: .0, .2, etc.)
                             tupla_orden = tuple([int(n) for n in numeros_extra[1:]]) if len(numeros_extra) > 1 else (0,)
                             
                             tipo_media = "video" if ext in ('mp4', 'mov', 'webm') else "imagen"

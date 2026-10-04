@@ -1,0 +1,39 @@
+{
+    "cliente": "Grecia Rodriguez Reposiciones",
+    "margen": "0",
+    "anticipo": "0.00",
+    "items": [
+        {
+            "id": "77",
+            "categoria": "Charms Locket Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 75.0,
+            "imagen": "imagenes/charms_lockets\\chl_77.0.jpg"
+        },
+        {
+            "id": "226",
+            "categoria": "Pulseras Pandora",
+            "talla": "17",
+            "qty": 1,
+            "precio_base": 150.0,
+            "imagen": "imagenes/pulseras\\pulseras_226.0.jpg"
+        },
+        {
+            "id": "512",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 60.0,
+            "imagen": "imagenes/aretes\\aretes_512.jpg"
+        },
+        {
+            "id": "103",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "imagen": "imagenes/aretes\\aretes_103.jpg"
+        }
+    ]
+}

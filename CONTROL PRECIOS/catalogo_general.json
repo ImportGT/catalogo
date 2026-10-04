@@ -1,0 +1,89 @@
+[
+    {
+        "num": 501,
+        "tipo": "Collares",
+        "nombre": "Collares #501",
+        "precio_usd": 3.84,
+        "peso_g": 10.0,
+        "costo_unit_gtq": 45.83831604335969,
+        "precio_venta_gtq": 150.0,
+        "imagen": "C:\\Users\\Usuario\\Desktop\\COTIZADOR\\cache_imagenes\\6bb60fbc6632c6fac90c6760f072c57f.png",
+        "precio_sugerido_gtq": 105.0,
+        "precio_final_gtq": 150.0,
+        "tienda": "Pandora",
+        "linea": "Pandora",
+        "tienda_mas_barata": "YIN/HONGLAIN",
+        "tienda_origen": "YIN/HONGLAIN",
+        "enlaces": [
+            {
+                "nombre_tienda": "YIN/HONGLAIN",
+                "precio_usd": 3.84,
+                "url": "https://detail.1688.com/offer/1046174443206.html"
+            }
+        ],
+        "link_compra": "https://detail.1688.com/offer/1046174443206.html"
+    },
+    {
+        "num": 554,
+        "tipo": "Anillos",
+        "nombre": "Anillos #554",
+        "precio_usd": 1.48,
+        "peso_g": 10.0,
+        "costo_unit_gtq": 24.983537021556508,
+        "precio_venta_gtq": 65.0,
+        "imagen": "C:\\Users\\Usuario\\Desktop\\COTIZADOR\\cache_imagenes\\e008047b96cfd129f845d8532063daef.png",
+        "precio_sugerido_gtq": 60.0,
+        "precio_final_gtq": 65.0,
+        "tienda": "Pandora",
+        "link_compra": "https://www.sugargoo.com/products?productLink=https%253A%252F%252Fdetail.1688.com%252Foffer%252F1046174443206.html%253FkjSource%253Dpc",
+        "tienda_origen": "YIN/HONGLAIN",
+        "enlaces": [
+            {
+                "nombre_tienda": "YIN/HONGLAIN",
+                "precio_usd": 1.48,
+                "url": "https://www.sugargoo.com/products?productLink=https%253A%252F%252Fdetail.1688.com%252Foffer%252F1046174443206.html%253FkjSource%253Dpc"
+            },
+            {
+                "nombre_tienda": "PANDUODUO",
+                "precio_usd": 1.62,
+                "url": "https://www.sugargoo.com/products?productLink=https%253A%252F%252Fdetail.1688.com%252Foffer%252F1043630516233.html%253FkjSource%253Dpc"
+            },
+            {
+                "nombre_tienda": "Friend",
+                "precio_usd": 3.02,
+                "url": ""
+            },
+            {
+                "nombre_tienda": "Ako (Mayorista)",
+                "precio_usd": 1.48,
+                "url": ""
+            }
+        ],
+        "linea": "Pandora",
+        "tienda_mas_barata": "YIN/HONGLAIN"
+    },
+    {
+        "linea": "Pandora",
+        "num": 574,
+        "tipo": "Anillos",
+        "nombre": "Anillos #574",
+        "precio_usd": 3.02,
+        "peso_g": 10.0,
+        "tienda_origen": "Friend",
+        "tienda_mas_barata": "Friend",
+        "enlaces": [
+            {
+                "nombre_tienda": "Friend",
+                "precio_usd": 3.02,
+                "url": ""
+            }
+        ],
+        "costo_unit_gtq": 25.91,
+        "precio_sugerido_gtq": 65.0,
+        "precio_final_gtq": 65.0,
+        "precio_venta_gtq": 65.0,
+        "imagen": "C:\\Users\\Usuario\\Desktop\\COTIZADOR\\cache_imagenes\\936f11df827832c54d3953a0632de9da.png",
+        "tienda": "Pandora",
+        "link_compra": ""
+    }
+]
