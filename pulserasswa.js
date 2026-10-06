@@ -1,6 +1,6 @@
 const productosPulserasSwa = [
     {
-        "id": "39",
+        "id": "39.0",
         "categoria": "Pulseras Swarovski",
         "precio": 160.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_39.avif",
@@ -37,7 +37,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "38",
+        "id": "38.0",
         "categoria": "Pulseras Swarovski",
         "precio": 215.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_38.avif",
@@ -74,7 +74,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "37",
+        "id": "37.0",
         "categoria": "Pulseras Swarovski",
         "precio": 250.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_37.avif",
@@ -107,7 +107,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "36",
+        "id": "36.0",
         "categoria": "Pulseras Swarovski",
         "precio": 345.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_36.avif",
@@ -144,7 +144,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "35",
+        "id": "35.0",
         "categoria": "Pulseras Swarovski",
         "precio": 320.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_35.avif",
@@ -173,7 +173,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "34",
+        "id": "34.0",
         "categoria": "Pulseras Swarovski",
         "precio": 205.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_34.avif",
@@ -210,7 +210,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "33",
+        "id": "33.0",
         "categoria": "Pulseras Swarovski",
         "precio": 200.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_33.avif",
@@ -247,7 +247,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "32",
+        "id": "32.0",
         "categoria": "Pulseras Swarovski",
         "precio": 195.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_32.avif",
@@ -276,7 +276,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "31",
+        "id": "31.0",
         "categoria": "Pulseras Swarovski",
         "precio": 125.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_31.avif",
@@ -305,7 +305,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "30",
+        "id": "30.0",
         "categoria": "Pulseras Swarovski",
         "precio": 150.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_30.avif",
@@ -334,7 +334,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "29",
+        "id": "29.0",
         "categoria": "Pulseras Swarovski",
         "precio": 150.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_29.avif",
@@ -367,7 +367,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "28",
+        "id": "28.0",
         "categoria": "Pulseras Swarovski",
         "precio": 170.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_28.avif",
@@ -396,7 +396,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "27",
+        "id": "27.0",
         "categoria": "Pulseras Swarovski",
         "precio": 145.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_27.avif",
@@ -429,7 +429,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "26",
+        "id": "26.0",
         "categoria": "Pulseras Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_26.avif",
@@ -466,7 +466,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "25",
+        "id": "25.0",
         "categoria": "Pulseras Swarovski",
         "precio": 155.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_25.avif",
@@ -495,7 +495,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "24",
+        "id": "24.0",
         "categoria": "Pulseras Swarovski",
         "precio": 155.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_24.avif",
@@ -532,7 +532,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "23",
+        "id": "23.0",
         "categoria": "Pulseras Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_23.avif",
@@ -565,7 +565,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "23",
+        "id": "23.0",
         "categoria": "Pulseras Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_23.avif",
@@ -598,7 +598,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "22",
+        "id": "22.0",
         "categoria": "Pulseras Swarovski",
         "precio": 200.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_22.avif",
@@ -627,7 +627,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "21",
+        "id": "21.0",
         "categoria": "Pulseras Swarovski",
         "precio": 200.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_21.avif",
@@ -660,7 +660,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "20",
+        "id": "20.0",
         "categoria": "Pulseras Swarovski",
         "precio": 200.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_20.avif",
@@ -693,7 +693,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "19",
+        "id": "19.0",
         "categoria": "Pulseras Swarovski",
         "precio": 155.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_19.jpg",
@@ -718,7 +718,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "18",
+        "id": "18.0",
         "categoria": "Pulseras Swarovski",
         "precio": 170.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_18.avif",
@@ -747,7 +747,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "17",
+        "id": "17.0",
         "categoria": "Pulseras Swarovski",
         "precio": 200.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_17.avif",
@@ -784,7 +784,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "16",
+        "id": "16.0",
         "categoria": "Pulseras Swarovski",
         "precio": 190.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_16.jpg",
@@ -805,7 +805,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "15",
+        "id": "15.0",
         "categoria": "Pulseras Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_15.avif",
@@ -838,7 +838,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "14",
+        "id": "14.0",
         "categoria": "Pulseras Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_14.jpg",
@@ -875,7 +875,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "13",
+        "id": "13.0",
         "categoria": "Pulseras Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_13.avif",
@@ -916,7 +916,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "12",
+        "id": "12.0",
         "categoria": "Pulseras Swarovski",
         "precio": 145.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_12.webp",
@@ -929,7 +929,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "11",
+        "id": "11.0",
         "categoria": "Pulseras Swarovski",
         "precio": 145.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_11.webp",
@@ -950,7 +950,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "10",
+        "id": "10.0",
         "categoria": "Pulseras Swarovski",
         "precio": 130.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_10.jpg",
@@ -963,7 +963,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "9",
+        "id": "9.0",
         "categoria": "Pulseras Swarovski",
         "precio": 120.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_9.jpg",
@@ -976,7 +976,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "8",
+        "id": "8.0",
         "categoria": "Pulseras Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_8.avif",
@@ -1009,7 +1009,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "7",
+        "id": "7.0",
         "categoria": "Pulseras Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_7.avif",
@@ -1042,7 +1042,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "6",
+        "id": "6.0",
         "categoria": "Pulseras Swarovski",
         "precio": 140.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_6.jpg",
@@ -1055,7 +1055,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "5",
+        "id": "5.0",
         "categoria": "Pulseras Swarovski",
         "precio": 140.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_5.jpg",
@@ -1068,7 +1068,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "4",
+        "id": "4.0",
         "categoria": "Pulseras Swarovski",
         "precio": 270.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_4.jpg",
@@ -1081,7 +1081,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "3",
+        "id": "3.0",
         "categoria": "Pulseras Swarovski",
         "precio": 175.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_3.jpg",
@@ -1090,11 +1090,255 @@ const productosPulserasSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/pulseras_swa/pulseras_swa_3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_30.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_31.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_32.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_33.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_34.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_35.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_36.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_37.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_38.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_39.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_30.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_31.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_32.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_33.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_34.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_35.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_36.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_37.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_38.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_39.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_30.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_31.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_32.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_33.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_34.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_35.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_36.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_37.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_38.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_39.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_30.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_31.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_32.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_33.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_34.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_35.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_36.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_37.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_38.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_39.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_30.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_31.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_32.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_33.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_34.5.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_35.5.webm"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_36.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_37.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_38.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_39.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_33.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_34.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_36.6.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_37.6.webm"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_38.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_39.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_33.7.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_34.7.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_36.7.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_38.7.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_39.7.webm"
             }
         ]
     },
     {
-        "id": "2",
+        "id": "2.0",
         "categoria": "Pulseras Swarovski",
         "precio": 230.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_2.jpg",
@@ -1103,11 +1347,247 @@ const productosPulserasSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/pulseras_swa/pulseras_swa_2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_20.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_21.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_22.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_23.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_24.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_25.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_26.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_27.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_28.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_29.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_20.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_21.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_22.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_23.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_24.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_25.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_26.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_27.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_28.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_29.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_20.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_21.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_22.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_23.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_24.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_25.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_26.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_27.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_28.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_29.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_20.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_21.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_22.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_23.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_24.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_25.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_26.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_27.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_28.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_29.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_20.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_21.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_22.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_23.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_24.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_25.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_26.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_27.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_28.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_29.5.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_20.6.webm"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_21.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_23.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_24.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_26.6.webm"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_27.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_29.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_24.7.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_26.7.webm"
             }
         ]
     },
     {
-        "id": "1",
+        "id": "1.0",
         "categoria": "Pulseras Swarovski",
         "precio": 200.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_1.jpg",
@@ -1116,6 +1596,186 @@ const productosPulserasSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/pulseras_swa/pulseras_swa_1.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_10.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_11.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_12.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_13.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_14.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_15.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_16.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_17.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_18.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_19.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_11.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_13.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_14.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_15.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_16.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_17.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_18.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_19.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_11.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_13.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_14.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_15.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_16.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_17.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_18.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_19.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_13.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_14.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_15.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_17.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_18.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_19.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_13.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_14.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_15.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_17.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_18.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_13.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_14.6.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_15.6.webm"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_17.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_13.7.webm"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_14.7.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_17.7.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_13.8.webm"
             }
         ]
     }

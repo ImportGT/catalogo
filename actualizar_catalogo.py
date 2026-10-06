@@ -268,15 +268,21 @@ def actualizar_todo():
                     continue
                 
             raw_id = row[col_id]
+            raw_id_str = str(raw_id).strip()
             
-            try:
-                val_float = float(raw_id)
-                if val_float.is_integer():
-                    prod_id = str(int(val_float))
-                else:
-                    prod_id = str(raw_id).strip()
-            except (ValueError, TypeError):
-                prod_id = str(raw_id).strip()
+            # Texto completo (ej. "70 Ariana Grande x Swarovski") para que se muestre en el catálogo
+            id_completo = raw_id_str
+            
+            # Número base para buscar la imagen (ej. "70")
+            match_id = re.search(r'^(\d+)', raw_id_str)
+            if match_id:
+                prod_id = match_id.group(1)
+            else:
+                try:
+                    val_float = float(raw_id)
+                    prod_id = str(int(val_float)) if val_float.is_integer() else raw_id_str
+                except (ValueError, TypeError):
+                    prod_id = raw_id_str
             
             if not prod_id or prod_id.lower() == 'nan':
                 continue
@@ -308,26 +314,19 @@ def actualizar_todo():
                         numeros_extra = re.findall(r'\d+', nombre_base)
                         
                         es_match = False
-                        
-                        # --- REGLA ESPECIAL Y SEGURA PARA DIJES TOUS ---
                         if prefijo == "dijes_tous":
-                            # El prod_id en dijes tous es ej. "6 - 11MM". Normalizamos quitando espacios/letras para comparar con el archivo (ej. dijes_tous_6-11mm)
-                            id_limpio = re.sub(r'[\s\-]+', '', str(prod_id)).lower() # ej: "611mm" o "611"
-                            archivo_limpio = re.sub(r'[\s_\-]+', '', nombre_base).lower() # ej: "dijestous611mm0"
-                            
-                            # Verificamos si el archivo contiene el prefijo y el ID exacto con su tamaño
+                            id_limpio = re.sub(r'[\s\-]+', '', raw_id_str).lower()
+                            archivo_limpio = re.sub(r'[\s_\-]+', '', nombre_base).lower()
                             if id_limpio in archivo_limpio and archivo_limpio.startswith(prefijo.replace("_", "")):
                                 es_match = True
                         else:
-                            # --- VALIDACIÓN ESTÁNDAR PARA EL RESTO DE COLECCIONES ---
-                            # Evita por completo el problema del 15 y 150 (verificación numérica exacta)
-                            if numeros_extra and numeros_extra[0].lower() == str(prod_id).lower():
+                            if numeros_extra and numeros_extra[0] == prod_id:
+                                es_match = True
+                            elif f"_{prod_id}_" in nombre_base or nombre_base.startswith(f"{prod_id}_") or f"_{prod_id}" in nombre_base:
                                 es_match = True
 
                         if es_match:
-                            # Extraer números de orden de la galería (ej: .0, .2, etc.)
                             tupla_orden = tuple([int(n) for n in numeros_extra[1:]]) if len(numeros_extra) > 1 else (0,)
-                            
                             tipo_media = "video" if ext in ('mp4', 'mov', 'webm') else "imagen"
                             archivos_encontrados.append({
                                 "archivo": archivo,
@@ -349,7 +348,7 @@ def actualizar_todo():
                 imagen_principal = galeria_items[0]["url"]
 
             producto_obj = {
-                "id": prod_id,
+                "id": id_completo,  # Se guarda el texto completo (ej. 70 Ariana Grande x Swarovski)
                 "categoria": cat,
                 "precio": precio,
                 "imagen": imagen_principal,

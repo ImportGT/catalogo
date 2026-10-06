@@ -1,6 +1,6 @@
 const productosCollares = [
     {
-        "id": "401",
+        "id": "401.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_401.jpg",
@@ -29,7 +29,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "400",
+        "id": "400.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_400.jpg",
@@ -50,7 +50,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "399",
+        "id": "399.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_399.jpg",
@@ -83,7 +83,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "398",
+        "id": "398.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_398.jpg",
@@ -116,7 +116,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "397",
+        "id": "397.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_397.png",
@@ -129,7 +129,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "396",
+        "id": "396.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_396.jpg",
@@ -162,7 +162,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "395",
+        "id": "395.0",
         "categoria": "Collares",
         "precio": 120.0,
         "imagen": "imagenes/collares/collares_395.png",
@@ -183,7 +183,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "394",
+        "id": "394.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_394.jpg",
@@ -216,7 +216,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "393",
+        "id": "393.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_393.0.jpg",
@@ -229,7 +229,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "392",
+        "id": "392.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_392.0.jpg",
@@ -254,7 +254,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "391",
+        "id": "391.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_391.0.jpg",
@@ -283,7 +283,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "390",
+        "id": "390.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_390.0.jpg",
@@ -296,7 +296,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "389",
+        "id": "389.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_389.0.jpg",
@@ -309,7 +309,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "388",
+        "id": "388.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_388.0.jpg",
@@ -324,7 +324,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "387",
+        "id": "387.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_387.0.jpg",
@@ -337,7 +337,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "386",
+        "id": "386.0",
         "categoria": "Collares",
         "precio": 215.0,
         "imagen": "imagenes/collares/collares_386.0.jpg",
@@ -350,7 +350,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "385",
+        "id": "385.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_385.0.jpg",
@@ -363,7 +363,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "384",
+        "id": "384.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_384.0.jpg",
@@ -396,7 +396,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "383",
+        "id": "383.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_383.jpg",
@@ -429,7 +429,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "382",
+        "id": "382.0",
         "categoria": "Collares",
         "precio": 105.0,
         "imagen": "imagenes/collares/collares_382.0.jpg",
@@ -442,7 +442,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "381",
+        "id": "381.0",
         "categoria": "Collares",
         "precio": 440.0,
         "imagen": "imagenes/collares/collares_381.0.jpg",
@@ -471,7 +471,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "380",
+        "id": "380.0",
         "categoria": "Collares",
         "precio": 160.0,
         "imagen": "imagenes/collares/collares_380.0.jpg",
@@ -484,7 +484,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "379",
+        "id": "379.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_379.0.jpg",
@@ -499,7 +499,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "378",
+        "id": "378.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_378.0.jpg",
@@ -512,7 +512,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "377",
+        "id": "377.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_377.0.jpg",
@@ -525,7 +525,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "376",
+        "id": "376.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_376.0.jpg",
@@ -538,7 +538,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "375",
+        "id": "375.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_375.0.webp",
@@ -569,7 +569,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "374",
+        "id": "374.0",
         "categoria": "Collares",
         "precio": 105.0,
         "imagen": "imagenes/collares/collares_374.0.jpg",
@@ -582,7 +582,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "373",
+        "id": "373.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_373.0.jpg",
@@ -595,7 +595,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "372",
+        "id": "372.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_372.0.jpg",
@@ -610,7 +610,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "371",
+        "id": "371.0",
         "categoria": "Collares",
         "precio": 110.0,
         "imagen": "imagenes/collares/collares_371.0.jpg",
@@ -625,7 +625,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "370",
+        "id": "370.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_370.0.jpg",
@@ -638,7 +638,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "369",
+        "id": "369.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_369.0.webp",
@@ -669,7 +669,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "368",
+        "id": "368.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_368.0.jpg",
@@ -682,7 +682,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "367",
+        "id": "367.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_367.0.jpg",
@@ -695,7 +695,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "366",
+        "id": "366.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_366.0.jpg",
@@ -708,7 +708,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "365",
+        "id": "365.0",
         "categoria": "Collares",
         "precio": 105.0,
         "imagen": "imagenes/collares/collares_365.0.jpg",
@@ -721,7 +721,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "364",
+        "id": "364.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_364.0.jpg",
@@ -736,7 +736,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "363",
+        "id": "363.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_363.webp",
@@ -767,7 +767,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "362",
+        "id": "362.0",
         "categoria": "Collares",
         "precio": 110.0,
         "imagen": "imagenes/collares/collares_362.0.webp",
@@ -796,7 +796,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "361",
+        "id": "361.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_361.0.jpg",
@@ -809,7 +809,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "360",
+        "id": "360.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_360.0.jpg",
@@ -822,7 +822,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "359",
+        "id": "359.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_359.0.jpg",
@@ -835,7 +835,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "358",
+        "id": "358.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_358.0.jpg",
@@ -848,7 +848,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "357",
+        "id": "357.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_357.0.jpg",
@@ -861,7 +861,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "356",
+        "id": "356.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_356.0.jpg",
@@ -874,7 +874,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "355",
+        "id": "355.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_355.0.jpg",
@@ -887,7 +887,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "354",
+        "id": "354.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_354.0.jpg",
@@ -900,7 +900,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "353",
+        "id": "353.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_353.0.jpg",
@@ -913,7 +913,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "352",
+        "id": "352.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_352.0.jpg",
@@ -926,7 +926,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "351",
+        "id": "351.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_351.0.jpg",
@@ -939,7 +939,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "350",
+        "id": "350.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_350.0.jpg",
@@ -952,7 +952,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "349",
+        "id": "349.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_349.0.jpg",
@@ -965,7 +965,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "348",
+        "id": "348.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_348.0.jpg",
@@ -978,7 +978,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "347",
+        "id": "347.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_347.0.jpg",
@@ -991,7 +991,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "346",
+        "id": "346.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_346.jpg",
@@ -1020,7 +1020,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "345",
+        "id": "345.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_345.jpg",
@@ -1055,7 +1055,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "344",
+        "id": "344.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_344.0.jpg",
@@ -1068,7 +1068,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "343",
+        "id": "343.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_343.0.jpg",
@@ -1081,7 +1081,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "342",
+        "id": "342.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_342.0.jpg",
@@ -1094,7 +1094,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "341",
+        "id": "341.0",
         "categoria": "Collares",
         "precio": 135.0,
         "imagen": "imagenes/collares/collares_341.0.png",
@@ -1123,7 +1123,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "340",
+        "id": "340.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_340.0.jpg",
@@ -1136,7 +1136,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "339",
+        "id": "339.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_339.0.jpg",
@@ -1149,7 +1149,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "338",
+        "id": "338.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_338.0.jpg",
@@ -1162,7 +1162,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "337",
+        "id": "337.0",
         "categoria": "Collares",
         "precio": 120.0,
         "imagen": "imagenes/collares/collares_337.0.jpg",
@@ -1175,7 +1175,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "336",
+        "id": "336.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_336.0.jpg",
@@ -1188,7 +1188,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "335",
+        "id": "335.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_335.0.jpg",
@@ -1201,7 +1201,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "334",
+        "id": "334.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_334.0.jpg",
@@ -1214,7 +1214,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "333",
+        "id": "333.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_333.0.jpg",
@@ -1227,7 +1227,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "331",
+        "id": "331.0",
         "categoria": "Collares",
         "precio": 440.0,
         "imagen": "imagenes/collares/collares_331.jpg",
@@ -1252,7 +1252,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "330",
+        "id": "330.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_330.0.jpg",
@@ -1265,7 +1265,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "329",
+        "id": "329.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_329.0.jpg",
@@ -1278,7 +1278,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "328",
+        "id": "328.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_328.0.jpg",
@@ -1291,7 +1291,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "327",
+        "id": "327.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_327.0.jpg",
@@ -1304,7 +1304,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "326",
+        "id": "326.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_326.0.jpg",
@@ -1317,7 +1317,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "325",
+        "id": "325.0",
         "categoria": "Collares",
         "precio": 130.0,
         "imagen": "imagenes/collares/collares_325.0.jpg",
@@ -1330,7 +1330,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "324",
+        "id": "324.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_324.0.jpg",
@@ -1343,7 +1343,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "323",
+        "id": "323.0",
         "categoria": "Collares",
         "precio": 135.0,
         "imagen": "imagenes/collares/collares_323.0.jpg",
@@ -1356,7 +1356,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "322",
+        "id": "322.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_322.0.jpg",
@@ -1369,7 +1369,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "321",
+        "id": "321.0",
         "categoria": "Collares",
         "precio": 120.0,
         "imagen": "imagenes/collares/collares_321.0.jpg",
@@ -1382,7 +1382,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "320",
+        "id": "320.0",
         "categoria": "Collares",
         "precio": 105.0,
         "imagen": "imagenes/collares/collares_320.0.jpg",
@@ -1395,7 +1395,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "319",
+        "id": "319.0",
         "categoria": "Collares",
         "precio": 120.0,
         "imagen": "imagenes/collares/collares_319.0.jpg",
@@ -1408,7 +1408,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "318",
+        "id": "318.0",
         "categoria": "Collares",
         "precio": 115.0,
         "imagen": "imagenes/collares/collares_318.0.jpg",
@@ -1421,7 +1421,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "317",
+        "id": "317.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_317.0.jpg",
@@ -1434,7 +1434,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "316",
+        "id": "316.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_316.0.jpg",
@@ -1447,7 +1447,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "315",
+        "id": "315.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_315.0.jpg",
@@ -1460,7 +1460,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "314",
+        "id": "314.0",
         "categoria": "Collares",
         "precio": 115.0,
         "imagen": "imagenes/collares/collares_314.0.jpg",
@@ -1473,7 +1473,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "313",
+        "id": "313.0",
         "categoria": "Collares",
         "precio": 130.0,
         "imagen": "imagenes/collares/collares_313.0.jpg",
@@ -1486,7 +1486,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "312",
+        "id": "312.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_312.0.jpg",
@@ -1499,7 +1499,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "311",
+        "id": "311.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_311.0.jpg",
@@ -1512,7 +1512,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "310",
+        "id": "310.0",
         "categoria": "Collares",
         "precio": 105.0,
         "imagen": "imagenes/collares/collares_310.0.jpg",
@@ -1525,7 +1525,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "309",
+        "id": "309.0",
         "categoria": "Collares",
         "precio": 140.0,
         "imagen": "imagenes/collares/collares_309.0.jpg",
@@ -1538,7 +1538,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "308",
+        "id": "308.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_308.0.jpg",
@@ -1551,7 +1551,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "307",
+        "id": "307.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_307.0.jpg",
@@ -1564,7 +1564,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "306",
+        "id": "306.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_306.0.jpg",
@@ -1577,7 +1577,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "305",
+        "id": "305.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_305.0.jpg",
@@ -1590,7 +1590,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "304",
+        "id": "304.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_304.0.jpg",
@@ -1603,7 +1603,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "303",
+        "id": "303.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_303.0.jpg",
@@ -1616,7 +1616,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "302",
+        "id": "302.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_302.0.jpg",
@@ -1629,7 +1629,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "301",
+        "id": "301.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_301.0.jpg",
@@ -1642,7 +1642,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "300",
+        "id": "300.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_300.0.jpg",
@@ -1655,7 +1655,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "299",
+        "id": "299.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_299.0.jpg",
@@ -1668,7 +1668,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "298",
+        "id": "298.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_298.0.jpg",
@@ -1681,7 +1681,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "297",
+        "id": "297.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_297.0.jpg",
@@ -1694,7 +1694,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "296",
+        "id": "296.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_296.0.jpg",
@@ -1707,7 +1707,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "295",
+        "id": "295.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_295.0.jpg",
@@ -1720,7 +1720,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "294",
+        "id": "294.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_294.0.jpg",
@@ -1733,7 +1733,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "293",
+        "id": "293.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_293.0.jpg",
@@ -1746,7 +1746,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "292",
+        "id": "292.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_292.0.jpg",
@@ -1759,7 +1759,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "291",
+        "id": "291.0",
         "categoria": "Collares",
         "precio": 70.0,
         "imagen": "imagenes/collares/collares_291.0.jpg",
@@ -1772,7 +1772,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "290",
+        "id": "290.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_290.0.jpg",
@@ -1785,7 +1785,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "289",
+        "id": "289.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_289.0.jpg",
@@ -1798,7 +1798,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "288",
+        "id": "288.0",
         "categoria": "Collares",
         "precio": 70.0,
         "imagen": "imagenes/collares/collares_288.0.jpg",
@@ -1811,7 +1811,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "287",
+        "id": "287.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_287.0.jpg",
@@ -1824,7 +1824,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "286",
+        "id": "286.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_286.0.jpg",
@@ -1837,7 +1837,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "285",
+        "id": "285.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_285.0.jpg",
@@ -1850,7 +1850,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "284",
+        "id": "284.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_284.0.jpg",
@@ -1863,7 +1863,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "283",
+        "id": "283.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_283.0.jpg",
@@ -1876,7 +1876,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "282",
+        "id": "282.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_282.0.jpg",
@@ -1889,7 +1889,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "281",
+        "id": "281.0",
         "categoria": "Collares",
         "precio": 70.0,
         "imagen": "imagenes/collares/collares_281.0.jpg",
@@ -1902,7 +1902,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "280",
+        "id": "280.0",
         "categoria": "Collares",
         "precio": 70.0,
         "imagen": "imagenes/collares/collares_280.0.jpg",
@@ -1915,7 +1915,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "279",
+        "id": "279.0",
         "categoria": "Collares",
         "precio": 70.0,
         "imagen": "imagenes/collares/collares_279.0.jpg",
@@ -1928,7 +1928,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "278",
+        "id": "278.0",
         "categoria": "Collares",
         "precio": 70.0,
         "imagen": "imagenes/collares/collares_278.0.jpg",
@@ -1941,7 +1941,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "277",
+        "id": "277.0",
         "categoria": "Collares",
         "precio": 70.0,
         "imagen": "imagenes/collares/collares_277.0.jpg",
@@ -1954,7 +1954,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "276",
+        "id": "276.0",
         "categoria": "Collares",
         "precio": 70.0,
         "imagen": "imagenes/collares/collares_276.0.jpg",
@@ -1967,7 +1967,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "275",
+        "id": "275.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_275.0.jpg",
@@ -1980,7 +1980,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "274",
+        "id": "274.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_274.0.jpg",
@@ -1993,7 +1993,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "273",
+        "id": "273.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_273.0.jpg",
@@ -2006,7 +2006,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "272",
+        "id": "272.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_272.0.jpg",
@@ -2019,7 +2019,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "271",
+        "id": "271.0",
         "categoria": "Collares",
         "precio": 70.0,
         "imagen": "imagenes/collares/collares_271.0.jpg",
@@ -2032,7 +2032,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "270",
+        "id": "270.0",
         "categoria": "Collares",
         "precio": 70.0,
         "imagen": "imagenes/collares/collares_270.0.jpg",
@@ -2045,7 +2045,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "269",
+        "id": "269.0",
         "categoria": "Collares",
         "precio": 70.0,
         "imagen": "imagenes/collares/collares_269.0.jpg",
@@ -2058,7 +2058,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "268",
+        "id": "268.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_268.0.jpg",
@@ -2071,7 +2071,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "267",
+        "id": "267.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_267.0.jpg",
@@ -2084,7 +2084,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "266",
+        "id": "266.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_266.0.jpg",
@@ -2097,7 +2097,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "265",
+        "id": "265.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_265.0.jpg",
@@ -2110,7 +2110,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "264",
+        "id": "264.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_264.0.jpg",
@@ -2123,7 +2123,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "263",
+        "id": "263.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_263.0.jpg",
@@ -2136,7 +2136,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "262",
+        "id": "262.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_262.0.jpg",
@@ -2149,7 +2149,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "261",
+        "id": "261.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_261.0.jpg",
@@ -2162,7 +2162,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "260",
+        "id": "260.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_260.0.jpg",
@@ -2175,7 +2175,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "259",
+        "id": "259.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_259.0.jpg",
@@ -2188,7 +2188,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "258",
+        "id": "258.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_258.0.jpg",
@@ -2201,7 +2201,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "257",
+        "id": "257.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_257.0.jpg",
@@ -2214,7 +2214,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "256",
+        "id": "256.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_256.0.jpg",
@@ -2227,7 +2227,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "255",
+        "id": "255.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_255.0.jpg",
@@ -2240,7 +2240,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "254",
+        "id": "254.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_254.0.jpg",
@@ -2253,7 +2253,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "253",
+        "id": "253.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_253.0.jpg",
@@ -2266,7 +2266,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "252",
+        "id": "252.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_252.0.jpg",
@@ -2279,7 +2279,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "251",
+        "id": "251.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_251.0.jpg",
@@ -2292,7 +2292,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "250",
+        "id": "250.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_250.0.jpg",
@@ -2305,7 +2305,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "249",
+        "id": "249.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_249.0.jpg",
@@ -2318,7 +2318,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "248",
+        "id": "248.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_248.0.jpg",
@@ -2331,7 +2331,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "247",
+        "id": "247.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_247.0.jpg",
@@ -2344,7 +2344,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "246",
+        "id": "246.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_246.0.jpg",
@@ -2357,7 +2357,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "245",
+        "id": "245.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_245.0.jpg",
@@ -2370,7 +2370,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "244",
+        "id": "244.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_244.0.jpg",
@@ -2383,7 +2383,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "243",
+        "id": "243.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_243.0.jpg",
@@ -2396,7 +2396,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "242",
+        "id": "242.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_242.0.jpg",
@@ -2409,7 +2409,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "241",
+        "id": "241.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_241.0.jpg",
@@ -2422,7 +2422,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "240",
+        "id": "240.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_240.0.jpg",
@@ -2435,7 +2435,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "239",
+        "id": "239.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_239.0.jpg",
@@ -2448,7 +2448,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "238",
+        "id": "238.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_238.0.jpg",
@@ -2461,7 +2461,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "237",
+        "id": "237.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_237.0.jpg",
@@ -2474,7 +2474,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "236",
+        "id": "236.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_236.0.jpg",
@@ -2487,7 +2487,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "235",
+        "id": "235.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_235.0.jpg",
@@ -2500,7 +2500,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "234",
+        "id": "234.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_234.0.jpg",
@@ -2513,7 +2513,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "233",
+        "id": "233.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_233.0.jpg",
@@ -2526,7 +2526,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "232",
+        "id": "232.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_232.0.jpg",
@@ -2539,7 +2539,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "231",
+        "id": "231.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_231.0.jpg",
@@ -2552,7 +2552,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "230",
+        "id": "230.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_230.0.jpg",
@@ -2565,7 +2565,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "229",
+        "id": "229.0",
         "categoria": "Collares",
         "precio": 165.0,
         "imagen": "imagenes/collares/collares_229.0.jpg",
@@ -2578,7 +2578,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "228",
+        "id": "228.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_228.0.jpg",
@@ -2591,7 +2591,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "227",
+        "id": "227.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_227.0.jpg",
@@ -2604,7 +2604,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "226",
+        "id": "226.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_226.0.jpg",
@@ -2617,7 +2617,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "225",
+        "id": "225.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_225.0.jpg",
@@ -2630,7 +2630,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "224",
+        "id": "224.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_224.0.jpg",
@@ -2643,7 +2643,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "223",
+        "id": "223.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_223.0.jpg",
@@ -2656,7 +2656,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "222",
+        "id": "222.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_222.0.jpg",
@@ -2669,7 +2669,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "221",
+        "id": "221.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_221.0.jpg",
@@ -2682,7 +2682,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "220",
+        "id": "220.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_220.0.jpg",
@@ -2695,7 +2695,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "219",
+        "id": "219.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_219.0.jpg",
@@ -2708,7 +2708,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "218",
+        "id": "218.0",
         "categoria": "Collares",
         "precio": 110.0,
         "imagen": "imagenes/collares/collares_218.0.jpg",
@@ -2721,7 +2721,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "217",
+        "id": "217.0",
         "categoria": "Collares",
         "precio": 70.0,
         "imagen": "imagenes/collares/collares_217.0.jpg",
@@ -2734,7 +2734,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "216",
+        "id": "216.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_216.0.png",
@@ -2747,7 +2747,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "215",
+        "id": "215.0",
         "categoria": "Collares",
         "precio": 120.0,
         "imagen": "imagenes/collares/collares_215.0.jpg",
@@ -2760,7 +2760,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "214",
+        "id": "214.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_214.0.jpg",
@@ -2773,7 +2773,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "213",
+        "id": "213.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_213.0.jpg",
@@ -2786,7 +2786,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "212",
+        "id": "212.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_212.0.jpg",
@@ -2799,7 +2799,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "211",
+        "id": "211.0",
         "categoria": "Collares",
         "precio": 105.0,
         "imagen": "imagenes/collares/collares_211.0.jpg",
@@ -2812,7 +2812,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "210",
+        "id": "210.0",
         "categoria": "Collares",
         "precio": 115.0,
         "imagen": "imagenes/collares/collares_210.0.jpg",
@@ -2825,7 +2825,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "209",
+        "id": "209.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_209.0.jpg",
@@ -2838,7 +2838,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "208",
+        "id": "208.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_208.0.jpg",
@@ -2851,7 +2851,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "207",
+        "id": "207.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_207.0.jpg",
@@ -2864,7 +2864,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "206",
+        "id": "206.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_206.0.jpg",
@@ -2877,7 +2877,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "205",
+        "id": "205.0",
         "categoria": "Collares",
         "precio": 120.0,
         "imagen": "imagenes/collares/collares_205.0.png",
@@ -2890,7 +2890,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "204",
+        "id": "204.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_204.0.jpg",
@@ -2903,7 +2903,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "203",
+        "id": "203.0",
         "categoria": "Collares",
         "precio": 140.0,
         "imagen": "imagenes/collares/collares_203.0.jpg",
@@ -2916,7 +2916,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "202",
+        "id": "202.0",
         "categoria": "Collares",
         "precio": 110.0,
         "imagen": "imagenes/collares/collares_202.0.jpg",
@@ -2929,7 +2929,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "201",
+        "id": "201.0",
         "categoria": "Collares",
         "precio": 155.0,
         "imagen": "imagenes/collares/collares_201.0.jpg",
@@ -2942,7 +2942,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "200",
+        "id": "200.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_200.0.jpg",
@@ -2955,7 +2955,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "199",
+        "id": "199.0",
         "categoria": "Collares",
         "precio": 130.0,
         "imagen": "imagenes/collares/collares_199.0.jpg",
@@ -2968,7 +2968,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "198",
+        "id": "198.0",
         "categoria": "Collares",
         "precio": 130.0,
         "imagen": "imagenes/collares/collares_198.0.jpg",
@@ -2981,7 +2981,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "197",
+        "id": "197.0",
         "categoria": "Collares",
         "precio": 130.0,
         "imagen": "imagenes/collares/collares_197.0.webp",
@@ -3014,7 +3014,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "196",
+        "id": "196.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_196.0.jpg",
@@ -3027,7 +3027,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "195",
+        "id": "195.0",
         "categoria": "Collares",
         "precio": 110.0,
         "imagen": "imagenes/collares/collares_195.0.jpg",
@@ -3040,7 +3040,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "194",
+        "id": "194.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_194.0.jpg",
@@ -3053,7 +3053,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "193",
+        "id": "193.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_193.0.jpg",
@@ -3066,7 +3066,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "192",
+        "id": "192.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_192.0.jpg",
@@ -3079,7 +3079,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "191",
+        "id": "191.0",
         "categoria": "Collares",
         "precio": 110.0,
         "imagen": "imagenes/collares/collares_191.0.jpg",
@@ -3092,7 +3092,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "190",
+        "id": "190.0",
         "categoria": "Collares",
         "precio": 115.0,
         "imagen": "imagenes/collares/collares_190.0.jpg",
@@ -3105,7 +3105,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "189",
+        "id": "189.0",
         "categoria": "Collares",
         "precio": 150.0,
         "imagen": "imagenes/collares/collares_189.0.jpg",
@@ -3118,7 +3118,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "188",
+        "id": "188.0",
         "categoria": "Collares",
         "precio": 150.0,
         "imagen": "imagenes/collares/collares_188.0.jpg",
@@ -3131,7 +3131,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "187",
+        "id": "187.0",
         "categoria": "Collares",
         "precio": 135.0,
         "imagen": "imagenes/collares/collares_187.0.jpg",
@@ -3144,7 +3144,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "186",
+        "id": "186.0",
         "categoria": "Collares",
         "precio": 135.0,
         "imagen": "imagenes/collares/collares_186.0.jpg",
@@ -3157,7 +3157,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "185",
+        "id": "185.0",
         "categoria": "Collares",
         "precio": 135.0,
         "imagen": "imagenes/collares/collares_185.0.jpg",
@@ -3170,7 +3170,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "184",
+        "id": "184.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_184.0.jpg",
@@ -3183,7 +3183,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "183",
+        "id": "183.0",
         "categoria": "Collares",
         "precio": 170.0,
         "imagen": "imagenes/collares/collares_183.0.jpg",
@@ -3196,7 +3196,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "182",
+        "id": "182.0",
         "categoria": "Collares",
         "precio": 200.0,
         "imagen": "imagenes/collares/collares_182.0.jpg",
@@ -3209,7 +3209,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "181",
+        "id": "181.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_181.0.jpg",
@@ -3222,7 +3222,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "180",
+        "id": "180.0",
         "categoria": "Collares",
         "precio": 170.0,
         "imagen": "imagenes/collares/collares_180.0.jpg",
@@ -3235,7 +3235,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "179",
+        "id": "179.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_179.0.jpg",
@@ -3248,7 +3248,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "178",
+        "id": "178.0",
         "categoria": "Collares",
         "precio": 110.0,
         "imagen": "imagenes/collares/collares_178.0.jpg",
@@ -3261,7 +3261,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "177",
+        "id": "177.0",
         "categoria": "Collares",
         "precio": 110.0,
         "imagen": "imagenes/collares/collares_177.0.jpg",
@@ -3274,7 +3274,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "176",
+        "id": "176.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_176.0.jpg",
@@ -3287,7 +3287,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "175",
+        "id": "175.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_175.0.jpg",
@@ -3300,7 +3300,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "174",
+        "id": "174.0",
         "categoria": "Collares",
         "precio": 135.0,
         "imagen": "imagenes/collares/collares_174.0.jpg",
@@ -3313,7 +3313,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "173",
+        "id": "173.0",
         "categoria": "Collares",
         "precio": 145.0,
         "imagen": "imagenes/collares/collares_173.0.jpg",
@@ -3326,7 +3326,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "172",
+        "id": "172.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_172.0.jpg",
@@ -3339,7 +3339,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "171",
+        "id": "171.0",
         "categoria": "Collares",
         "precio": 140.0,
         "imagen": "imagenes/collares/collares_171.0.jpg",
@@ -3352,7 +3352,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "170",
+        "id": "170.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_170.0.jpg",
@@ -3365,7 +3365,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "169",
+        "id": "169.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_169.0.jpg",
@@ -3378,7 +3378,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "168",
+        "id": "168.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_168.0.jpg",
@@ -3391,7 +3391,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "167",
+        "id": "167.0",
         "categoria": "Collares",
         "precio": 110.0,
         "imagen": "imagenes/collares/collares_167.0.jpg",
@@ -3404,7 +3404,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "166",
+        "id": "166.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_166.0.jpg",
@@ -3417,7 +3417,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "165",
+        "id": "165.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_165.0.jpg",
@@ -3430,7 +3430,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "164",
+        "id": "164.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_164.0.jpg",
@@ -3443,7 +3443,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "163",
+        "id": "163.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_163.0.jpg",
@@ -3456,7 +3456,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "162",
+        "id": "162.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_162.0.jpg",
@@ -3469,7 +3469,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "161",
+        "id": "161.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_161.0.jpg",
@@ -3482,7 +3482,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "160",
+        "id": "160.0",
         "categoria": "Collares",
         "precio": 110.0,
         "imagen": "imagenes/collares/collares_160.0.jpg",
@@ -3495,7 +3495,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "159",
+        "id": "159.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_159.0.jpg",
@@ -3508,7 +3508,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "158",
+        "id": "158.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_158.0.jpg",
@@ -3521,7 +3521,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "157",
+        "id": "157.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_157.0.jpg",
@@ -3534,7 +3534,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "156",
+        "id": "156.0",
         "categoria": "Collares",
         "precio": 110.0,
         "imagen": "imagenes/collares/collares_156.0.jpg",
@@ -3547,7 +3547,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "155",
+        "id": "155.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_155.0.jpg",
@@ -3560,7 +3560,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "154",
+        "id": "154.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_154.0.jpg",
@@ -3573,7 +3573,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "153",
+        "id": "153.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_153.0.jpg",
@@ -3586,7 +3586,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "152",
+        "id": "152.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_152.0.jpg",
@@ -3599,7 +3599,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "151",
+        "id": "151.0",
         "categoria": "Collares",
         "precio": 105.0,
         "imagen": "imagenes/collares/collares_151.0.jpg",
@@ -3612,7 +3612,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "150",
+        "id": "150.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_150.0.jpg",
@@ -3625,7 +3625,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "149",
+        "id": "149.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_149.0.jpg",
@@ -3638,7 +3638,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "148",
+        "id": "148.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_148.0.jpg",
@@ -3651,7 +3651,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "147",
+        "id": "147.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_147.0.jpg",
@@ -3664,7 +3664,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "146",
+        "id": "146.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_146.0.jpg",
@@ -3677,7 +3677,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "145",
+        "id": "145.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_145.0.jpg",
@@ -3690,7 +3690,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "144",
+        "id": "144.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_144.0.jpg",
@@ -3703,7 +3703,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "143",
+        "id": "143.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_143.0.jpg",
@@ -3716,7 +3716,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "142",
+        "id": "142.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_142.0.jpg",
@@ -3729,7 +3729,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "141",
+        "id": "141.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_141.0.jpg",
@@ -3742,7 +3742,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "140",
+        "id": "140.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_140.0.jpg",
@@ -3755,7 +3755,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "139",
+        "id": "139.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_139.0.jpg",
@@ -3768,7 +3768,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "138",
+        "id": "138.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_138.0.jpg",
@@ -3781,7 +3781,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "137",
+        "id": "137.0",
         "categoria": "Collares",
         "precio": 140.0,
         "imagen": "imagenes/collares/collares_137.0.jpg",
@@ -3794,7 +3794,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "136",
+        "id": "136.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_136.0.jpg",
@@ -3807,7 +3807,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "135",
+        "id": "135.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_135.0.jpg",
@@ -3820,7 +3820,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "134",
+        "id": "134.0",
         "categoria": "Collares",
         "precio": 70.0,
         "imagen": "imagenes/collares/collares_134.0.jpg",
@@ -3833,7 +3833,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "133",
+        "id": "133.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_133.0.jpg",
@@ -3846,7 +3846,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "132",
+        "id": "132.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_132.0.jpg",
@@ -3859,7 +3859,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "131",
+        "id": "131.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_131.0.jpg",
@@ -3872,7 +3872,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "130",
+        "id": "130.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_130.0.jpg",
@@ -3885,7 +3885,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "129",
+        "id": "129.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_129.0.jpg",
@@ -3898,7 +3898,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "128",
+        "id": "128.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_128.0.jpg",
@@ -3911,7 +3911,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "127",
+        "id": "127.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_127.0.jpg",
@@ -3924,7 +3924,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "126",
+        "id": "126.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_126.0.jpg",
@@ -3937,7 +3937,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "125",
+        "id": "125.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_125.0.jpg",
@@ -3950,7 +3950,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "124",
+        "id": "124.0",
         "categoria": "Collares",
         "precio": 185.0,
         "imagen": "imagenes/collares/collares_124.0.jpg",
@@ -3963,7 +3963,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "123",
+        "id": "123.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_123.0.jpg",
@@ -3976,7 +3976,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "122",
+        "id": "122.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_122.0.jpg",
@@ -3989,7 +3989,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "121",
+        "id": "121.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_121.0.jpg",
@@ -4002,7 +4002,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "120",
+        "id": "120.0",
         "categoria": "Collares",
         "precio": 70.0,
         "imagen": "imagenes/collares/collares_120.0.jpg",
@@ -4015,7 +4015,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "119",
+        "id": "119.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_119.0.jpg",
@@ -4028,7 +4028,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "118",
+        "id": "118.0",
         "categoria": "Collares",
         "precio": 70.0,
         "imagen": "imagenes/collares/collares_118.0.jpg",
@@ -4041,7 +4041,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "117",
+        "id": "117.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_117.0.jpg",
@@ -4054,7 +4054,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "116",
+        "id": "116.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_116.0.jpg",
@@ -4067,7 +4067,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "115",
+        "id": "115.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_115.0.jpg",
@@ -4080,7 +4080,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "114",
+        "id": "114.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_114.0.jpg",
@@ -4093,7 +4093,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "113",
+        "id": "113.0",
         "categoria": "Collares",
         "precio": 105.0,
         "imagen": "imagenes/collares/collares_113.0.jpg",
@@ -4106,7 +4106,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "112",
+        "id": "112.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_112.0.jpg",
@@ -4119,7 +4119,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "111",
+        "id": "111.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_111.0.jpg",
@@ -4132,7 +4132,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "110",
+        "id": "110.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_110.0.jpg",
@@ -4145,7 +4145,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "109",
+        "id": "109.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_109.0.jpg",
@@ -4158,7 +4158,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "108",
+        "id": "108.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_108.0.jpg",
@@ -4171,7 +4171,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "107",
+        "id": "107.0",
         "categoria": "Collares",
         "precio": 120.0,
         "imagen": "imagenes/collares/collares_107.0.jpg",
@@ -4184,7 +4184,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "106",
+        "id": "106.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_106.0.jpg",
@@ -4197,7 +4197,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "105",
+        "id": "105.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_105.0.jpg",
@@ -4210,7 +4210,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "104",
+        "id": "104.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_104.0.jpg",
@@ -4223,7 +4223,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "103",
+        "id": "103.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_103.0.jpg",
@@ -4236,7 +4236,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "102",
+        "id": "102.0",
         "categoria": "Collares",
         "precio": 135.0,
         "imagen": "imagenes/collares/collares_102.0.jpg",
@@ -4249,7 +4249,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "101",
+        "id": "101.0",
         "categoria": "Collares",
         "precio": 115.0,
         "imagen": "imagenes/collares/collares_101.0.jpg",
@@ -4262,7 +4262,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "100",
+        "id": "100.0",
         "categoria": "Collares",
         "precio": 145.0,
         "imagen": "imagenes/collares/collares_100.0.jpg",
@@ -4275,7 +4275,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "99",
+        "id": "99.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_99.0.jpg",
@@ -4288,7 +4288,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "98",
+        "id": "98.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_98.0.jpg",
@@ -4301,7 +4301,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "97",
+        "id": "97.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_97.0.jpg",
@@ -4314,7 +4314,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "96",
+        "id": "96.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_96.0.jpg",
@@ -4327,7 +4327,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "95",
+        "id": "95.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_95.0.jpg",
@@ -4340,7 +4340,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "94",
+        "id": "94.0",
         "categoria": "Collares",
         "precio": 110.0,
         "imagen": "imagenes/collares/collares_94.0.jpg",
@@ -4353,7 +4353,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "93",
+        "id": "93.0",
         "categoria": "Collares",
         "precio": 110.0,
         "imagen": "imagenes/collares/collares_93.0.jpg",
@@ -4366,7 +4366,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "92",
+        "id": "92.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_92.0.jpg",
@@ -4379,7 +4379,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "91",
+        "id": "91.0",
         "categoria": "Collares",
         "precio": 110.0,
         "imagen": "imagenes/collares/collares_91.0.jpg",
@@ -4392,7 +4392,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "90",
+        "id": "90.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_90.0.jpg",
@@ -4405,7 +4405,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "89",
+        "id": "89.0",
         "categoria": "Collares",
         "precio": 120.0,
         "imagen": "imagenes/collares/collares_89.0.jpg",
@@ -4418,7 +4418,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "88",
+        "id": "88.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_88.0.jpg",
@@ -4431,7 +4431,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "87",
+        "id": "87.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_87.0.jpg",
@@ -4444,7 +4444,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "86",
+        "id": "86.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_86.0.jpg",
@@ -4457,7 +4457,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "85",
+        "id": "85.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_85.0.jpg",
@@ -4470,7 +4470,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "84",
+        "id": "84.0",
         "categoria": "Collares",
         "precio": 150.0,
         "imagen": "imagenes/collares/collares_84.0.jpg",
@@ -4483,7 +4483,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "83",
+        "id": "83.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_83.0.jpg",
@@ -4496,7 +4496,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "82",
+        "id": "82.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_82.0.jpg",
@@ -4509,7 +4509,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "81",
+        "id": "81.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_81.0.jpg",
@@ -4522,7 +4522,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "80",
+        "id": "80.0",
         "categoria": "Collares",
         "precio": 125.0,
         "imagen": "imagenes/collares/collares_80.0.jpg",
@@ -4535,7 +4535,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "79",
+        "id": "79.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_79.0.jpg",
@@ -4548,7 +4548,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "77",
+        "id": "77.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_77.0.jpg",
@@ -4561,7 +4561,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "76",
+        "id": "76.0",
         "categoria": "Collares",
         "precio": 105.0,
         "imagen": "imagenes/collares/collares_76.0.jpg",
@@ -4574,7 +4574,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "75",
+        "id": "75.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_75.0.jpg",
@@ -4587,7 +4587,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "74",
+        "id": "74.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_74.0.jpg",
@@ -4600,7 +4600,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "73",
+        "id": "73.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_73.0.jpg",
@@ -4613,7 +4613,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "72",
+        "id": "72.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_72.0.jpg",
@@ -4626,7 +4626,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "71",
+        "id": "71.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_71.0.jpg",
@@ -4639,7 +4639,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "70",
+        "id": "70.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_70.0.jpg",
@@ -4652,7 +4652,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "69",
+        "id": "69.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_69.0.jpg",
@@ -4665,7 +4665,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "68",
+        "id": "68.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_68.0.jpg",
@@ -4678,7 +4678,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "67",
+        "id": "67.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_67.0.jpg",
@@ -4691,7 +4691,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "66",
+        "id": "66.0",
         "categoria": "Collares",
         "precio": 120.0,
         "imagen": "imagenes/collares/collares_66.0.jpg",
@@ -4704,7 +4704,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "65",
+        "id": "65.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_65.0.jpg",
@@ -4717,7 +4717,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "64",
+        "id": "64.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_64.0.jpg",
@@ -4730,7 +4730,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "63",
+        "id": "63.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_63.0.jpg",
@@ -4743,7 +4743,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "62",
+        "id": "62.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_62.0.jpg",
@@ -4756,7 +4756,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "61",
+        "id": "61.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_61.0.jpg",
@@ -4769,7 +4769,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "60",
+        "id": "60.0",
         "categoria": "Collares",
         "precio": 145.0,
         "imagen": "imagenes/collares/collares_60.0.jpg",
@@ -4782,7 +4782,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "59",
+        "id": "59.0",
         "categoria": "Collares",
         "precio": 145.0,
         "imagen": "imagenes/collares/collares_59.0.jpg",
@@ -4795,7 +4795,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "58",
+        "id": "58.0",
         "categoria": "Collares",
         "precio": 145.0,
         "imagen": "imagenes/collares/collares_58.0.jpg",
@@ -4808,7 +4808,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "57",
+        "id": "57.0",
         "categoria": "Collares",
         "precio": 205.0,
         "imagen": "imagenes/collares/collares_57.0.jpg",
@@ -4821,7 +4821,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "56",
+        "id": "56.0",
         "categoria": "Collares",
         "precio": 170.0,
         "imagen": "imagenes/collares/collares_56.0.jpg",
@@ -4834,7 +4834,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "55",
+        "id": "55.0",
         "categoria": "Collares",
         "precio": 260.0,
         "imagen": "imagenes/collares/collares_55.0.jpg",
@@ -4847,7 +4847,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "54",
+        "id": "54.0",
         "categoria": "Collares",
         "precio": 240.0,
         "imagen": "imagenes/collares/collares_54.0.jpg",
@@ -4860,7 +4860,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "53",
+        "id": "53.0",
         "categoria": "Collares",
         "precio": 250.0,
         "imagen": "imagenes/collares/collares_53.0.jpg",
@@ -4873,7 +4873,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "52",
+        "id": "52.0",
         "categoria": "Collares",
         "precio": 260.0,
         "imagen": "imagenes/collares/collares_52.0.jpg",
@@ -4886,7 +4886,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "51",
+        "id": "51.0",
         "categoria": "Collares",
         "precio": 260.0,
         "imagen": "imagenes/collares/collares_51.0.jpg",
@@ -4899,7 +4899,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "50",
+        "id": "50.0",
         "categoria": "Collares",
         "precio": 150.0,
         "imagen": "imagenes/collares/collares_50.0.jpg",
@@ -4912,7 +4912,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "49",
+        "id": "49.0",
         "categoria": "Collares",
         "precio": 165.0,
         "imagen": "imagenes/collares/collares_49.0.jpg",
@@ -4925,7 +4925,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "48",
+        "id": "48.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_48.0.jpg",
@@ -4938,7 +4938,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "47",
+        "id": "47.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_47.0.jpg",
@@ -4951,7 +4951,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "46",
+        "id": "46.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_46.0.jpg",
@@ -4964,7 +4964,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "45",
+        "id": "45.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_45.0.jpg",
@@ -4977,7 +4977,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "44",
+        "id": "44.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_44.0.jpg",
@@ -4990,7 +4990,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "43",
+        "id": "43.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_43.0.jpg",
@@ -5003,7 +5003,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "42",
+        "id": "42.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_42.0.jpg",
@@ -5016,7 +5016,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "41",
+        "id": "41.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_41.0.jpg",
@@ -5029,7 +5029,7 @@ const productosCollares = [
         ]
     },
     {
-        "id": "40",
+        "id": "40.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_40.0.jpg",
@@ -5038,11 +5038,43 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_40.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_400.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_401.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_400.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_401.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_400.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_401.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_401.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_401.5.jpg"
             }
         ]
     },
     {
-        "id": "39",
+        "id": "39.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_39.0.jpg",
@@ -5051,11 +5083,167 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_39.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_390.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_391.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_392.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_393.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_395.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_396.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_397.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_398.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_399.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_391.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_392.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_395.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_396.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_398.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_399.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_391.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_392.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_395.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_396.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_398.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_399.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_391.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_392.4.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_396.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_398.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_399.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_391.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_396.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_398.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_399.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.6.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_396.6.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_398.6.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_399.6.mp4"
             }
         ]
     },
     {
-        "id": "38",
+        "id": "38.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_38.0.jpg",
@@ -5064,11 +5252,107 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_38.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_380.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_381.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_382.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_383.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_384.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_385.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_386.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_387.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_388.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_389.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_381.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_383.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_384.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_381.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_383.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_384.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_381.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_383.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_384.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_381.5.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_383.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_384.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_383.6.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_384.6.mp4"
             }
         ]
     },
     {
-        "id": "37",
+        "id": "37.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_37.0.jpg",
@@ -5077,11 +5361,67 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_37.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_370.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_371.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_372.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_373.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_374.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_375.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_376.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_377.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_378.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_379.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_375.1.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_375.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_375.3.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_375.4.mp4"
             }
         ]
     },
     {
-        "id": "36",
+        "id": "36.0",
         "categoria": "Collares",
         "precio": 105.0,
         "imagen": "imagenes/collares/collares_36.0.jpg",
@@ -5090,11 +5430,99 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_36.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_360.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_361.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_362.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_363.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_364.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_365.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_366.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_367.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_368.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_369.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_362.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_363.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_369.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_362.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_363.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_369.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_362.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_363.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_369.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_362.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_363.5.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_369.5.webp"
             }
         ]
     },
     {
-        "id": "35",
+        "id": "35.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_35.0.jpg",
@@ -5103,11 +5531,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_35.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_350.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_351.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_352.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_353.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_354.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_355.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_356.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_357.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_358.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_359.0.jpg"
             }
         ]
     },
     {
-        "id": "34",
+        "id": "34.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_34.0.jpg",
@@ -5118,11 +5586,103 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_34.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_340.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_341.0.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_342.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_343.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_344.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_346.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_347.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_348.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_349.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_341.2.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_346.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_341.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_346.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_341.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_346.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_341.5.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_346.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.6.jpg"
             }
         ]
     },
     {
-        "id": "33",
+        "id": "33.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_33.0.jpg",
@@ -5131,11 +5691,59 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_33.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_330.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_331.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_333.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_334.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_335.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_336.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_337.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_338.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_339.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_331.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_331.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_331.4.jpg"
             }
         ]
     },
     {
-        "id": "32",
+        "id": "32.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_32.0.jpg",
@@ -5144,11 +5752,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_32.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_320.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_321.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_322.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_323.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_324.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_325.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_326.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_327.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_328.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_329.0.jpg"
             }
         ]
     },
     {
-        "id": "31",
+        "id": "31.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_31.0.jpg",
@@ -5157,11 +5805,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_31.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_310.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_311.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_312.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_313.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_314.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_315.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_316.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_317.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_318.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_319.0.jpg"
             }
         ]
     },
     {
-        "id": "30",
+        "id": "30.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_30.0.jpg",
@@ -5170,11 +5858,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_30.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_300.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_301.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_302.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_303.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_304.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_305.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_306.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_307.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_308.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_309.0.jpg"
             }
         ]
     },
     {
-        "id": "29",
+        "id": "29.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_29.0.jpg",
@@ -5183,11 +5911,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_29.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_290.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_291.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_292.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_293.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_294.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_295.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_296.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_297.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_298.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_299.0.jpg"
             }
         ]
     },
     {
-        "id": "27",
+        "id": "27.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_27.0.jpg",
@@ -5196,11 +5964,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_27.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_270.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_271.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_272.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_273.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_274.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_275.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_276.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_277.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_278.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_279.0.jpg"
             }
         ]
     },
     {
-        "id": "26",
+        "id": "26.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_26.0.jpg",
@@ -5209,11 +6017,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_26.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_260.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_261.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_262.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_263.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_264.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_265.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_266.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_267.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_268.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_269.0.jpg"
             }
         ]
     },
     {
-        "id": "25",
+        "id": "25.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_25.0.jpg",
@@ -5222,11 +6070,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_25.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_250.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_251.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_252.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_253.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_254.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_255.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_256.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_257.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_258.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_259.0.jpg"
             }
         ]
     },
     {
-        "id": "24",
+        "id": "24.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_24.0.jpg",
@@ -5235,11 +6123,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_24.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_240.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_241.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_242.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_243.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_244.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_245.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_246.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_247.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_248.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_249.0.jpg"
             }
         ]
     },
     {
-        "id": "23",
+        "id": "23.0",
         "categoria": "Collares",
         "precio": 180.0,
         "imagen": "imagenes/collares/collares_23.0.jpg",
@@ -5248,11 +6176,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_23.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_230.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_231.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_232.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_233.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_234.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_235.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_236.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_237.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_238.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_239.0.jpg"
             }
         ]
     },
     {
-        "id": "22",
+        "id": "22.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_22.0.jpg",
@@ -5261,11 +6229,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_22.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_220.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_221.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_222.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_223.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_224.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_225.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_226.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_227.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_228.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_229.0.jpg"
             }
         ]
     },
     {
-        "id": "21",
+        "id": "21.0",
         "categoria": "Collares",
         "precio": 75.0,
         "imagen": "imagenes/collares/collares_21.0.jpg",
@@ -5274,11 +6282,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_21.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_210.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_211.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_212.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_213.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_214.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_215.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_216.0.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_217.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_218.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_219.0.jpg"
             }
         ]
     },
     {
-        "id": "20",
+        "id": "20.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_20.0.jpg",
@@ -5287,11 +6335,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_20.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_200.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_201.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_202.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_203.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_204.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_205.0.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_206.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_207.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_208.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_209.0.jpg"
             }
         ]
     },
     {
-        "id": "19",
+        "id": "19.0",
         "categoria": "Collares",
         "precio": 115.0,
         "imagen": "imagenes/collares/collares_19.0.jpg",
@@ -5300,11 +6388,71 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_19.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_190.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_191.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_192.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_193.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_194.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_195.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_196.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_197.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_198.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_199.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_197.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_197.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_197.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_197.5.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_197.6.webp"
             }
         ]
     },
     {
-        "id": "18",
+        "id": "18.0",
         "categoria": "Collares",
         "precio": 145.0,
         "imagen": "imagenes/collares/collares_18.0.jpg",
@@ -5313,11 +6461,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_18.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_180.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_181.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_182.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_183.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_184.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_185.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_186.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_187.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_188.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_189.0.jpg"
             }
         ]
     },
     {
-        "id": "17",
+        "id": "17.0",
         "categoria": "Collares",
         "precio": 105.0,
         "imagen": "imagenes/collares/collares_17.0.jpg",
@@ -5326,11 +6514,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_17.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_170.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_171.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_172.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_173.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_174.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_175.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_176.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_177.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_178.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_179.0.jpg"
             }
         ]
     },
     {
-        "id": "16",
+        "id": "16.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_16.0.jpg",
@@ -5339,11 +6567,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_16.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_160.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_161.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_162.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_163.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_164.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_165.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_166.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_167.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_168.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_169.0.jpg"
             }
         ]
     },
     {
-        "id": "15",
+        "id": "15.0",
         "categoria": "Collares",
         "precio": 110.0,
         "imagen": "imagenes/collares/collares_15.0.jpg",
@@ -5352,11 +6620,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_15.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_150.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_151.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_152.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_153.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_154.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_155.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_156.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_157.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_158.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_159.0.jpg"
             }
         ]
     },
     {
-        "id": "14",
+        "id": "14.0",
         "categoria": "Collares",
         "precio": 100.0,
         "imagen": "imagenes/collares/collares_14.0.jpg",
@@ -5365,11 +6673,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_14.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_140.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_141.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_142.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_143.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_144.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_145.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_146.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_147.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_148.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_149.0.jpg"
             }
         ]
     },
     {
-        "id": "13",
+        "id": "13.0",
         "categoria": "Collares",
         "precio": 95.0,
         "imagen": "imagenes/collares/collares_13.0.jpg",
@@ -5378,11 +6726,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_13.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_130.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_131.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_132.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_133.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_134.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_135.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_136.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_137.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_138.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_139.0.jpg"
             }
         ]
     },
     {
-        "id": "12",
+        "id": "12.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_12.0.jpg",
@@ -5391,11 +6779,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_12.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_120.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_121.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_122.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_123.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_124.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_125.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_126.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_127.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_128.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_129.0.jpg"
             }
         ]
     },
     {
-        "id": "11",
+        "id": "11.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_11.0.jpg",
@@ -5404,11 +6832,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_11.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_110.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_111.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_112.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_113.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_114.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_115.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_116.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_117.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_118.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_119.0.jpg"
             }
         ]
     },
     {
-        "id": "10",
+        "id": "10.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_10.0.jpg",
@@ -5419,11 +6887,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_10.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_100.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_101.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_102.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_103.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_104.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_105.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_106.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_107.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_108.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_109.0.jpg"
             }
         ]
     },
     {
-        "id": "9",
+        "id": "9.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_9.0.jpg",
@@ -5432,11 +6940,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_9.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_90.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_91.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_92.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_93.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_94.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_95.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_96.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_97.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_98.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_99.0.jpg"
             }
         ]
     },
     {
-        "id": "8",
+        "id": "8.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_8.0.jpg",
@@ -5445,11 +6993,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_8.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_80.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_81.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_82.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_83.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_84.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_85.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_86.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_87.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_88.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_89.0.jpg"
             }
         ]
     },
     {
-        "id": "7",
+        "id": "7.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_7.0.jpg",
@@ -5458,11 +7046,47 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_7.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_70.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_71.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_72.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_73.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_74.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_75.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_76.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_77.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_79.0.jpg"
             }
         ]
     },
     {
-        "id": "6",
+        "id": "6.0",
         "categoria": "Collares",
         "precio": 80.0,
         "imagen": "imagenes/collares/collares_6.0.jpg",
@@ -5471,11 +7095,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_6.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_60.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_61.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_62.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_63.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_64.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_65.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_66.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_67.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_68.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_69.0.jpg"
             }
         ]
     },
     {
-        "id": "5",
+        "id": "5.0",
         "categoria": "Collares",
         "precio": 90.0,
         "imagen": "imagenes/collares/collares_5.0.jpg",
@@ -5484,11 +7148,51 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_5.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_50.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_51.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_52.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_53.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_54.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_55.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_56.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_57.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_58.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_59.0.jpg"
             }
         ]
     },
     {
-        "id": "4",
+        "id": "4.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_4.0.jpg",
@@ -5497,11 +7201,83 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_4.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_40.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_400.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_401.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_41.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_42.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_43.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_44.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_45.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_46.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_47.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_48.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_49.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_400.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_401.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_400.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_401.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_401.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_401.5.jpg"
             }
         ]
     },
     {
-        "id": "3",
+        "id": "3.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_3.0.jpg",
@@ -5510,11 +7286,747 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_3.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_30.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_300.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_301.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_302.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_303.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_304.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_305.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_306.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_307.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_308.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_309.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_31.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_310.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_311.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_312.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_313.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_314.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_315.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_316.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_317.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_318.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_319.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_32.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_320.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_321.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_322.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_323.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_324.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_325.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_326.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_327.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_328.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_329.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_33.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_330.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_331.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_333.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_334.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_335.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_336.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_337.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_338.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_339.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_34.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_340.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_341.0.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_342.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_343.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_344.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_346.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_347.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_348.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_349.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_35.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_350.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_351.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_352.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_353.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_354.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_355.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_356.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_357.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_358.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_359.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_36.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_360.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_361.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_362.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_363.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_364.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_365.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_366.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_367.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_368.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_369.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_37.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_370.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_371.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_372.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_373.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_374.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_375.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_376.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_377.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_378.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_379.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_38.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_380.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_381.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_382.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_383.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_384.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_385.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_386.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_387.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_388.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_389.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_39.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_390.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_391.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_392.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_393.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_395.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_396.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_397.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_398.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_399.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_375.1.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_331.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_341.2.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_346.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_362.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_363.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_369.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_375.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_381.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_383.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_384.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_391.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_392.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_395.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_396.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_398.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_399.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_331.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_341.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_346.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_362.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_363.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_369.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_375.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_381.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_383.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_384.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_391.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_392.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_395.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_396.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_398.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_399.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_331.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_341.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_346.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_362.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_363.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_369.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_375.4.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_381.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_383.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_384.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_391.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_392.4.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_396.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_398.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_399.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_341.5.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_346.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_362.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_363.5.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_369.5.webp"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_381.5.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_383.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_384.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_391.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_396.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_398.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_399.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_345.6.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_383.6.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_384.6.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_394.6.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_396.6.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_398.6.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/collares/collares_399.6.mp4"
             }
         ]
     },
     {
-        "id": "2",
+        "id": "2.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_2.0.jpg",
@@ -5523,11 +8035,447 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_2.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_20.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_200.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_201.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_202.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_203.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_204.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_205.0.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_206.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_207.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_208.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_209.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_21.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_210.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_211.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_212.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_213.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_214.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_215.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_216.0.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_217.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_218.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_219.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_22.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_220.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_221.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_222.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_223.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_224.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_225.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_226.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_227.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_228.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_229.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_23.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_230.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_231.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_232.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_233.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_234.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_235.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_236.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_237.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_238.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_239.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_24.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_240.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_241.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_242.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_243.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_244.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_245.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_246.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_247.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_248.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_249.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_25.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_250.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_251.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_252.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_253.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_254.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_255.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_256.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_257.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_258.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_259.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_26.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_260.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_261.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_262.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_263.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_264.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_265.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_266.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_267.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_268.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_269.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_27.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_270.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_271.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_272.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_273.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_274.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_275.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_276.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_277.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_278.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_279.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_280.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_281.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_282.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_283.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_284.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_285.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_286.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_287.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_288.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_289.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_29.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_290.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_291.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_292.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_293.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_294.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_295.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_296.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_297.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_298.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_299.0.jpg"
             }
         ]
     },
     {
-        "id": "1",
+        "id": "1.0",
         "categoria": "Collares",
         "precio": 85.0,
         "imagen": "imagenes/collares/collares_1.0.jpg",
@@ -5536,6 +8484,466 @@ const productosCollares = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/collares/collares_1.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_10.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_100.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_101.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_102.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_103.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_104.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_105.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_106.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_107.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_108.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_109.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_11.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_110.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_111.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_112.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_113.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_114.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_115.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_116.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_117.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_118.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_119.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_12.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_120.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_121.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_122.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_123.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_124.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_125.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_126.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_127.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_128.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_129.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_13.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_130.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_131.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_132.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_133.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_134.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_135.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_136.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_137.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_138.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_139.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_14.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_140.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_141.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_142.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_143.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_144.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_145.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_146.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_147.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_148.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_149.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_15.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_150.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_151.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_152.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_153.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_154.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_155.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_156.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_157.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_158.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_159.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_16.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_160.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_161.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_162.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_163.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_164.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_165.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_166.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_167.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_168.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_169.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_17.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_170.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_171.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_172.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_173.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_174.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_175.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_176.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_177.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_178.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_179.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_18.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_180.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_181.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_182.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_183.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_184.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_185.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_186.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_187.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_188.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_189.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_19.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_190.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_191.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_192.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_193.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_194.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_195.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_196.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_197.0.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_198.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_199.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_197.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_197.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_197.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_197.5.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/collares/collares_197.6.webp"
             }
         ]
     }

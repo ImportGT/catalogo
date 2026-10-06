@@ -571,12 +571,20 @@
                 </select>
             </div>
             <div style="display: flex; align-items: center; gap: 4px;">
+                <span style="font-size: 11px; font-weight: bold; color: var(--primary-color);">Moneda:</span>
+                <select id="select-moneda" class="index-select" style="max-width: 100px; font-weight: bold; background: white;" onchange="renderizarCatalogo(); actualizarBarraCarrito();">
+                    <option value="Q">Quetzales (Q)</option>
+                    <option value="$">Dólares ($)</option>
+                    <option value="€">Euros (€)</option>
+                </select>
+            </div>
+            <div style="display: flex; align-items: center; gap: 4px;">
                 <select id="select-categoria" class="index-select" style="max-width: 130px; font-weight: bold;" onchange="navegarCategoria(this.value)">
                     <option value="" disabled selected>Ir a categoría...</option>
                 </select>
             </div>
             <div style="display: flex; align-items: center; gap: 4px;">
-                <input type="text" id="input-busqueda" class="search-input" placeholder="Buscar por código..." oninput="renderizarCatalogo()" style="max-width: 130px;">
+                <input type="text" id="input-busqueda" class="search-input" placeholder="Buscar por código..." oninput="renderizarCatalogo()" style="max-width: 110px;">
             </div>
             <button class="clear-cart-global-btn" onclick="limpiarCarrito()">Vaciar carrito</button>
         </div>
@@ -738,6 +746,34 @@
         let lightboxGaleria = [];
         let lightboxIndiceActual = 0;
 
+        function formatearPrecio(precioEnQuetzales) {
+            const selectMoneda = document.getElementById('select-moneda');
+            const moneda = selectMoneda ? selectMoneda.value : 'Q';
+
+            if (moneda === '$') {
+                let enDolares = precioEnQuetzales / 8;
+                return `$${Math.ceil(enDolares)}`;
+            } else if (moneda === '€') {
+                let enEuros = precioEnQuetzales / 10;
+                return `€${Math.ceil(enEuros)}`;
+            } else {
+                return `Q${precioEnQuetzales.toFixed(2)}`;
+            }
+        }
+
+        function calcularValorNumericoFormateado(precioEnQuetzales) {
+            const selectMoneda = document.getElementById('select-moneda');
+            const moneda = selectMoneda ? selectMoneda.value : 'Q';
+
+            if (moneda === '$') {
+                return Math.ceil(precioEnQuetzales / 8);
+            } else if (moneda === '€') {
+                return Math.ceil(precioEnQuetzales / 10);
+            } else {
+                return precioEnQuetzales;
+            }
+        }
+
         function cambiarTienda(nuevaTienda) {
             tiendaActual = nuevaTienda;
             if (tiendaActual === 'swarovski') {
@@ -823,6 +859,7 @@
 
                 categorias[cat].forEach(prod => {
                     let precioFinal = calcularPrecioFinal(prod.precio);
+                    let precioMostrarFormateado = formatearPrecio(precioFinal);
                     
                     let qtyTotalProd = 0;
                     for (let k in carrito) {
@@ -836,7 +873,7 @@
                     card.innerHTML = `
                         <img src="${prod.imagen}" alt="Codigo ${prod.id}" loading="lazy" onclick="abrirGaleria('${prod.categoria}', '${prod.id}')" title="Ver galeria">
                         <div class="product-code">Cod. ${prod.id}</div>
-                        <div class="product-price" style="display: ${preciosVisibles ? 'block' : 'none'};">Q${precioFinal.toFixed(2)}</div>
+                        <div class="product-price" style="display: ${preciosVisibles ? 'block' : 'none'};">${precioMostrarFormateado}</div>
                         <div class="qty-control">
                             <button onclick="cambiarCantidadGeneral('${prod.id}', '${prod.categoria}', -1)">-</button>
                             <span class="qty-display" id="qty-${prod.categoria}-${prod.id}">${qtyTotalProd}</span>
@@ -1020,7 +1057,8 @@
             }
             
             if (preciosVisibles) {
-                document.getElementById('cart-summary').innerText = `${totalPiezas} pzas | Q${totalPrice.toFixed(2)}`;
+                let totalTextoFormateado = formatearPrecio(totalPrice);
+                document.getElementById('cart-summary').innerText = `${totalPiezas} pzas | ${totalTextoFormateado}`;
             } else {
                 document.getElementById('cart-summary').innerText = `${totalPiezas} pzas`;
             }
@@ -1145,7 +1183,7 @@
                             `;
                         }
 
-                        let precioTextoHTML = preciosVisibles ? `Q${precioItem.toFixed(2)} c/u` : '';
+                        let precioTextoHTML = preciosVisibles ? `${formatearPrecio(precioItem)} c/u` : '';
 
                         htmlContent += `
                             <div class="cart-item-row">
@@ -1165,9 +1203,10 @@
                     });
 
                     if (preciosVisibles) {
+                        let subtotalFormateado = formatearPrecio(subtotalesGrupo[linea]);
                         htmlContent += `
                             <div style="text-align: right; font-size: 12px; font-weight: bold; color: #444; padding: 4px 5px 8px 5px; border-bottom: 2px solid #ddd;">
-                                Subtotal ${linea}: Q${subtotalesGrupo[linea].toFixed(2)}
+                                Subtotal ${linea}: ${subtotalFormateado}
                             </div>
                         `;
                     }
@@ -1177,7 +1216,8 @@
             container.innerHTML = htmlContent;
             
             if (preciosVisibles) {
-                document.getElementById('cart-modal-total').innerText = `Total General: Q${totalGeneral.toFixed(2)}`;
+                let totalGeneralFormateado = formatearPrecio(totalGeneral);
+                document.getElementById('cart-modal-total').innerText = `Total General: ${totalGeneralFormateado}`;
                 document.getElementById('cart-modal-total').style.display = 'block';
             } else {
                 document.getElementById('cart-modal-total').style.display = 'none';
@@ -1337,27 +1377,29 @@
                         doc.text(detalleTexto, 90, currentY + 2);
                         doc.text(String(item.qty), 125, currentY + 2);
                         if (preciosVisibles) {
-                            doc.text(`Q${sub.toFixed(2)}`, 150, currentY + 2);
+                            doc.text(`${formatearPrecio(sub)}`, 150, currentY + 2);
                         }
                     }
 
                     if (preciosVisibles) {
+                        let subtotalLineaFormateado = formatearPrecio(subtotalesPDF[linea]);
                         if (y > 270) { doc.addPage(); y = 20; }
                         y += 4;
                         doc.setFont("helvetica", "bold");
-                        doc.text(`Subtotal ${linea}: Q${subtotalesPDF[linea].toFixed(2)}`, 140, y, { align: 'right' });
+                        doc.text(`Subtotal ${linea}: ${subtotalLineaFormateado}`, 180, y, { align: 'right' });
                         y += 8;
                     }
                 }
             }
 
             if (preciosVisibles) {
+                let totalGeneralFormateado = formatearPrecio(totalGeneral);
                 if (y > 270) { doc.addPage(); y = 20; }
                 y += 4;
                 doc.line(14, y, 195, y); y += 8;
                 doc.setFont("helvetica", "bold");
                 doc.setFontSize(11);
-                doc.text(`TOTAL GENERAL: Q${totalGeneral.toFixed(2)}`, 14, y);
+                doc.text(`TOTAL GENERAL: ${totalGeneralFormateado}`, 14, y);
             }
             
             doc.save("Resumen_Pedido.pdf");

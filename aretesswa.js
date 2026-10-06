@@ -1,6 +1,6 @@
 const productosAretesSwa = [
     {
-        "id": "60",
+        "id": "60.0",
         "categoria": "Aretes Swarovski",
         "precio": 120.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_60.avif",
@@ -21,7 +21,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "59",
+        "id": "59.0",
         "categoria": "Aretes Swarovski",
         "precio": 190.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_59.avif",
@@ -62,7 +62,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "58",
+        "id": "58.0",
         "categoria": "Aretes Swarovski",
         "precio": 145.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_58.avif",
@@ -99,7 +99,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "57",
+        "id": "57.0",
         "categoria": "Aretes Swarovski",
         "precio": 120.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_57.avif",
@@ -132,7 +132,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "56",
+        "id": "56.0",
         "categoria": "Aretes Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_56.avif",
@@ -161,7 +161,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "55",
+        "id": "55.0",
         "categoria": "Aretes Swarovski",
         "precio": 125.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_55.avif",
@@ -190,7 +190,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "54",
+        "id": "54.0",
         "categoria": "Aretes Swarovski",
         "precio": 145.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_54.avif",
@@ -223,7 +223,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "53",
+        "id": "53.0",
         "categoria": "Aretes Swarovski",
         "precio": 195.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_53.avif",
@@ -252,7 +252,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "52",
+        "id": "52.0",
         "categoria": "Aretes Swarovski",
         "precio": 135.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_52.jpg",
@@ -281,7 +281,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "51",
+        "id": "51.0",
         "categoria": "Aretes Swarovski",
         "precio": 260.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_51.avif",
@@ -310,7 +310,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "50",
+        "id": "50.0",
         "categoria": "Aretes Swarovski",
         "precio": 190.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_50.avif",
@@ -343,7 +343,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "49",
+        "id": "49.0",
         "categoria": "Aretes Swarovski",
         "precio": 160.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_49.avif",
@@ -376,7 +376,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "48",
+        "id": "48.0",
         "categoria": "Aretes Swarovski",
         "precio": 150.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_48.avif",
@@ -409,7 +409,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "47",
+        "id": "47.0",
         "categoria": "Aretes Swarovski",
         "precio": 320.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_47.avif",
@@ -438,7 +438,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "46",
+        "id": "46.0",
         "categoria": "Aretes Swarovski",
         "precio": 145.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_46.avif",
@@ -475,7 +475,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "45",
+        "id": "45.0",
         "categoria": "Aretes Swarovski",
         "precio": 135.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_45.avif",
@@ -508,7 +508,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "44",
+        "id": "44.0",
         "categoria": "Aretes Swarovski",
         "precio": 135.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_44.avif",
@@ -549,7 +549,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "43",
+        "id": "43.0",
         "categoria": "Aretes Swarovski",
         "precio": 155.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_43.avif",
@@ -590,7 +590,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "42",
+        "id": "42.0",
         "categoria": "Aretes Swarovski",
         "precio": 130.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_42.avif",
@@ -619,7 +619,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "41",
+        "id": "41.0",
         "categoria": "Aretes Swarovski",
         "precio": 110.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_41.avif",
@@ -636,7 +636,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "40",
+        "id": "40.0",
         "categoria": "Aretes Swarovski",
         "precio": 110.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_40.avif",
@@ -669,7 +669,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "39",
+        "id": "39.0",
         "categoria": "Aretes Swarovski",
         "precio": 150.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_39.avif",
@@ -698,7 +698,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "38",
+        "id": "38.0",
         "categoria": "Aretes Swarovski",
         "precio": 120.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_38.avif",
@@ -727,7 +727,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "37",
+        "id": "37.0",
         "categoria": "Aretes Swarovski",
         "precio": 120.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_37.avif",
@@ -764,7 +764,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "36",
+        "id": "36.0",
         "categoria": "Aretes Swarovski",
         "precio": 170.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_36.avif",
@@ -801,7 +801,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "35",
+        "id": "35.0",
         "categoria": "Aretes Swarovski",
         "precio": 170.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_35.jpg",
@@ -830,7 +830,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "34",
+        "id": "34.0",
         "categoria": "Aretes Swarovski",
         "precio": 135.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_34.webp",
@@ -859,7 +859,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "33",
+        "id": "33.0",
         "categoria": "Aretes Swarovski",
         "precio": 120.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_33.avif",
@@ -876,7 +876,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "32",
+        "id": "32.0",
         "categoria": "Aretes Swarovski",
         "precio": 340.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_32.jpg",
@@ -897,7 +897,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "31",
+        "id": "31.0",
         "categoria": "Aretes Swarovski",
         "precio": 200.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_31.avif",
@@ -938,7 +938,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "30",
+        "id": "30.0",
         "categoria": "Aretes Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_30.webp",
@@ -967,7 +967,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "29",
+        "id": "29.0",
         "categoria": "Aretes Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_29.avif",
@@ -1008,7 +1008,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "28",
+        "id": "28.0",
         "categoria": "Aretes Swarovski",
         "precio": 305.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_28.avif",
@@ -1045,7 +1045,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "27",
+        "id": "27.0",
         "categoria": "Aretes Swarovski",
         "precio": 340.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_27.jpg",
@@ -1070,7 +1070,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "26",
+        "id": "26.0",
         "categoria": "Aretes Swarovski",
         "precio": 135.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_26.avif",
@@ -1103,7 +1103,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "25",
+        "id": "25.0",
         "categoria": "Aretes Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_25.avif",
@@ -1148,7 +1148,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "24",
+        "id": "24.0",
         "categoria": "Aretes Swarovski",
         "precio": 225.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_24.jpg",
@@ -1177,7 +1177,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "23",
+        "id": "23.0",
         "categoria": "Aretes Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_23.jpg",
@@ -1206,7 +1206,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "22",
+        "id": "22.0",
         "categoria": "Aretes Swarovski",
         "precio": 340.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_22.jpg",
@@ -1219,7 +1219,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "21",
+        "id": "21.0",
         "categoria": "Aretes Swarovski",
         "precio": 340.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_21.webp",
@@ -1236,7 +1236,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "20",
+        "id": "20.0",
         "categoria": "Aretes Swarovski",
         "precio": 110.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_20.avif",
@@ -1273,7 +1273,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "19",
+        "id": "19.0",
         "categoria": "Aretes Swarovski",
         "precio": 115.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_19.avif",
@@ -1306,7 +1306,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "18",
+        "id": "18.0",
         "categoria": "Aretes Swarovski",
         "precio": 115.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_18.jpg",
@@ -1319,7 +1319,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "17",
+        "id": "17.0",
         "categoria": "Aretes Swarovski",
         "precio": 115.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_17.avif",
@@ -1352,7 +1352,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "16",
+        "id": "16.0",
         "categoria": "Aretes Swarovski",
         "precio": 340.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_16.avif",
@@ -1381,7 +1381,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "15",
+        "id": "15.0",
         "categoria": "Aretes Swarovski",
         "precio": 250.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_15.jpg",
@@ -1406,7 +1406,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "14",
+        "id": "14.0",
         "categoria": "Aretes Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_14.avif",
@@ -1435,7 +1435,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "13",
+        "id": "13.0",
         "categoria": "Aretes Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_13.webp",
@@ -1476,7 +1476,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "12",
+        "id": "12.0",
         "categoria": "Aretes Swarovski",
         "precio": 140.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_12.jpg",
@@ -1501,7 +1501,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "11",
+        "id": "11.0",
         "categoria": "Aretes Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_11.avif",
@@ -1534,7 +1534,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "10",
+        "id": "10.0",
         "categoria": "Aretes Swarovski",
         "precio": 120.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_10.avif",
@@ -1571,7 +1571,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "9",
+        "id": "9.0",
         "categoria": "Aretes Swarovski",
         "precio": 270.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_9.jpg",
@@ -1604,7 +1604,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "8",
+        "id": "8.0",
         "categoria": "Aretes Swarovski",
         "precio": 190.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_8.avif",
@@ -1645,7 +1645,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "7",
+        "id": "7.0",
         "categoria": "Aretes Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_7.avif",
@@ -1674,7 +1674,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "6",
+        "id": "6.0",
         "categoria": "Aretes Swarovski",
         "precio": 125.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_6.avif",
@@ -1686,11 +1686,23 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_60.avif"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_6.2.avif"
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_60.2.avif"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_6.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_60.3.avif"
             },
             {
                 "tipo": "imagen",
@@ -1703,7 +1715,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "5",
+        "id": "5.0",
         "categoria": "Aretes Swarovski",
         "precio": 140.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_5.avif",
@@ -1715,7 +1727,87 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_50.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_51.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_52.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_53.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_54.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_55.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_56.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_57.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_58.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_59.avif"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_5.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_50.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_51.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_52.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_53.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_54.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_55.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_56.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_57.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_58.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_59.2.avif"
             },
             {
                 "tipo": "imagen",
@@ -1723,20 +1815,172 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_50.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_51.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_52.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_53.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_54.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_55.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_56.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_57.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_58.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_59.3.avif"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_5.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_50.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_51.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_52.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_53.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_54.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_55.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_56.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_57.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_58.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_59.4.avif"
             },
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_5.5.avif"
             },
             {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_50.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_51.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_52.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_53.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_54.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_55.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_56.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_57.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_58.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_59.5.avif"
+            },
+            {
                 "tipo": "video",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_5.6.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_50.6.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_54.6.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_57.6.webm"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_58.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_59.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_58.7.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_59.7.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_59.8.webm"
             }
         ]
     },
     {
-        "id": "4",
+        "id": "4.0",
         "categoria": "Aretes Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_4.avif",
@@ -1748,7 +1992,87 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_40.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_41.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_42.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_43.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_44.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_45.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_46.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_47.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_48.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_49.avif"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_4.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_40.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_41.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_42.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_43.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_44.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_45.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_46.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_47.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_48.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_49.2.avif"
             },
             {
                 "tipo": "imagen",
@@ -1756,7 +2080,79 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_40.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_42.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_43.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_44.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_45.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_46.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_47.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_48.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_49.3.avif"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_4.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_40.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_42.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_43.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_44.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_45.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_46.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_47.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_48.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_49.4.avif"
             },
             {
                 "tipo": "imagen",
@@ -1764,20 +2160,104 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_40.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_42.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_43.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_44.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_45.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_46.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_47.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_48.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_49.5.avif"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_4.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_40.6.webm"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_43.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_44.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_45.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_46.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_48.6.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_49.6.webm"
             },
             {
                 "tipo": "video",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_4.7.mp4"
             },
             {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_43.7.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_44.7.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_46.7.webm"
+            },
+            {
                 "tipo": "video",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_4.8.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_43.8.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_44.8.webm"
             }
         ]
     },
     {
-        "id": "3",
+        "id": "3.0",
         "categoria": "Aretes Swarovski",
         "precio": 125.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_3.avif",
@@ -1789,7 +2269,87 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_30.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_31.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_32.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_33.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_34.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_35.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_36.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_37.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_38.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_39.avif"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_3.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_30.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_31.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_32.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_33.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_34.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_35.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_36.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_37.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_38.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_39.2.avif"
             },
             {
                 "tipo": "imagen",
@@ -1797,7 +2357,75 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_30.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_31.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_32.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_34.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_35.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_36.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_37.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_38.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_39.3.avif"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_3.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_30.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_31.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_34.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_35.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_36.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_37.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_38.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_39.4.avif"
             },
             {
                 "tipo": "imagen",
@@ -1805,7 +2433,67 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_30.5.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_31.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_34.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_35.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_36.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_37.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_38.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_39.5.avif"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_3.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_31.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_36.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_37.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_31.7.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_36.7.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_37.7.webm"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_31.8.avif"
             },
             {
                 "tipo": "video",
@@ -1814,7 +2502,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "2",
+        "id": "2.0",
         "categoria": "Aretes Swarovski",
         "precio": 195.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_2.avif",
@@ -1826,7 +2514,83 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_20.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_21.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_22.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_23.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_24.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_26.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_27.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_28.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_29.avif"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_2.1.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_20.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_21.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_23.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_24.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_26.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_27.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_28.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_29.2.avif"
             },
             {
                 "tipo": "imagen",
@@ -1834,7 +2598,71 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_20.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_23.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_24.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_26.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_27.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_28.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_29.3.avif"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_2.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_20.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_23.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_24.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_26.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_27.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_28.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_29.4.avif"
             },
             {
                 "tipo": "imagen",
@@ -1842,16 +2670,92 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_20.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_23.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_24.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_26.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_28.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_29.5.avif"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_2.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_20.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_26.6.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_28.6.webm"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_29.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_20.7.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.7.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_28.7.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_29.7.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.8.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_29.8.webm"
             },
             {
                 "tipo": "video",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_2.9.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_25.9.webm"
             }
         ]
     },
     {
-        "id": "1",
+        "id": "1.0",
         "categoria": "Aretes Swarovski",
         "precio": 140.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_1.jpg",
@@ -1863,7 +2767,83 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_10.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_11.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_12.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_13.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_14.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_15.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_16.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_17.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_18.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_19.avif"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_1.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_10.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_11.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_12.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_13.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_14.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_15.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_16.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_17.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_19.2.avif"
             },
             {
                 "tipo": "imagen",
@@ -1871,15 +2851,147 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_10.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_11.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_12.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_13.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_14.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_15.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_16.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_17.3.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_19.3.avif"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_1.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_10.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_11.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_12.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_14.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_15.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_16.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_17.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_19.4.avif"
             },
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_1.5.jpg"
             },
             {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_10.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_11.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_13.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_14.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_16.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_17.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_19.5.avif"
+            },
+            {
                 "tipo": "video",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_1.6.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_10.6.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_11.6.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_13.6.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_17.6.webm"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_19.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_10.7.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_13.7.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_13.8.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_13.9.jpg"
             }
         ]
     }

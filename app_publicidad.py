@@ -80,7 +80,7 @@ class AppGeneradorPublicidad:
         # 3. Tipo de Publicidad
         tk.Label(frame_main, text="3. Tipo de Publicidad:", bg="#f4f6f9", font=("Helvetica", 9, "bold")).pack(anchor="w", pady=(8, 2))
         self.tipo_pub_var = tk.StringVar(value="ultimos")
-        tk.Radiobutton(frame_main, text="Últimos Ingresos (Top 5 Globales)", variable=self.tipo_pub_var, value="ultimos", bg="#f4f6f9", font=("Helvetica", 9), command=self.toggle_producto_especifico).pack(anchor="w")
+        tk.Radiobutton(frame_main, text="Últimos Ingresos (Top 5 del Catálogo)", variable=self.tipo_pub_var, value="ultimos", bg="#f4f6f9", font=("Helvetica", 9), command=self.toggle_producto_especifico).pack(anchor="w")
         tk.Radiobutton(frame_main, text="Producto del Día (Aleatorio con galería)", variable=self.tipo_pub_var, value="dia", bg="#f4f6f9", font=("Helvetica", 9), command=self.toggle_producto_especifico).pack(anchor="w")
         tk.Radiobutton(frame_main, text="Elegir Producto Específico (por Línea y Código)", variable=self.tipo_pub_var, value="especifico", bg="#f4f6f9", font=("Helvetica", 9), command=self.toggle_producto_especifico).pack(anchor="w")
 
@@ -162,15 +162,6 @@ class AppGeneradorPublicidad:
             except Exception:
                 continue
 
-            # Determinamos el prefijo correspondiente según la carpeta de imágenes
-            prefijo_asociado = ""
-            if "dijes_tous" in carpeta_imagenes:
-                prefijo_asociado = "dijes_tous"
-            elif "anillos_tous" in carpeta_imagenes:
-                prefijo_asociado = "anillos_tous"
-            # O podemos deducirlo del nombre de la carpeta base o asignarlo según la tarea
-            # (En el bucle de archivos evaluamos de forma flexible)
-
             for _, row in df.iterrows():
                 raw_id = None
                 for col_id in ['NUMERO', 'NUM.', 'CODIGO', 'CÓDIGO']:
@@ -180,13 +171,10 @@ class AppGeneradorPublicidad:
                 if raw_id is None:
                     raw_id = row.iloc[0]
 
-                try:
-                    val_float = float(raw_id)
-                    if val_float.is_integer():
-                        prod_id = str(int(val_float))
-                    else:
-                        prod_id = str(raw_id).strip()
-                except (ValueError, TypeError):
+                match_id = re.search(r'^(\d+)', str(raw_id).strip())
+                if match_id:
+                    prod_id = match_id.group(1)
+                else:
                     prod_id = str(raw_id).strip()
 
                 if not prod_id or prod_id.lower() == 'nan':
@@ -201,43 +189,41 @@ class AppGeneradorPublicidad:
                         except (ValueError, TypeError):
                             pass
 
-                imagen_path = ""
                 galeria_completa = []
                 
                 if os.path.exists(carpeta_imagenes):
-                    for archivo_dir in os.listdir(carpeta_imagenes):
+                    archivos_dir = os.listdir(carpeta_imagenes)
+                    for archivo_dir in archivos_dir:
                         ext = archivo_dir.split('.')[-1].lower()
                         if ext in [e.replace('.', '') for e in extensiones_validas]:
-                            nombre_base = os.path.splitext(archivo_dir)[0]
-                            numeros_extra = re.findall(r'\d+', nombre_base)
+                            nombre_base = os.path.splitext(archivo_dir)[0].lower()
                             
-                            es_match = False
-                            if "dijes_tous" in carpeta_imagenes:
-                                id_limpio = re.sub(r'[\s\-]+', '', str(prod_id)).lower()
-                                archivo_limpio = re.sub(r'[\s_\-]+', '', nombre_base).lower()
-                                if id_limpio in archivo_limpio and archivo_limpio.startswith("dijestous"):
-                                    es_match = True
-                            else:
-                                if numeros_extra and numeros_extra[0].lower() == str(prod_id).lower():
-                                    es_match = True
-
-                            if es_match:
+                            partes_nombre = re.split(r'[_.\-\s]+', nombre_base)
+                            if str(prod_id) in partes_nombre:
                                 full_p = os.path.join(carpeta_imagenes, archivo_dir)
                                 if full_p not in galeria_completa:
                                     galeria_completa.append(full_p)
 
-                if galeria_completa:
-                    def extraer_tupla_orden(ruta_arch):
-                        nums = re.findall(r'\d+', os.path.basename(ruta_arch))
-                        return tuple([int(n) for n in nums[1:]]) if len(nums) > 1 else (0,)
-
-                    galeria_completa = sorted(galeria_completa, key=extraer_tupla_orden)
-                    imagen_path = galeria_completa[0]
-                else:
+                if not galeria_completa:
                     continue
 
+                # Identificar la portada perfecta:
+                # 1. Si el archivo termina exactamente en el código (ej. chme_152) sin subíndices decimales ni puntos extra.
+                # 2. O si termina en .0 (como en Tous).
+                def clave_orden_fotos(ruta_arch):
+                    nombre_f = os.path.basename(ruta_arch).lower()
+                    nombre_sin_ext = os.path.splitext(nombre_f)[0]
+                    
+                    # Prioridad 0: Termina exactamente en el código sin puntos ni subíndices (ej. chme_152) o termina en .0
+                    if nombre_sin_ext.endswith(f"_{prod_id}") or nombre_sin_ext == f"{prod_id}" or re.search(r'\.0\.[a-z0-9]+$', nombre_f):
+                        return (0, nombre_f)
+                    return (1, nombre_f)
+
+                galeria_completa = sorted(galeria_completa, key=clave_orden_fotos)
+                imagen_portada = galeria_completa[0]
+
                 try:
-                    tiempo_mod = os.path.getmtime(imagen_path)
+                    tiempo_mod = os.path.getmtime(imagen_portada)
                 except Exception:
                     tiempo_mod = 0.0
 
@@ -245,12 +231,13 @@ class AppGeneradorPublicidad:
                     "id": prod_id,
                     "linea": nombre_linea,
                     "precio_base": precio_base,
-                    "portada": imagen_path,
+                    "portada": imagen_portada,
                     "galeria": galeria_completa,
                     "timestamp": tiempo_mod
                 })
 
-        todos_productos.sort(key=lambda x: x["timestamp"])
+        # Ordenar globalmente por timestamp (los más recientes primero)
+        todos_productos.sort(key=lambda x: x["timestamp"], reverse=True)
         return todos_productos
 
     def ejecutar_generacion(self):
@@ -275,7 +262,8 @@ class AppGeneradorPublicidad:
                 os.makedirs(carpeta_destino)
 
             if tipo == "ultimos":
-                ultimos_5 = productos[-5:]
+                # Tomamos los 5 ingresos más recientes globales
+                ultimos_5 = productos[:5]
                 self.generar_imagen_ultimos_ingresos(ultimos_5, nombre_col, mostrar_precios, margen, carpeta_destino)
                 messagebox.showinfo("¡Éxito!", "Publicidad estética de Últimos Ingresos generada correctamente en la carpeta PUBLICIDAD CREADA.")
 

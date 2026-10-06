@@ -9,6 +9,462 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_1.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_10.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_100.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_101.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_102.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_103.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_104.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_105.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_106.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_107.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_108.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_109.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_11.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_110.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_111.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_112.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_113.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_114.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_115.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_116.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_117.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_118.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_119.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_12.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_120.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_121.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_122.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_123.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_124.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_125.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_126.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_127.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_128.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_129.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_13.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_130.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_131.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_132.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_134.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_135.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_136.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_137.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_138.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_139.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_14.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_140.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_141.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_142.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_143.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_144.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_145.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_146.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_147.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_148.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_149.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_15.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_150.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_151.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_152.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_153.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_154.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_155.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_156.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_157.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_158.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_159.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_16.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_160.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_161.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_162.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_163.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_164.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_165.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_166.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_167.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_168.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_169.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_17.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_170.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_171.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_172.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_173.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_174.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_175.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_176.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_177.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_178.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_179.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_18.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_180.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_181.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_182.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_183.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_184.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_185.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_186.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_187.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_188.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_189.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_19.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_190.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_191.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_192.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_193.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_194.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_195.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_196.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_197.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_198.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_199.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.1.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.2.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.3 (1).jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.5.jpg"
             }
         ]
     },
@@ -22,6 +478,458 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_2.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_20.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_200.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_201.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_203.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_204.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_205.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_206.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_207.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_208.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_209.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_21.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_210.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_211.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_212.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_213.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_214.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_215.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_216.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_217.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_218.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_219.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_22.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_220.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_221.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_222.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_224.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_225.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_226.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_227.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_228.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_229.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_23.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_230.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_231.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_232.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_233.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_234.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_235.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_236.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_237.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_239.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_24.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_240.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_241.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_242.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_243.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_244.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_245.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_246.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_247.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_248.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_249.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_25.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_250.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_251.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_252.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_253.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_254.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_255.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_256.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_257.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_258.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_259.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_26.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_260.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_261.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_262.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_263.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_264.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_265.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_266.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_267.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_268.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_269.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_27.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_270.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_271.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_272.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_273.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_274.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_275.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_276.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_277.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_278.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_279.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_28.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_280.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_281.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_282.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_283.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_284.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_285.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_286.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_287.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_288.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_289.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_29.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_290.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_291.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_292.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_293A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_293B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_294.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_295.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_296.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_297.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_298.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_299.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.5.jpg"
             }
         ]
     },
@@ -35,6 +943,550 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_3.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_30.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_300.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_301.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_302.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_303.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_304.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_305.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_306.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_307A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_307B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_309.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_31.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_310.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_311.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_312.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_315A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_315B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_316.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_317.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_318.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_32.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_321.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_322.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_323.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_33.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_339.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_34.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_340.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_341.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_342.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_343.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_344.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_345.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_346.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_347.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_348.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_349.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_35.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_354.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_355.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_359.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_36.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_360.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_361.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_362.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_363.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_364.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_37.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_373.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_374.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_376.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_377.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_378.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_38.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_380.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_381.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_382.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_383.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_384.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_386.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_39.png"
             }
         ]
     },
@@ -48,6 +1500,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_4.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_40.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_41.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_42.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_43.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_44.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_45.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_46.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_47.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_48.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_49.jpg"
             }
         ]
     },
@@ -61,6 +1553,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_5.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_50.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_51.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_52.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_53.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_54.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_55.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_56.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_57.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_58.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_59.jpg"
             }
         ]
     },
@@ -74,6 +1606,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_6.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_60.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_61.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_62.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_63.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_64.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_65.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_66.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_67.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_68.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_69.png"
             }
         ]
     },
@@ -87,6 +1659,38 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_7.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_70.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_73.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_74.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_75.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_76.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_77.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_78.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_79.jpg"
             }
         ]
     },
@@ -100,6 +1704,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_8.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_80.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_81.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_82.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_83.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_84.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_85.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_86.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_87.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_88.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_89.jpg"
             }
         ]
     },
@@ -113,6 +1757,42 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_9.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_90.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_91.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_92.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_93.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_94.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_95.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_96.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_97.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_99.jpg"
             }
         ]
     },
@@ -126,6 +1806,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_10.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_100.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_101.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_102.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_103.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_104.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_105.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_106.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_107.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_108.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_109.jpg"
             }
         ]
     },
@@ -139,6 +1859,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_11.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_110.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_111.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_112.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_113.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_114.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_115.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_116.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_117.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_118.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_119.jpg"
             }
         ]
     },
@@ -152,6 +1912,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_12.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_120.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_121.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_122.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_123.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_124.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_125.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_126.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_127.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_128.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_129.jpg"
             }
         ]
     },
@@ -165,6 +1965,62 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_13.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_130.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_131.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_132.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_134.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_135.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_136.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_137.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_138.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_139.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.1.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.2.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.3 (1).jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_133.5.jpg"
             }
         ]
     },
@@ -178,6 +2034,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_14.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_140.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_141.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_142.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_143.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_144.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_145.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_146.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_147.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_148.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_149.jpg"
             }
         ]
     },
@@ -191,6 +2087,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_15.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_150.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_151.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_152.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_153.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_154.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_155.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_156.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_157.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_158.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_159.jpg"
             }
         ]
     },
@@ -204,6 +2140,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_16.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_160.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_161.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_162.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_163.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_164.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_165.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_166.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_167.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_168.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_169.jpg"
             }
         ]
     },
@@ -217,6 +2193,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_17.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_170.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_171.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_172.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_173.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_174.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_175.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_176.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_177.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_178.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_179.jpg"
             }
         ]
     },
@@ -230,6 +2246,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_18.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_180.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_181.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_182.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_183.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_184.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_185.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_186.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_187.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_188.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_189.jpg"
             }
         ]
     },
@@ -243,6 +2299,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_19.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_190.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_191.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_192.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_193.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_194.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_195.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_196.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_197.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_198.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_199.jpg"
             }
         ]
     },
@@ -256,6 +2352,42 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_20.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_200.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_201.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_203.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_204.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_205.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_206.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_207.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_208.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_209.jpg"
             }
         ]
     },
@@ -269,6 +2401,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_21.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_210.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_211.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_212.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_213.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_214.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_215.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_216.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_217.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_218.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_219.jpg"
             }
         ]
     },
@@ -282,6 +2454,62 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_22.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_220.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_221.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_222.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_224.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_225.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_226.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_227.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_228.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_229.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_223.5.jpg"
             }
         ]
     },
@@ -295,6 +2523,42 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_23.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_230.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_231.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_232.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_233.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_234.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_235.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_236.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_237.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_239.jpg"
             }
         ]
     },
@@ -308,6 +2572,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_24.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_240.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_241.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_242.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_243.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_244.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_245.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_246.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_247.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_248.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_249.png"
             }
         ]
     },
@@ -321,6 +2625,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_25.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_250.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_251.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_252.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_253.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_254.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_255.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_256.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_257.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_258.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_259.jpg"
             }
         ]
     },
@@ -334,6 +2678,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_26.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_260.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_261.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_262.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_263.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_264.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_265.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_266.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_267.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_268.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_269.jpg"
             }
         ]
     },
@@ -347,6 +2731,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_27.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_270.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_271.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_272.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_273.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_274.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_275.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_276.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_277.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_278.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_279.jpg"
             }
         ]
     },
@@ -360,6 +2784,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_28.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_280.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_281.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_282.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_283.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_284.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_285.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_286.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_287.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_288.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_289.jpg"
             }
         ]
     },
@@ -373,6 +2837,50 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_29.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_290.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_291.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_292.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_293A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_293B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_294.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_295.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_296.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_297.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_298.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_299.jpg"
             }
         ]
     },
@@ -386,6 +2894,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_30.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_300.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_301.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_302.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_303.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_304.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_305.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_306.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_307A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_307B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_309.jpg"
             }
         ]
     },
@@ -399,6 +2947,154 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_31.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_310.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_311.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_312.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_315A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_315B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_316.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_317.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_318.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -412,6 +3108,118 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_32.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_321.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_322.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_323.jpg"
             }
         ]
     },
@@ -425,6 +3233,10 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_33.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_339.jpg"
             }
         ]
     },
@@ -438,6 +3250,46 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_34.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_340.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_341.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_342.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_343.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_344.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_345.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_346.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_347.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_348.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_349.jpg"
             }
         ]
     },
@@ -451,6 +3303,18 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_35.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_354.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_355.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_359.jpg"
             }
         ]
     },
@@ -464,6 +3328,74 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_36.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_360.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_361.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_362.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_363.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_364.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369C.jpg"
             }
         ]
     },
@@ -477,6 +3409,62 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_37.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_373.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_374.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_376.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_377.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_378.jpg"
             }
         ]
     },
@@ -490,6 +3478,30 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_38.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_380.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_381.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_382.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_383.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_384.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_386.jpg"
             }
         ]
     },
@@ -3772,6 +6784,10 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_293A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_293B.jpg"
             }
         ]
     },
@@ -3779,9 +6795,13 @@ const productosPulserasBp = [
         "id": "293B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_293B.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_293A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_293A.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_293B.jpg"
@@ -3967,6 +6987,10 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_307A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_307B.jpg"
             }
         ]
     },
@@ -3974,9 +6998,13 @@ const productosPulserasBp = [
         "id": "307B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_307B.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_307A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_307A.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_307B.jpg"
@@ -4045,6 +7073,14 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_313A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313C.jpg"
             }
         ]
     },
@@ -4052,12 +7088,20 @@ const productosPulserasBp = [
         "id": "313B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_313B.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_313A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313A.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_313B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313C.jpg"
             }
         ]
     },
@@ -4065,9 +7109,17 @@ const productosPulserasBp = [
         "id": "313C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_313C.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_313A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_313B.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_313C.jpg"
@@ -4084,6 +7136,10 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_315A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_315B.jpg"
             }
         ]
     },
@@ -4091,9 +7147,13 @@ const productosPulserasBp = [
         "id": "315B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_315B.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_315A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_315A.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_315B.jpg"
@@ -4149,6 +7209,106 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4156,12 +7316,112 @@ const productosPulserasBp = [
         "id": "319B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4169,12 +7429,112 @@ const productosPulserasBp = [
         "id": "319C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4182,12 +7542,112 @@ const productosPulserasBp = [
         "id": "319D",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4195,12 +7655,112 @@ const productosPulserasBp = [
         "id": "319E",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4208,12 +7768,112 @@ const productosPulserasBp = [
         "id": "319F",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4221,12 +7881,112 @@ const productosPulserasBp = [
         "id": "319G",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4234,12 +7994,112 @@ const productosPulserasBp = [
         "id": "319H",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4247,12 +8107,112 @@ const productosPulserasBp = [
         "id": "319I",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4260,12 +8220,112 @@ const productosPulserasBp = [
         "id": "319J",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4273,12 +8333,112 @@ const productosPulserasBp = [
         "id": "319K",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4286,12 +8446,112 @@ const productosPulserasBp = [
         "id": "319L",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4299,12 +8559,112 @@ const productosPulserasBp = [
         "id": "319M",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4312,12 +8672,112 @@ const productosPulserasBp = [
         "id": "319N",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4325,12 +8785,112 @@ const productosPulserasBp = [
         "id": "319O",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4338,12 +8898,112 @@ const productosPulserasBp = [
         "id": "319P",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4351,12 +9011,112 @@ const productosPulserasBp = [
         "id": "319Q",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4364,12 +9124,112 @@ const productosPulserasBp = [
         "id": "319R",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4377,12 +9237,112 @@ const productosPulserasBp = [
         "id": "319S",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4390,12 +9350,112 @@ const productosPulserasBp = [
         "id": "319T",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4403,12 +9463,112 @@ const productosPulserasBp = [
         "id": "319U",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4416,12 +9576,112 @@ const productosPulserasBp = [
         "id": "319V",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4429,12 +9689,112 @@ const productosPulserasBp = [
         "id": "319W",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4442,12 +9802,112 @@ const productosPulserasBp = [
         "id": "319X",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4455,12 +9915,112 @@ const productosPulserasBp = [
         "id": "319Y",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
             }
         ]
     },
@@ -4468,9 +10028,109 @@ const productosPulserasBp = [
         "id": "319Z",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Q.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_319Y.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_319Z.jpg"
@@ -4487,6 +10147,102 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4494,12 +10250,108 @@ const productosPulserasBp = [
         "id": "320B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4507,12 +10359,108 @@ const productosPulserasBp = [
         "id": "320C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4520,12 +10468,108 @@ const productosPulserasBp = [
         "id": "320D",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4533,12 +10577,108 @@ const productosPulserasBp = [
         "id": "320E",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4546,12 +10686,108 @@ const productosPulserasBp = [
         "id": "320F",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4559,12 +10795,108 @@ const productosPulserasBp = [
         "id": "320G",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4572,12 +10904,108 @@ const productosPulserasBp = [
         "id": "320H",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4585,12 +11013,108 @@ const productosPulserasBp = [
         "id": "320I",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4598,12 +11122,108 @@ const productosPulserasBp = [
         "id": "320J",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4611,12 +11231,108 @@ const productosPulserasBp = [
         "id": "320K",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4624,12 +11340,108 @@ const productosPulserasBp = [
         "id": "320L",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4637,12 +11449,108 @@ const productosPulserasBp = [
         "id": "320M",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4650,12 +11558,108 @@ const productosPulserasBp = [
         "id": "320N",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4663,12 +11667,108 @@ const productosPulserasBp = [
         "id": "320O",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4676,12 +11776,108 @@ const productosPulserasBp = [
         "id": "320P",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4689,12 +11885,108 @@ const productosPulserasBp = [
         "id": "320R",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4702,12 +11994,108 @@ const productosPulserasBp = [
         "id": "320S",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4715,12 +12103,108 @@ const productosPulserasBp = [
         "id": "320T",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4728,12 +12212,108 @@ const productosPulserasBp = [
         "id": "320U",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4741,12 +12321,108 @@ const productosPulserasBp = [
         "id": "320V",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4754,12 +12430,108 @@ const productosPulserasBp = [
         "id": "320W",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4767,12 +12539,108 @@ const productosPulserasBp = [
         "id": "320X",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4780,12 +12648,108 @@ const productosPulserasBp = [
         "id": "320Y",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
             }
         ]
     },
@@ -4793,9 +12757,105 @@ const productosPulserasBp = [
         "id": "320Z",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320F.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320G.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320H.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320I.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320J.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320K.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320L.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320M.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320N.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320O.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320P.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320R.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320S.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320T.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320U.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320V.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320W.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320X.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_320Y.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_320Z.jpg"
@@ -5098,6 +13158,14 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_366A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366C.jpg"
             }
         ]
     },
@@ -5105,12 +13173,20 @@ const productosPulserasBp = [
         "id": "366B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_366B.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_366A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366A.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_366B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366C.jpg"
             }
         ]
     },
@@ -5118,9 +13194,17 @@ const productosPulserasBp = [
         "id": "366C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_366C.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_366A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_366B.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_366C.jpg"
@@ -5137,6 +13221,14 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_367A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367C.jpg"
             }
         ]
     },
@@ -5144,12 +13236,20 @@ const productosPulserasBp = [
         "id": "367B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_367B.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_367A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367A.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_367B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367C.jpg"
             }
         ]
     },
@@ -5157,9 +13257,17 @@ const productosPulserasBp = [
         "id": "367C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_367C.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_367A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_367B.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_367C.jpg"
@@ -5176,6 +13284,14 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_368A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368C.jpg"
             }
         ]
     },
@@ -5183,12 +13299,20 @@ const productosPulserasBp = [
         "id": "368B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_368B.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_368A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368A.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_368B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368C.jpg"
             }
         ]
     },
@@ -5196,9 +13320,17 @@ const productosPulserasBp = [
         "id": "368C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_368C.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_368A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_368B.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_368C.jpg"
@@ -5215,6 +13347,14 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_369A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369C.jpg"
             }
         ]
     },
@@ -5222,12 +13362,20 @@ const productosPulserasBp = [
         "id": "369B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_369B.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_369A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369A.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_369B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369C.jpg"
             }
         ]
     },
@@ -5235,9 +13383,17 @@ const productosPulserasBp = [
         "id": "369C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_369C.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_369A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_369B.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_369C.jpg"
@@ -5254,6 +13410,14 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_370A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370C.jpg"
             }
         ]
     },
@@ -5261,12 +13425,20 @@ const productosPulserasBp = [
         "id": "370B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_370B.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_370A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370A.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_370B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370C.jpg"
             }
         ]
     },
@@ -5274,9 +13446,17 @@ const productosPulserasBp = [
         "id": "370C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_370C.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_370A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_370B.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_370C.jpg"
@@ -5293,6 +13473,14 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_371A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371C.jpg"
             }
         ]
     },
@@ -5300,12 +13488,20 @@ const productosPulserasBp = [
         "id": "371B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_371B.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_371A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371A.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_371B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371C.jpg"
             }
         ]
     },
@@ -5313,9 +13509,17 @@ const productosPulserasBp = [
         "id": "371C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_371C.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_371A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_371B.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_371C.jpg"
@@ -5332,6 +13536,14 @@ const productosPulserasBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_372A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372C.jpg"
             }
         ]
     },
@@ -5339,12 +13551,20 @@ const productosPulserasBp = [
         "id": "372B",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_372B.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_372A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372A.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_372B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372C.jpg"
             }
         ]
     },
@@ -5352,9 +13572,17 @@ const productosPulserasBp = [
         "id": "372C",
         "categoria": "Pulseras Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_372C.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_372A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/pulserasbp/pulserasbp_372B.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/pulserasbp/pulserasbp_372C.jpg"

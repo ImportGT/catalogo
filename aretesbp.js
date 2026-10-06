@@ -9,6 +9,446 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_1.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_10.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_100.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_101.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_102.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_103.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_104.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_105.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_106.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_107.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_108.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_109.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_11.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_110.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_111.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_112.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_113.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_114.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_115.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_116.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_117.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_118.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_119.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_12.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_120.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_121.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_122.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_123.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_124.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_125.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_126.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_127.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_128.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_129.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_13.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_130.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_131.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_132.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_133.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_134.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_135.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_136.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_137.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_138.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_139.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_14.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_140.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_141.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_142.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_143.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_144.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_145.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_146.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_147.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_148.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_149.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_15.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_150.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_151.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_152.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_153.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_154.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_155.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_156.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_157.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_158.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_159.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_16.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_160.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_161.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_163.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_164.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_165.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_166.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_167.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_168.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_169.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_17.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_170.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_171.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_172.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_173.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_174.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_175.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_176.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_177.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_179.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_18.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_180.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_181.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_182.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_183.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_184.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_187.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_189.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_19.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_190.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_191.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_192.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_193.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_194.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_195.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_196A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_196B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_197.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_198.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199B.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199C.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199D.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199E.png"
             }
         ]
     },
@@ -22,6 +462,330 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_2.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_20.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200B.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200C.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200D.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200E.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_202.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_203.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_204.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_205.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_206.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_207.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_208.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_209.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_21.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_210.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_211.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_212.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_213.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_214.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_215.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_216.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_217.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_218.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_219.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_22.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_220.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_221.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_224.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_225.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_226.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_227.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_228.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_229.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_23.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_230.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_231.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_232.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_233.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_234.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_235.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_236.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_237.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_238.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_239.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_24.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_240.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_241.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_242.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_243.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_244.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_245.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_246.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_247.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_248.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_249.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_25.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_250.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_251.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_253.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_254.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_255.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_256.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_257.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_258.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_259.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_26.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_260.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_261.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_262.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_264.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_267.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_27.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_28.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_29.jpg"
             }
         ]
     },
@@ -35,6 +799,386 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_3.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_30.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_301.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_302.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_303.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_304.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_305.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_306.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_307.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_309.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_31.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_310.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_311.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_312.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_313.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_314.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_315.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_316.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_317.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_318.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_319.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_32.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_320.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_321.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_322.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_323.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_324.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_325.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_326.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_327.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_328.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_329.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_33.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_332.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_333.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_334.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_335.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_336.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_337.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_338.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_339.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_34.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_340.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_341.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_342.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_343.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_344.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_345.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_347.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_348.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_349.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_35.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_350.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_351.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_352.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_353.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_354.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_356.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_357.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_358.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_359.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_36.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_360.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_361.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_362.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_363.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_364.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_365.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_366.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_367.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_368.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_369.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_37.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_370.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_371.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_373.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_374A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_374B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_375.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_376.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_377.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_378.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_379.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_38.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_380.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_381.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_382.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_389.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_39.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_390.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_391.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_392.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_394.jpg"
             }
         ]
     },
@@ -48,6 +1192,282 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_4.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_40.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_401.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_402.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_403.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_405.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_408.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_410.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_413.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_416.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_417.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_418.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_419.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_42.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_420.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_421.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_422.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_423.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_424.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_425A.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_425B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_426.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_427A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_427B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_428.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_429.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_43.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_430.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_431.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_432.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_433.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_435.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_436.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_437.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_438.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_439.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_44.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_440.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_441.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_45.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_450.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_451.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_452.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_453.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_454.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_456.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_457.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_458.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_459.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_46.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_460.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_461.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_462.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_463.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_464.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_465.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_466.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_467.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_468.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_469.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_47.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_470.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_471.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_472.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_48.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_49.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_41_Q25.png"
             }
         ]
     },
@@ -61,6 +1481,46 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_5.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_50.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_51.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_52.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_53.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_54.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_55.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_56.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_57.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_58.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_59.png"
             }
         ]
     },
@@ -74,6 +1534,42 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_6.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_60.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_61.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_62.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_63.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_64.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_65.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_66.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_68.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_69.jpg"
             }
         ]
     },
@@ -87,6 +1583,46 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_7.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_70.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_71.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_72.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_73.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_74.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_75.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_76.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_77.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_78.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_79.jpg"
             }
         ]
     },
@@ -100,6 +1636,42 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_8.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_80.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_81.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_82.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_84.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_85.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_86.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_87.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_88.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_89.jpg"
             }
         ]
     },
@@ -113,6 +1685,46 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_9.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_90.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_91.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_92.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_93.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_94.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_95.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_96.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_97.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_98.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_99.jpg"
             }
         ]
     },
@@ -126,6 +1738,46 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_10.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_100.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_101.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_102.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_103.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_104.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_105.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_106.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_107.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_108.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_109.png"
             }
         ]
     },
@@ -139,6 +1791,46 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_11.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_110.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_111.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_112.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_113.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_114.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_115.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_116.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_117.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_118.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_119.jpg"
             }
         ]
     },
@@ -152,6 +1844,46 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_12.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_120.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_121.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_122.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_123.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_124.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_125.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_126.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_127.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_128.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_129.jpg"
             }
         ]
     },
@@ -165,6 +1897,46 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_13.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_130.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_131.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_132.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_133.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_134.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_135.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_136.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_137.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_138.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_139.jpg"
             }
         ]
     },
@@ -178,6 +1950,46 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_14.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_140.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_141.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_142.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_143.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_144.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_145.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_146.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_147.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_148.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_149.jpg"
             }
         ]
     },
@@ -191,6 +2003,46 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_15.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_150.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_151.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_152.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_153.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_154.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_155.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_156.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_157.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_158.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_159.jpg"
             }
         ]
     },
@@ -204,6 +2056,42 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_16.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_160.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_161.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_163.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_164.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_165.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_166.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_167.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_168.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_169.jpg"
             }
         ]
     },
@@ -217,6 +2105,42 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_17.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_170.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_171.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_172.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_173.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_174.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_175.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_176.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_177.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_179.jpg"
             }
         ]
     },
@@ -230,6 +2154,34 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_18.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_180.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_181.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_182.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_183.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_184.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_187.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_189.jpg"
             }
         ]
     },
@@ -243,6 +2195,66 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_19.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_190.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_191.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_192.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_193.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_194.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_195.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_196A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_196B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_197.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_198.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199B.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199C.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199D.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199E.png"
             }
         ]
     },
@@ -256,6 +2268,82 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_20.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200B.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200C.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200D.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200E.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201E.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_202.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_203.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_204.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_205.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_206.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_207.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_208.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_209.jpg"
             }
         ]
     },
@@ -269,6 +2357,46 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_21.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_210.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_211.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_212.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_213.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_214.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_215.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_216.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_217.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_218.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_219.jpg"
             }
         ]
     },
@@ -282,6 +2410,38 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_22.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_220.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_221.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_224.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_225.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_226.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_227.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_228.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_229.jpg"
             }
         ]
     },
@@ -295,6 +2455,46 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_23.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_230.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_231.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_232.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_233.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_234.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_235.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_236.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_237.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_238.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_239.png"
             }
         ]
     },
@@ -308,6 +2508,46 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_24.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_240.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_241.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_242.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_243.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_244.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_245.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_246.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_247.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_248.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_249.png"
             }
         ]
     },
@@ -321,6 +2561,42 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_25.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_250.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_251.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_253.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_254.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_255.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_256.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_257.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_258.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_259.jpg"
             }
         ]
     },
@@ -334,6 +2610,26 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_26.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_260.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_261.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_262.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_264.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_267.jpg"
             }
         ]
     },
@@ -386,6 +2682,38 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_30.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_301.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_302.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_303.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_304.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_305.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_306.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_307.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_309.jpg"
             }
         ]
     },
@@ -399,6 +2727,46 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_31.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_310.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_311.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_312.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_313.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_314.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_315.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_316.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_317.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_318.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_319.jpg"
             }
         ]
     },
@@ -412,6 +2780,46 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_32.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_320.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_321.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_322.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_323.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_324.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_325.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_326.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_327.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_328.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_329.png"
             }
         ]
     },
@@ -425,6 +2833,38 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_33.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_332.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_333.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_334.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_335.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_336.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_337.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_338.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_339.jpg"
             }
         ]
     },
@@ -438,6 +2878,42 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_34.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_340.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_341.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_342.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_343.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_344.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_345.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_347.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_348.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_349.jpg"
             }
         ]
     },
@@ -451,6 +2927,42 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_35.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_350.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_351.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_352.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_353.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_354.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_356.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_357.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_358.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_359.jpg"
             }
         ]
     },
@@ -464,6 +2976,46 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_36.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_360.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_361.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_362.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_363.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_364.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_365.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_366.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_367.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_368.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_369.jpg"
             }
         ]
     },
@@ -477,6 +3029,58 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_37.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_370.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_371.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_373.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_374A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_374B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_375.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_376.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_377.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_378.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_379.jpg"
             }
         ]
     },
@@ -490,6 +3094,22 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_38.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_380.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_381.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_382.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_389.jpg"
             }
         ]
     },
@@ -503,6 +3123,22 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_39.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_390.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_391.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_392.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_394.jpg"
             }
         ]
     },
@@ -516,6 +3152,26 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_40.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_401.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_402.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_403.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_405.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_408.jpg"
             }
         ]
     },
@@ -523,9 +3179,33 @@ const productosAretesBp = [
         "id": "41",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_41_Q25.png",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_410.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_410.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_413.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_416.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_417.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_418.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_419.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_41_Q25.png"
@@ -542,6 +3222,54 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_42.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_420.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_421.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_422.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_423.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_424.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_425A.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_425B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_426.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_427A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_427B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_428.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_429.jpg"
             }
         ]
     },
@@ -555,6 +3283,54 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_43.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_430.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_431.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_432.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_433.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_435.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_436.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_437.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_438.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_439.jpg"
             }
         ]
     },
@@ -568,6 +3344,14 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_44.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_440.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_441.jpg"
             }
         ]
     },
@@ -581,6 +3365,42 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_45.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_450.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_451.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_452.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_453.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_454.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_456.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_457.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_458.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_459.jpg"
             }
         ]
     },
@@ -594,6 +3414,46 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_46.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_460.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_461.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_462.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_463.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_464.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_465.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_466.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_467.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_468.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_469.jpg"
             }
         ]
     },
@@ -607,6 +3467,18 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_47.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_470.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_471.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_472.jpg"
             }
         ]
     },
@@ -2414,6 +5286,10 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_196A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_196B.jpg"
             }
         ]
     },
@@ -2421,9 +5297,13 @@ const productosAretesBp = [
         "id": "196B",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_196B.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_196A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_196A.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_196B.jpg"
@@ -2466,6 +5346,22 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_199A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199B.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199C.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199D.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199E.png"
             }
         ]
     },
@@ -2473,12 +5369,28 @@ const productosAretesBp = [
         "id": "199B",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_199B.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_199A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_199B.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_199A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199B.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199C.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199D.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199E.png"
             }
         ]
     },
@@ -2486,12 +5398,28 @@ const productosAretesBp = [
         "id": "199C",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_199C.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_199A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_199C.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_199A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199B.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199C.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199D.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199E.png"
             }
         ]
     },
@@ -2499,12 +5427,28 @@ const productosAretesBp = [
         "id": "199D",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_199D.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_199A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_199D.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_199A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199B.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199C.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199D.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199E.png"
             }
         ]
     },
@@ -2512,12 +5456,28 @@ const productosAretesBp = [
         "id": "199E",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_199E.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_199A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_199E.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_199A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199B.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199C.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199D.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_199E.png"
             }
         ]
     },
@@ -2531,6 +5491,22 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_200A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200B.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200C.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200D.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200E.JPG"
             }
         ]
     },
@@ -2538,12 +5514,28 @@ const productosAretesBp = [
         "id": "200B",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_200B.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_200A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_200B.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_200A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200B.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200C.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200D.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200E.JPG"
             }
         ]
     },
@@ -2551,12 +5543,28 @@ const productosAretesBp = [
         "id": "200C",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_200C.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_200A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_200C.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_200A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200B.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200C.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200D.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200E.JPG"
             }
         ]
     },
@@ -2564,12 +5572,28 @@ const productosAretesBp = [
         "id": "200D",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_200D.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_200A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_200D.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_200A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200B.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200C.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200D.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200E.JPG"
             }
         ]
     },
@@ -2577,12 +5601,28 @@ const productosAretesBp = [
         "id": "200E",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_200E.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_200A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_200E.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_200A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200B.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200C.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200D.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_200E.JPG"
             }
         ]
     },
@@ -2590,12 +5630,32 @@ const productosAretesBp = [
         "id": "201A",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_201A.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_201.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_201A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201E.jpg"
             }
         ]
     },
@@ -2603,12 +5663,32 @@ const productosAretesBp = [
         "id": "201B",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_201B.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_201.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201A.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_201B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201E.jpg"
             }
         ]
     },
@@ -2616,12 +5696,32 @@ const productosAretesBp = [
         "id": "201C",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_201C.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_201.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201B.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_201C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201E.jpg"
             }
         ]
     },
@@ -2629,12 +5729,32 @@ const productosAretesBp = [
         "id": "201D",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_201D.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_201.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201C.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_201D.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201E.jpg"
             }
         ]
     },
@@ -2642,9 +5762,29 @@ const productosAretesBp = [
         "id": "201E",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_201E.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_201.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201C.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_201D.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_201E.jpg"
@@ -4345,6 +7485,14 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_372A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372C.jpg"
             }
         ]
     },
@@ -4352,12 +7500,20 @@ const productosAretesBp = [
         "id": "372B",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_372B.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_372A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372A.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_372B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372C.jpg"
             }
         ]
     },
@@ -4365,9 +7521,17 @@ const productosAretesBp = [
         "id": "372C",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_372C.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_372A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_372B.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_372C.jpg"
@@ -4384,6 +7548,10 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_374A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_374B.jpg"
             }
         ]
     },
@@ -4391,9 +7559,13 @@ const productosAretesBp = [
         "id": "374B",
         "categoria": "Aretes Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_374B.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_374A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_374A.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_374B.jpg"
@@ -4781,12 +7953,16 @@ const productosAretesBp = [
         "id": "425A",
         "categoria": "Aretes Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_425A.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_425A.JPG",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/aretessbp/aretessbp_425A.jpg"
+                "url": "imagenes/BP/aretessbp/aretessbp_425A.JPG"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_425B.jpg"
             }
         ]
     },
@@ -4794,9 +7970,13 @@ const productosAretesBp = [
         "id": "425B",
         "categoria": "Aretes Baño de Plata",
         "precio": 60.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_425B.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_425A.JPG",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_425A.JPG"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_425B.jpg"
@@ -4826,6 +8006,10 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_427A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_427B.jpg"
             }
         ]
     },
@@ -4833,9 +8017,13 @@ const productosAretesBp = [
         "id": "427B",
         "categoria": "Aretes Baño de Plata",
         "precio": 50.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_427B.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_427A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_427A.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_427B.jpg"
@@ -4930,6 +8118,14 @@ const productosAretesBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_434A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434C.jpg"
             }
         ]
     },
@@ -4937,12 +8133,20 @@ const productosAretesBp = [
         "id": "434B",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_434B.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_434A.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434A.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_434B.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434C.jpg"
             }
         ]
     },
@@ -4950,9 +8154,17 @@ const productosAretesBp = [
         "id": "434C",
         "categoria": "Aretes Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/aretessbp/aretessbp_434C.jpg",
+        "imagen": "imagenes/BP/aretessbp/aretessbp_434A.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434A.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/aretessbp/aretessbp_434B.jpg"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/aretessbp/aretessbp_434C.jpg"

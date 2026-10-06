@@ -1,6 +1,6 @@
 const productosCharmsCadenasSeguridad = [
     {
-        "id": "52",
+        "id": "52.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_52.0.jpg",
@@ -13,7 +13,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "51",
+        "id": "51.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_51.0.jpg",
@@ -26,7 +26,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "50",
+        "id": "50.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_50.0.jpg",
@@ -39,7 +39,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "49",
+        "id": "49.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 80.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_49.0.jpg",
@@ -52,7 +52,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "48",
+        "id": "48.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_48.0.jpg",
@@ -65,7 +65,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "47",
+        "id": "47.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_47.0.jpg",
@@ -78,7 +78,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "46",
+        "id": "46.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_46.0.jpg",
@@ -91,7 +91,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "45",
+        "id": "45.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_45.0.jpg",
@@ -104,7 +104,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "44",
+        "id": "44.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_44.0.jpg",
@@ -117,7 +117,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "43",
+        "id": "43.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_43.0.jpg",
@@ -130,7 +130,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "42",
+        "id": "42.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_42.0.jpg",
@@ -143,7 +143,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "41",
+        "id": "41.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_41.0.jpg",
@@ -156,7 +156,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "40",
+        "id": "40.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_40.0.jpg",
@@ -169,7 +169,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "39",
+        "id": "39.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_39.0.jpg",
@@ -182,7 +182,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "38",
+        "id": "38.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_38.0.jpg",
@@ -195,7 +195,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "37",
+        "id": "37.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_37.0.jpg",
@@ -208,7 +208,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "36",
+        "id": "36.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_36.0.jpg",
@@ -221,7 +221,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "35",
+        "id": "35.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_35.0.jpg",
@@ -234,7 +234,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "34",
+        "id": "34.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_34.0.jpg",
@@ -247,7 +247,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "33",
+        "id": "33.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_33.0.jpg",
@@ -260,7 +260,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "32",
+        "id": "32.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_32.0.jpg",
@@ -273,7 +273,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "31",
+        "id": "31.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_31.0.jpg",
@@ -286,7 +286,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "30",
+        "id": "30.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_30.0.jpg",
@@ -299,7 +299,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "29",
+        "id": "29.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_29.0.jpg",
@@ -312,7 +312,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "28",
+        "id": "28.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_28.0.jpg",
@@ -325,7 +325,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "27",
+        "id": "27.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_27.0.jpg",
@@ -338,7 +338,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "26",
+        "id": "26.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_26.0.jpg",
@@ -351,7 +351,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "25",
+        "id": "25.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_25.0.jpg",
@@ -364,7 +364,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "24",
+        "id": "24.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_24.0.jpg",
@@ -377,7 +377,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "23",
+        "id": "23.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_23.0.jpg",
@@ -390,7 +390,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "22",
+        "id": "22.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_22.0.jpg",
@@ -403,7 +403,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "21",
+        "id": "21.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_21.0.jpg",
@@ -416,7 +416,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "20",
+        "id": "20.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_20.0.jpg",
@@ -429,7 +429,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "19",
+        "id": "19.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_19.0.jpg",
@@ -442,7 +442,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "18",
+        "id": "18.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_18.0.jpg",
@@ -455,7 +455,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "17",
+        "id": "17.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_17.0.jpg",
@@ -468,7 +468,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "16",
+        "id": "16.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_16.0.jpg",
@@ -481,7 +481,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "15",
+        "id": "15.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_15.0.jpg",
@@ -494,7 +494,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "14",
+        "id": "14.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_14.0.jpg",
@@ -507,7 +507,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "13",
+        "id": "13.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_13.0.jpg",
@@ -520,7 +520,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "12",
+        "id": "12.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_12.0.jpg",
@@ -533,7 +533,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "11",
+        "id": "11.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_11.0.jpg",
@@ -546,7 +546,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "10",
+        "id": "10.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_10.0.jpg",
@@ -559,7 +559,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "9",
+        "id": "9.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_9.0.jpg",
@@ -572,7 +572,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "8",
+        "id": "8.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_8.0.jpg",
@@ -585,7 +585,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "7",
+        "id": "7.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_7.0.jpg",
@@ -598,7 +598,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "6",
+        "id": "6.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_6.0.jpg",
@@ -611,7 +611,7 @@ const productosCharmsCadenasSeguridad = [
         ]
     },
     {
-        "id": "5",
+        "id": "5.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_5.0.jpg",
@@ -620,11 +620,23 @@ const productosCharmsCadenasSeguridad = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_cadenasseguridad/chcsd_5.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_50.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_51.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_52.0.jpg"
             }
         ]
     },
     {
-        "id": "4",
+        "id": "4.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_4.0.jpg",
@@ -633,11 +645,51 @@ const productosCharmsCadenasSeguridad = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_cadenasseguridad/chcsd_4.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_40.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_41.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_42.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_43.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_44.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_45.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_46.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_47.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_48.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_49.0.jpg"
             }
         ]
     },
     {
-        "id": "3",
+        "id": "3.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_3.0.jpg",
@@ -646,11 +698,51 @@ const productosCharmsCadenasSeguridad = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_cadenasseguridad/chcsd_3.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_30.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_31.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_32.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_33.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_34.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_35.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_36.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_37.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_38.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_39.0.jpg"
             }
         ]
     },
     {
-        "id": "2",
+        "id": "2.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_2.0.jpg",
@@ -659,11 +751,51 @@ const productosCharmsCadenasSeguridad = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_cadenasseguridad/chcsd_2.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_20.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_21.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_22.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_23.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_24.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_25.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_26.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_27.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_28.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_29.0.jpg"
             }
         ]
     },
     {
-        "id": "1",
+        "id": "1.0",
         "categoria": "Charms Cadenas de Seguridad",
         "precio": 70.0,
         "imagen": "imagenes/charms_cadenasseguridad/chcsd_1.0.jpg",
@@ -672,6 +804,46 @@ const productosCharmsCadenasSeguridad = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_cadenasseguridad/chcsd_1.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_10.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_11.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_12.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_13.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_14.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_15.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_16.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_17.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_18.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_cadenasseguridad/chcsd_19.0.jpg"
             }
         ]
     }

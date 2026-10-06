@@ -1,6 +1,6 @@
 const productosCharmsClipsYTopes = [
     {
-        "id": "164",
+        "id": "164.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_164.0.jpg",
@@ -13,7 +13,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "163",
+        "id": "163.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_163.0.jpg",
@@ -26,7 +26,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "162",
+        "id": "162.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_162.0.jpg",
@@ -39,7 +39,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "161",
+        "id": "161.0",
         "categoria": "Charms Clips y Topes",
         "precio": 50.0,
         "imagen": "imagenes/charms_clipsytopes/chct_161.0.jpg",
@@ -52,7 +52,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "160",
+        "id": "160.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_160.0.jpg",
@@ -65,7 +65,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "159",
+        "id": "159.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_159.0.jpg",
@@ -78,7 +78,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "158",
+        "id": "158.0",
         "categoria": "Charms Clips y Topes",
         "precio": 50.0,
         "imagen": "imagenes/charms_clipsytopes/chct_158.0.jpg",
@@ -91,7 +91,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "157",
+        "id": "157.0",
         "categoria": "Charms Clips y Topes",
         "precio": 50.0,
         "imagen": "imagenes/charms_clipsytopes/chct_157.0.jpg",
@@ -104,7 +104,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "156",
+        "id": "156.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_156.0.jpg",
@@ -117,7 +117,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "155",
+        "id": "155.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_155.0.jpg",
@@ -130,7 +130,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "154",
+        "id": "154.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_154.0.jpg",
@@ -143,7 +143,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "153",
+        "id": "153.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_153.0.jpg",
@@ -156,7 +156,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "152",
+        "id": "152.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_152.0.jpg",
@@ -169,7 +169,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "151",
+        "id": "151.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_151.0.jpg",
@@ -182,7 +182,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "150",
+        "id": "150.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_150.0.jpg",
@@ -195,7 +195,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "149",
+        "id": "149.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_149.0.jpg",
@@ -208,7 +208,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "148",
+        "id": "148.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_148.0.jpg",
@@ -221,7 +221,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "147",
+        "id": "147.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_147.0.jpg",
@@ -234,7 +234,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "146",
+        "id": "146.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_146.0.jpg",
@@ -247,7 +247,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "145",
+        "id": "145.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_145.0.jpg",
@@ -260,7 +260,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "144",
+        "id": "144.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_144.0.jpg",
@@ -273,7 +273,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "143",
+        "id": "143.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_143.0.jpg",
@@ -286,7 +286,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "142",
+        "id": "142.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_142.0.jpg",
@@ -299,7 +299,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "141",
+        "id": "141.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_141.0.jpg",
@@ -312,7 +312,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "140",
+        "id": "140.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_140.0.jpg",
@@ -325,7 +325,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "139",
+        "id": "139.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_139.0.jpg",
@@ -338,7 +338,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "138",
+        "id": "138.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_138.0.jpg",
@@ -351,7 +351,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "137",
+        "id": "137.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_137.0.jpg",
@@ -364,7 +364,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "136",
+        "id": "136.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_136.0.jpg",
@@ -377,7 +377,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "135",
+        "id": "135.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_135.0.jpg",
@@ -390,7 +390,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "134",
+        "id": "134.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_134.0.jpg",
@@ -403,7 +403,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "133",
+        "id": "133.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_133.0.jpg",
@@ -416,7 +416,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "132",
+        "id": "132.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_132.0.jpg",
@@ -429,7 +429,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "131",
+        "id": "131.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_131.0.jpg",
@@ -442,7 +442,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "130",
+        "id": "130.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_130.0.jpg",
@@ -455,7 +455,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "129",
+        "id": "129.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_129.0.jpg",
@@ -468,7 +468,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "128",
+        "id": "128.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_128.0.jpg",
@@ -481,7 +481,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "127",
+        "id": "127.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_127.0.jpg",
@@ -494,7 +494,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "126",
+        "id": "126.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_126.0.jpg",
@@ -507,7 +507,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "125",
+        "id": "125.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_125.0.jpg",
@@ -520,7 +520,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "124",
+        "id": "124.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_124.0.jpg",
@@ -533,7 +533,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "123",
+        "id": "123.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_123.0.jpg",
@@ -546,7 +546,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "122",
+        "id": "122.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_122.0.jpg",
@@ -559,7 +559,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "121",
+        "id": "121.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_121.0.jpg",
@@ -572,7 +572,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "120",
+        "id": "120.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_120.0.jpg",
@@ -585,7 +585,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "119",
+        "id": "119.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_119.0.jpg",
@@ -598,7 +598,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "118",
+        "id": "118.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_118.0.jpg",
@@ -611,7 +611,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "117",
+        "id": "117.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_117.0.jpg",
@@ -624,7 +624,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "116",
+        "id": "116.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_116.0.jpg",
@@ -637,7 +637,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "115",
+        "id": "115.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_115.0.jpg",
@@ -650,7 +650,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "114",
+        "id": "114.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_114.0.jpg",
@@ -663,7 +663,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "113",
+        "id": "113.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_113.0.jpg",
@@ -676,7 +676,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "112",
+        "id": "112.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_112.0.jpg",
@@ -689,7 +689,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "111",
+        "id": "111.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_111.0.jpg",
@@ -702,7 +702,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "110",
+        "id": "110.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_110.0.jpg",
@@ -715,7 +715,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "109",
+        "id": "109.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_109.0.jpg",
@@ -728,7 +728,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "108",
+        "id": "108.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_108.0.jpg",
@@ -741,7 +741,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "107",
+        "id": "107.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_107.0.jpg",
@@ -754,7 +754,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "106",
+        "id": "106.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_106.0.jpg",
@@ -767,7 +767,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "105",
+        "id": "105.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_105.0.jpg",
@@ -780,7 +780,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "104",
+        "id": "104.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_104.0.jpg",
@@ -793,7 +793,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "103",
+        "id": "103.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_103.0.jpg",
@@ -806,7 +806,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "102",
+        "id": "102.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_102.0.jpg",
@@ -819,7 +819,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "101",
+        "id": "101.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_101.0.jpg",
@@ -832,7 +832,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "100",
+        "id": "100.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_100.0.jpg",
@@ -845,7 +845,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "99",
+        "id": "99.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_99.0.jpg",
@@ -858,7 +858,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "98",
+        "id": "98.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_98.0.jpg",
@@ -871,7 +871,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "97",
+        "id": "97.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_97.0.jpg",
@@ -884,7 +884,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "96",
+        "id": "96.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_96.0.jpg",
@@ -897,7 +897,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "95",
+        "id": "95.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_95.0.jpg",
@@ -910,7 +910,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "94",
+        "id": "94.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_94.0.jpg",
@@ -923,7 +923,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "93",
+        "id": "93.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_93.0.jpg",
@@ -936,7 +936,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "92",
+        "id": "92.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_92.0.jpg",
@@ -949,7 +949,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "91",
+        "id": "91.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_91.0.jpg",
@@ -962,7 +962,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "90",
+        "id": "90.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_90.0.jpg",
@@ -975,7 +975,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "89",
+        "id": "89.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_89.0.jpg",
@@ -988,7 +988,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "88",
+        "id": "88.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_88.0.jpg",
@@ -1001,7 +1001,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "87",
+        "id": "87.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_87.0.jpg",
@@ -1014,7 +1014,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "86",
+        "id": "86.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_86.0.jpg",
@@ -1027,7 +1027,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "85",
+        "id": "85.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_85.0.jpg",
@@ -1040,7 +1040,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "84",
+        "id": "84.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_84.0.jpg",
@@ -1053,7 +1053,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "83",
+        "id": "83.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_83.0.jpg",
@@ -1066,7 +1066,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "82",
+        "id": "82.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_82.0.jpg",
@@ -1079,7 +1079,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "81",
+        "id": "81.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_81.0.jpg",
@@ -1092,7 +1092,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "80",
+        "id": "80.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_80.0.jpg",
@@ -1105,7 +1105,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "79",
+        "id": "79.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_79.0.jpg",
@@ -1118,7 +1118,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "78",
+        "id": "78.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_78.0.jpg",
@@ -1131,7 +1131,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "77",
+        "id": "77.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_77.0.jpg",
@@ -1144,7 +1144,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "76",
+        "id": "76.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_76.0.jpg",
@@ -1157,7 +1157,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "75",
+        "id": "75.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_75.0.jpg",
@@ -1170,7 +1170,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "74",
+        "id": "74.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_74.0.jpg",
@@ -1183,7 +1183,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "73",
+        "id": "73.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_73.0.jpg",
@@ -1196,7 +1196,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "72",
+        "id": "72.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_72.0.jpg",
@@ -1209,7 +1209,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "71",
+        "id": "71.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_71.0.jpg",
@@ -1222,7 +1222,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "70",
+        "id": "70.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_70.0.jpg",
@@ -1235,7 +1235,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "69",
+        "id": "69.0",
         "categoria": "Charms Clips y Topes",
         "precio": 50.0,
         "imagen": "imagenes/charms_clipsytopes/chct_69.0.jpg",
@@ -1248,7 +1248,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "68",
+        "id": "68.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_68.0.jpg",
@@ -1261,7 +1261,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "67",
+        "id": "67.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_67.0.jpg",
@@ -1274,7 +1274,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "66",
+        "id": "66.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_66.0.jpg",
@@ -1287,7 +1287,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "65",
+        "id": "65.0",
         "categoria": "Charms Clips y Topes",
         "precio": 50.0,
         "imagen": "imagenes/charms_clipsytopes/chct_65.0.jpg",
@@ -1300,7 +1300,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "64",
+        "id": "64.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_64.0.jpg",
@@ -1313,7 +1313,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "63",
+        "id": "63.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_63.0.jpg",
@@ -1326,7 +1326,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "62",
+        "id": "62.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_62.0.jpg",
@@ -1339,7 +1339,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "61",
+        "id": "61.0",
         "categoria": "Charms Clips y Topes",
         "precio": 50.0,
         "imagen": "imagenes/charms_clipsytopes/chct_61.0.jpg",
@@ -1352,7 +1352,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "60",
+        "id": "60.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_60.0.jpg",
@@ -1365,7 +1365,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "59",
+        "id": "59.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_59.0.jpg",
@@ -1378,7 +1378,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "58",
+        "id": "58.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_58.0.jpg",
@@ -1391,7 +1391,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "57",
+        "id": "57.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_57.0.jpg",
@@ -1404,7 +1404,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "56",
+        "id": "56.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_56.0.jpg",
@@ -1417,7 +1417,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "55",
+        "id": "55.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_55.0.jpg",
@@ -1430,7 +1430,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "54",
+        "id": "54.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_54.0.jpg",
@@ -1443,7 +1443,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "53",
+        "id": "53.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_53.0.jpg",
@@ -1456,7 +1456,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "52",
+        "id": "52.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_52.0.jpg",
@@ -1469,7 +1469,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "51",
+        "id": "51.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_51.0.jpg",
@@ -1482,7 +1482,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "50",
+        "id": "50.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_50.0.jpg",
@@ -1495,7 +1495,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "49",
+        "id": "49.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_49.0.jpg",
@@ -1508,7 +1508,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "48",
+        "id": "48.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_48.0.jpg",
@@ -1521,7 +1521,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "47",
+        "id": "47.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_47.0.jpg",
@@ -1534,7 +1534,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "46",
+        "id": "46.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_46.0.jpg",
@@ -1547,7 +1547,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "45",
+        "id": "45.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_45.0.jpg",
@@ -1560,7 +1560,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "44",
+        "id": "44.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_44.0.jpg",
@@ -1573,7 +1573,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "43",
+        "id": "43.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_43.0.jpg",
@@ -1586,7 +1586,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "42",
+        "id": "42.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_42.0.jpg",
@@ -1599,7 +1599,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "41",
+        "id": "41.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_41.0.jpg",
@@ -1612,7 +1612,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "40",
+        "id": "40.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_40.0.jpg",
@@ -1625,7 +1625,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "39",
+        "id": "39.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_39.0.jpg",
@@ -1638,7 +1638,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "38",
+        "id": "38.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_38.0.jpg",
@@ -1651,7 +1651,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "37",
+        "id": "37.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_37.0.jpg",
@@ -1664,7 +1664,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "36",
+        "id": "36.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_36.0.jpg",
@@ -1677,7 +1677,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "35",
+        "id": "35.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_35.0.jpg",
@@ -1690,7 +1690,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "34",
+        "id": "34.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_34.0.jpg",
@@ -1703,7 +1703,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "33",
+        "id": "33.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_33.0.jpg",
@@ -1716,7 +1716,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "32",
+        "id": "32.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_32.0.jpg",
@@ -1729,7 +1729,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "31",
+        "id": "31.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_31.0.jpg",
@@ -1742,7 +1742,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "30",
+        "id": "30.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_30.0.jpg",
@@ -1755,7 +1755,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "29",
+        "id": "29.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_29.0.jpg",
@@ -1768,7 +1768,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "28",
+        "id": "28.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_28.0.jpg",
@@ -1781,7 +1781,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "27",
+        "id": "27.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_27.0.jpg",
@@ -1794,7 +1794,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "26",
+        "id": "26.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_26.0.jpg",
@@ -1807,7 +1807,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "25",
+        "id": "25.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_25.0.jpg",
@@ -1820,7 +1820,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "24",
+        "id": "24.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_24.0.jpg",
@@ -1833,7 +1833,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "23",
+        "id": "23.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_23.0.jpg",
@@ -1846,7 +1846,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "22",
+        "id": "22.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_22.0.jpg",
@@ -1859,7 +1859,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "21",
+        "id": "21.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_21.0.jpg",
@@ -1872,7 +1872,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "20",
+        "id": "20.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_20.0.jpg",
@@ -1885,7 +1885,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "19",
+        "id": "19.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_19.0.jpg",
@@ -1898,7 +1898,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "18",
+        "id": "18.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_18.0.jpg",
@@ -1911,7 +1911,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "17",
+        "id": "17.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_17.0.jpg",
@@ -1924,7 +1924,7 @@ const productosCharmsClipsYTopes = [
         ]
     },
     {
-        "id": "16",
+        "id": "16.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_16.0.jpg",
@@ -1933,11 +1933,31 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_16.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_160.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_161.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_162.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_163.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_164.0.jpg"
             }
         ]
     },
     {
-        "id": "15",
+        "id": "15.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_15.0.jpg",
@@ -1946,11 +1966,51 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_15.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_150.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_151.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_152.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_153.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_154.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_155.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_156.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_157.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_158.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_159.0.jpg"
             }
         ]
     },
     {
-        "id": "14",
+        "id": "14.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_14.0.jpg",
@@ -1959,11 +2019,51 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_14.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_140.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_141.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_142.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_143.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_144.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_145.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_146.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_147.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_148.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_149.0.jpg"
             }
         ]
     },
     {
-        "id": "13",
+        "id": "13.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_13.0.jpg",
@@ -1972,11 +2072,51 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_13.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_130.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_131.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_132.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_133.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_134.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_135.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_136.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_137.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_138.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_139.0.jpg"
             }
         ]
     },
     {
-        "id": "12",
+        "id": "12.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_12.0.jpg",
@@ -1985,11 +2125,51 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_12.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_120.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_121.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_122.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_123.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_124.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_125.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_126.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_127.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_128.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_129.0.jpg"
             }
         ]
     },
     {
-        "id": "11",
+        "id": "11.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_11.0.jpg",
@@ -1998,11 +2178,51 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_11.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_110.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_111.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_112.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_113.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_114.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_115.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_116.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_117.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_118.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_119.0.jpg"
             }
         ]
     },
     {
-        "id": "10",
+        "id": "10.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_10.0.jpg",
@@ -2011,11 +2231,51 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_10.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_100.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_101.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_102.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_103.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_104.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_105.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_106.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_107.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_108.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_109.0.jpg"
             }
         ]
     },
     {
-        "id": "9",
+        "id": "9.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_9.0.jpg",
@@ -2024,11 +2284,51 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_9.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_90.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_91.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_92.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_93.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_94.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_95.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_96.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_97.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_98.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_99.0.jpg"
             }
         ]
     },
     {
-        "id": "8",
+        "id": "8.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_8.0.jpg",
@@ -2037,11 +2337,51 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_8.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_80.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_81.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_82.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_83.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_84.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_85.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_86.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_87.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_88.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_89.0.jpg"
             }
         ]
     },
     {
-        "id": "7",
+        "id": "7.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_7.0.jpg",
@@ -2050,11 +2390,51 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_7.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_70.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_71.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_72.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_73.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_74.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_75.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_76.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_77.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_78.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_79.0.jpg"
             }
         ]
     },
     {
-        "id": "6",
+        "id": "6.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_6.0.jpg",
@@ -2063,11 +2443,51 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_6.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_60.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_61.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_62.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_63.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_64.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_65.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_66.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_67.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_68.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_69.0.jpg"
             }
         ]
     },
     {
-        "id": "5",
+        "id": "5.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_5.0.jpg",
@@ -2076,11 +2496,51 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_5.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_50.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_51.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_52.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_53.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_54.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_55.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_56.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_57.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_58.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_59.0.jpg"
             }
         ]
     },
     {
-        "id": "4",
+        "id": "4.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_4.0.jpg",
@@ -2089,11 +2549,51 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_4.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_40.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_41.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_42.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_43.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_44.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_45.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_46.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_47.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_48.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_49.0.jpg"
             }
         ]
     },
     {
-        "id": "3",
+        "id": "3.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_3.0.jpg",
@@ -2102,11 +2602,51 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_3.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_30.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_31.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_32.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_33.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_34.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_35.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_36.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_37.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_38.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_39.0.jpg"
             }
         ]
     },
     {
-        "id": "2",
+        "id": "2.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_2.0.jpg",
@@ -2115,11 +2655,51 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_2.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_20.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_21.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_22.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_23.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_24.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_25.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_26.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_27.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_28.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_29.0.jpg"
             }
         ]
     },
     {
-        "id": "1",
+        "id": "1.0",
         "categoria": "Charms Clips y Topes",
         "precio": 70.0,
         "imagen": "imagenes/charms_clipsytopes/chct_1.0.jpg",
@@ -2128,6 +2708,306 @@ const productosCharmsClipsYTopes = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_clipsytopes/chct_1.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_10.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_100.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_101.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_102.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_103.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_104.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_105.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_106.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_107.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_108.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_109.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_11.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_110.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_111.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_112.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_113.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_114.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_115.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_116.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_117.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_118.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_119.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_12.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_120.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_121.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_122.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_123.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_124.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_125.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_126.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_127.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_128.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_129.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_13.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_130.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_131.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_132.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_133.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_134.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_135.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_136.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_137.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_138.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_139.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_14.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_140.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_141.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_142.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_143.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_144.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_145.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_146.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_147.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_148.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_149.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_15.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_150.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_151.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_152.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_153.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_154.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_155.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_156.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_157.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_158.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_159.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_16.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_160.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_161.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_162.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_163.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_164.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_17.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_18.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_clipsytopes/chct_19.0.jpg"
             }
         ]
     }

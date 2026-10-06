@@ -1,6 +1,6 @@
 const productosCharmsLocket = [
     {
-        "id": "81",
+        "id": "81.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_81.0.jpg",
@@ -13,7 +13,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "80",
+        "id": "80.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_80.0.jpg",
@@ -26,7 +26,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "79",
+        "id": "79.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_79.0.jpg",
@@ -39,7 +39,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "78",
+        "id": "78.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_78.0.jpg",
@@ -52,7 +52,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "77",
+        "id": "77.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_77.0.jpg",
@@ -65,7 +65,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "76",
+        "id": "76.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_76.0.jpg",
@@ -78,7 +78,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "75",
+        "id": "75.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_75.0.jpg",
@@ -91,7 +91,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "74",
+        "id": "74.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_74.0.jpg",
@@ -104,7 +104,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "73",
+        "id": "73.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_73.0.jpg",
@@ -117,7 +117,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "72",
+        "id": "72.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_72.0.jpg",
@@ -130,7 +130,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "71",
+        "id": "71.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_71.0.jpg",
@@ -143,7 +143,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "70",
+        "id": "70.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_70.0.jpg",
@@ -156,7 +156,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "69",
+        "id": "69.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_69.0.jpg",
@@ -169,7 +169,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "68",
+        "id": "68.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_68.0.jpg",
@@ -182,7 +182,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "67",
+        "id": "67.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_67.0.jpg",
@@ -195,7 +195,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "66",
+        "id": "66.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_66.0.jpg",
@@ -208,7 +208,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "65",
+        "id": "65.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_65.0.jpg",
@@ -221,7 +221,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "64",
+        "id": "64.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_64.0.jpg",
@@ -234,7 +234,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "63",
+        "id": "63.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_63.0.jpg",
@@ -247,7 +247,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "62",
+        "id": "62.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_62.0.jpg",
@@ -260,7 +260,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "61",
+        "id": "61.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_61.0.jpg",
@@ -273,7 +273,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "60",
+        "id": "60.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_60.0.jpg",
@@ -286,7 +286,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "59",
+        "id": "59.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_59.0.jpg",
@@ -299,7 +299,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "58",
+        "id": "58.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_58.0.jpg",
@@ -312,7 +312,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "57",
+        "id": "57.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_57.0.jpg",
@@ -325,7 +325,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "56",
+        "id": "56.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_56.0.jpg",
@@ -338,7 +338,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "55",
+        "id": "55.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_55.0.jpg",
@@ -351,7 +351,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "54",
+        "id": "54.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_54.0.jpg",
@@ -364,7 +364,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "53",
+        "id": "53.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_53.0.jpg",
@@ -377,7 +377,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "52",
+        "id": "52.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_52.0.jpg",
@@ -390,7 +390,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "51",
+        "id": "51.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_51.0.jpg",
@@ -403,7 +403,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "50",
+        "id": "50.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_50.0.jpg",
@@ -416,7 +416,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "49",
+        "id": "49.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_49.0.jpg",
@@ -429,7 +429,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "48",
+        "id": "48.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_48.0.jpg",
@@ -442,7 +442,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "47",
+        "id": "47.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_47.0.jpg",
@@ -455,7 +455,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "46",
+        "id": "46.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_46.0.jpg",
@@ -468,7 +468,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "45",
+        "id": "45.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_45.0.jpg",
@@ -481,7 +481,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "44",
+        "id": "44.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_44.0.jpg",
@@ -494,7 +494,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "43",
+        "id": "43.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_43.0.jpg",
@@ -507,7 +507,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "42",
+        "id": "42.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_42.0.jpg",
@@ -520,7 +520,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "41",
+        "id": "41.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_41.0.jpg",
@@ -533,7 +533,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "40",
+        "id": "40.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_40.0.jpg",
@@ -546,7 +546,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "39",
+        "id": "39.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_39.0.jpg",
@@ -559,7 +559,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "38",
+        "id": "38.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_38.0.jpg",
@@ -572,7 +572,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "37",
+        "id": "37.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_37.0.jpg",
@@ -585,7 +585,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "36",
+        "id": "36.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_36.0.jpg",
@@ -598,7 +598,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "35",
+        "id": "35.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_35.0.jpg",
@@ -611,7 +611,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "34",
+        "id": "34.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_34.0.jpg",
@@ -624,7 +624,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "33",
+        "id": "33.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_33.0.jpg",
@@ -637,7 +637,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "32",
+        "id": "32.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_32.0.jpg",
@@ -650,7 +650,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "31",
+        "id": "31.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_31.0.jpg",
@@ -663,7 +663,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "30",
+        "id": "30.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_30.0.jpg",
@@ -676,7 +676,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "29",
+        "id": "29.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_29.0.jpg",
@@ -689,7 +689,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "28",
+        "id": "28.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_28.0.jpg",
@@ -702,7 +702,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "27",
+        "id": "27.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_27.0.jpg",
@@ -715,7 +715,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "26",
+        "id": "26.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_26.0.jpg",
@@ -728,7 +728,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "25",
+        "id": "25.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_25.0.jpg",
@@ -741,7 +741,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "24",
+        "id": "24.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_24.0.jpg",
@@ -754,7 +754,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "23",
+        "id": "23.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_23.0.jpg",
@@ -767,7 +767,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "22",
+        "id": "22.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_22.0.jpg",
@@ -780,7 +780,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "21",
+        "id": "21.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_21.0.jpg",
@@ -793,7 +793,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "20",
+        "id": "20.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_20.0.jpg",
@@ -806,7 +806,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "19",
+        "id": "19.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_19.0.jpg",
@@ -819,7 +819,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "18",
+        "id": "18.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_18.0.jpg",
@@ -832,7 +832,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "17",
+        "id": "17.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_17.0.jpg",
@@ -845,7 +845,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "16",
+        "id": "16.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_16.0.jpg",
@@ -858,7 +858,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "15",
+        "id": "15.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_15.0.jpg",
@@ -871,7 +871,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "14",
+        "id": "14.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_14.0.jpg",
@@ -884,7 +884,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "13",
+        "id": "13.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_13.0.jpg",
@@ -897,7 +897,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "12",
+        "id": "12.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_12.0.jpg",
@@ -910,7 +910,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "11",
+        "id": "11.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_11.0.jpg",
@@ -923,7 +923,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "10",
+        "id": "10.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_10.0.jpg",
@@ -936,7 +936,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "9",
+        "id": "9.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_9.0.jpg",
@@ -949,7 +949,7 @@ const productosCharmsLocket = [
         ]
     },
     {
-        "id": "8",
+        "id": "8.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_8.0.jpg",
@@ -958,11 +958,19 @@ const productosCharmsLocket = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_lockets/chl_8.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_80.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_81.0.jpg"
             }
         ]
     },
     {
-        "id": "7",
+        "id": "7.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_7.0.jpg",
@@ -971,11 +979,51 @@ const productosCharmsLocket = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_lockets/chl_7.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_70.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_71.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_72.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_73.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_74.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_75.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_76.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_77.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_78.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_79.0.jpg"
             }
         ]
     },
     {
-        "id": "6",
+        "id": "6.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_6.0.jpg",
@@ -984,11 +1032,51 @@ const productosCharmsLocket = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_lockets/chl_6.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_60.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_61.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_62.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_63.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_64.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_65.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_66.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_67.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_68.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_69.0.jpg"
             }
         ]
     },
     {
-        "id": "5",
+        "id": "5.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_5.0.jpg",
@@ -997,11 +1085,51 @@ const productosCharmsLocket = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_lockets/chl_5.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_50.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_51.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_52.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_53.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_54.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_55.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_56.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_57.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_58.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_59.0.jpg"
             }
         ]
     },
     {
-        "id": "4",
+        "id": "4.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_4.0.jpg",
@@ -1010,11 +1138,51 @@ const productosCharmsLocket = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_lockets/chl_4.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_40.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_41.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_42.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_43.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_44.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_45.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_46.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_47.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_48.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_49.0.jpg"
             }
         ]
     },
     {
-        "id": "3",
+        "id": "3.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_3.0.jpg",
@@ -1023,11 +1191,51 @@ const productosCharmsLocket = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_lockets/chl_3.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_30.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_31.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_32.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_33.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_34.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_35.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_36.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_37.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_38.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_39.0.jpg"
             }
         ]
     },
     {
-        "id": "2",
+        "id": "2.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_2.0.jpg",
@@ -1036,11 +1244,51 @@ const productosCharmsLocket = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_lockets/chl_2.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_20.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_21.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_22.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_23.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_24.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_25.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_26.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_27.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_28.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_29.0.jpg"
             }
         ]
     },
     {
-        "id": "1",
+        "id": "1.0",
         "categoria": "Charms Locket",
         "precio": 75.0,
         "imagen": "imagenes/charms_lockets/chl_1.0.jpg",
@@ -1049,6 +1297,46 @@ const productosCharmsLocket = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_lockets/chl_1.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_10.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_11.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_12.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_13.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_14.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_15.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_16.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_17.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_18.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_lockets/chl_19.0.jpg"
             }
         ]
     }

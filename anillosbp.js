@@ -3,11 +3,451 @@ const productosAnillosBp = [
         "id": "1",
         "categoria": "Anillos Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_1.1.png",
+        "imagen": "imagenes/BP/anillosbp/anillosbp_10.png",
         "stockTallas": {
             "Ajustable": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_10.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_100.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_101.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_102.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_103.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_105.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_106.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_107.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_108.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_109.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_11.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_110.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_111.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_112.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_113.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_114.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_115.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_116.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_117.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_118.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_119.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_12.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_120.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_121.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_122.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_123.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_124.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_125.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_126.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_127.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_128.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_129.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_13.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_130.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_131.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_132.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_133.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_134.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_135.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_136.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_137.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_138.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_139.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_14.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_140.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_141.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_142.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_143.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_144.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_145.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_146.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_147.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_148.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_149.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_15.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_150.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_151.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_152.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_153.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_154.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_155.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_156.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_157.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_158.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_159.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_16.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_160.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_161.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_162.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_163.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_164.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_165.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_166.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_167.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_168.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_169.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_17.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_170.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_171.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_173.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_174.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_175.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_176.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_177.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_178.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_179.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_18.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_180.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_181.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_182.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_183.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_184.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_187.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_188.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_189.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_19.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_190.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_191.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_192.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_193.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_194.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_195.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_196.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_197.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_198.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199A.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199B.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199C.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199D.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199E.png"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_1.1.png"
@@ -38,7 +478,7 @@ const productosAnillosBp = [
         "id": "2",
         "categoria": "Anillos Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_2.1.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp_20.png",
         "stockTallas": {
             "7": 1,
             "8": 1,
@@ -46,6 +486,234 @@ const productosAnillosBp = [
             "10": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_20.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_200.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_201.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_202.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_203.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_204.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_205.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_206.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_207.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_208.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_209.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_21.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_210.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_211.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_212.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_213.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_214.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_215.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_216.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_217.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_218.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_219.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_22.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_220.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_221.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_222.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_224.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_225.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_226.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_227.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_228.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_229.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_23.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_230.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_231.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_233.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_235.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_236.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_237.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_238.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_239.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_24.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_240.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_241.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_244.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_245.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_246.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_247.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_248.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_249.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_25.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_250.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_251.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_26.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_27.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_28.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_29.png"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_2.1.jpg"
@@ -76,11 +744,51 @@ const productosAnillosBp = [
         "id": "3",
         "categoria": "Anillos Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_3.1.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp_30.png",
         "stockTallas": {
             "Ajustable": 1
         },
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_30.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_31.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_32.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_33.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_34.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_35.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_36.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_37.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_38.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_39.png"
+            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_3.1.jpg"
@@ -125,6 +833,46 @@ const productosAnillosBp = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_40.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_41.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_42.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_43.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_44.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_45.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_46.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_47.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_48.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_49.png"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_4.2.png"
             },
             {
@@ -160,6 +908,46 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_50.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_51.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_52.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_53.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_54.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_55.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_56.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_57.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_58.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_59.png"
             },
             {
                 "tipo": "imagen",
@@ -201,6 +989,46 @@ const productosAnillosBp = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_60.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_61.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_62.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_63.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_64.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_65.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_66.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_67.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_68.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_69.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_6.2.jpg"
             },
             {
@@ -239,6 +1067,46 @@ const productosAnillosBp = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_70.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_71.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_72.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_73.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_74.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_75.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_76.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_77.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_78.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_79.png"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_7.2.png"
             },
             {
@@ -274,6 +1142,42 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_8.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_80.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_82.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_83.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_84.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_85.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_86.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_87.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_88.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_89.jpg"
             }
         ]
     },
@@ -292,6 +1196,46 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_9.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_90.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_91.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_92.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_93.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_94.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_95.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_96.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_97.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_98.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_99.jpg"
             }
         ]
     },
@@ -310,6 +1254,42 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_10.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_100.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_101.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_102.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_103.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_105.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_106.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_107.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_108.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_109.jpg"
             }
         ]
     },
@@ -328,6 +1308,46 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_11.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_110.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_111.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_112.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_113.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_114.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_115.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_116.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_117.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_118.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_119.png"
             }
         ]
     },
@@ -346,6 +1366,46 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_12.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_120.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_121.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_122.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_123.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_124.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_125.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_126.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_127.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_128.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_129.jpg"
             }
         ]
     },
@@ -364,6 +1424,46 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_13.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_130.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_131.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_132.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_133.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_134.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_135.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_136.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_137.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_138.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_139.png"
             }
         ]
     },
@@ -382,6 +1482,46 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_14.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_140.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_141.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_142.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_143.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_144.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_145.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_146.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_147.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_148.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_149.jpg"
             }
         ]
     },
@@ -400,6 +1540,46 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_15.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_150.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_151.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_152.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_153.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_154.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_155.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_156.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_157.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_158.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_159.jpg"
             }
         ]
     },
@@ -418,6 +1598,46 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_16.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_160.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_161.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_162.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_163.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_164.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_165.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_166.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_167.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_168.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_169.png"
             }
         ]
     },
@@ -436,6 +1656,42 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_17.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_170.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_171.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_173.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_174.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_175.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_176.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_177.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_178.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_179.jpg"
             }
         ]
     },
@@ -454,6 +1710,38 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_18.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_180.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_181.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_182.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_183.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_184.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_187.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_188.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_189.png"
             }
         ]
     },
@@ -472,6 +1760,62 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_19.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_190.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_191.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_192.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_193.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_194.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_195.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_196.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_197.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_198.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199A.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199B.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199C.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199D.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199E.png"
             }
         ]
     },
@@ -490,6 +1834,46 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_20.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_200.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_201.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_202.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_203.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_204.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_205.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_206.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_207.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_208.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_209.png"
             }
         ]
     },
@@ -503,6 +1887,46 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_21.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_210.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_211.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_212.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_213.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_214.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_215.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_216.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_217.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_218.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_219.jpg"
             }
         ]
     },
@@ -518,6 +1942,42 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_22.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_220.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_221.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_222.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_224.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_225.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_226.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_227.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_228.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_229.jpg"
             }
         ]
     },
@@ -536,6 +1996,38 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_23.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_230.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_231.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_233.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_235.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_236.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_237.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_238.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_239.jpg"
             }
         ]
     },
@@ -554,6 +2046,38 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_24.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_240.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_241.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_244.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_245.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_246.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_247.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_248.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_249.jpg"
             }
         ]
     },
@@ -569,6 +2093,14 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_25.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_250.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_251.jpg"
             }
         ]
     },
@@ -3077,12 +4609,28 @@ const productosAnillosBp = [
         "id": "199A",
         "categoria": "Anillos Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_199A.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp_199A.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199A.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp_199A.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199B.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199C.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199D.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199E.png"
             }
         ]
     },
@@ -3090,12 +4638,28 @@ const productosAnillosBp = [
         "id": "199B",
         "categoria": "Anillos Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_199B.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp_199A.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199B.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp_199A.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199B.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199C.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199D.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199E.png"
             }
         ]
     },
@@ -3103,12 +4667,28 @@ const productosAnillosBp = [
         "id": "199C",
         "categoria": "Anillos Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_199C.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp_199A.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199C.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp_199A.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199B.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199C.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199D.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199E.png"
             }
         ]
     },
@@ -3116,12 +4696,28 @@ const productosAnillosBp = [
         "id": "199D",
         "categoria": "Anillos Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_199D.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp_199A.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199D.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp_199A.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199B.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199C.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199D.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199E.png"
             }
         ]
     },
@@ -3129,12 +4725,28 @@ const productosAnillosBp = [
         "id": "199E",
         "categoria": "Anillos Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_199E.jpg",
+        "imagen": "imagenes/BP/anillosbp/anillosbp_199A.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199E.jpg"
+                "url": "imagenes/BP/anillosbp/anillosbp_199A.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199B.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199C.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199D.png"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/BP/anillosbp/anillosbp_199E.png"
             }
         ]
     },
