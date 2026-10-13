@@ -1,0 +1,18 @@
+{
+    "cliente": "papasitos",
+    "metodo_envio": "Ako",
+    "margen": "0",
+    "anticipo": "0.00",
+    "items": [
+        {
+            "id": "4",
+            "categoria": "Anillos Swarovski",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 105.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/SWA/anillos_swa\\anillos_swa_4.avif",
+            "precio_calculado": 210
+        }
+    ]
+}

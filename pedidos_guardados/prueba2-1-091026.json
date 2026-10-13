@@ -1,0 +1,38 @@
+{
+    "cliente": "prueba2",
+    "metodo_envio": "Ako",
+    "margen": "0",
+    "anticipo": "0.00",
+    "items": [
+        {
+            "id": "1",
+            "categoria": "Anillos Swarovski",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 100.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/SWA/anillos_swa\\anillos_swa_1.avif",
+            "precio_calculado": 200
+        },
+        {
+            "id": "2",
+            "categoria": "Anillos Swarovski",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 100.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/SWA/anillos_swa\\anillos_swa_2.avif",
+            "precio_calculado": 200
+        },
+        {
+            "id": "3",
+            "categoria": "Anillos Swarovski",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 180.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/SWA/anillos_swa\\anillos_swa_3.avif",
+            "precio_calculado": 360
+        }
+    ]
+}

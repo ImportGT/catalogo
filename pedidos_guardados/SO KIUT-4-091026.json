@@ -1,0 +1,39 @@
+{
+    "cliente": "SO KIUT",
+    "margen": "0",
+    "anticipo": "0.00",
+    "items": [
+        {
+            "id": "277",
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "imagen": "imagenes/charms_beads_disney\\chbd_277.0.jpg"
+        },
+        {
+            "id": "271",
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 75.0,
+            "imagen": "imagenes/charms_beads_disney\\chbd_271.0.jpg"
+        },
+        {
+            "id": "560",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 85.0,
+            "imagen": "imagenes/aretes\\aretes_560.jpg"
+        },
+        {
+            "id": "594",
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 80.0,
+            "imagen": "imagenes/anillos\\anillos_594.jpg"
+        }
+    ]
+}

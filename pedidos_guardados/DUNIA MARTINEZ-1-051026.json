@@ -1,0 +1,415 @@
+{
+    "cliente": "DUNIA MARTINEZ",
+    "margen": "0",
+    "anticipo": "985",
+    "items": [
+        {
+            "id": "1",
+            "categoria": "Anillos Baño de Plata",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/anillosbp\\anillosbp_1.1.png"
+        },
+        {
+            "id": "4",
+            "categoria": "Anillos Baño de Plata",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 40.0,
+            "imagen": "imagenes/BP/anillosbp\\anillosbp_4.2.png"
+        },
+        {
+            "id": "6",
+            "categoria": "Anillos Baño de Plata",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 40.0,
+            "imagen": "imagenes/BP/anillosbp\\anillosbp_6.2.jpg"
+        },
+        {
+            "id": "32",
+            "categoria": "Anillos Baño de Plata",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/anillosbp\\anillosbp_32.png"
+        },
+        {
+            "id": "52",
+            "categoria": "Anillos Baño de Plata",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 30.0,
+            "imagen": "imagenes/BP/anillosbp\\anillosbp_52.png"
+        },
+        {
+            "id": "53",
+            "categoria": "Anillos Baño de Plata",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 30.0,
+            "imagen": "imagenes/BP/anillosbp\\anillosbp_53.png"
+        },
+        {
+            "id": "58",
+            "categoria": "Anillos Baño de Plata",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/anillosbp\\anillosbp_58.png"
+        },
+        {
+            "id": "75",
+            "categoria": "Anillos Baño de Plata",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 40.0,
+            "imagen": "imagenes/BP/anillosbp\\anillosbp_75.jpg"
+        },
+        {
+            "id": "82",
+            "categoria": "Anillos Baño de Plata",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/anillosbp\\anillosbp_82.png"
+        },
+        {
+            "id": "95",
+            "categoria": "Anillos Baño de Plata",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 40.0,
+            "imagen": "imagenes/BP/anillosbp\\anillosbp_95.jpg"
+        },
+        {
+            "id": "99",
+            "categoria": "Anillos Baño de Plata",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/anillosbp\\anillosbp_99.jpg"
+        },
+        {
+            "id": "144",
+            "categoria": "Anillos Baño de Plata",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/anillosbp\\anillosbp_144.jpg"
+        },
+        {
+            "id": "163",
+            "categoria": "Anillos Baño de Plata",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/anillosbp\\anillosbp_163.jpg"
+        },
+        {
+            "id": "184",
+            "categoria": "Anillos Baño de Plata",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 30.0,
+            "imagen": "imagenes/BP/anillosbp\\anillosbp_184.jpg"
+        },
+        {
+            "id": "189",
+            "categoria": "Anillos Baño de Plata",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/anillosbp\\anillosbp_189.png"
+        },
+        {
+            "id": "188",
+            "categoria": "Anillos Baño de Plata",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/anillosbp\\anillosbp_188.png"
+        },
+        {
+            "id": "2",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_2.png"
+        },
+        {
+            "id": "20",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_20.jpg"
+        },
+        {
+            "id": "22",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_22.jpg"
+        },
+        {
+            "id": "10",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 40.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_10.png"
+        },
+        {
+            "id": "42",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_42.jpg"
+        },
+        {
+            "id": "61",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 40.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_61.jpg"
+        },
+        {
+            "id": "69",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_69.jpg"
+        },
+        {
+            "id": "70",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_70.png"
+        },
+        {
+            "id": "72",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_72.png"
+        },
+        {
+            "id": "80",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_80.jpg"
+        },
+        {
+            "id": "84",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 45.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_84.png"
+        },
+        {
+            "id": "137",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 40.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_137.jpg"
+        },
+        {
+            "id": "192",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 50.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_192.jpg"
+        },
+        {
+            "id": "179",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 50.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_179.jpg"
+        },
+        {
+            "id": "203",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 40.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_203.jpg"
+        },
+        {
+            "id": "210",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_210.jpg"
+        },
+        {
+            "id": "236",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 40.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_236.jpg"
+        },
+        {
+            "id": "322",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_322.jpg"
+        },
+        {
+            "id": "334",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_334.jpg"
+        },
+        {
+            "id": "343",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_343.jpg"
+        },
+        {
+            "id": "354",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 30.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_354.jpg"
+        },
+        {
+            "id": "376",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 40.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_376.jpg"
+        },
+        {
+            "id": "464",
+            "categoria": "Aretes Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 40.0,
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_464.jpg"
+        },
+        {
+            "id": "2",
+            "categoria": "Cadenas Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 30.0,
+            "imagen": "imagenes/BP/cadenasbp\\cadenasbp_2.png"
+        },
+        {
+            "id": "68",
+            "categoria": "Cadenas Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/cadenasbp\\cadenasbp_68.png"
+        },
+        {
+            "id": "78",
+            "categoria": "Cadenas Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/cadenasbp\\cadenasbp_78.jpg"
+        },
+        {
+            "id": "204",
+            "categoria": "Cadenas Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 50.0,
+            "imagen": "imagenes/BP/cadenasbp\\cadenasbp_204.jpg"
+        },
+        {
+            "id": "208",
+            "categoria": "Cadenas Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 55.0,
+            "imagen": "imagenes/BP/cadenasbp\\cadenasbp_208.jpg"
+        },
+        {
+            "id": "222",
+            "categoria": "Cadenas Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 50.0,
+            "imagen": "imagenes/BP/cadenasbp\\cadenasbp_222.jpg"
+        },
+        {
+            "id": "332",
+            "categoria": "Cadenas Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 35.0,
+            "imagen": "imagenes/BP/cadenasbp\\cadenasbp_332.jpg"
+        },
+        {
+            "id": "6",
+            "categoria": "Pulseras Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 45.0,
+            "imagen": "imagenes/BP/pulserasbp\\pulserasbp_6.png"
+        },
+        {
+            "id": "12",
+            "categoria": "Pulseras Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 50.0,
+            "imagen": "imagenes/BP/pulserasbp\\pulserasbp_12.png"
+        },
+        {
+            "id": "39",
+            "categoria": "Pulseras Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 55.0,
+            "imagen": "imagenes/BP/pulserasbp\\pulserasbp_39.png"
+        },
+        {
+            "id": "130",
+            "categoria": "Pulseras Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 50.0,
+            "imagen": "imagenes/BP/pulserasbp\\pulserasbp_130.jpg"
+        },
+        {
+            "id": "213",
+            "categoria": "Pulseras Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 45.0,
+            "imagen": "imagenes/BP/pulserasbp\\pulserasbp_213.jpg"
+        }
+    ]
+}

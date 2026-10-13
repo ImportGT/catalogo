@@ -1,5 +1,154 @@
 const productosAnillos = [
     {
+        "id": "606.0",
+        "categoria": "Anillos",
+        "precio": 65.0,
+        "imagen": "imagenes/anillos/anillos_606.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_606.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_606.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_606.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_606.4.webp"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_606.5.mp4"
+            }
+        ]
+    },
+    {
+        "id": "605.0",
+        "categoria": "Anillos",
+        "precio": 65.0,
+        "imagen": "imagenes/anillos/anillos_605.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_605.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_605.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_605.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_605.4.webp"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_605.5.mp4"
+            }
+        ]
+    },
+    {
+        "id": "604.0",
+        "categoria": "Anillos",
+        "precio": 75.0,
+        "imagen": "imagenes/anillos/anillos_604.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_604.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_604.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_604.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_604.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_604.5.mp4"
+            }
+        ]
+    },
+    {
+        "id": "603.0",
+        "categoria": "Anillos",
+        "precio": 75.0,
+        "imagen": "imagenes/anillos/anillos_603.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_603.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_603.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_603.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_603.4.webp"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_603.5.mp4"
+            }
+        ]
+    },
+    {
+        "id": "602.0",
+        "categoria": "Anillos",
+        "precio": 75.0,
+        "imagen": "imagenes/anillos/anillos_602.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_602.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_602.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_602.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_602.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_602.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_602.6.mp4"
+            }
+        ]
+    },
+    {
         "id": "601.0",
         "categoria": "Anillos",
         "precio": 65.0,
@@ -8561,11 +8710,51 @@ const productosAnillos = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_602.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_603.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_604.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_605.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_606.webp"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_600.2.webp"
             },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_601.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_602.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_603.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_604.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_605.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_606.2.webp"
             },
             {
                 "tipo": "imagen",
@@ -8577,6 +8766,26 @@ const productosAnillos = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_602.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_603.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_604.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_605.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_606.3.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_600.4.webp"
             },
             {
@@ -8584,8 +8793,52 @@ const productosAnillos = [
                 "url": "imagenes/anillos/anillos_601.4.mp4"
             },
             {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_602.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_603.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_604.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_605.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_606.4.webp"
+            },
+            {
                 "tipo": "video",
                 "url": "imagenes/anillos/anillos_600.5.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_602.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_603.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_604.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_605.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_606.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_602.6.mp4"
             }
         ]
     },
@@ -12861,6 +13114,26 @@ const productosAnillos = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_602.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_603.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_604.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_605.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_606.webp"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_61.jpg"
             },
             {
@@ -12905,11 +13178,51 @@ const productosAnillos = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_602.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_603.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_604.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_605.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_606.2.webp"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_600.3.webp"
             },
             {
                 "tipo": "imagen",
                 "url": "imagenes/anillos/anillos_601.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_602.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_603.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_604.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_605.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_606.3.jpg"
             },
             {
                 "tipo": "imagen",
@@ -12920,8 +13233,52 @@ const productosAnillos = [
                 "url": "imagenes/anillos/anillos_601.4.mp4"
             },
             {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_602.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_603.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_604.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_605.4.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_606.4.webp"
+            },
+            {
                 "tipo": "video",
                 "url": "imagenes/anillos/anillos_600.5.mp4"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/anillos/anillos_602.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_603.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_604.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_605.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_606.5.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/anillos/anillos_602.6.mp4"
             }
         ]
     },

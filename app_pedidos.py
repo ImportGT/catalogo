@@ -2,6 +2,7 @@ import os
 import re
 import json
 import glob
+import math
 import pandas as pd
 import tkinter as tk
 from tkinter import messagebox, ttk
@@ -32,7 +33,7 @@ COLECCIONES_LINEAS = {
     },
     "Swarovski": {
         "Anillos Swarovski": {"excel": "ANILLOS SWA.xlsx", "carpeta": "imagenes/SWA/anillos_swa", "prefijo": "anillos_swa", "header": 2},
-        "Aretes Swarovski": {"excel": "ARETES SWA.xlsx", "carpeta": "imagenes/SWA/aretesswa", "prefijo": "aretes_swa", "header": 3},
+        "Aretes Swarovski": {"excel": "ARETES SWA.xlsx", "carpeta": "imagenes/SWA/aretes_swa", "prefijo": "aretes_swa", "header": 3},
         "Pulseras Swarovski": {"excel": "PULSERAS SWA.xlsx", "carpeta": "imagenes/SWA/pulseras_swa", "prefijo": "pulseras_swa", "header": 2},
         "Collares Swarovski": {"excel": "COLLARES SWA.xlsx", "carpeta": "imagenes/SWA/collares_swa", "prefijo": "collares_swa", "header": 2}
     },
@@ -54,30 +55,26 @@ class AppGestorPedidos:
     def __init__(self, root):
         self.root = root
         self.root.title("Gestor de Pedidos y Cotizaciones - Joyería")
-        self.root.geometry("1280x850")
+        self.root.geometry("1280x880")
         self.root.config(bg="#f4f6f9")
 
         self.items_pedido = []
         self.imagenes_referencias = []
-        self.zoom_window = None  # Referencia para la ventana flotante de zoom
+        self.zoom_window = None
         self.nombre_archivo_actual = None
 
         if not os.path.exists(CARPETA_GUARDADOS):
             os.makedirs(CARPETA_GUARDADOS)
 
-        # --- CONTENEDOR PRINCIPAL EN DOS COLUMNAS ---
         main_container = tk.Frame(root, bg="#f4f6f9")
         main_container.pack(fill="both", expand=True, padx=10, pady=10)
 
-        # COLUMNA IZQUIERDA: GESTIÓN DE PEDIDOS Y COTIZACIONES
         left_frame = tk.Frame(main_container, bg="#f4f6f9")
         left_frame.pack(side="left", fill="both", expand=True, padx=(0, 5))
 
-        # COLUMNA DERECHA: PANEL FIJO DE INVENTARIO Y STOCK
         right_frame = tk.LabelFrame(main_container, text=" Inventario y Stock en Tienda ", font=("Helvetica", 10, "bold"), bg="#f4f6f9", fg="#1F4E79", padx=5, pady=5)
         right_frame.pack(side="right", fill="y", padx=(5, 0))
 
-        # Configuración de la tabla visual (Treeview) para el inventario
         columns_inv = ("linea", "stock")
         self.tree_inventario = ttk.Treeview(right_frame, columns=columns_inv, show="headings", height=30)
         self.tree_inventario.heading("linea", text="Línea / Categoría")
@@ -92,7 +89,7 @@ class AppGestorPedidos:
         scrollbar_inv.pack(side="right", fill="y")
         self.cargar_datos_inventario_pantalla()
 
-        # --- SECCIÓN SUPERIOR IZQUIERDA: RECUPERAR / GUARDAR PEDIDOS ---
+        # --- SECCIÓN SUPERIOR IZQUIERDA ---
         frame_recuperar = tk.LabelFrame(left_frame, text=" Administrar Cotizaciones Guardadas ", font=("Helvetica", 10, "bold"), bg="#f4f6f9", fg="#1F4E79", padx=10, pady=6)
         frame_recuperar.pack(fill="x", padx=5, pady=5)
 
@@ -107,7 +104,7 @@ class AppGestorPedidos:
         btn_nuevo = tk.Button(frame_recuperar, text="Nuevo", bg="#008000", fg="white", font=("Helvetica", 9, "bold"), command=self.nuevo_pedido)
         btn_nuevo.grid(row=0, column=3, padx=2, sticky="w")
 
-        # --- SECCIÓN: DATOS DEL CLIENTE Y PAGOS ---
+        # --- SECCIÓN DATOS DEL CLIENTE Y CONFIGURACIÓN GENERAL ---
         frame_top = tk.LabelFrame(left_frame, text=" Datos del Cliente, Márgenes y Anticipo ", font=("Helvetica", 10, "bold"), bg="#f4f6f9", fg="#1F4E79", padx=10, pady=8)
         frame_top.pack(fill="x", padx=5, pady=5)
 
@@ -116,54 +113,59 @@ class AppGestorPedidos:
         self.entry_cliente.grid(row=0, column=1, padx=2, sticky="w")
         self.entry_cliente.bind("<KeyRelease>", lambda e: self.guardar_estado_actual())
 
-        tk.Label(frame_top, text="Margen(%):", bg="#f4f6f9", font=("Helvetica", 9, "bold")).grid(row=0, column=2, sticky="w", padx=5)
-        self.entry_margen = tk.Entry(frame_top, width=5, font=("Helvetica", 10))
+        tk.Label(frame_top, text="Margen(%):", bg="#f4f6f9", font=("Helvetica", 9, "bold")).grid(row=0, column=2, sticky="w", padx=10)
+        self.entry_margen = tk.Entry(frame_top, width=6, font=("Helvetica", 10))
         self.entry_margen.insert(0, "0")
         self.entry_margen.grid(row=0, column=3, padx=2, sticky="w")
         self.entry_margen.bind("<KeyRelease>", lambda e: self.actualizar_totales_pantalla())
 
-        tk.Label(frame_top, text="Anticipo(Q):", bg="#f4f6f9", font=("Helvetica", 9, "bold")).grid(row=0, column=4, sticky="w", padx=5)
+        tk.Label(frame_top, text="Anticipo(Q):", bg="#f4f6f9", font=("Helvetica", 9, "bold")).grid(row=0, column=4, sticky="w", padx=10)
         self.entry_anticipo = tk.Entry(frame_top, width=8, font=("Helvetica", 10))
         self.entry_anticipo.insert(0, "0.00")
         self.entry_anticipo.grid(row=0, column=5, padx=2, sticky="w")
         self.entry_anticipo.bind("<KeyRelease>", lambda e: self.actualizar_totales_pantalla())
 
-        # --- SECCIÓN MEDIA: ENTRADA DE PRODUCTOS (SELECCIÓN JERÁRQUICA) ---
-        frame_mid = tk.LabelFrame(left_frame, text=" Agregar Producto ", font=("Helvetica", 10, "bold"), bg="#f4f6f9", fg="#1F4E79", padx=10, pady=8)
+        # --- SECCIÓN MEDIA: COLECCIÓN Y ENVÍO ---
+        frame_mid = tk.LabelFrame(left_frame, text=" Selección de Colección, Envío y Producto ", font=("Helvetica", 10, "bold"), bg="#f4f6f9", fg="#1F4E79", padx=10, pady=8)
         frame_mid.pack(fill="x", padx=5, pady=5)
 
-        # 1. Selector de Colección
         tk.Label(frame_mid, text="Colección:", bg="#f4f6f9", font=("Helvetica", 9, "bold")).grid(row=0, column=0, sticky="w", padx=2, pady=2)
-        self.combo_coleccion = ttk.Combobox(frame_mid, values=list(COLECCIONES_LINEAS.keys()), width=24, state="readonly", font=("Helvetica", 9))
+        self.combo_coleccion = ttk.Combobox(frame_mid, values=list(COLECCIONES_LINEAS.keys()), width=22, state="readonly", font=("Helvetica", 9))
         self.combo_coleccion.grid(row=0, column=1, padx=2, sticky="w", pady=2)
         self.combo_coleccion.current(0)
-        self.combo_coleccion.bind("<<ComboboxSelected>>", self.actualizar_lineas_por_coleccion)
+        self.combo_coleccion.bind("<<ComboboxSelected>>", self.on_coleccion_seleccionada)
 
-        # 2. Selector de Línea / Categoría dependiente
-        tk.Label(frame_mid, text="Línea / Categoría:", bg="#f4f6f9", font=("Helvetica", 9)).grid(row=1, column=0, sticky="w", padx=2, pady=2)
-        self.combo_linea = ttk.Combobox(frame_mid, width=24, state="readonly", font=("Helvetica", 9))
-        self.combo_linea.grid(row=1, column=1, padx=2, sticky="w", pady=2)
+        tk.Label(frame_mid, text="Método Envío:", bg="#f4f6f9", font=("Helvetica", 9, "bold")).grid(row=0, column=2, sticky="w", padx=10, pady=2)
+        self.combo_envio = ttk.Combobox(frame_mid, values=["Sugargoo", "Ako", "Mia"], width=12, state="readonly", font=("Helvetica", 9))
+        self.combo_envio.grid(row=0, column=3, padx=2, sticky="w", pady=2)
+        self.combo_envio.current(0)
+        self.combo_envio.bind("<<ComboboxSelected>>", lambda e: self.refrescar_lista_visual())
 
-        tk.Label(frame_mid, text="Código:", bg="#f4f6f9", font=("Helvetica", 9)).grid(row=0, column=2, sticky="w", padx=5)
+        tk.Label(frame_mid, text="Línea / Categoría:", bg="#f4f6f9", font=("Helvetica", 9)).grid(row=1, column=0, sticky="w", padx=2, pady=4)
+        self.combo_linea = ttk.Combobox(frame_mid, width=22, state="readonly", font=("Helvetica", 9))
+        self.combo_linea.grid(row=1, column=1, padx=2, sticky="w", pady=4)
+
+        tk.Label(frame_mid, text="Código:", bg="#f4f6f9", font=("Helvetica", 9)).grid(row=1, column=2, sticky="w", padx=10, pady=4)
         self.entry_codigo = tk.Entry(frame_mid, width=8, font=("Helvetica", 10))
-        self.entry_codigo.grid(row=0, column=3, padx=2, sticky="w")
+        self.entry_codigo.grid(row=1, column=3, padx=2, sticky="w", pady=4)
 
-        tk.Label(frame_mid, text="Talla:", bg="#f4f6f9", font=("Helvetica", 9)).grid(row=1, column=2, sticky="w", padx=5, pady=6)
+        tk.Label(frame_mid, text="Talla:", bg="#f4f6f9", font=("Helvetica", 9)).grid(row=2, column=0, sticky="w", padx=2, pady=2)
         self.entry_talla = tk.Entry(frame_mid, width=8, font=("Helvetica", 10))
         self.entry_talla.insert(0, "única")
-        self.entry_talla.grid(row=1, column=3, padx=2, sticky="w", pady=6)
+        self.entry_talla.grid(row=2, column=1, padx=2, sticky="w", pady=2)
 
-        tk.Label(frame_mid, text="Cant:", bg="#f4f6f9", font=("Helvetica", 9)).grid(row=2, column=0, sticky="w", padx=2, pady=2)
+        tk.Label(frame_mid, text="Cant:", bg="#f4f6f9", font=("Helvetica", 9)).grid(row=2, column=2, sticky="w", padx=10, pady=2)
         self.entry_qty = tk.Entry(frame_mid, width=6, font=("Helvetica", 10))
         self.entry_qty.insert(0, "1")
-        self.entry_qty.grid(row=2, column=1, padx=2, sticky="w", pady=2)
+        self.entry_qty.grid(row=2, column=3, padx=2, sticky="w", pady=2)
 
-        btn_agregar = tk.Button(frame_mid, text="Agregar", bg="#1F4E79", fg="white", font=("Helvetica", 9, "bold"), padx=10, command=self.agregar_producto)
-        btn_agregar.grid(row=0, column=4, rowspan=3, padx=10, sticky="nsew")
+        btn_agregar = tk.Button(frame_mid, text="Agregar Producto", bg="#1F4E79", fg="white", font=("Helvetica", 9, "bold"), padx=10, command=self.agregar_producto)
+        btn_agregar.grid(row=0, column=4, rowspan=3, padx=15, sticky="nsew")
 
         self.actualizar_lineas_por_coleccion(None)
+        self.verificar_estado_envio()
 
-        # --- SECCIÓN LISTA ENLISTADA CON MINIATURAS ---
+        # --- SECCIÓN LISTA ---
         frame_lista_container = tk.LabelFrame(left_frame, text=" Productos en el Pedido Actual (Pase el cursor sobre la imagen para ampliar) ", font=("Helvetica", 10, "bold"), bg="#f4f6f9", fg="#1F4E79", padx=5, pady=5)
         frame_lista_container.pack(fill="both", expand=True, padx=5, pady=5)
 
@@ -181,7 +183,7 @@ class AppGestorPedidos:
         self.canvas.pack(side="left", fill="both", expand=True)
         self.scrollbar.pack(side="right", fill="y")
 
-        # --- SECCIÓN INFERIOR: TOTALES Y BOTONES ---
+        # --- SECCIÓN INFERIOR ---
         frame_bottom_panel = tk.Frame(left_frame, bg="#f4f6f9", padx=2, pady=5)
         frame_bottom_panel.pack(fill="x", padx=5, pady=5)
 
@@ -190,6 +192,12 @@ class AppGestorPedidos:
 
         self.lbl_saldo_pendiente = tk.Label(frame_bottom_panel, text="Saldo: Q0.00", font=("Helvetica", 10, "bold"), bg="#f4f6f9", fg="#C00000")
         self.lbl_saldo_pendiente.pack(side="left", padx=5)
+
+        self.lbl_total_piezas = tk.Label(frame_bottom_panel, text="Piezas: 0", font=("Helvetica", 10, "bold"), bg="#f4f6f9", fg="#1F4E79")
+        self.lbl_total_piezas.pack(side="left", padx=8)
+
+        self.lbl_peso_total = tk.Label(frame_bottom_panel, text="Peso: 150g (0.15kg)", font=("Helvetica", 10, "bold"), bg="#f4f6f9", fg="#008000")
+        self.lbl_peso_total.pack(side="left", padx=10)
 
         btn_generar_orden = tk.Button(frame_bottom_panel, text="OC (Excel)", bg="#1F4E79", fg="white", font=("Helvetica", 9, "bold"), padx=6, pady=4, command=self.generar_excel_proveedor)
         btn_generar_orden.pack(side="right", padx=2)
@@ -201,10 +209,8 @@ class AppGestorPedidos:
         btn_inventario.pack(side="right", padx=2)
 
     def mostrar_zoom_imagen(self, ruta_imagen, info_producto):
-        """Muestra una ventana flotante con la imagen ampliada del producto"""
         if not ruta_imagen or not os.path.exists(ruta_imagen):
             return
-
         if self.zoom_window and self.zoom_window.winfo_exists():
             self.zoom_window.destroy()
 
@@ -212,15 +218,12 @@ class AppGestorPedidos:
         self.zoom_window.title(f"Vista Ampliada - {info_producto}")
         self.zoom_window.geometry("420x450")
         self.zoom_window.config(bg="white")
-        self.zoom_window.grab_release() # Permite seguir interactuando con la ventana principal
+        self.zoom_window.grab_release()
 
         try:
             img_pil = Image.open(ruta_imagen)
-            # Redimensionar manteniendo buena resolución para la ventana flotante (ej. 350x350)
             img_pil.thumbnail((380, 380), Image.Resampling.LANCZOS)
             img_tk = ImageTk.PhotoImage(img_pil)
-            
-            # Guardamos referencia para que el recolector de basura de python no la elimine
             self.zoom_window.img_ref = img_tk
 
             lbl_titulo = tk.Label(self.zoom_window, text=info_producto, font=("Helvetica", 10, "bold"), bg="white", fg="#1F4E79", pady=5)
@@ -235,10 +238,21 @@ class AppGestorPedidos:
             print(f"Error al mostrar zoom: {e}")
 
     def ocultar_zoom_imagen(self, event):
-        """Cierra la ventana flotante de zoom cuando el cursor sale de la imagen"""
         if self.zoom_window and self.zoom_window.winfo_exists():
             self.zoom_window.destroy()
             self.zoom_window = None
+
+    def verificar_estado_envio(self):
+        col_seleccionada = self.combo_coleccion.get()
+        if col_seleccionada == "Pandora":
+            self.combo_envio.config(state="disabled")
+        else:
+            self.combo_envio.config(state="readonly")
+
+    def on_coleccion_seleccionada(self, event):
+        self.actualizar_lineas_por_coleccion(event)
+        self.verificar_estado_envio()
+        self.refrescar_lista_visual()
 
     def actualizar_lineas_por_coleccion(self, event):
         col_seleccionada = self.combo_coleccion.get()
@@ -265,7 +279,6 @@ class AppGestorPedidos:
                     try:
                         df = pd.read_excel(cfg["excel"], header=cfg["header"])
                         df.columns = [str(c).strip().upper() for c in df.columns]
-                        
                         columnas_stock = [c for c in df.columns if "STOCK" in c]
                         if columnas_stock:
                             for col in columnas_stock:
@@ -277,7 +290,6 @@ class AppGestorPedidos:
                                             pass
                     except Exception:
                         pass
-                
                 self.tree_inventario.insert("", "end", values=(nombre_linea, f"{total_stock:.0f}"))
 
     def actualizar_combo_guardados(self):
@@ -307,7 +319,6 @@ class AppGestorPedidos:
         if not self.nombre_archivo_actual or not self.nombre_archivo_actual.startswith(cliente):
             patron = os.path.join(CARPETA_GUARDADOS, f"{cliente}-*-*.json")
             existentes = glob.glob(patron)
-            
             patron_hoy = os.path.join(CARPETA_GUARDADOS, f"{cliente}-*-{fecha_hoy}.json")
             existentes_hoy = glob.glob(patron_hoy)
 
@@ -326,9 +337,9 @@ class AppGestorPedidos:
                 self.nombre_archivo_actual = f"{cliente}-{nuevo_num}-{fecha_hoy}"
 
         ruta_completa = os.path.join(CARPETA_GUARDADOS, f"{self.nombre_archivo_actual}.json")
-        
         datos_estado = {
             "cliente": cliente,
+            "metodo_envio": self.combo_envio.get(),
             "margen": self.entry_margen.get(),
             "anticipo": self.entry_anticipo.get(),
             "items": self.items_pedido
@@ -360,6 +371,9 @@ class AppGestorPedidos:
             self.entry_cliente.delete(0, tk.END)
             self.entry_cliente.insert(0, datos.get("cliente", ""))
 
+            if "metodo_envio" in datos:
+                self.combo_envio.set(datos.get("metodo_envio"))
+
             self.entry_margen.delete(0, tk.END)
             self.entry_margen.insert(0, datos.get("margen", "0"))
 
@@ -375,13 +389,13 @@ class AppGestorPedidos:
     def buscar_en_excel(self, nombre_linea, prod_id):
         cfg = self.obtener_configuracion_linea(nombre_linea)
         if not cfg or not os.path.exists(cfg["excel"]):
-            return 0.0, "", 0.0
+            return 0.0, 0.0, "", 0.0
 
         try:
             df = pd.read_excel(cfg["excel"], header=cfg["header"])
             df.columns = [str(c).strip().upper() for c in df.columns]
         except Exception:
-            return 0.0, "", 0.0
+            return 0.0, 0.0, "", 0.0
 
         for _, row in df.iterrows():
             raw_id = None
@@ -400,12 +414,42 @@ class AppGestorPedidos:
                 current_id_str = str(raw_id).strip()
 
             if current_id_str.lower() == str(prod_id).lower():
-                precio_base = 0.0
-                for col_p in ['PRECIO', 'VENTA MAYORISTA', 'PRECIO MAYORISTA', 'PRECIO DOBLE']:
-                    matches_p = [c for c in df.columns if c == col_p]
-                    if matches_p and matches_p[0] in row and not pd.isna(row[matches_p[0]]):
+                es_pandora = any(col in cfg["excel"].upper() for col in ['ANILLOS.XLSX', 'ARETES.XLSX', 'COLLARES.XLSX', 'PULSERAS.XLSX', 'CHARMS'])
+                metodo = self.combo_envio.get()
+                
+                valor_base = 0.0
+                
+                if es_pandora or metodo == "Sugargoo":
+                    col_busqueda = ['PRECIO']
+                else:
+                    col_busqueda = ['COSTO', 'COST', 'PRECIO']
+                
+                for col_c in col_busqueda:
+                    matches_c = [c for c in df.columns if c == col_c]
+                    if matches_c and matches_c[0] in row and not pd.isna(row[matches_c[0]]):
                         try:
-                            precio_base = float(row[matches_p[0]])
+                            valor_base = float(row[matches_c[0]])
+                            break
+                        except (ValueError, TypeError):
+                            pass
+
+                if valor_base == 0.0 and (es_pandora or metodo == "Sugargoo"):
+                    for col in df.columns:
+                        if 'PRECIO' in col:
+                            try:
+                                val = float(row[col])
+                                if not pd.isna(val) and val > 0:
+                                    valor_base = val
+                                    break
+                            except Exception:
+                                pass
+
+                peso_gr = 0.0
+                for col_w in ['PESO', 'WEIGHT', 'GRAMOS', 'PESO GR']:
+                    matches_w = [c for c in df.columns if c == col_w]
+                    if matches_w and matches_w[0] in row and not pd.isna(row[matches_w[0]]):
+                        try:
+                            peso_gr = float(row[matches_w[0]])
                             break
                         except (ValueError, TypeError):
                             pass
@@ -420,33 +464,107 @@ class AppGestorPedidos:
                             pass
 
                 carpeta = cfg["carpeta"]
+                prefijo_linea = cfg.get("prefijo", "").lower()
                 extensiones_validas = ['.jpg', '.jpeg', '.png', '.webp', '.avif', '.bmp', '.gif', '.tiff']
-                imagen_path = ""
+                galeria_encontrada = []
 
                 if os.path.exists(carpeta):
                     for archivo_dir in os.listdir(carpeta):
                         ext = archivo_dir.split('.')[-1].lower()
                         if ext in [e.replace('.', '') for e in extensiones_validas]:
-                            nombre_base = os.path.splitext(archivo_dir)[0]
-                            numeros_extra = re.findall(r'\d+', nombre_base)
+                            nombre_base = os.path.splitext(archivo_dir)[0].lower()
                             
-                            es_match = False
-                            if "dijes_tous" in carpeta:
-                                id_limpio = re.sub(r'[\s\-]+', '', str(prod_id)).lower()
-                                archivo_limpio = re.sub(r'[\s_\-]+', '', nombre_base).lower()
-                                if id_limpio in archivo_limpio and archivo_limpio.startswith("dijestous"):
-                                    es_match = True
-                            else:
-                                if numeros_extra and numeros_extra[0].lower() == str(prod_id).lower():
-                                    es_match = True
+                            if prefijo_linea and not nombre_base.startswith(prefijo_linea):
+                                continue
 
-                            if es_match:
-                                imagen_path = os.path.join(carpeta, archivo_dir)
-                                break
+                            numeros_extra = re.findall(r'\d+', nombre_base)
+                            if numeros_extra and numeros_extra[0].lower() == str(prod_id).lower():
+                                full_p = os.path.join(carpeta, archivo_dir)
+                                if full_p not in galeria_encontrada:
+                                    galeria_encontrada.append(full_p)
 
-                return precio_base, imagen_path, stock_disponible
+                def clave_orden_portada(ruta_arch):
+                    nombre_f = os.path.basename(ruta_arch).lower()
+                    nombre_sin_ext = os.path.splitext(nombre_f)[0]
+                    es_modelo = 0
+                    if re.search(r'\.[5-9]\.', nombre_f) or any(m in nombre_f for m in ['.5.', '.6.', '.7.', '.8.']):
+                        es_modelo = 10
+                    es_exacto = 0 if nombre_sin_ext.endswith(f"_{str(prod_id).lower()}") or nombre_sin_ext == f"{str(prod_id).lower()}" else 1
+                    return (es_modelo, es_exacto, nombre_f)
 
-        return 0.0, "", 0.0
+                imagen_path = ""
+                if galeria_encontrada:
+                    galeria_encontrada = sorted(galeria_encontrada, key=clave_orden_portada)
+                    imagen_path = galeria_encontrada[0]
+
+                return valor_base, peso_gr, imagen_path, stock_disponible
+
+        return 0.0, 0.0, "", 0.0
+
+    def calcular_costos_con_envio(self):
+        metodo = self.combo_envio.get()
+        tipo_cambio_usd_q = 7.8
+        coleccion_actual = self.combo_coleccion.get()
+
+        if coleccion_actual == "Pandora" or metodo == "Sugargoo":
+            for item in self.items_pedido:
+                item['precio_calculado'] = item['precio_base']
+            return
+
+        peso_total_gr = 150.0  
+        for item in self.items_pedido:
+            es_pandora_item = any(item['categoria'] in lineas for col_name, lineas in COLECCIONES_LINEAS.items() if col_name == "Pandora")
+            if not es_pandora_item:
+                peso_total_gr += item.get('peso_gr', 0.0) * item['qty']
+
+        peso_kg = peso_total_gr / 1000.0
+        peso_lb = peso_total_gr / 453.59237
+
+        if metodo == "Mia":
+            envio_china_mex_q = 200.0
+        else:
+            if peso_kg <= 1.0:
+                envio_china_mex_usd = 33.0
+            else:
+                envio_china_mex_usd = 33.0 + (math.ceil(peso_kg - 1.0) * 8.0)
+            envio_china_mex_q = envio_china_mex_usd * tipo_cambio_usd_q
+
+        if peso_lb <= 0:
+            envio_mex_gua_q = 0.0
+        elif peso_lb <= 1.0:
+            envio_mex_gua_q = 35.0
+        else:
+            exceso_lb = peso_lb - 1.0
+            medias_libras_extra = math.ceil(exceso_lb / 0.5)
+            envio_mex_gua_q = 35.0 + (medias_libras_extra * 17.50)
+
+        envio_total_q = envio_china_mex_q + envio_mex_gua_q
+
+        total_piezas = sum(item['qty'] for item in self.items_pedido)
+        es_pedido_unitario = (len(self.items_pedido) == 1 and total_piezas == 1)
+
+        peso_total_productos_gr = sum((item.get('peso_gr', 0.0) * item['qty']) for item in self.items_pedido if not any(item['categoria'] in lineas for col_name, lineas in COLECCIONES_LINEAS.items() if col_name == "Pandora"))
+        if peso_total_productos_gr <= 0:
+            peso_total_productos_gr = 1.0
+
+        for item in self.items_pedido:
+            es_pandora_item = any(item['categoria'] in lineas for col_name, lineas in COLECCIONES_LINEAS.items() if col_name == "Pandora")
+            if es_pandora_item:
+                item['precio_calculado'] = item['precio_base']
+                continue
+
+            costo_base_q = item['precio_base'] * tipo_cambio_usd_q
+
+            if es_pedido_unitario:
+                costo_unitario_con_envio = costo_base_q + envio_total_q
+            else:
+                peso_item_total = (item.get('peso_gr', 0.0) * item['qty'])
+                proporcion_envio = peso_item_total / peso_total_productos_gr if peso_total_productos_gr > 0 else 0
+                envio_asignado_item = envio_total_q * proporcion_envio
+                costo_unitario_con_envio = costo_base_q + (envio_asignado_item / item['qty'] if item['qty'] > 0 else 0)
+            
+            precio_final_ak = math.ceil(costo_unitario_con_envio * 2)
+            item['precio_calculado'] = precio_final_ak
 
     def agregar_producto(self):
         linea = self.combo_linea.get()
@@ -454,12 +572,8 @@ class AppGestorPedidos:
         talla = self.entry_talla.get().strip() or "única"
         qty_str = self.entry_qty.get().strip()
 
-        if not linea:
-            messagebox.showerror("Error", "Selecciona una línea o categoría válida.")
-            return
-
-        if not codigo_str:
-            messagebox.showerror("Error", "Debes ingresar un código de producto.")
+        if not linea or not codigo_str:
+            messagebox.showerror("Error", "Selecciona una línea e ingresa un código de producto.")
             return
 
         try:
@@ -469,22 +583,23 @@ class AppGestorPedidos:
             messagebox.showerror("Error", "La cantidad debe ser un número entero.")
             return
 
-        precio_base, imagen_encontrada, stock_disponible = self.buscar_en_excel(linea, prod_id)
+        valor_base, peso_gr, imagen_encontrada, stock_disponible = self.buscar_en_excel(linea, prod_id)
 
-        if precio_base == 0.0:
-            if not messagebox.askyesno("Aviso", f"No se encontró precio automático para el código {prod_id}. ¿Deseas ingresarlo manualmente?"):
+        if valor_base == 0.0:
+            es_pandora = linea in COLECCIONES_LINEAS["Pandora"]
+            metodo = self.combo_envio.get()
+            msg_val = "precio" if (es_pandora or metodo == "Sugargoo") else "costo base en USD"
+            if not messagebox.askyesno("Aviso", f"No se encontró valor automático para el código {prod_id}. ¿Deseas ingresarlo manualmente?"):
                 return
-            precio_base = float(messagebox.askstring("Precio Manual", "Ingresa el precio base en Q:") or 0)
-
-        if stock_disponible > 0:
-            messagebox.showwarning("¡Alerta de Stock!", f"⚠️ El producto con código {prod_id} ya cuenta con {stock_disponible:.0f} unidades en total (en sus distintas tallas/columnas de stock).")
+            valor_base = float(messagebox.askstring("Valor Manual", f"Ingresa el {msg_val}:") or 0)
 
         item = {
             "id": prod_id,
             "categoria": linea,
             "talla": talla,
             "qty": qty,
-            "precio_base": precio_base,
+            "precio_base": valor_base,
+            "peso_gr": peso_gr,
             "imagen": imagen_encontrada
         }
 
@@ -495,11 +610,20 @@ class AppGestorPedidos:
         self.entry_codigo.delete(0, tk.END)
         self.entry_codigo.focus()
 
+    def cambiar_cantidad_item(self, index, delta):
+        nueva_qty = self.items_pedido[index]['qty'] + delta
+        if nueva_qty < 1:
+            nueva_qty = 1
+        self.items_pedido[index]['qty'] = nueva_qty
+        self.refrescar_lista_visual()
+        self.guardar_estado_actual()
+
     def refrescar_lista_visual(self):
         for widget in self.scrollable_frame.winfo_children():
             widget.destroy()
 
         self.imagenes_referencias.clear()
+        self.calcular_costos_con_envio()
 
         for index, item in enumerate(self.items_pedido):
             card = tk.Frame(self.scrollable_frame, bg="#ffffff", bd=1, relief="solid", padx=4, pady=4)
@@ -514,7 +638,6 @@ class AppGestorPedidos:
                     self.imagenes_referencias.append(img_tk)
                     lbl_img.config(image=img_tk, text="")
                     
-                    # Eventos para mostrar y ocultar la ventana ampliada de la imagen
                     info_zoom_str = f"Cód: {item['id']} - {item['categoria']} (Talla: {item['talla']})"
                     lbl_img.bind("<Enter>", lambda e, path=item["imagen"], desc=info_zoom_str: self.mostrar_zoom_imagen(path, desc))
                     lbl_img.bind("<Leave>", self.ocultar_zoom_imagen)
@@ -525,9 +648,23 @@ class AppGestorPedidos:
                 lbl_img.config(text="[Sin img]", font=("Helvetica", 6))
             lbl_img.pack(side="left", padx=4)
 
-            info_texto = f"Cod: {item['id']} | {item['categoria'][:14]} | T: {item['talla']} | Cant: {item['qty']} | Q{item['precio_base']:.2f}"
+            precio_mostrar = item.get('precio_calculado', item['precio_base'])
+            info_texto = f"Cod: {item['id']} | {item['categoria'][:14]} | T: {item['talla']} | Q{precio_mostrar:.2f}"
             lbl_info = tk.Label(card, text=info_texto, bg="#ffffff", font=("Helvetica", 8, "bold"), fg="#333333")
-            lbl_info.pack(side="left", padx=6)
+            lbl_info.pack(side="left", padx=4)
+
+            # Controles de cantidad (+ / -) por producto
+            frame_qty_ctrl = tk.Frame(card, bg="#ffffff")
+            frame_qty_ctrl.pack(side="left", padx=8)
+
+            btn_menos = tk.Button(frame_qty_ctrl, text="-", bg="#D9D9D9", font=("Helvetica", 7, "bold"), width=2, command=lambda idx=index: self.cambiar_cantidad_item(idx, -1))
+            btn_menos.pack(side="left")
+
+            lbl_cant = tk.Label(frame_qty_ctrl, text=str(item['qty']), bg="#ffffff", font=("Helvetica", 8, "bold"), width=3)
+            lbl_cant.pack(side="left")
+
+            btn_mas = tk.Button(frame_qty_ctrl, text="+", bg="#D9D9D9", font=("Helvetica", 7, "bold"), width=2, command=lambda idx=index: self.cambiar_cantidad_item(idx, 1))
+            btn_mas.pack(side="left")
 
             btn_eliminar_item = tk.Button(card, text="X", bg="#C00000", fg="white", font=("Helvetica", 7, "bold"), padx=4, command=lambda idx=index: self.eliminar_producto(idx))
             btn_eliminar_item.pack(side="right", padx=4)
@@ -540,6 +677,7 @@ class AppGestorPedidos:
         self.guardar_estado_actual()
 
     def actualizar_totales_pantalla(self):
+        self.calcular_costos_con_envio()
         try:
             margen = float(self.entry_margen.get().strip() or 0)
         except ValueError:
@@ -551,14 +689,31 @@ class AppGestorPedidos:
             anticipo = 0.0
 
         total_general = 0.0
+        total_piezas = 0
+        peso_total_gr = 150.0  
+
         for item in self.items_pedido:
-            precio_final = item['precio_base'] * (1 + (margen / 100))
+            precio_base_efectivo = item.get('precio_calculado', item['precio_base'])
+            precio_final = precio_base_efectivo * (1 + (margen / 100))
             total_general += precio_final * item['qty']
+            total_piezas += item['qty']
+
+            es_pandora_item = any(item['categoria'] in lineas for col_name, lineas in COLECCIONES_LINEAS.items() if col_name == "Pandora")
+            if not es_pandora_item:
+                peso_total_gr += item.get('peso_gr', 0.0) * item['qty']
 
         saldo_pendiente = total_general - anticipo
+        peso_kg = peso_total_gr / 1000.0
 
         self.lbl_total_general.config(text=f"Total: Q{total_general:.2f}")
         self.lbl_saldo_pendiente.config(text=f"Saldo: Q{saldo_pendiente:.2f}")
+        self.lbl_total_piezas.config(text=f"Piezas: {total_piezas}")
+
+        if peso_total_gr <= 1000.0:
+            self.lbl_peso_total.config(text=f"Peso: {peso_total_gr:.0f}g ({peso_kg:.2f}kg)", fg="#008000")
+        else:
+            self.lbl_peso_total.config(text=f"Peso: {peso_total_gr:.0f}g ({peso_kg:.2f}kg) [EXCEDE 1KG]", fg="#C00000")
+
         self.guardar_estado_actual()
 
     def generar_reporte_inventario(self):
@@ -609,7 +764,6 @@ class AppGestorPedidos:
                             df = pd.read_excel(cfg["excel"], header=cfg["header"])
                             df.columns = [str(c).strip().upper() for c in df.columns]
                             total_refs = len(df)
-
                             columnas_stock = [c for c in df.columns if "STOCK" in c]
                             for col in columnas_stock:
                                 for val in df[col]:
@@ -635,7 +789,6 @@ class AppGestorPedidos:
                     for c in [c1, c2, c3, c4]:
                         c.border = thin_border
                         c.font = Font(name="Calibri", size=10)
-
                     row_idx += 1
 
             ws.column_dimensions['A'].width = 35
@@ -664,6 +817,7 @@ class AppGestorPedidos:
             return
 
         try:
+            self.calcular_costos_con_envio()
             margen = float(self.entry_margen.get().strip() or 0)
             anticipo = float(self.entry_anticipo.get().strip() or 0)
             self.guardar_estado_actual()
@@ -678,7 +832,7 @@ class AppGestorPedidos:
             
             pdf.set_font('helvetica', '', 10)
             pdf.set_text_color(90, 100, 110)
-            pdf.cell(0, 6, f"Cliente: {cliente}", new_x="LMARGIN", new_y="NEXT", align='L')
+            pdf.cell(0, 6, f"Cliente: {cliente}  |  Envío: {self.combo_envio.get()}", new_x="LMARGIN", new_y="NEXT", align='L')
             pdf.cell(0, 6, f"Fecha: {pd.Timestamp.now().strftime('%Y-%m-%d')}", new_x="LMARGIN", new_y="NEXT", align='L')
             pdf.ln(4)
             
@@ -710,7 +864,8 @@ class AppGestorPedidos:
                 pdf.cell(30, 14, str(item['talla']), 1, 0, 'C')
                 pdf.cell(18, 14, str(item['qty']), 1, 0, 'C')
                 
-                precio_final = item['precio_base'] * (1 + (margen / 100))
+                precio_base_efectivo = item.get('precio_calculado', item['precio_base'])
+                precio_final = precio_base_efectivo * (1 + (margen / 100))
                 subtotal = precio_final * item['qty']
                 total_general += subtotal
 
@@ -782,13 +937,13 @@ class AppGestorPedidos:
 
             ws.cell(row=1, column=1, value="ORDEN DE COMPRA / PROVEEDOR").font = font_titulo
             ws.row_dimensions[1].height = 24
-            ws.cell(row=2, column=1, value=f"Cliente: {cliente}").font = font_sub
+            ws.cell(row=2, column=1, value=f"Cliente: {cliente}  |  Envío: {self.combo_envio.get()}").font = font_sub
             ws.row_dimensions[2].height = 20
             ws.cell(row=3, column=1, value=f"Fecha: {pd.Timestamp.now().strftime('%Y-%m-%d')}").font = font_sub
             ws.row_dimensions[3].height = 20
             ws.row_dimensions[4].height = 10
 
-            headers = ["Imagen", "Código", "Categoría", "Talla/Medida", "Cantidad", "Precio Ind. USD", "Precio Total USD"]
+            headers = ["Imagen", "Código", "Categoría", "Talla/Medida", "Cantidad", "Precio Ind. Q", "Precio Total Q"]
             header_row = 5
             
             for col_num, h_text in enumerate(headers, start=1):
@@ -804,12 +959,14 @@ class AppGestorPedidos:
                 row_idx = start_row + idx
                 ws.row_dimensions[row_idx].height = 90
                 
+                precio_unit_q = item.get('precio_calculado', item['precio_base'])
+                
                 c1 = ws.cell(row=row_idx, column=1, value="")
                 c2 = ws.cell(row=row_idx, column=2, value=item['id'])
                 c3 = ws.cell(row=row_idx, column=3, value=item['categoria'])
                 c4 = ws.cell(row=row_idx, column=4, value=item['talla'])
                 c5 = ws.cell(row=row_idx, column=5, value=item['qty'])
-                c6 = ws.cell(row=row_idx, column=6, value="")
+                c6 = ws.cell(row=row_idx, column=6, value=precio_unit_q)
                 c7 = ws.cell(row=row_idx, column=7, value=f"=E{row_idx}*F{row_idx}")
 
                 c1.alignment = align_center
