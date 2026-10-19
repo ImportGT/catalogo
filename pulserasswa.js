@@ -1,6 +1,19 @@
 const productosPulserasSwa = [
     {
-        "id": "39.0",
+        "id": "40",
+        "categoria": "Pulseras Swarovski",
+        "precio": 175.0,
+        "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_40.7.webm",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_40.7.webm"
+            }
+        ]
+    },
+    {
+        "id": "39",
         "categoria": "Pulseras Swarovski",
         "precio": 160.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_39.avif",
@@ -37,7 +50,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "38.0",
+        "id": "38",
         "categoria": "Pulseras Swarovski",
         "precio": 215.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_38.avif",
@@ -74,7 +87,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "37.0",
+        "id": "37",
         "categoria": "Pulseras Swarovski",
         "precio": 250.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_37.avif",
@@ -107,7 +120,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "36.0",
+        "id": "36",
         "categoria": "Pulseras Swarovski",
         "precio": 345.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_36.avif",
@@ -144,7 +157,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "35.0",
+        "id": "35",
         "categoria": "Pulseras Swarovski",
         "precio": 320.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_35.avif",
@@ -173,7 +186,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "34.0",
+        "id": "34",
         "categoria": "Pulseras Swarovski",
         "precio": 205.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_34.avif",
@@ -210,7 +223,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "33.0",
+        "id": "33",
         "categoria": "Pulseras Swarovski",
         "precio": 200.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_33.avif",
@@ -247,7 +260,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "32.0",
+        "id": "32",
         "categoria": "Pulseras Swarovski",
         "precio": 195.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_32.avif",
@@ -276,7 +289,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "31.0",
+        "id": "31",
         "categoria": "Pulseras Swarovski",
         "precio": 125.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_31.avif",
@@ -305,7 +318,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "30.0",
+        "id": "30",
         "categoria": "Pulseras Swarovski",
         "precio": 150.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_30.avif",
@@ -334,7 +347,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "29.0",
+        "id": "29",
         "categoria": "Pulseras Swarovski",
         "precio": 150.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_29.avif",
@@ -367,7 +380,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "28.0",
+        "id": "28",
         "categoria": "Pulseras Swarovski",
         "precio": 170.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_28.avif",
@@ -396,7 +409,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "27.0",
+        "id": "27",
         "categoria": "Pulseras Swarovski",
         "precio": 145.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_27.avif",
@@ -429,7 +442,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "26.0",
+        "id": "26",
         "categoria": "Pulseras Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_26.avif",
@@ -466,7 +479,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "25.0",
+        "id": "25",
         "categoria": "Pulseras Swarovski",
         "precio": 155.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_25.avif",
@@ -495,7 +508,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "24.0",
+        "id": "24",
         "categoria": "Pulseras Swarovski",
         "precio": 155.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_24.avif",
@@ -532,7 +545,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "23.0",
+        "id": "23",
         "categoria": "Pulseras Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_23.avif",
@@ -565,7 +578,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "23.0",
+        "id": "23",
         "categoria": "Pulseras Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_23.avif",
@@ -598,7 +611,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "22.0",
+        "id": "22",
         "categoria": "Pulseras Swarovski",
         "precio": 200.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_22.avif",
@@ -627,7 +640,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "21.0",
+        "id": "21",
         "categoria": "Pulseras Swarovski",
         "precio": 200.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_21.avif",
@@ -660,7 +673,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "20.0",
+        "id": "20",
         "categoria": "Pulseras Swarovski",
         "precio": 200.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_20.avif",
@@ -693,7 +706,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "19.0",
+        "id": "19",
         "categoria": "Pulseras Swarovski",
         "precio": 155.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_19.jpg",
@@ -718,7 +731,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "18.0",
+        "id": "18",
         "categoria": "Pulseras Swarovski",
         "precio": 170.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_18.avif",
@@ -747,7 +760,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "17.0",
+        "id": "17",
         "categoria": "Pulseras Swarovski",
         "precio": 200.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_17.avif",
@@ -784,7 +797,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "16.0",
+        "id": "16",
         "categoria": "Pulseras Swarovski",
         "precio": 190.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_16.jpg",
@@ -805,7 +818,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "15.0",
+        "id": "15",
         "categoria": "Pulseras Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_15.avif",
@@ -838,7 +851,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "14.0",
+        "id": "14",
         "categoria": "Pulseras Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_14.jpg",
@@ -875,7 +888,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "13.0",
+        "id": "13",
         "categoria": "Pulseras Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_13.avif",
@@ -916,7 +929,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "12.0",
+        "id": "12",
         "categoria": "Pulseras Swarovski",
         "precio": 145.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_12.webp",
@@ -929,7 +942,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "11.0",
+        "id": "11",
         "categoria": "Pulseras Swarovski",
         "precio": 145.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_11.webp",
@@ -950,7 +963,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "10.0",
+        "id": "10",
         "categoria": "Pulseras Swarovski",
         "precio": 130.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_10.jpg",
@@ -963,7 +976,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "9.0",
+        "id": "9",
         "categoria": "Pulseras Swarovski",
         "precio": 120.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_9.jpg",
@@ -976,7 +989,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "8.0",
+        "id": "8",
         "categoria": "Pulseras Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_8.avif",
@@ -1009,7 +1022,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "7.0",
+        "id": "7",
         "categoria": "Pulseras Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_7.avif",
@@ -1042,7 +1055,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "6.0",
+        "id": "6",
         "categoria": "Pulseras Swarovski",
         "precio": 140.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_6.jpg",
@@ -1055,7 +1068,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "5.0",
+        "id": "5",
         "categoria": "Pulseras Swarovski",
         "precio": 140.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_5.jpg",
@@ -1068,7 +1081,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "4.0",
+        "id": "4",
         "categoria": "Pulseras Swarovski",
         "precio": 270.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_4.jpg",
@@ -1077,11 +1090,15 @@ const productosPulserasSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/pulseras_swa/pulseras_swa_4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_40.7.webm"
             }
         ]
     },
     {
-        "id": "3.0",
+        "id": "3",
         "categoria": "Pulseras Swarovski",
         "precio": 175.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_3.jpg",
@@ -1338,7 +1355,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "2.0",
+        "id": "2",
         "categoria": "Pulseras Swarovski",
         "precio": 230.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_2.jpg",
@@ -1587,7 +1604,7 @@ const productosPulserasSwa = [
         ]
     },
     {
-        "id": "1.0",
+        "id": "1",
         "categoria": "Pulseras Swarovski",
         "precio": 200.0,
         "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_1.jpg",
