@@ -1050,7 +1050,7 @@ const productosPulseras = [
     {
         "id": "459.0",
         "categoria": "Pulseras",
-        "precio": 120.0,
+        "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_459.0.jpg",
         "stockTallas": {},
         "galeria": [
@@ -1063,7 +1063,7 @@ const productosPulseras = [
     {
         "id": "458.0",
         "categoria": "Pulseras",
-        "precio": 120.0,
+        "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_458.0.jpg",
         "stockTallas": {},
         "galeria": [
@@ -1687,7 +1687,7 @@ const productosPulseras = [
     {
         "id": "410.0",
         "categoria": "Pulseras",
-        "precio": 150.0,
+        "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_410.0.jpg",
         "stockTallas": {},
         "galeria": [
