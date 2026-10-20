@@ -1,5 +1,42 @@
 const productosAnillosSwa = [
     {
+        "id": "57",
+        "categoria": "Anillos Swarovski",
+        "precio": 120.0,
+        "imagen": "imagenes/SWA/anillos_swa/anillos_swa_57.jpg",
+        "stockTallas": {
+            "6": 1,
+            "7": 1,
+            "8": 1
+        },
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_57.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_57.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_57.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_57.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_57.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_57.6.webm"
+            }
+        ]
+    },
+    {
         "id": "56",
         "categoria": "Anillos Swarovski",
         "precio": 120.0,
@@ -1777,6 +1814,10 @@ const productosAnillosSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_57.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_50.2.avif"
             },
             {
@@ -1802,6 +1843,10 @@ const productosAnillosSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_56.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_57.2.jpg"
             },
             {
                 "tipo": "imagen",
@@ -1833,6 +1878,10 @@ const productosAnillosSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_57.3.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_50.4.avif"
             },
             {
@@ -1858,6 +1907,10 @@ const productosAnillosSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_56.4.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_57.4.jpg"
             },
             {
                 "tipo": "imagen",
@@ -1889,6 +1942,10 @@ const productosAnillosSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_57.5.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_51.6.avif"
             },
             {
@@ -1906,6 +1963,10 @@ const productosAnillosSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/anillos_swa/anillos_swa_56.6.avif"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/anillos_swa/anillos_swa_57.6.webm"
             },
             {
                 "tipo": "video",

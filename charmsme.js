@@ -1,6 +1,138 @@
 const productosCharmsME = [
     {
-        "id": "152.0",
+        "id": "156",
+        "categoria": "Charms ME",
+        "precio": 75.0,
+        "imagen": "imagenes/charms_me/chme_156.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_156.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_156.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_156.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_156.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_156.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_156.6.mp4"
+            }
+        ]
+    },
+    {
+        "id": "155",
+        "categoria": "Charms ME",
+        "precio": 75.0,
+        "imagen": "imagenes/charms_me/chme_155.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_155.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_155.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_155.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_155.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_155.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_155.6.mp4"
+            }
+        ]
+    },
+    {
+        "id": "154",
+        "categoria": "Charms ME",
+        "precio": 75.0,
+        "imagen": "imagenes/charms_me/chme_154.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_154.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_154.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_154.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_154.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_154.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_154.6.mp4"
+            }
+        ]
+    },
+    {
+        "id": "153",
+        "categoria": "Charms ME",
+        "precio": 75.0,
+        "imagen": "imagenes/charms_me/chme_153.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_153.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_153.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_153.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_153.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_153.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_153.6.mp4"
+            }
+        ]
+    },
+    {
+        "id": "152",
         "categoria": "Charms ME",
         "precio": 75.0,
         "imagen": "imagenes/charms_me/chme_152.jpg",
@@ -33,7 +165,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "151.0",
+        "id": "151",
         "categoria": "Charms ME",
         "precio": 75.0,
         "imagen": "imagenes/charms_me/chme_151.jpg",
@@ -66,7 +198,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "150.0",
+        "id": "150",
         "categoria": "Charms ME",
         "precio": 75.0,
         "imagen": "imagenes/charms_me/chme_150.jpg",
@@ -99,7 +231,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "149.0",
+        "id": "149",
         "categoria": "Charms ME",
         "precio": 75.0,
         "imagen": "imagenes/charms_me/chme_149.jpg",
@@ -132,7 +264,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "148.0",
+        "id": "148",
         "categoria": "Charms ME",
         "precio": 75.0,
         "imagen": "imagenes/charms_me/chme_148.jpg",
@@ -165,7 +297,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "147.0",
+        "id": "147",
         "categoria": "Charms ME",
         "precio": 75.0,
         "imagen": "imagenes/charms_me/chme_147.jpg",
@@ -198,7 +330,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "146.0",
+        "id": "146",
         "categoria": "Charms ME",
         "precio": 75.0,
         "imagen": "imagenes/charms_me/chme_146.jpg",
@@ -231,7 +363,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "145.0",
+        "id": "145",
         "categoria": "Charms ME",
         "precio": 75.0,
         "imagen": "imagenes/charms_me/chme_145.jpg",
@@ -264,7 +396,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "144.0",
+        "id": "144",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_144.jpg",
@@ -297,7 +429,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "143.0",
+        "id": "143",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_143.jpg",
@@ -330,7 +462,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "142.0",
+        "id": "142",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_142.jpg",
@@ -363,7 +495,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "141.0",
+        "id": "141",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_141.webp",
@@ -396,7 +528,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "140.0",
+        "id": "140",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_140.jpg",
@@ -429,7 +561,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "139.0",
+        "id": "139",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_139.jpg",
@@ -462,7 +594,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "138.0",
+        "id": "138",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_138.jpg",
@@ -495,7 +627,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "137.0",
+        "id": "137",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_137.jpg",
@@ -528,7 +660,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "136.0",
+        "id": "136",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_136.jpg",
@@ -561,7 +693,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "135.0",
+        "id": "135",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_135.jpg",
@@ -590,7 +722,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "134.0",
+        "id": "134",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_134.jpg",
@@ -623,7 +755,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "133.0",
+        "id": "133",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_133.webp",
@@ -656,7 +788,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "132.0",
+        "id": "132",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_132.jpg",
@@ -693,7 +825,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "131.0",
+        "id": "131",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_131.jpg",
@@ -722,7 +854,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "130.0",
+        "id": "130",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_130.jpg",
@@ -755,7 +887,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "129.0",
+        "id": "129",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_129.jpg",
@@ -788,7 +920,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "128.0",
+        "id": "128",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_128.jpg",
@@ -821,7 +953,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "127.0",
+        "id": "127",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_127.jpg",
@@ -854,7 +986,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "126.0",
+        "id": "126",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_126.jpg",
@@ -887,7 +1019,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "125.0",
+        "id": "125",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_125.webp",
@@ -920,7 +1052,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "124.0",
+        "id": "124",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_124.webp",
@@ -949,7 +1081,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "123.0",
+        "id": "123",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_123.0.jpg",
@@ -982,7 +1114,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "122.0",
+        "id": "122",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_122.0.webp",
@@ -1015,7 +1147,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "121.0",
+        "id": "121",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_121.0.jpg",
@@ -1028,7 +1160,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "120.0",
+        "id": "120",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_120.0.jpg",
@@ -1041,7 +1173,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "119.0",
+        "id": "119",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_119.0.jpg",
@@ -1054,7 +1186,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "118.0",
+        "id": "118",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_118.0.jpg",
@@ -1067,7 +1199,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "117.0",
+        "id": "117",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_117.0.jpg",
@@ -1080,7 +1212,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "116.0",
+        "id": "116",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_116.0.jpg",
@@ -1093,7 +1225,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "115.0",
+        "id": "115",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_115.0.jpg",
@@ -1106,7 +1238,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "114.0",
+        "id": "114",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_114.0.jpg",
@@ -1119,7 +1251,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "113.0",
+        "id": "113",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_113.0.jpg",
@@ -1132,7 +1264,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "112.0",
+        "id": "112",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_112.0.jpg",
@@ -1145,7 +1277,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "111.0",
+        "id": "111",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_111.0.jpg",
@@ -1158,7 +1290,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "110.0",
+        "id": "110",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_110.0.jpg",
@@ -1171,7 +1303,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "109.0",
+        "id": "109",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_109.0.jpg",
@@ -1184,7 +1316,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "108.0",
+        "id": "108",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_108.0.jpg",
@@ -1197,7 +1329,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "107.0",
+        "id": "107",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_107.0.jpg",
@@ -1210,7 +1342,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "106.0",
+        "id": "106",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_106.0.jpg",
@@ -1223,7 +1355,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "105.0",
+        "id": "105",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_105.0.jpg",
@@ -1236,7 +1368,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "104.0",
+        "id": "104",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_104.0.jpg",
@@ -1249,7 +1381,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "103.0",
+        "id": "103",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_103.0.jpg",
@@ -1262,7 +1394,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "102.0",
+        "id": "102",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_102.0.jpg",
@@ -1275,7 +1407,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "101.0",
+        "id": "101",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_101.0.jpg",
@@ -1288,7 +1420,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "100.0",
+        "id": "100",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_100.0.jpg",
@@ -1301,7 +1433,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "99.0",
+        "id": "99",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_99.0.jpg",
@@ -1314,7 +1446,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "98.0",
+        "id": "98",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_98.0.jpg",
@@ -1327,7 +1459,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "97.0",
+        "id": "97",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_97.0.jpg",
@@ -1340,7 +1472,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "96.0",
+        "id": "96",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_96.0.jpg",
@@ -1353,7 +1485,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "95.0",
+        "id": "95",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_95.0.jpg",
@@ -1366,7 +1498,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "94.0",
+        "id": "94",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_94.0.jpg",
@@ -1379,7 +1511,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "93.0",
+        "id": "93",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_93.0.jpg",
@@ -1392,7 +1524,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "92.0",
+        "id": "92",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_92.0.jpg",
@@ -1405,7 +1537,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "91.0",
+        "id": "91",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_91.0.jpg",
@@ -1418,7 +1550,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "90.0",
+        "id": "90",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_90.0.jpg",
@@ -1431,7 +1563,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "89.0",
+        "id": "89",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_89.0.jpg",
@@ -1444,7 +1576,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "88.0",
+        "id": "88",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_88.0.jpg",
@@ -1457,7 +1589,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "87.0",
+        "id": "87",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_87.0.jpg",
@@ -1470,7 +1602,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "86.0",
+        "id": "86",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_86.0.jpg",
@@ -1483,7 +1615,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "85.0",
+        "id": "85",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_85.0.jpg",
@@ -1496,7 +1628,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "84.0",
+        "id": "84",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_84.0.jpg",
@@ -1509,7 +1641,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "83.0",
+        "id": "83",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_83.0.jpg",
@@ -1522,7 +1654,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "82.0",
+        "id": "82",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_82.0.jpg",
@@ -1535,7 +1667,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "81.0",
+        "id": "81",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_81.0.jpg",
@@ -1548,7 +1680,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "80.0",
+        "id": "80",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_80.0.jpg",
@@ -1561,7 +1693,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "79.0",
+        "id": "79",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_79.0.jpg",
@@ -1574,7 +1706,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "78.0",
+        "id": "78",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_78.0.jpg",
@@ -1587,7 +1719,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "77.0",
+        "id": "77",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_77.0.jpg",
@@ -1600,7 +1732,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "76.0",
+        "id": "76",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_76.0.jpg",
@@ -1613,7 +1745,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "75.0",
+        "id": "75",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_75.0.jpg",
@@ -1626,7 +1758,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "74.0",
+        "id": "74",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_74.0.jpg",
@@ -1639,7 +1771,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "73.0",
+        "id": "73",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_73.0.jpg",
@@ -1652,7 +1784,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "72.0",
+        "id": "72",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_72.0.jpg",
@@ -1665,7 +1797,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "71.0",
+        "id": "71",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_71.0.jpg",
@@ -1678,7 +1810,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "70.0",
+        "id": "70",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_70.0.jpg",
@@ -1691,7 +1823,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "69.0",
+        "id": "69",
         "categoria": "Charms ME",
         "precio": 50.0,
         "imagen": "imagenes/charms_me/chme_69.0.jpg",
@@ -1704,7 +1836,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "68.0",
+        "id": "68",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_68.0.jpg",
@@ -1717,7 +1849,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "67.0",
+        "id": "67",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_67.0.jpg",
@@ -1730,7 +1862,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "66.0",
+        "id": "66",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_66.0.jpg",
@@ -1743,7 +1875,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "65.0",
+        "id": "65",
         "categoria": "Charms ME",
         "precio": 50.0,
         "imagen": "imagenes/charms_me/chme_65.0.jpg",
@@ -1756,7 +1888,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "64.0",
+        "id": "64",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_64.0.jpg",
@@ -1769,7 +1901,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "63.0",
+        "id": "63",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_63.0.jpg",
@@ -1782,7 +1914,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "62.0",
+        "id": "62",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_62.0.jpg",
@@ -1795,7 +1927,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "61.0",
+        "id": "61",
         "categoria": "Charms ME",
         "precio": 50.0,
         "imagen": "imagenes/charms_me/chme_61.0.jpg",
@@ -1808,7 +1940,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "60.0",
+        "id": "60",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_60.0.jpg",
@@ -1821,7 +1953,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "59.0",
+        "id": "59",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_59.0.jpg",
@@ -1834,7 +1966,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "58.0",
+        "id": "58",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_58.0.jpg",
@@ -1847,7 +1979,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "57.0",
+        "id": "57",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_57.0.jpg",
@@ -1860,7 +1992,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "56.0",
+        "id": "56",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_56.0.jpg",
@@ -1873,7 +2005,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "55.0",
+        "id": "55",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_55.0.jpg",
@@ -1886,7 +2018,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "54.0",
+        "id": "54",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_54.0.jpg",
@@ -1899,7 +2031,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "53.0",
+        "id": "53",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_53.0.jpg",
@@ -1912,7 +2044,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "52.0",
+        "id": "52",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_52.0.jpg",
@@ -1925,7 +2057,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "51.0",
+        "id": "51",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_51.0.jpg",
@@ -1938,7 +2070,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "50.0",
+        "id": "50",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_50.0.jpg",
@@ -1951,7 +2083,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "49.0",
+        "id": "49",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_49.0.jpg",
@@ -1964,7 +2096,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "48.0",
+        "id": "48",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_48.0.jpg",
@@ -1977,7 +2109,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "47.0",
+        "id": "47",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_47.0.jpg",
@@ -1990,7 +2122,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "46.0",
+        "id": "46",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_46.0.jpg",
@@ -2003,7 +2135,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "45.0",
+        "id": "45",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_45.0.jpg",
@@ -2016,7 +2148,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "44.0",
+        "id": "44",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_44.0.jpg",
@@ -2029,7 +2161,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "43.0",
+        "id": "43",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_43.0.jpg",
@@ -2042,7 +2174,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "42.0",
+        "id": "42",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_42.0.jpg",
@@ -2055,7 +2187,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "41.0",
+        "id": "41",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_41.0.jpg",
@@ -2068,7 +2200,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "40.0",
+        "id": "40",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_40.0.jpg",
@@ -2081,7 +2213,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "39.0",
+        "id": "39",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_39.0.jpg",
@@ -2094,7 +2226,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "38.0",
+        "id": "38",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_38.0.jpg",
@@ -2107,7 +2239,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "37.0",
+        "id": "37",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_37.0.jpg",
@@ -2120,7 +2252,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "36.0",
+        "id": "36",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_36.0.jpg",
@@ -2133,7 +2265,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "35.0",
+        "id": "35",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_35.0.jpg",
@@ -2146,7 +2278,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "34.0",
+        "id": "34",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_34.0.jpg",
@@ -2159,7 +2291,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "33.0",
+        "id": "33",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_33.0.jpg",
@@ -2172,7 +2304,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "32.0",
+        "id": "32",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_32.0.jpg",
@@ -2185,7 +2317,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "31.0",
+        "id": "31",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_31.0.jpg",
@@ -2198,7 +2330,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "30.0",
+        "id": "30",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_30.0.jpg",
@@ -2211,7 +2343,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "29.0",
+        "id": "29",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_29.0.jpg",
@@ -2224,7 +2356,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "28.0",
+        "id": "28",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_28.0.jpg",
@@ -2237,7 +2369,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "27.0",
+        "id": "27",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_27.0.jpg",
@@ -2250,7 +2382,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "26.0",
+        "id": "26",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_26.0.jpg",
@@ -2263,7 +2395,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "25.0",
+        "id": "25",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_25.0.jpg",
@@ -2276,7 +2408,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "24.0",
+        "id": "24",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_24.0.jpg",
@@ -2289,7 +2421,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "23.0",
+        "id": "23",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_23.0.jpg",
@@ -2302,7 +2434,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "22.0",
+        "id": "22",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_22.0.jpg",
@@ -2315,7 +2447,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "21.0",
+        "id": "21",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_21.0.jpg",
@@ -2328,7 +2460,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "20.0",
+        "id": "20",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_20.0.jpg",
@@ -2341,7 +2473,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "19.0",
+        "id": "19",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_19.0.jpg",
@@ -2354,7 +2486,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "18.0",
+        "id": "18",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_18.0.jpg",
@@ -2367,7 +2499,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "17.0",
+        "id": "17",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_17.0.jpg",
@@ -2380,7 +2512,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "16.0",
+        "id": "16",
         "categoria": "Charms ME",
         "precio": 70.0,
         "imagen": "imagenes/charms_me/chme_16.0.jpg",
@@ -2393,7 +2525,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "15.0",
+        "id": "15",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_15.0.jpg",
@@ -2417,6 +2549,22 @@ const productosCharmsME = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_153.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_154.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_155.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_156.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_150.2.jpg"
             },
             {
@@ -2426,6 +2574,22 @@ const productosCharmsME = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_152.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_153.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_154.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_155.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_156.2.jpg"
             },
             {
                 "tipo": "imagen",
@@ -2441,6 +2605,22 @@ const productosCharmsME = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_153.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_154.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_155.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_156.3.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_150.4.jpg"
             },
             {
@@ -2450,6 +2630,22 @@ const productosCharmsME = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_152.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_153.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_154.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_155.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_156.4.jpg"
             },
             {
                 "tipo": "imagen",
@@ -2464,6 +2660,22 @@ const productosCharmsME = [
                 "url": "imagenes/charms_me/chme_152.5.jpg"
             },
             {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_153.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_154.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_155.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_156.5.jpg"
+            },
+            {
                 "tipo": "video",
                 "url": "imagenes/charms_me/chme_150.6.mp4"
             },
@@ -2474,11 +2686,27 @@ const productosCharmsME = [
             {
                 "tipo": "video",
                 "url": "imagenes/charms_me/chme_152.6.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_153.6.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_154.6.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_155.6.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_156.6.mp4"
             }
         ]
     },
     {
-        "id": "14.0",
+        "id": "14",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_14.0.jpg",
@@ -2731,7 +2959,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "13.0",
+        "id": "13",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_13.0.jpg",
@@ -2980,7 +3208,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "12.0",
+        "id": "12",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_12.0.jpg",
@@ -3189,7 +3417,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "11.0",
+        "id": "11",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_11.0.jpg",
@@ -3242,7 +3470,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "10.0",
+        "id": "10",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_10.0.jpg",
@@ -3295,7 +3523,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "9.0",
+        "id": "9",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_9.0.jpg",
@@ -3348,7 +3576,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "8.0",
+        "id": "8",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_8.0.jpg",
@@ -3401,7 +3629,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "7.0",
+        "id": "7",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_7.0.jpg",
@@ -3454,7 +3682,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "6.0",
+        "id": "6",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_6.0.jpg",
@@ -3507,7 +3735,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "5.0",
+        "id": "5",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_5.0.jpg",
@@ -3560,7 +3788,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "4.0",
+        "id": "4",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_4.0.jpg",
@@ -3613,7 +3841,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "3.0",
+        "id": "3",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_3.0.jpg",
@@ -3666,7 +3894,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "2.0",
+        "id": "2",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_2.0.jpg",
@@ -3719,7 +3947,7 @@ const productosCharmsME = [
         ]
     },
     {
-        "id": "1.0",
+        "id": "1",
         "categoria": "Charms ME",
         "precio": 65.0,
         "imagen": "imagenes/charms_me/chme_1.0.jpg",
@@ -3967,6 +4195,22 @@ const productosCharmsME = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_153.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_154.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_155.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_156.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_16.0.jpg"
             },
             {
@@ -4107,6 +4351,22 @@ const productosCharmsME = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_153.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_154.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_155.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_156.2.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_122.3.jpg"
             },
             {
@@ -4228,6 +4488,22 @@ const productosCharmsME = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_152.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_153.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_154.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_155.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_156.3.jpg"
             },
             {
                 "tipo": "imagen",
@@ -4355,6 +4631,22 @@ const productosCharmsME = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_153.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_154.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_155.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_156.4.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_122.5.jpg"
             },
             {
@@ -4479,6 +4771,22 @@ const productosCharmsME = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_153.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_154.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_155.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_me/chme_156.5.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/charms_me/chme_122.6.webp"
             },
             {
@@ -4588,6 +4896,22 @@ const productosCharmsME = [
             {
                 "tipo": "video",
                 "url": "imagenes/charms_me/chme_152.6.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_153.6.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_154.6.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_155.6.mp4"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/charms_me/chme_156.6.mp4"
             },
             {
                 "tipo": "video",

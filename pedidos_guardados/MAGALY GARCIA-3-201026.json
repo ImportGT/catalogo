@@ -1,0 +1,178 @@
+{
+    "cliente": "MAGALY GARCIA",
+    "metodo_envio": "Sugargoo",
+    "margen": "0",
+    "anticipo": "585",
+    "items": [
+        {
+            "id": "309",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_309.jpg",
+            "precio_calculado": 70.0
+        },
+        {
+            "id": "279",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 75.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_279.jpg",
+            "precio_calculado": 75.0
+        },
+        {
+            "id": "117",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 60.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_117.jpg",
+            "precio_calculado": 60.0
+        },
+        {
+            "id": "53",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 55.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_53.jpg",
+            "precio_calculado": 55.0
+        },
+        {
+            "id": "13",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 55.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_13.jpg",
+            "precio_calculado": 55.0
+        },
+        {
+            "id": "7",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 55.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_7.jpg",
+            "precio_calculado": 55.0
+        },
+        {
+            "id": "390",
+            "categoria": "Collares Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 95.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/collares\\collares_390.0.jpg",
+            "precio_calculado": 95.0
+        },
+        {
+            "id": "274",
+            "categoria": "Collares Pandora",
+            "talla": "55",
+            "qty": 1,
+            "precio_base": 75.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/collares\\collares_274.0.jpg",
+            "precio_calculado": 75.0
+        },
+        {
+            "id": "271",
+            "categoria": "Collares Pandora",
+            "talla": "55",
+            "qty": 1,
+            "precio_base": 70.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/collares\\collares_271.0.jpg",
+            "precio_calculado": 70.0
+        },
+        {
+            "id": "73",
+            "categoria": "Collares Pandora",
+            "talla": "55",
+            "qty": 1,
+            "precio_base": 80.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/collares\\collares_73.0.jpg",
+            "precio_calculado": 80.0
+        },
+        {
+            "id": "32",
+            "categoria": "Collares Pandora",
+            "talla": "55",
+            "qty": 1,
+            "precio_base": 85.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/collares\\collares_32.0.jpg",
+            "precio_calculado": 85.0
+        },
+        {
+            "id": "864",
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_colgantes\\chc.864.0.jpg",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "851",
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_colgantes\\chc.851.0.jpg",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "831",
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_colgantes\\chc.831.0.jpg",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "765",
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_colgantes\\chc.765.0.jpg",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "371",
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/anillos\\anillos_371.jpg",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "22",
+            "categoria": "Charms Clips y Topes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_clipsytopes\\chct_22.0.jpg",
+            "precio_calculado": 70.0
+        }
+    ]
+}

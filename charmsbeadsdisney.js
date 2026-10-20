@@ -1,6 +1,71 @@
 const productosCharmsBeadsDisney = [
     {
-        "id": "280.0",
+        "id": "285",
+        "categoria": "Charms Beads Disney",
+        "precio": 70.0,
+        "imagen": "imagenes/charms_beads_disney/chbd_285.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_285.jpg"
+            }
+        ]
+    },
+    {
+        "id": "284",
+        "categoria": "Charms Beads Disney",
+        "precio": 70.0,
+        "imagen": "imagenes/charms_beads_disney/chbd_284.0.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_284.0.jpg"
+            }
+        ]
+    },
+    {
+        "id": "283",
+        "categoria": "Charms Beads Disney",
+        "precio": 70.0,
+        "imagen": "imagenes/charms_beads_disney/chbd_283.0.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_283.0.jpg"
+            }
+        ]
+    },
+    {
+        "id": "282",
+        "categoria": "Charms Beads Disney",
+        "precio": 70.0,
+        "imagen": "imagenes/charms_beads_disney/chbd_282.0.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_282.0.jpg"
+            }
+        ]
+    },
+    {
+        "id": "281",
+        "categoria": "Charms Beads Disney",
+        "precio": 70.0,
+        "imagen": "imagenes/charms_beads_disney/chbd_281.0.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_281.0.jpg"
+            }
+        ]
+    },
+    {
+        "id": "280",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_280.0.webp",
@@ -21,7 +86,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "279.0",
+        "id": "279",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_279.0.jpg",
@@ -54,7 +119,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "278.0",
+        "id": "278",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_278.0.jpg",
@@ -87,7 +152,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "277.0",
+        "id": "277",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_277.0.jpg",
@@ -124,7 +189,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "276.0",
+        "id": "276",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_276.0.jpg",
@@ -157,7 +222,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "275.0",
+        "id": "275",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_275.0.webp",
@@ -190,7 +255,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "274.0",
+        "id": "274",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_274.0.jpg",
@@ -223,7 +288,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "273.0",
+        "id": "273",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_273.0.jpg",
@@ -238,7 +303,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "272.0",
+        "id": "272",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_272.0.jpg",
@@ -273,7 +338,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "271.0",
+        "id": "271",
         "categoria": "Charms Beads Disney",
         "precio": 75.0,
         "imagen": "imagenes/charms_beads_disney/chbd_271.0.jpg",
@@ -306,7 +371,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "270.0",
+        "id": "270",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_270.0.jpg",
@@ -341,7 +406,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "269.0",
+        "id": "269",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_269.jpg",
@@ -376,7 +441,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "268.0",
+        "id": "268",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_268.jpg",
@@ -411,7 +476,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "267.0",
+        "id": "267",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_267.jpg",
@@ -446,7 +511,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "266.0",
+        "id": "266",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_266.jpg",
@@ -481,7 +546,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "265.0",
+        "id": "265",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_265.0.jpg",
@@ -516,7 +581,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "264.0",
+        "id": "264",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_264.0.webp",
@@ -545,7 +610,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "263.0",
+        "id": "263",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_263.0.jpg",
@@ -580,7 +645,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "262.0",
+        "id": "262",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_262.0.jpg",
@@ -593,7 +658,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "261.0",
+        "id": "261",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_261.0.jpg",
@@ -606,7 +671,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "260.0",
+        "id": "260",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_260.0.jpg",
@@ -619,7 +684,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "259.0",
+        "id": "259",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_259.0.jpg",
@@ -632,7 +697,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "258.0",
+        "id": "258",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_258.avif",
@@ -667,7 +732,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "257.0",
+        "id": "257",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_257.0.jpg",
@@ -680,7 +745,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "256.0",
+        "id": "256",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_256.0.jpg",
@@ -693,7 +758,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "255.0",
+        "id": "255",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_255.0.jpg",
@@ -706,7 +771,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "254.0",
+        "id": "254",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_254.0.jpg",
@@ -719,7 +784,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "253.0",
+        "id": "253",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_253.0.jpg",
@@ -732,7 +797,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "252.0",
+        "id": "252",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_252.0.jpg",
@@ -747,7 +812,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "251.0",
+        "id": "251",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_251.0.jpg",
@@ -760,7 +825,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "250.0",
+        "id": "250",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_250.0.jpg",
@@ -773,7 +838,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "249.0",
+        "id": "249",
         "categoria": "Charms Beads Disney",
         "precio": 75.0,
         "imagen": "imagenes/charms_beads_disney/chbd_249.0.jpg",
@@ -786,7 +851,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "248.0",
+        "id": "248",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_248.0.jpg",
@@ -799,7 +864,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "247.0",
+        "id": "247",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_247.0.jpg",
@@ -812,7 +877,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "246.0",
+        "id": "246",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_246.0.jpg",
@@ -825,7 +890,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "245.0",
+        "id": "245",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_245.0.jpg",
@@ -838,7 +903,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "244.0",
+        "id": "244",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_244.0.jpg",
@@ -851,7 +916,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "243.0",
+        "id": "243",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_243.0.jpg",
@@ -864,7 +929,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "242.0",
+        "id": "242",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_242.0.jpg",
@@ -877,7 +942,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "241.0",
+        "id": "241",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_241.0.jpg",
@@ -890,7 +955,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "240.0",
+        "id": "240",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_240.0.jpg",
@@ -903,7 +968,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "239.0",
+        "id": "239",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_239.0.jpg",
@@ -916,7 +981,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "238.0",
+        "id": "238",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_238.0.jpg",
@@ -929,7 +994,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "237.0",
+        "id": "237",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_237.jpg",
@@ -964,7 +1029,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "236.0",
+        "id": "236",
         "categoria": "Charms Beads Disney",
         "precio": 60.0,
         "imagen": "imagenes/charms_beads_disney/chbd_236.webp",
@@ -993,7 +1058,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "235.0",
+        "id": "235",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_235.0.jpg",
@@ -1006,7 +1071,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "234.0",
+        "id": "234",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_234.0.jpg",
@@ -1019,7 +1084,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "233.0",
+        "id": "233",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_233.0.jpg",
@@ -1032,7 +1097,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "232.0",
+        "id": "232",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_232.0.jpg",
@@ -1045,7 +1110,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "231.0",
+        "id": "231",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_231.0.jpg",
@@ -1058,7 +1123,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "230.0",
+        "id": "230",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_230.0.jpg",
@@ -1071,7 +1136,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "229.0",
+        "id": "229",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_229.webp",
@@ -1106,7 +1171,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "228.0",
+        "id": "228",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_228.0.jpg",
@@ -1119,7 +1184,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "227.0",
+        "id": "227",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_227.0.jpg",
@@ -1132,7 +1197,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "226.0",
+        "id": "226",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_226.0.jpg",
@@ -1145,7 +1210,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "225.0",
+        "id": "225",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_225.0.jpg",
@@ -1158,7 +1223,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "224.0",
+        "id": "224",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_224.0.jpg",
@@ -1171,7 +1236,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "223.0",
+        "id": "223",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_223.0.jpg",
@@ -1184,7 +1249,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "222.0",
+        "id": "222",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_222.0.jpg",
@@ -1197,7 +1262,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "221.0",
+        "id": "221",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_221.0.jpg",
@@ -1210,7 +1275,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "220.0",
+        "id": "220",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_220.0.jpg",
@@ -1223,7 +1288,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "219.0",
+        "id": "219",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_219.0.jpg",
@@ -1236,7 +1301,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "218.0",
+        "id": "218",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_218.0.jpg",
@@ -1249,7 +1314,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "217.0",
+        "id": "217",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_217.0.jpg",
@@ -1262,7 +1327,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "216.0",
+        "id": "216",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_216.0.jpg",
@@ -1275,7 +1340,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "215.0",
+        "id": "215",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_215.0.jpg",
@@ -1288,7 +1353,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "214.0",
+        "id": "214",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_214.0.jpg",
@@ -1301,7 +1366,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "213.0",
+        "id": "213",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_213.0.jpg",
@@ -1314,7 +1379,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "212.0",
+        "id": "212",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_212.0.jpg",
@@ -1327,7 +1392,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "211.0",
+        "id": "211",
         "categoria": "Charms Beads Disney",
         "precio": 60.0,
         "imagen": "imagenes/charms_beads_disney/chbd_211.0.jpg",
@@ -1340,7 +1405,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "210.0",
+        "id": "210",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_210.0.jpg",
@@ -1353,7 +1418,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "209.0",
+        "id": "209",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_209.0.jpg",
@@ -1366,7 +1431,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "208.0",
+        "id": "208",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_208.0.jpg",
@@ -1379,7 +1444,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "207.0",
+        "id": "207",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_207.0.jpg",
@@ -1392,7 +1457,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "206.0",
+        "id": "206",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_206.0.jpg",
@@ -1405,7 +1470,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "205.0",
+        "id": "205",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_205.0.jpg",
@@ -1418,7 +1483,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "204.0",
+        "id": "204",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_204.0.jpg",
@@ -1431,7 +1496,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "203.0",
+        "id": "203",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_203.0.jpg",
@@ -1444,7 +1509,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "202.0",
+        "id": "202",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_202.0.jpg",
@@ -1457,7 +1522,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "201.0",
+        "id": "201",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_201.0.jpg",
@@ -1470,7 +1535,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "200.0",
+        "id": "200",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_200.0.jpg",
@@ -1483,7 +1548,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "199.0",
+        "id": "199",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_199.0.jpg",
@@ -1496,7 +1561,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "198.0",
+        "id": "198",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_198.0.jpg",
@@ -1509,7 +1574,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "197.0",
+        "id": "197",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_197.0.jpg",
@@ -1522,7 +1587,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "196.0",
+        "id": "196",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_196.0.jpg",
@@ -1535,7 +1600,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "195.0",
+        "id": "195",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_195.0.jpg",
@@ -1548,7 +1613,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "194.0",
+        "id": "194",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_194.0.jpg",
@@ -1561,7 +1626,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "193.0",
+        "id": "193",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
         "imagen": "imagenes/charms_beads_disney/chbd_193.0.jpg",
@@ -1574,7 +1639,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "192.0",
+        "id": "192",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_192.0.jpg",
@@ -1587,7 +1652,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "191.0",
+        "id": "191",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_191.0.jpg",
@@ -1600,7 +1665,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "190.0",
+        "id": "190",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_190.0.jpg",
@@ -1613,7 +1678,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "189.0",
+        "id": "189",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_189.0.jpg",
@@ -1626,7 +1691,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "188.0",
+        "id": "188",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_188.0.jpg",
@@ -1639,7 +1704,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "187.0",
+        "id": "187",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_187.0.jpg",
@@ -1652,7 +1717,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "186.0",
+        "id": "186",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_186.0.jpg",
@@ -1665,7 +1730,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "185.0",
+        "id": "185",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_185.0.jpg",
@@ -1678,7 +1743,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "184.0",
+        "id": "184",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_184.0.jpg",
@@ -1691,7 +1756,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "183.0",
+        "id": "183",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_183.0.jpg",
@@ -1704,7 +1769,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "182.0",
+        "id": "182",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_182.0.jpg",
@@ -1717,7 +1782,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "181.0",
+        "id": "181",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_181.0.jpg",
@@ -1730,7 +1795,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "180.0",
+        "id": "180",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_180.0.jpg",
@@ -1743,7 +1808,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "179.0",
+        "id": "179",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_179.0.jpg",
@@ -1756,7 +1821,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "178.0",
+        "id": "178",
         "categoria": "Charms Beads Disney",
         "precio": 60.0,
         "imagen": "imagenes/charms_beads_disney/chbd_178.0.jpg",
@@ -1769,7 +1834,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "177.0",
+        "id": "177",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_177.0.jpg",
@@ -1782,7 +1847,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "176.0",
+        "id": "176",
         "categoria": "Charms Beads Disney",
         "precio": 60.0,
         "imagen": "imagenes/charms_beads_disney/chbd_176.0.jpg",
@@ -1795,7 +1860,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "175.0",
+        "id": "175",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_175.0.jpg",
@@ -1808,7 +1873,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "174.0",
+        "id": "174",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_174.0.jpg",
@@ -1821,7 +1886,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "173.0",
+        "id": "173",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_173.0.jpg",
@@ -1834,7 +1899,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "172.0",
+        "id": "172",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_172.0.jpg",
@@ -1847,7 +1912,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "171.0",
+        "id": "171",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_171.0.jpg",
@@ -1860,7 +1925,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "170.0",
+        "id": "170",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_170.0.jpg",
@@ -1873,7 +1938,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "169.0",
+        "id": "169",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_169.0.jpg",
@@ -1886,7 +1951,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "168.0",
+        "id": "168",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_168.0.jpg",
@@ -1899,7 +1964,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "167.0",
+        "id": "167",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_167.0.jpg",
@@ -1912,7 +1977,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "166.0",
+        "id": "166",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_166.0.jpg",
@@ -1925,7 +1990,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "165.0",
+        "id": "165",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_165.0.jpg",
@@ -1938,7 +2003,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "164.0",
+        "id": "164",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_164.0.jpg",
@@ -1951,7 +2016,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "163.0",
+        "id": "163",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_163.0.jpg",
@@ -1964,7 +2029,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "162.0",
+        "id": "162",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_162.0.jpg",
@@ -1977,7 +2042,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "161.0",
+        "id": "161",
         "categoria": "Charms Beads Disney",
         "precio": 60.0,
         "imagen": "imagenes/charms_beads_disney/chbd_161.0.jpg",
@@ -1990,7 +2055,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "160.0",
+        "id": "160",
         "categoria": "Charms Beads Disney",
         "precio": 60.0,
         "imagen": "imagenes/charms_beads_disney/chbd_160.0.jpg",
@@ -2003,7 +2068,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "159.0",
+        "id": "159",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_159.0.jpg",
@@ -2016,7 +2081,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "158.0",
+        "id": "158",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_158.0.jpg",
@@ -2029,7 +2094,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "157.0",
+        "id": "157",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_157.0.jpg",
@@ -2042,7 +2107,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "156.0",
+        "id": "156",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_156.0.jpg",
@@ -2055,7 +2120,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "155.0",
+        "id": "155",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_155.0.jpg",
@@ -2068,7 +2133,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "154.0",
+        "id": "154",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_154.0.jpg",
@@ -2081,7 +2146,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "153.0",
+        "id": "153",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_153.0.jpg",
@@ -2094,7 +2159,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "152.0",
+        "id": "152",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_152.0.jpg",
@@ -2107,7 +2172,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "151.0",
+        "id": "151",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_151.0.jpg",
@@ -2120,7 +2185,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "150.0",
+        "id": "150",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_150.0.jpg",
@@ -2133,7 +2198,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "149.0",
+        "id": "149",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_149.0.jpg",
@@ -2146,7 +2211,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "148.0",
+        "id": "148",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_148.0.jpg",
@@ -2159,7 +2224,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "147.0",
+        "id": "147",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_147.0.jpg",
@@ -2172,7 +2237,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "146.0",
+        "id": "146",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_146.0.jpg",
@@ -2185,7 +2250,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "145.0",
+        "id": "145",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_145.0.jpg",
@@ -2198,7 +2263,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "144.0",
+        "id": "144",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_144.0.jpg",
@@ -2211,7 +2276,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "143.0",
+        "id": "143",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_143.0.jpg",
@@ -2224,7 +2289,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "142.0",
+        "id": "142",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_142.0.jpg",
@@ -2237,7 +2302,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "141.0",
+        "id": "141",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_141.0.jpg",
@@ -2250,7 +2315,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "140.0",
+        "id": "140",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_140.0.jpg",
@@ -2263,7 +2328,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "139.0",
+        "id": "139",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_139.0.jpg",
@@ -2276,7 +2341,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "138.0",
+        "id": "138",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_138.0.jpg",
@@ -2289,7 +2354,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "137.0",
+        "id": "137",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_137.0.jpg",
@@ -2302,7 +2367,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "136.0",
+        "id": "136",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_136.0.jpg",
@@ -2315,7 +2380,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "135.0",
+        "id": "135",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_135.0.jpg",
@@ -2328,7 +2393,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "134.0",
+        "id": "134",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_134.0.jpg",
@@ -2341,7 +2406,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "133.0",
+        "id": "133",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_133.0.jpg",
@@ -2354,7 +2419,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "132.0",
+        "id": "132",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_132.0.jpg",
@@ -2367,7 +2432,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "131.0",
+        "id": "131",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_131.0.jpg",
@@ -2380,7 +2445,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "130.0",
+        "id": "130",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_130.0.jpg",
@@ -2393,7 +2458,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "129.0",
+        "id": "129",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_129.0.jpg",
@@ -2406,7 +2471,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "128.0",
+        "id": "128",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_128.0.jpg",
@@ -2419,7 +2484,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "127.0",
+        "id": "127",
         "categoria": "Charms Beads Disney",
         "precio": 60.0,
         "imagen": "imagenes/charms_beads_disney/chbd_127.0.jpg",
@@ -2432,7 +2497,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "126.0",
+        "id": "126",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_126.0.jpg",
@@ -2445,7 +2510,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "125.0",
+        "id": "125",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_125.0.jpg",
@@ -2458,7 +2523,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "124.0",
+        "id": "124",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_124.0.jpg",
@@ -2471,7 +2536,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "123.0",
+        "id": "123",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_123.0.jpg",
@@ -2484,7 +2549,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "122.0",
+        "id": "122",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_122.0.jpg",
@@ -2497,7 +2562,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "121.0",
+        "id": "121",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_121.0.jpg",
@@ -2510,7 +2575,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "120.0",
+        "id": "120",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_120.0.jpg",
@@ -2523,7 +2588,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "119.0",
+        "id": "119",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_119.0.jpg",
@@ -2536,7 +2601,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "118.0",
+        "id": "118",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_118.0.jpg",
@@ -2549,7 +2614,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "117.0",
+        "id": "117",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_117.0.jpg",
@@ -2562,7 +2627,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "116.0",
+        "id": "116",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_116.0.jpg",
@@ -2575,7 +2640,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "115.0",
+        "id": "115",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_115.0.jpg",
@@ -2588,7 +2653,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "114.0",
+        "id": "114",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_114.0.jpg",
@@ -2601,7 +2666,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "113.0",
+        "id": "113",
         "categoria": "Charms Beads Disney",
         "precio": 60.0,
         "imagen": "imagenes/charms_beads_disney/chbd_113.0.jpg",
@@ -2614,7 +2679,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "112.0",
+        "id": "112",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_112.0.jpg",
@@ -2627,7 +2692,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "111.0",
+        "id": "111",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_111.0.jpg",
@@ -2640,7 +2705,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "110.0",
+        "id": "110",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_110.0.jpg",
@@ -2653,7 +2718,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "109.0",
+        "id": "109",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_109.0.jpg",
@@ -2666,7 +2731,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "108.0",
+        "id": "108",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_108.0.jpg",
@@ -2681,7 +2746,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "107.0",
+        "id": "107",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_107.0.jpg",
@@ -2694,7 +2759,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "106.0",
+        "id": "106",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_106.0.jpg",
@@ -2707,7 +2772,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "105.0",
+        "id": "105",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_105.0.jpg",
@@ -2720,7 +2785,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "104.0",
+        "id": "104",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_104.0.jpg",
@@ -2733,7 +2798,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "103.0",
+        "id": "103",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_103.0.jpg",
@@ -2746,7 +2811,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "102.0",
+        "id": "102",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_102.0.jpg",
@@ -2759,7 +2824,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "101.0",
+        "id": "101",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_101.0.jpg",
@@ -2772,7 +2837,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "100.0",
+        "id": "100",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_100.0.jpg",
@@ -2785,7 +2850,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "99.0",
+        "id": "99",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_99.0.jpg",
@@ -2798,7 +2863,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "98.0",
+        "id": "98",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_98.0.jpg",
@@ -2811,7 +2876,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "97.0",
+        "id": "97",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_97.0.jpg",
@@ -2824,7 +2889,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "96.0",
+        "id": "96",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_96.0.jpg",
@@ -2837,7 +2902,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "95.0",
+        "id": "95",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_95.0.jpg",
@@ -2850,7 +2915,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "94.0",
+        "id": "94",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_94.0.jpg",
@@ -2863,7 +2928,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "93.0",
+        "id": "93",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_93.0.jpg",
@@ -2876,7 +2941,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "92.0",
+        "id": "92",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_92.0.jpg",
@@ -2889,7 +2954,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "91.0",
+        "id": "91",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_91.0.jpg",
@@ -2902,7 +2967,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "90.0",
+        "id": "90",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_90.0.jpg",
@@ -2915,7 +2980,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "89.0",
+        "id": "89",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_89.0.jpg",
@@ -2928,7 +2993,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "88.0",
+        "id": "88",
         "categoria": "Charms Beads Disney",
         "precio": 60.0,
         "imagen": "imagenes/charms_beads_disney/chbd_88.0.jpg",
@@ -2941,7 +3006,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "87.0",
+        "id": "87",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_87.0.jpg",
@@ -2954,7 +3019,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "86.0",
+        "id": "86",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_86.0.jpg",
@@ -2967,7 +3032,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "85.0",
+        "id": "85",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_85.0.jpg",
@@ -2980,7 +3045,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "84.0",
+        "id": "84",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_84.0.jpg",
@@ -2993,7 +3058,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "83.0",
+        "id": "83",
         "categoria": "Charms Beads Disney",
         "precio": 55.0,
         "imagen": "imagenes/charms_beads_disney/chbd_83.0.jpg",
@@ -3006,7 +3071,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "82.0",
+        "id": "82",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_82.0.jpg",
@@ -3019,7 +3084,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "81.0",
+        "id": "81",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_81.0.jpg",
@@ -3032,7 +3097,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "80.0",
+        "id": "80",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_80.0.jpg",
@@ -3045,7 +3110,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "79.0",
+        "id": "79",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_79.0.jpg",
@@ -3058,7 +3123,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "78.0",
+        "id": "78",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_78.0.jpg",
@@ -3071,7 +3136,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "77.0",
+        "id": "77",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_77.0.jpg",
@@ -3084,7 +3149,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "76.0",
+        "id": "76",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_76.0.jpg",
@@ -3097,7 +3162,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "75.0",
+        "id": "75",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_75.0.jpg",
@@ -3110,7 +3175,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "74.0",
+        "id": "74",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_74.0.jpg",
@@ -3123,7 +3188,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "73.0",
+        "id": "73",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_73.0.jpg",
@@ -3136,7 +3201,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "72.0",
+        "id": "72",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_72.0.jpg",
@@ -3149,7 +3214,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "71.0",
+        "id": "71",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_71.0.jpg",
@@ -3162,7 +3227,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "70.0",
+        "id": "70",
         "categoria": "Charms Beads Disney",
         "precio": 60.0,
         "imagen": "imagenes/charms_beads_disney/chbd_70.0.jpg",
@@ -3175,7 +3240,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "69.0",
+        "id": "69",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_69.0.jpg",
@@ -3188,7 +3253,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "68.0",
+        "id": "68",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_68.0.jpg",
@@ -3201,7 +3266,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "67.0",
+        "id": "67",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_67.0.jpg",
@@ -3214,7 +3279,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "66.0",
+        "id": "66",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_66.0.jpg",
@@ -3227,7 +3292,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "65.0",
+        "id": "65",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_65.0.jpg",
@@ -3240,7 +3305,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "64.0",
+        "id": "64",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_64.0.jpg",
@@ -3253,7 +3318,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "63.0",
+        "id": "63",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_63.0.jpg",
@@ -3266,7 +3331,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "62.0",
+        "id": "62",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_62.0.jpg",
@@ -3279,7 +3344,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "61.0",
+        "id": "61",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_61.0.jpg",
@@ -3292,7 +3357,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "60.0",
+        "id": "60",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_60.0.jpg",
@@ -3305,7 +3370,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "59.0",
+        "id": "59",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_59.0.jpg",
@@ -3318,7 +3383,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "58.0",
+        "id": "58",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_58.0.jpg",
@@ -3331,7 +3396,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "57.0",
+        "id": "57",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_57.0.jpg",
@@ -3344,7 +3409,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "56.0",
+        "id": "56",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_56.0.jpg",
@@ -3357,7 +3422,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "55.0",
+        "id": "55",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_55.0.jpg",
@@ -3370,7 +3435,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "54.0",
+        "id": "54",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_54.0.jpg",
@@ -3383,7 +3448,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "53.0",
+        "id": "53",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_53.0.jpg",
@@ -3396,7 +3461,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "52.0",
+        "id": "52",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_52.0.jpg",
@@ -3409,7 +3474,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "51.0",
+        "id": "51",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_51.0.jpg",
@@ -3422,7 +3487,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "50.0",
+        "id": "50",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_50.0.jpg",
@@ -3435,7 +3500,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "49.0",
+        "id": "49",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_49.0.jpg",
@@ -3448,7 +3513,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "48.0",
+        "id": "48",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_48.0.jpg",
@@ -3461,7 +3526,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "47.0",
+        "id": "47",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_47.0.jpg",
@@ -3474,7 +3539,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "46.0",
+        "id": "46",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_46.0.jpg",
@@ -3487,7 +3552,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "45.0",
+        "id": "45",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_45.0.jpg",
@@ -3500,7 +3565,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "44.0",
+        "id": "44",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_44.0.jpg",
@@ -3513,7 +3578,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "43.0",
+        "id": "43",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_43.0.jpg",
@@ -3526,7 +3591,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "42.0",
+        "id": "42",
         "categoria": "Charms Beads Disney",
         "precio": 80.0,
         "imagen": "imagenes/charms_beads_disney/chbd_42.0.jpg",
@@ -3539,7 +3604,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "41.0",
+        "id": "41",
         "categoria": "Charms Beads Disney",
         "precio": 80.0,
         "imagen": "imagenes/charms_beads_disney/chbd_41.0.jpg",
@@ -3552,7 +3617,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "40.0",
+        "id": "40",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_40.0.jpg",
@@ -3565,7 +3630,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "39.0",
+        "id": "39",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_39.0.jpg",
@@ -3578,7 +3643,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "38.0",
+        "id": "38",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_38.0.jpg",
@@ -3591,7 +3656,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "37.0",
+        "id": "37",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_37.0.jpg",
@@ -3604,7 +3669,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "36.0",
+        "id": "36",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_36.0.jpg",
@@ -3617,7 +3682,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "35.0",
+        "id": "35",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_35.0.jpg",
@@ -3630,7 +3695,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "34.0",
+        "id": "34",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_34.0.jpg",
@@ -3643,7 +3708,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "33.0",
+        "id": "33",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_33.0.jpg",
@@ -3656,7 +3721,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "32.0",
+        "id": "32",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_32.0.jpg",
@@ -3669,7 +3734,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "31.0",
+        "id": "31",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_31.0.jpg",
@@ -3682,7 +3747,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "30.0",
+        "id": "30",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_30.0.jpg",
@@ -3695,7 +3760,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "29.0",
+        "id": "29",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_29.0.jpg",
@@ -3708,7 +3773,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "28.0",
+        "id": "28",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_28.0.jpg",
@@ -3724,6 +3789,26 @@ const productosCharmsBeadsDisney = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_281.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_282.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_283.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_284.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_285.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/charms_beads_disney/chbd_280.2.webp"
             },
             {
@@ -3733,7 +3818,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "27.0",
+        "id": "27",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_27.0.jpg",
@@ -3970,7 +4055,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "26.0",
+        "id": "26",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_26.0.jpg",
@@ -4159,7 +4244,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "25.0",
+        "id": "25",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_25.0.jpg",
@@ -4232,7 +4317,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "24.0",
+        "id": "24",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_24.0.jpg",
@@ -4285,7 +4370,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "23.0",
+        "id": "23",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_23.0.jpg",
@@ -4374,7 +4459,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "22.0",
+        "id": "22",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_22.0.jpg",
@@ -4447,7 +4532,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "21.0",
+        "id": "21",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_21.0.jpg",
@@ -4500,7 +4585,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "20.0",
+        "id": "20",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_20.0.jpg",
@@ -4553,7 +4638,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "19.0",
+        "id": "19",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_19.0.jpg",
@@ -4606,7 +4691,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "18.0",
+        "id": "18",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_18.0.jpg",
@@ -4659,7 +4744,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "17.0",
+        "id": "17",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_17.0.jpg",
@@ -4712,7 +4797,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "16.0",
+        "id": "16",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_16.0.jpg",
@@ -4765,7 +4850,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "15.0",
+        "id": "15",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_15.0.jpg",
@@ -4818,7 +4903,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "14.0",
+        "id": "14",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_14.0.jpg",
@@ -4871,7 +4956,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "13.0",
+        "id": "13",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_13.0.jpg",
@@ -4924,7 +5009,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "12.0",
+        "id": "12",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_12.0.jpg",
@@ -4977,7 +5062,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "11.0",
+        "id": "11",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_11.0.jpg",
@@ -5030,7 +5115,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "10.0",
+        "id": "10",
         "categoria": "Charms Beads Disney",
         "precio": 115.0,
         "imagen": "imagenes/charms_beads_disney/chbd_10.0.jpg",
@@ -5083,7 +5168,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "9.0",
+        "id": "9",
         "categoria": "Charms Beads Disney",
         "precio": 115.0,
         "imagen": "imagenes/charms_beads_disney/chbd_9.0.jpg",
@@ -5136,7 +5221,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "8.0",
+        "id": "8",
         "categoria": "Charms Beads Disney",
         "precio": 60.0,
         "imagen": "imagenes/charms_beads_disney/chbd_8.0.jpg",
@@ -5189,7 +5274,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "7.0",
+        "id": "7",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_7.0.jpg",
@@ -5242,7 +5327,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "6.0",
+        "id": "6",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_6.0.jpg",
@@ -5295,7 +5380,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "5.0",
+        "id": "5",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_5.0.jpg",
@@ -5348,7 +5433,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "4.0",
+        "id": "4",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_4.0.jpg",
@@ -5401,7 +5486,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "3.0",
+        "id": "3",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_3.0.jpg",
@@ -5454,7 +5539,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "2.0",
+        "id": "2",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_2.0.jpg",
@@ -5826,6 +5911,26 @@ const productosCharmsBeadsDisney = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_281.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_282.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_283.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_284.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_285.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/charms_beads_disney/chbd_29.0.jpg"
             },
             {
@@ -6235,7 +6340,7 @@ const productosCharmsBeadsDisney = [
         ]
     },
     {
-        "id": "1.0",
+        "id": "1",
         "categoria": "Charms Beads Disney",
         "precio": 65.0,
         "imagen": "imagenes/charms_beads_disney/chbd_1.0.jpg",

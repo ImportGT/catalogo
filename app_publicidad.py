@@ -2,6 +2,7 @@ import os
 import re
 import random
 import json
+import subprocess
 import pandas as pd
 import tkinter as tk
 from tkinter import messagebox, ttk
@@ -143,7 +144,7 @@ class AppGeneradorPublicidad:
             return self.tareas_bano_plata, "Bano_de_Plata"
 
     def cargar_datos_coleccion(self, tareas):
-        extensiones_validas = ['.jpg', '.jpeg', '.png', '.webp', '.avif', '.bmp', '.gif', '.tiff']
+        extensiones_validas = ['.jpg', '.jpeg', '.png', '.webp', '.avif', '.jxl', '.bmp', '.gif', '.tiff']
         todos_productos = []
 
         for ruta_excel, nombre_linea, carpeta_imagenes in tareas:
@@ -171,11 +172,15 @@ class AppGeneradorPublicidad:
                 if raw_id is None:
                     raw_id = row.iloc[0]
 
-                match_id = re.search(r'^(\d+)', str(raw_id).strip())
+                raw_id_str = str(raw_id).strip()
+                if raw_id_str.endswith('.0'):
+                    raw_id_str = raw_id_str[:-2]
+
+                match_id = re.search(r'^(\d+)', raw_id_str)
                 if match_id:
                     prod_id = match_id.group(1)
                 else:
-                    prod_id = str(raw_id).strip()
+                    prod_id = raw_id_str
 
                 if not prod_id or prod_id.lower() == 'nan':
                     continue
@@ -201,20 +206,30 @@ class AppGeneradorPublicidad:
                             partes_nombre = re.split(r'[_.\-\s]+', nombre_base)
                             if str(prod_id) in partes_nombre:
                                 full_p = os.path.join(carpeta_imagenes, archivo_dir)
+                                
+                                # --- CONVERSIÓN AUTOMÁTICA INTELIGENTE DE .JXL A .JPG ---
+                                if full_p.lower().endswith('.jxl'):
+                                    jpg_equivalente = os.path.splitext(full_p)[0] + ".jpg"
+                                    if not os.path.exists(jpg_equivalente):
+                                        try:
+                                            # Intentar convertir usando djxl.exe si está presente
+                                            subprocess.run(["djxl.exe", full_p, jpg_equivalente], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+                                        except Exception:
+                                            pass
+                                    
+                                    # Si se generó el .jpg o ya existía, usamos el .jpg para que Pillow lo lea perfectamente sin fallos
+                                    if os.path.exists(jpg_equivalente):
+                                        full_p = jpg_equivalente
+
                                 if full_p not in galeria_completa:
                                     galeria_completa.append(full_p)
 
                 if not galeria_completa:
                     continue
 
-                # Identificar la portada perfecta:
-                # 1. Si el archivo termina exactamente en el código (ej. chme_152) sin subíndices decimales ni puntos extra.
-                # 2. O si termina en .0 (como en Tous).
                 def clave_orden_fotos(ruta_arch):
                     nombre_f = os.path.basename(ruta_arch).lower()
                     nombre_sin_ext = os.path.splitext(nombre_f)[0]
-                    
-                    # Prioridad 0: Termina exactamente en el código sin puntos ni subíndices (ej. chme_152) o termina en .0
                     if nombre_sin_ext.endswith(f"_{prod_id}") or nombre_sin_ext == f"{prod_id}" or re.search(r'\.0\.[a-z0-9]+$', nombre_f):
                         return (0, nombre_f)
                     return (1, nombre_f)
@@ -236,9 +251,16 @@ class AppGeneradorPublicidad:
                     "timestamp": tiempo_mod
                 })
 
-        # Ordenar globalmente por timestamp (los más recientes primero)
         todos_productos.sort(key=lambda x: x["timestamp"], reverse=True)
         return todos_productos
+
+    def abrir_imagen_segura(self, ruta_imagen):
+        """Abre la imagen de forma directa y segura."""
+        try:
+            return Image.open(ruta_imagen)
+        except Exception as e:
+            print(f"Error al abrir la imagen {ruta_imagen}: {e}")
+            return None
 
     def ejecutar_generacion(self):
         try:
@@ -262,7 +284,6 @@ class AppGeneradorPublicidad:
                 os.makedirs(carpeta_destino)
 
             if tipo == "ultimos":
-                # Tomamos los 5 ingresos más recientes globales
                 ultimos_5 = productos[:5]
                 self.generar_imagen_ultimos_ingresos(ultimos_5, nombre_col, mostrar_precios, margen, carpeta_destino)
                 messagebox.showinfo("¡Éxito!", "Publicidad estética de Últimos Ingresos generada correctamente en la carpeta PUBLICIDAD CREADA.")
@@ -369,19 +390,20 @@ class AppGeneradorPublicidad:
             tarjeta = self.crear_tarjeta_estetica(cw, ch, radius=20)
             t_draw = ImageDraw.Draw(tarjeta)
 
-            try:
-                p_img = Image.open(prod["portada"])
-                if p_img.mode in ("RGBA", "P"): p_img = p_img.convert("RGB")
-                box_w = cw - 50
-                box_h = ch - 130 if idx >= 2 else ch - 150
-                p_img.thumbnail((box_w, box_h), Image.Resampling.LANCZOS)
-                
-                pw, ph = p_img.size
-                px = (cw - pw) // 2
-                py = 30
-                tarjeta.paste(p_img, (px, py), p_img if p_img.mode == 'RGBA' else None)
-            except Exception:
-                pass
+            p_img = self.abrir_imagen_segura(prod["portada"])
+            if p_img:
+                try:
+                    if p_img.mode in ("RGBA", "P"): p_img = p_img.convert("RGB")
+                    box_w = cw - 50
+                    box_h = ch - 130 if idx >= 2 else ch - 150
+                    p_img.thumbnail((box_w, box_h), Image.Resampling.LANCZOS)
+                    
+                    pw, ph = p_img.size
+                    px = (cw - pw) // 2
+                    py = 30
+                    tarjeta.paste(p_img, (px, py), p_img if p_img.mode == 'RGBA' else None)
+                except Exception:
+                    pass
 
             t_draw.line([30, ch - 100, cw - 30, ch - 100], fill=(235, 240, 245), width=2)
             t_draw.text((cw // 2, ch - 75), prod["linea"], fill=(120, 130, 140), font=f_lin, anchor="mm")
@@ -474,19 +496,20 @@ class AppGeneradorPublicidad:
 
             tarjeta = self.crear_tarjeta_estetica(cw, ch, radius=16)
 
-            try:
-                p_img = Image.open(foto_path)
-                if p_img.mode in ("RGBA", "P"): p_img = p_img.convert("RGB")
-                box_w = cw - 30
-                box_h = ch - 30
-                p_img.thumbnail((box_w, box_h), Image.Resampling.LANCZOS)
-                
-                pw, ph = p_img.size
-                px = (cw - pw) // 2
-                py = (ch - ph) // 2
-                tarjeta.paste(p_img, (px, py), p_img if p_img.mode == 'RGBA' else None)
-            except Exception:
-                pass
+            p_img = self.abrir_imagen_segura(foto_path)
+            if p_img:
+                try:
+                    if p_img.mode in ("RGBA", "P"): p_img = p_img.convert("RGB")
+                    box_w = cw - 30
+                    box_h = ch - 30
+                    p_img.thumbnail((box_w, box_h), Image.Resampling.LANCZOS)
+                    
+                    pw, ph = p_img.size
+                    px = (cw - pw) // 2
+                    py = (ch - ph) // 2
+                    tarjeta.paste(p_img, (px, py), p_img if p_img.mode == 'RGBA' else None)
+                except Exception:
+                    pass
 
             img.paste(tarjeta, (x1, y1), tarjeta)
 

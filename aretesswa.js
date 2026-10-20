@@ -1,6 +1,76 @@
 const productosAretesSwa = [
     {
-        "id": "60.0",
+        "id": "62",
+        "categoria": "Aretes Swarovski",
+        "precio": 155.0,
+        "imagen": "imagenes/SWA/aretes_swa/aretes_swa_62.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_62.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_62.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_62.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_62.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_62.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_62.6.webm"
+            }
+        ]
+    },
+    {
+        "id": "61",
+        "categoria": "Aretes Swarovski",
+        "precio": 180.0,
+        "imagen": "imagenes/SWA/aretes_swa/aretes_swa_61.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_61.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_61.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_61.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_61.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_61.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_61.6.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_61.7.webm"
+            }
+        ]
+    },
+    {
+        "id": "60",
         "categoria": "Aretes Swarovski",
         "precio": 120.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_60.avif",
@@ -21,7 +91,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "59.0",
+        "id": "59",
         "categoria": "Aretes Swarovski",
         "precio": 190.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_59.avif",
@@ -62,7 +132,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "58.0",
+        "id": "58",
         "categoria": "Aretes Swarovski",
         "precio": 145.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_58.avif",
@@ -99,7 +169,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "57.0",
+        "id": "57",
         "categoria": "Aretes Swarovski",
         "precio": 120.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_57.avif",
@@ -132,7 +202,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "56.0",
+        "id": "56",
         "categoria": "Aretes Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_56.avif",
@@ -161,7 +231,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "55.0",
+        "id": "55",
         "categoria": "Aretes Swarovski",
         "precio": 125.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_55.avif",
@@ -190,7 +260,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "54.0",
+        "id": "54",
         "categoria": "Aretes Swarovski",
         "precio": 145.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_54.avif",
@@ -223,7 +293,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "53.0",
+        "id": "53",
         "categoria": "Aretes Swarovski",
         "precio": 195.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_53.avif",
@@ -252,7 +322,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "52.0",
+        "id": "52",
         "categoria": "Aretes Swarovski",
         "precio": 135.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_52.jpg",
@@ -281,7 +351,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "51.0",
+        "id": "51",
         "categoria": "Aretes Swarovski",
         "precio": 260.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_51.avif",
@@ -310,7 +380,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "50.0",
+        "id": "50",
         "categoria": "Aretes Swarovski",
         "precio": 190.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_50.avif",
@@ -343,7 +413,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "49.0",
+        "id": "49",
         "categoria": "Aretes Swarovski",
         "precio": 160.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_49.avif",
@@ -376,7 +446,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "48.0",
+        "id": "48",
         "categoria": "Aretes Swarovski",
         "precio": 150.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_48.avif",
@@ -409,7 +479,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "47.0",
+        "id": "47",
         "categoria": "Aretes Swarovski",
         "precio": 320.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_47.avif",
@@ -438,7 +508,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "46.0",
+        "id": "46",
         "categoria": "Aretes Swarovski",
         "precio": 145.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_46.avif",
@@ -475,7 +545,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "45.0",
+        "id": "45",
         "categoria": "Aretes Swarovski",
         "precio": 135.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_45.avif",
@@ -508,7 +578,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "44.0",
+        "id": "44",
         "categoria": "Aretes Swarovski",
         "precio": 135.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_44.avif",
@@ -549,7 +619,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "43.0",
+        "id": "43",
         "categoria": "Aretes Swarovski",
         "precio": 155.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_43.avif",
@@ -590,7 +660,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "42.0",
+        "id": "42",
         "categoria": "Aretes Swarovski",
         "precio": 130.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_42.avif",
@@ -619,7 +689,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "41.0",
+        "id": "41",
         "categoria": "Aretes Swarovski",
         "precio": 110.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_41.avif",
@@ -636,7 +706,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "40.0",
+        "id": "40",
         "categoria": "Aretes Swarovski",
         "precio": 110.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_40.avif",
@@ -669,7 +739,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "39.0",
+        "id": "39",
         "categoria": "Aretes Swarovski",
         "precio": 150.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_39.avif",
@@ -698,7 +768,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "38.0",
+        "id": "38",
         "categoria": "Aretes Swarovski",
         "precio": 120.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_38.avif",
@@ -727,7 +797,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "37.0",
+        "id": "37",
         "categoria": "Aretes Swarovski",
         "precio": 120.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_37.avif",
@@ -764,7 +834,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "36.0",
+        "id": "36",
         "categoria": "Aretes Swarovski",
         "precio": 170.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_36.avif",
@@ -801,7 +871,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "35.0",
+        "id": "35",
         "categoria": "Aretes Swarovski",
         "precio": 170.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_35.jpg",
@@ -830,7 +900,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "34.0",
+        "id": "34",
         "categoria": "Aretes Swarovski",
         "precio": 135.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_34.webp",
@@ -859,7 +929,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "33.0",
+        "id": "33",
         "categoria": "Aretes Swarovski",
         "precio": 120.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_33.avif",
@@ -876,7 +946,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "32.0",
+        "id": "32",
         "categoria": "Aretes Swarovski",
         "precio": 340.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_32.jpg",
@@ -897,7 +967,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "31.0",
+        "id": "31",
         "categoria": "Aretes Swarovski",
         "precio": 200.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_31.avif",
@@ -938,7 +1008,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "30.0",
+        "id": "30",
         "categoria": "Aretes Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_30.webp",
@@ -967,7 +1037,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "29.0",
+        "id": "29",
         "categoria": "Aretes Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_29.avif",
@@ -1008,7 +1078,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "28.0",
+        "id": "28",
         "categoria": "Aretes Swarovski",
         "precio": 305.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_28.avif",
@@ -1045,7 +1115,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "27.0",
+        "id": "27",
         "categoria": "Aretes Swarovski",
         "precio": 340.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_27.jpg",
@@ -1070,7 +1140,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "26.0",
+        "id": "26",
         "categoria": "Aretes Swarovski",
         "precio": 135.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_26.avif",
@@ -1103,7 +1173,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "25.0",
+        "id": "25",
         "categoria": "Aretes Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_25.avif",
@@ -1148,7 +1218,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "24.0",
+        "id": "24",
         "categoria": "Aretes Swarovski",
         "precio": 225.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_24.jpg",
@@ -1177,7 +1247,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "23.0",
+        "id": "23",
         "categoria": "Aretes Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_23.jpg",
@@ -1206,7 +1276,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "22.0",
+        "id": "22",
         "categoria": "Aretes Swarovski",
         "precio": 340.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_22.jpg",
@@ -1219,7 +1289,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "21.0",
+        "id": "21",
         "categoria": "Aretes Swarovski",
         "precio": 340.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_21.webp",
@@ -1236,7 +1306,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "20.0",
+        "id": "20",
         "categoria": "Aretes Swarovski",
         "precio": 110.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_20.avif",
@@ -1273,7 +1343,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "19.0",
+        "id": "19",
         "categoria": "Aretes Swarovski",
         "precio": 115.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_19.avif",
@@ -1306,7 +1376,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "18.0",
+        "id": "18",
         "categoria": "Aretes Swarovski",
         "precio": 115.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_18.jpg",
@@ -1319,7 +1389,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "17.0",
+        "id": "17",
         "categoria": "Aretes Swarovski",
         "precio": 115.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_17.avif",
@@ -1352,7 +1422,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "16.0",
+        "id": "16",
         "categoria": "Aretes Swarovski",
         "precio": 340.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_16.avif",
@@ -1381,7 +1451,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "15.0",
+        "id": "15",
         "categoria": "Aretes Swarovski",
         "precio": 250.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_15.jpg",
@@ -1406,7 +1476,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "14.0",
+        "id": "14",
         "categoria": "Aretes Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_14.avif",
@@ -1435,7 +1505,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "13.0",
+        "id": "13",
         "categoria": "Aretes Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_13.webp",
@@ -1476,7 +1546,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "12.0",
+        "id": "12",
         "categoria": "Aretes Swarovski",
         "precio": 140.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_12.jpg",
@@ -1501,7 +1571,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "11.0",
+        "id": "11",
         "categoria": "Aretes Swarovski",
         "precio": 165.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_11.avif",
@@ -1534,7 +1604,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "10.0",
+        "id": "10",
         "categoria": "Aretes Swarovski",
         "precio": 120.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_10.avif",
@@ -1571,7 +1641,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "9.0",
+        "id": "9",
         "categoria": "Aretes Swarovski",
         "precio": 270.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_9.jpg",
@@ -1604,7 +1674,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "8.0",
+        "id": "8",
         "categoria": "Aretes Swarovski",
         "precio": 190.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_8.avif",
@@ -1645,7 +1715,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "7.0",
+        "id": "7",
         "categoria": "Aretes Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_7.avif",
@@ -1674,7 +1744,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "6.0",
+        "id": "6",
         "categoria": "Aretes Swarovski",
         "precio": 125.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_6.avif",
@@ -1690,11 +1760,27 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_61.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_62.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_6.2.avif"
             },
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_60.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_61.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_62.2.jpg"
             },
             {
                 "tipo": "imagen",
@@ -1706,16 +1792,52 @@ const productosAretesSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_61.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_62.3.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_6.4.avif"
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_61.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_62.4.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/aretes_swa/aretes_swa_6.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_61.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_62.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_61.6.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_62.6.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/aretes_swa/aretes_swa_61.7.webm"
             }
         ]
     },
     {
-        "id": "5.0",
+        "id": "5",
         "categoria": "Aretes Swarovski",
         "precio": 140.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_5.avif",
@@ -1980,7 +2102,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "4.0",
+        "id": "4",
         "categoria": "Aretes Swarovski",
         "precio": 180.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_4.avif",
@@ -2257,7 +2379,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "3.0",
+        "id": "3",
         "categoria": "Aretes Swarovski",
         "precio": 125.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_3.avif",
@@ -2502,7 +2624,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "2.0",
+        "id": "2",
         "categoria": "Aretes Swarovski",
         "precio": 195.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_2.avif",
@@ -2755,7 +2877,7 @@ const productosAretesSwa = [
         ]
     },
     {
-        "id": "1.0",
+        "id": "1",
         "categoria": "Aretes Swarovski",
         "precio": 140.0,
         "imagen": "imagenes/SWA/aretes_swa/aretes_swa_1.jpg",

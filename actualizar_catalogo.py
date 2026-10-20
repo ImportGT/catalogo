@@ -225,7 +225,7 @@ def buscar_archivo_flexible(nombre_buscado):
     return None
 
 def actualizar_todo():
-    extensiones_validas = ('jpg', 'jpeg', 'png', 'webp', 'avif', 'mp4', 'mov', 'webm')
+    extensiones_validas = ('jpg', 'jpeg', 'png', 'webp', 'avif', 'jxl', 'mp4', 'mov', 'webm')
     
     for conf in CONFIGURACIONES:
         cat = conf["categoria"]
@@ -270,10 +270,12 @@ def actualizar_todo():
             raw_id = row[col_id]
             raw_id_str = str(raw_id).strip()
             
-            # Texto completo (ej. "70 Ariana Grande x Swarovski") para que se muestre en el catálogo
+            # Limpiar el .0 decimal si Pandas lo interpreta como número flotante (ej. "62.0" pasa a "62")
+            if raw_id_str.endswith('.0'):
+                raw_id_str = raw_id_str[:-2]
+            
             id_completo = raw_id_str
             
-            # Número base para buscar la imagen (ej. "70")
             match_id = re.search(r'^(\d+)', raw_id_str)
             if match_id:
                 prod_id = match_id.group(1)
@@ -348,7 +350,7 @@ def actualizar_todo():
                 imagen_principal = galeria_items[0]["url"]
 
             producto_obj = {
-                "id": id_completo,  # Se guarda el texto completo (ej. 70 Ariana Grande x Swarovski)
+                "id": id_completo,
                 "categoria": cat,
                 "precio": precio,
                 "imagen": imagen_principal,

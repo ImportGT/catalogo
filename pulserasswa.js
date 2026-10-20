@@ -3,9 +3,33 @@ const productosPulserasSwa = [
         "id": "40",
         "categoria": "Pulseras Swarovski",
         "precio": 175.0,
-        "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_40.7.webm",
+        "imagen": "imagenes/SWA/pulseras_swa/pulseras_swa_40.jpg",
         "stockTallas": {},
         "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_40.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_40.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_40.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_40.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_40.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_40.6.jpg"
+            },
             {
                 "tipo": "video",
                 "url": "imagenes/SWA/pulseras_swa/pulseras_swa_40.7.webm"
@@ -1090,6 +1114,30 @@ const productosPulserasSwa = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/SWA/pulseras_swa/pulseras_swa_4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_40.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_40.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_40.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_40.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_40.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/pulseras_swa/pulseras_swa_40.6.jpg"
             },
             {
                 "tipo": "video",

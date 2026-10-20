@@ -1,6 +1,31 @@
 const productosPulseras = [
     {
-        "id": "527.0",
+        "id": "528",
+        "categoria": "Pulseras",
+        "precio": 150.0,
+        "imagen": "imagenes/pulseras/pulseras_528.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_528.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_528.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_528.3.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/pulseras/pulseras_528.4.mp4"
+            }
+        ]
+    },
+    {
+        "id": "527",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_527.png",
@@ -13,7 +38,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "526.0",
+        "id": "526",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_526.png",
@@ -26,7 +51,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "525.0",
+        "id": "525",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_525.png",
@@ -39,7 +64,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "524.0",
+        "id": "524",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_524.png",
@@ -52,7 +77,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "523.0",
+        "id": "523",
         "categoria": "Pulseras",
         "precio": 110.0,
         "imagen": "imagenes/pulseras/pulseras_523.webp",
@@ -81,7 +106,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "522.0",
+        "id": "522",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_522.png",
@@ -94,7 +119,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "521.0",
+        "id": "521",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_521.png",
@@ -107,7 +132,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "520.0",
+        "id": "520",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_520.png",
@@ -120,7 +145,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "519.0",
+        "id": "519",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_519.webp",
@@ -153,7 +178,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "518.0",
+        "id": "518",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_518.webp",
@@ -178,7 +203,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "517.0",
+        "id": "517",
         "categoria": "Pulseras",
         "precio": 215.0,
         "imagen": "imagenes/pulseras/pulseras_517.webp",
@@ -199,7 +224,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "516.0",
+        "id": "516",
         "categoria": "Pulseras",
         "precio": 165.0,
         "imagen": "imagenes/pulseras/pulseras_516.webp",
@@ -224,7 +249,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "515.0",
+        "id": "515",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_515.0.jpg",
@@ -237,7 +262,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "514.0",
+        "id": "514",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_514.0.jpg",
@@ -250,7 +275,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "513.0",
+        "id": "513",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_513.0.jpg",
@@ -263,7 +288,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "512.0",
+        "id": "512",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_512.0.jpg",
@@ -276,7 +301,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "511.0",
+        "id": "511",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_511.0.jpg",
@@ -289,7 +314,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "510.0",
+        "id": "510",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_510.0.jpg",
@@ -302,7 +327,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "509.0",
+        "id": "509",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_509.0.jpg",
@@ -315,7 +340,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "508.0",
+        "id": "508",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_508.0.jpg",
@@ -328,7 +353,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "507.0",
+        "id": "507",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_507.0.jpg",
@@ -341,7 +366,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "506.0",
+        "id": "506",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_506.0.jpg",
@@ -354,7 +379,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "505.0",
+        "id": "505",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_505.0.jpg",
@@ -367,7 +392,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "504.0",
+        "id": "504",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_504.0.webp",
@@ -400,7 +425,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "503.0",
+        "id": "503",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_503.0.jpg",
@@ -413,7 +438,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "502.0",
+        "id": "502",
         "categoria": "Pulseras",
         "precio": 250.0,
         "imagen": "imagenes/pulseras/pulseras_502.0.jpg",
@@ -440,7 +465,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "501.0",
+        "id": "501",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_501.0.jpg",
@@ -453,7 +478,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "500.0",
+        "id": "500",
         "categoria": "Pulseras",
         "precio": 110.0,
         "imagen": "imagenes/pulseras/pulseras_500.0.jpg",
@@ -466,7 +491,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "499.0",
+        "id": "499",
         "categoria": "Pulseras",
         "precio": 110.0,
         "imagen": "imagenes/pulseras/pulseras_499.0.jpg",
@@ -479,7 +504,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "498.0",
+        "id": "498",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_498.0.jpg",
@@ -492,7 +517,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "497.0",
+        "id": "497",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_497.0.jpg",
@@ -505,7 +530,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "496.0",
+        "id": "496",
         "categoria": "Pulseras",
         "precio": 215.0,
         "imagen": "imagenes/pulseras/pulseras_496.0.jpg",
@@ -518,7 +543,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "495.0",
+        "id": "495",
         "categoria": "Pulseras",
         "precio": 215.0,
         "imagen": "imagenes/pulseras/pulseras_495.0.jpg",
@@ -531,7 +556,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "494.0",
+        "id": "494",
         "categoria": "Pulseras",
         "precio": 160.0,
         "imagen": "imagenes/pulseras/pulseras_494.0.jpg",
@@ -544,7 +569,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "493.0",
+        "id": "493",
         "categoria": "Pulseras",
         "precio": 230.0,
         "imagen": "imagenes/pulseras/pulseras_493.0.jpg",
@@ -557,7 +582,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "492.0",
+        "id": "492",
         "categoria": "Pulseras",
         "precio": 215.0,
         "imagen": "imagenes/pulseras/pulseras_492.0.jpg",
@@ -570,7 +595,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "491.0",
+        "id": "491",
         "categoria": "Pulseras",
         "precio": 215.0,
         "imagen": "imagenes/pulseras/pulseras_491.0.jpg",
@@ -583,7 +608,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "490.0",
+        "id": "490",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_490.0.webp",
@@ -610,7 +635,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "489.0",
+        "id": "489",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_489.0.jpg",
@@ -623,7 +648,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "488.0",
+        "id": "488",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_488.0.jpg",
@@ -636,7 +661,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "487.0",
+        "id": "487",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_487.0.jpg",
@@ -649,7 +674,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "486.0",
+        "id": "486",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_486.0.jpg",
@@ -662,7 +687,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "485.0",
+        "id": "485",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_485.0.jpg",
@@ -675,7 +700,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "484.0",
+        "id": "484",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_484.0.jpg",
@@ -688,7 +713,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "483.0",
+        "id": "483",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_483.0.webp",
@@ -717,7 +742,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "482.0",
+        "id": "482",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_482.0.jpg",
@@ -730,7 +755,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "481.0",
+        "id": "481",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_481.0.jpg",
@@ -743,7 +768,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "480.0",
+        "id": "480",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_480.0.jpg",
@@ -756,7 +781,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "479.0",
+        "id": "479",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_479.0.jpg",
@@ -769,7 +794,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "478.0",
+        "id": "478",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_478.0.jpg",
@@ -782,7 +807,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "477.0",
+        "id": "477",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_477.0.jpg",
@@ -795,7 +820,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "476.0",
+        "id": "476",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_476.0.jpg",
@@ -808,7 +833,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "475.0",
+        "id": "475",
         "categoria": "Pulseras",
         "precio": 230.0,
         "imagen": "imagenes/pulseras/pulseras_475.0.jpg",
@@ -821,7 +846,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "474.0",
+        "id": "474",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_474.0.jpg",
@@ -834,7 +859,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "473.0",
+        "id": "473",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_473.0.jpg",
@@ -863,7 +888,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "472.0",
+        "id": "472",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_472.0.jpg",
@@ -876,7 +901,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "471.0",
+        "id": "471",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_471.0.jpg",
@@ -889,7 +914,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "470.0",
+        "id": "470",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_470.0.jpg",
@@ -902,7 +927,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "469.0",
+        "id": "469",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_469.0.jpg",
@@ -915,7 +940,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "468.0",
+        "id": "468",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_468.0.jpg",
@@ -944,7 +969,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "467.0",
+        "id": "467",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_467.0.jpg",
@@ -957,7 +982,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "466.0",
+        "id": "466",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_466.0.jpg",
@@ -970,7 +995,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "465.0",
+        "id": "465",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_465.0.jpg",
@@ -983,7 +1008,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "464.0",
+        "id": "464",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_464.0.jpg",
@@ -996,7 +1021,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "463.0",
+        "id": "463",
         "categoria": "Pulseras",
         "precio": 160.0,
         "imagen": "imagenes/pulseras/pulseras_463.0.jpg",
@@ -1009,7 +1034,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "462.0",
+        "id": "462",
         "categoria": "Pulseras",
         "precio": 160.0,
         "imagen": "imagenes/pulseras/pulseras_462.0.jpg",
@@ -1022,7 +1047,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "461.0",
+        "id": "461",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_461.0.jpg",
@@ -1035,7 +1060,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "460.0",
+        "id": "460",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_460.0.jpg",
@@ -1048,7 +1073,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "459.0",
+        "id": "459",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_459.0.jpg",
@@ -1061,7 +1086,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "458.0",
+        "id": "458",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_458.0.jpg",
@@ -1074,7 +1099,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "457.0",
+        "id": "457",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_457.0.jpg",
@@ -1087,7 +1112,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "456.0",
+        "id": "456",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_456.0.jpg",
@@ -1100,7 +1125,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "455.0",
+        "id": "455",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_455.0.jpg",
@@ -1113,7 +1138,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "454.0",
+        "id": "454",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_454.0.jpg",
@@ -1126,7 +1151,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "453.0",
+        "id": "453",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_453.0.jpg",
@@ -1139,7 +1164,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "452.0",
+        "id": "452",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_452.0.jpg",
@@ -1152,7 +1177,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "451.0",
+        "id": "451",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_451.0.jpg",
@@ -1165,7 +1190,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "450.0",
+        "id": "450",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_450.0.jpg",
@@ -1178,7 +1203,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "449.0",
+        "id": "449",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_449.0.jpg",
@@ -1191,7 +1216,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "448.0",
+        "id": "448",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_448.0.jpg",
@@ -1204,7 +1229,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "447.0",
+        "id": "447",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_447.0.jpg",
@@ -1217,7 +1242,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "446.0",
+        "id": "446",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_446.0.jpg",
@@ -1230,7 +1255,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "445.0",
+        "id": "445",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_445.0.jpg",
@@ -1243,7 +1268,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "444.0",
+        "id": "444",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_444.0.jpg",
@@ -1256,7 +1281,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "443.0",
+        "id": "443",
         "categoria": "Pulseras",
         "precio": 200.0,
         "imagen": "imagenes/pulseras/pulseras_443.0.jpg",
@@ -1269,7 +1294,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "442.0",
+        "id": "442",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_442.0.jpg",
@@ -1282,7 +1307,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "441.0",
+        "id": "441",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_441.0.jpg",
@@ -1295,7 +1320,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "440.0",
+        "id": "440",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_440.0.jpg",
@@ -1308,7 +1333,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "439.0",
+        "id": "439",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_439.0.jpg",
@@ -1321,7 +1346,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "438.0",
+        "id": "438",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_438.0.jpg",
@@ -1334,7 +1359,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "437.0",
+        "id": "437",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_437.0.jpg",
@@ -1347,7 +1372,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "436.0",
+        "id": "436",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_436.0.jpg",
@@ -1360,7 +1385,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "435.0",
+        "id": "435",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_435.0.jpg",
@@ -1373,7 +1398,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "434.0",
+        "id": "434",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_434.0.jpg",
@@ -1386,7 +1411,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "433.0",
+        "id": "433",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_433.0.jpg",
@@ -1399,7 +1424,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "432.0",
+        "id": "432",
         "categoria": "Pulseras",
         "precio": 215.0,
         "imagen": "imagenes/pulseras/pulseras_432.0.jpg",
@@ -1412,7 +1437,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "431.0",
+        "id": "431",
         "categoria": "Pulseras",
         "precio": 215.0,
         "imagen": "imagenes/pulseras/pulseras_431.0.jpg",
@@ -1425,7 +1450,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "430.0",
+        "id": "430",
         "categoria": "Pulseras",
         "precio": 215.0,
         "imagen": "imagenes/pulseras/pulseras_430.0.jpg",
@@ -1438,7 +1463,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "429.0",
+        "id": "429",
         "categoria": "Pulseras",
         "precio": 160.0,
         "imagen": "imagenes/pulseras/pulseras_429.0.jpg",
@@ -1451,7 +1476,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "428.0",
+        "id": "428",
         "categoria": "Pulseras",
         "precio": 160.0,
         "imagen": "imagenes/pulseras/pulseras_428.0.jpg",
@@ -1464,7 +1489,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "427.0",
+        "id": "427",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_427.0.jpg",
@@ -1477,7 +1502,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "426.0",
+        "id": "426",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_426.0.jpg",
@@ -1490,7 +1515,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "425.0",
+        "id": "425",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_425.0.jpg",
@@ -1503,7 +1528,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "424.0",
+        "id": "424",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_424.0.jpg",
@@ -1516,7 +1541,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "423.0",
+        "id": "423",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_423.0.jpg",
@@ -1529,7 +1554,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "422.0",
+        "id": "422",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_422.0.jpg",
@@ -1542,7 +1567,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "421.0",
+        "id": "421",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_421.0.jpg",
@@ -1555,7 +1580,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "420.0",
+        "id": "420",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_420.0.jpg",
@@ -1568,7 +1593,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "419.0",
+        "id": "419",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_419.0.jpg",
@@ -1581,7 +1606,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "418.0",
+        "id": "418",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_418.0.jpg",
@@ -1594,7 +1619,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "417.0",
+        "id": "417",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_417.0.jpg",
@@ -1607,7 +1632,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "416.0",
+        "id": "416",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_416.0.jpg",
@@ -1620,7 +1645,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "415.0",
+        "id": "415",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_415.0.jpg",
@@ -1633,7 +1658,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "414.0",
+        "id": "414",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_414.0.jpg",
@@ -1646,7 +1671,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "413.0",
+        "id": "413",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_413.0.jpg",
@@ -1659,7 +1684,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "412.0",
+        "id": "412",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_412.0.jpg",
@@ -1672,7 +1697,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "411.0",
+        "id": "411",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_411.0.jpg",
@@ -1685,7 +1710,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "410.0",
+        "id": "410",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_410.0.jpg",
@@ -1698,7 +1723,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "409.0",
+        "id": "409",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_409.0.jpg",
@@ -1711,7 +1736,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "408.0",
+        "id": "408",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_408.0.jpg",
@@ -1724,7 +1749,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "407.0",
+        "id": "407",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_407.0.jpg",
@@ -1737,7 +1762,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "406.0",
+        "id": "406",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_406.0.jpg",
@@ -1750,7 +1775,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "405.0",
+        "id": "405",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_405.0.jpg",
@@ -1763,7 +1788,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "404.0",
+        "id": "404",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_404.0.jpg",
@@ -1776,7 +1801,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "403.0",
+        "id": "403",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_403.0.jpg",
@@ -1789,7 +1814,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "402.0",
+        "id": "402",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_402.0.jpg",
@@ -1802,7 +1827,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "401.0",
+        "id": "401",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_401.0.jpg",
@@ -1815,7 +1840,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "400.0",
+        "id": "400",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_400.0.jpg",
@@ -1828,7 +1853,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "399.0",
+        "id": "399",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_399.0.jpg",
@@ -1841,7 +1866,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "398.0",
+        "id": "398",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_398.0.jpg",
@@ -1854,7 +1879,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "397.0",
+        "id": "397",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_397.0.jpg",
@@ -1867,7 +1892,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "396.0",
+        "id": "396",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_396.0.jpg",
@@ -1880,7 +1905,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "395.0",
+        "id": "395",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_395.0.jpg",
@@ -1893,7 +1918,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "394.0",
+        "id": "394",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_394.0.jpg",
@@ -1906,7 +1931,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "393.0",
+        "id": "393",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_393.0.jpg",
@@ -1919,7 +1944,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "392.0",
+        "id": "392",
         "categoria": "Pulseras",
         "precio": 160.0,
         "imagen": "imagenes/pulseras/pulseras_392.0.jpg",
@@ -1932,7 +1957,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "391.0",
+        "id": "391",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_391.0.jpg",
@@ -1945,7 +1970,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "390.0",
+        "id": "390",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_390.0.jpg",
@@ -1958,7 +1983,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "389.0",
+        "id": "389",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_389.0.jpg",
@@ -1971,7 +1996,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "388.0",
+        "id": "388",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_388.0.jpg",
@@ -1984,7 +2009,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "387.0",
+        "id": "387",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_387.0.jpg",
@@ -1997,7 +2022,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "386.0",
+        "id": "386",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_386.0.jpg",
@@ -2010,7 +2035,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "385.0",
+        "id": "385",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_385.0.jpg",
@@ -2023,7 +2048,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "384.0",
+        "id": "384",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_384.0.jpg",
@@ -2036,7 +2061,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "383.0",
+        "id": "383",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_383.0.jpg",
@@ -2049,7 +2074,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "382.0",
+        "id": "382",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_382.0.jpg",
@@ -2062,7 +2087,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "381.0",
+        "id": "381",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_381.0.jpg",
@@ -2075,7 +2100,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "380.0",
+        "id": "380",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_380.0.jpg",
@@ -2088,7 +2113,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "379.0",
+        "id": "379",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_379.0.jpg",
@@ -2101,7 +2126,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "378.0",
+        "id": "378",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_378.0.jpg",
@@ -2114,7 +2139,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "377.0",
+        "id": "377",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_377.0.jpg",
@@ -2127,7 +2152,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "376.0",
+        "id": "376",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_376.0.jpg",
@@ -2140,7 +2165,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "375.0",
+        "id": "375",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_375.0.jpg",
@@ -2153,7 +2178,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "374.0",
+        "id": "374",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_374.0.jpg",
@@ -2166,7 +2191,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "373.0",
+        "id": "373",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_373.0.jpg",
@@ -2179,7 +2204,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "372.0",
+        "id": "372",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_372.0.jpg",
@@ -2192,7 +2217,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "371.0",
+        "id": "371",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_371.0.jpg",
@@ -2205,7 +2230,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "370.0",
+        "id": "370",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_370.0.jpg",
@@ -2218,7 +2243,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "369.0",
+        "id": "369",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_369.0.jpg",
@@ -2231,7 +2256,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "368.0",
+        "id": "368",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_368.0.jpg",
@@ -2244,7 +2269,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "367.0",
+        "id": "367",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_367.0.jpg",
@@ -2257,7 +2282,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "366.0",
+        "id": "366",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_366.0.jpg",
@@ -2270,7 +2295,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "365.0",
+        "id": "365",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_365.0.jpg",
@@ -2283,7 +2308,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "364.0",
+        "id": "364",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_364.0.jpg",
@@ -2296,7 +2321,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "363.0",
+        "id": "363",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_363.0.jpg",
@@ -2309,7 +2334,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "362.0",
+        "id": "362",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_362.0.jpg",
@@ -2322,7 +2347,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "361.0",
+        "id": "361",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_361.0.jpg",
@@ -2335,7 +2360,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "360.0",
+        "id": "360",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_360.0.jpg",
@@ -2348,7 +2373,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "359.0",
+        "id": "359",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_359.0.jpg",
@@ -2361,7 +2386,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "358.0",
+        "id": "358",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_358.0.jpg",
@@ -2374,7 +2399,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "357.0",
+        "id": "357",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_357.0.jpg",
@@ -2387,7 +2412,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "356.0",
+        "id": "356",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_356.0.jpg",
@@ -2400,7 +2425,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "355.0",
+        "id": "355",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_355.0.jpg",
@@ -2413,7 +2438,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "354.0",
+        "id": "354",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_354.0.jpg",
@@ -2426,7 +2451,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "353.0",
+        "id": "353",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_353.0.jpg",
@@ -2439,7 +2464,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "352.0",
+        "id": "352",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_352.0.jpg",
@@ -2452,7 +2477,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "351.0",
+        "id": "351",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_351.0.jpg",
@@ -2465,7 +2490,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "350.0",
+        "id": "350",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_350.0.jpg",
@@ -2478,7 +2503,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "349.0",
+        "id": "349",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_349.0.jpg",
@@ -2491,7 +2516,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "348.0",
+        "id": "348",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_348.0.jpg",
@@ -2504,7 +2529,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "347.0",
+        "id": "347",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_347.0.jpg",
@@ -2517,7 +2542,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "346.0",
+        "id": "346",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_346.0.jpg",
@@ -2530,7 +2555,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "345.0",
+        "id": "345",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_345.0.jpg",
@@ -2543,7 +2568,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "344.0",
+        "id": "344",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_344.0.jpg",
@@ -2556,7 +2581,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "343.0",
+        "id": "343",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_343.0.jpg",
@@ -2569,7 +2594,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "342.0",
+        "id": "342",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_342.0.jpg",
@@ -2582,7 +2607,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "341.0",
+        "id": "341",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_341.0.jpg",
@@ -2595,7 +2620,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "340.0",
+        "id": "340",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_340.0.jpg",
@@ -2608,7 +2633,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "339.0",
+        "id": "339",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_339.0.jpg",
@@ -2621,7 +2646,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "338.0",
+        "id": "338",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_338.0.jpg",
@@ -2634,7 +2659,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "337.0",
+        "id": "337",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_337.0.jpg",
@@ -2647,7 +2672,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "336.0",
+        "id": "336",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_336.0.jpg",
@@ -2660,7 +2685,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "335.0",
+        "id": "335",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_335.0.jpg",
@@ -2673,7 +2698,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "334.0",
+        "id": "334",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_334.0.jpg",
@@ -2686,7 +2711,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "333.0",
+        "id": "333",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_333.0.jpg",
@@ -2699,7 +2724,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "332.0",
+        "id": "332",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_332.0.jpg",
@@ -2712,7 +2737,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "331.0",
+        "id": "331",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_331.0.jpg",
@@ -2725,7 +2750,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "330.0",
+        "id": "330",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_330.0.jpg",
@@ -2738,7 +2763,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "329.0",
+        "id": "329",
         "categoria": "Pulseras",
         "precio": 160.0,
         "imagen": "imagenes/pulseras/pulseras_329.0.jpg",
@@ -2751,7 +2776,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "328.0",
+        "id": "328",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_328.0.jpg",
@@ -2764,7 +2789,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "327.0",
+        "id": "327",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_327.0.jpg",
@@ -2777,7 +2802,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "326.0",
+        "id": "326",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_326.0.jpg",
@@ -2790,7 +2815,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "325.0",
+        "id": "325",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_325.0.jpg",
@@ -2803,7 +2828,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "324.0",
+        "id": "324",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_324.0.jpg",
@@ -2816,7 +2841,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "323.0",
+        "id": "323",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_323.0.jpg",
@@ -2829,7 +2854,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "322.0",
+        "id": "322",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_322.0.jpg",
@@ -2842,7 +2867,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "321.0",
+        "id": "321",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_321.0.jpg",
@@ -2855,7 +2880,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "320.0",
+        "id": "320",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_320.0.png",
@@ -2880,7 +2905,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "319.0",
+        "id": "319",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_319.0.jpg",
@@ -2893,7 +2918,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "318.0",
+        "id": "318",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_318.0.jpg",
@@ -2906,7 +2931,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "317.0",
+        "id": "317",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_317.0.jpg",
@@ -2919,7 +2944,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "316.0",
+        "id": "316",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_316.0.jpg",
@@ -2932,7 +2957,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "315.0",
+        "id": "315",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_315.0.jpg",
@@ -2945,7 +2970,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "314.0",
+        "id": "314",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_314.0.jpg",
@@ -2958,7 +2983,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "313.0",
+        "id": "313",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_313.0.jpg",
@@ -2971,7 +2996,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "312.0",
+        "id": "312",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_312.0.jpg",
@@ -2984,7 +3009,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "311.0",
+        "id": "311",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_311.0.jpg",
@@ -2997,7 +3022,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "310.0",
+        "id": "310",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_310.0.jpg",
@@ -3010,7 +3035,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "309.0",
+        "id": "309",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_309.0.jpg",
@@ -3023,7 +3048,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "308.0",
+        "id": "308",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_308.0.jpg",
@@ -3036,7 +3061,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "307.0",
+        "id": "307",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_307.0.jpg",
@@ -3049,7 +3074,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "306.0",
+        "id": "306",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_306.0.jpg",
@@ -3062,7 +3087,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "305.0",
+        "id": "305",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_305.0.jpg",
@@ -3075,7 +3100,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "304.0",
+        "id": "304",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_304.0.jpg",
@@ -3088,7 +3113,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "303.0",
+        "id": "303",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_303.0.jpg",
@@ -3101,7 +3126,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "302.0",
+        "id": "302",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_302.0.jpg",
@@ -3114,7 +3139,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "301.0",
+        "id": "301",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_301.0.jpg",
@@ -3127,7 +3152,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "300.0",
+        "id": "300",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_300.0.jpg",
@@ -3140,7 +3165,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "299.0",
+        "id": "299",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_299.0.jpg",
@@ -3153,7 +3178,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "298.0",
+        "id": "298",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_298.0.jpg",
@@ -3166,7 +3191,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "297.0",
+        "id": "297",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_297.0.jpg",
@@ -3179,7 +3204,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "296.0",
+        "id": "296",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_296.0.jpg",
@@ -3192,7 +3217,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "295.0",
+        "id": "295",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_295.0.jpg",
@@ -3205,7 +3230,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "294.0",
+        "id": "294",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_294.0.jpg",
@@ -3218,7 +3243,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "293.0",
+        "id": "293",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_293.0.jpg",
@@ -3231,7 +3256,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "292.0",
+        "id": "292",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_292.0.jpg",
@@ -3244,7 +3269,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "291.0",
+        "id": "291",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_291.0.jpg",
@@ -3257,7 +3282,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "290.0",
+        "id": "290",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_290.0.jpg",
@@ -3270,7 +3295,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "289.0",
+        "id": "289",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_289.0.jpg",
@@ -3283,7 +3308,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "288.0",
+        "id": "288",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_288.0.jpg",
@@ -3296,7 +3321,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "287.0",
+        "id": "287",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_287.0.jpg",
@@ -3309,7 +3334,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "286.0",
+        "id": "286",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_286.0.jpg",
@@ -3322,7 +3347,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "285.0",
+        "id": "285",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_285.0.jpg",
@@ -3335,7 +3360,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "284.0",
+        "id": "284",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_284.0.jpg",
@@ -3348,7 +3373,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "283.0",
+        "id": "283",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_283.0.jpg",
@@ -3361,7 +3386,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "282.0",
+        "id": "282",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_282.0.jpg",
@@ -3374,7 +3399,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "281.0",
+        "id": "281",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_281.0.jpg",
@@ -3387,7 +3412,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "280.0",
+        "id": "280",
         "categoria": "Pulseras",
         "precio": 165.0,
         "imagen": "imagenes/pulseras/pulseras_280.0.jpg",
@@ -3400,7 +3425,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "279.0",
+        "id": "279",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_279.0.jpg",
@@ -3413,7 +3438,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "278.0",
+        "id": "278",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_278.0.jpg",
@@ -3426,7 +3451,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "277.0",
+        "id": "277",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_277.0.jpg",
@@ -3439,7 +3464,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "276.0",
+        "id": "276",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_276.0.jpg",
@@ -3452,7 +3477,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "275.0",
+        "id": "275",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_275.0.jpg",
@@ -3465,7 +3490,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "274.0",
+        "id": "274",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_274.0.jpg",
@@ -3478,7 +3503,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "273.0",
+        "id": "273",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_273.0.jpg",
@@ -3491,7 +3516,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "272.0",
+        "id": "272",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_272.0.jpg",
@@ -3504,7 +3529,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "271.0",
+        "id": "271",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_271.0.jpg",
@@ -3517,7 +3542,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "270.0",
+        "id": "270",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_270.0.jpg",
@@ -3530,7 +3555,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "269.0",
+        "id": "269",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_269.0.jpg",
@@ -3543,7 +3568,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "268.0",
+        "id": "268",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_268.0.jpg",
@@ -3556,7 +3581,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "267.0",
+        "id": "267",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_267.0.jpg",
@@ -3569,7 +3594,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "266.0",
+        "id": "266",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_266.0.jpg",
@@ -3582,7 +3607,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "265.0",
+        "id": "265",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_265.0.jpg",
@@ -3595,7 +3620,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "264.0",
+        "id": "264",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_264.0.jpg",
@@ -3608,7 +3633,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "263.0",
+        "id": "263",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_263.0.jpg",
@@ -3621,7 +3646,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "262.0",
+        "id": "262",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_262.0.jpg",
@@ -3634,7 +3659,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "261.0",
+        "id": "261",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_261.0.jpg",
@@ -3647,7 +3672,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "260.0",
+        "id": "260",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_260.0.jpg",
@@ -3660,7 +3685,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "259.0",
+        "id": "259",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_259.0.jpg",
@@ -3673,7 +3698,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "258.0",
+        "id": "258",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_258.0.jpg",
@@ -3686,7 +3711,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "257.0",
+        "id": "257",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_257.0.jpg",
@@ -3699,7 +3724,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "256.0",
+        "id": "256",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_256.0.jpg",
@@ -3712,7 +3737,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "255.0",
+        "id": "255",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_255.0.jpg",
@@ -3725,7 +3750,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "254.0",
+        "id": "254",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_254.0.jpg",
@@ -3738,7 +3763,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "253.0",
+        "id": "253",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_253.0.jpg",
@@ -3751,7 +3776,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "252.0",
+        "id": "252",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_252.0.jpg",
@@ -3764,7 +3789,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "251.0",
+        "id": "251",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_251.0.jpg",
@@ -3777,7 +3802,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "250.0",
+        "id": "250",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_250.0.jpg",
@@ -3790,7 +3815,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "249.0",
+        "id": "249",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_249.0.jpg",
@@ -3803,7 +3828,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "248.0",
+        "id": "248",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_248.0.jpg",
@@ -3816,7 +3841,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "247.0",
+        "id": "247",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_247.0.jpg",
@@ -3829,7 +3854,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "246.0",
+        "id": "246",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_246.0.jpg",
@@ -3842,7 +3867,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "245.0",
+        "id": "245",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_245.0.jpg",
@@ -3855,7 +3880,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "244.0",
+        "id": "244",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_244.0.jpg",
@@ -3868,7 +3893,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "243.0",
+        "id": "243",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_243.0.jpg",
@@ -3881,7 +3906,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "242.0",
+        "id": "242",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_242.0.jpg",
@@ -3894,7 +3919,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "241.0",
+        "id": "241",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_241.0.jpg",
@@ -3907,7 +3932,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "240.0",
+        "id": "240",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_240.0.jpg",
@@ -3920,7 +3945,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "239.0",
+        "id": "239",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_239.0.jpg",
@@ -3933,7 +3958,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "238.0",
+        "id": "238",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_238.0.jpg",
@@ -3946,7 +3971,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "237.0",
+        "id": "237",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_237.0.jpg",
@@ -3959,7 +3984,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "236.0",
+        "id": "236",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_236.0.jpg",
@@ -3972,7 +3997,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "235.0",
+        "id": "235",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_235.0.jpg",
@@ -3985,7 +4010,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "234.0",
+        "id": "234",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_234.0.jpg",
@@ -3998,7 +4023,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "233.0",
+        "id": "233",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_233.0.jpg",
@@ -4011,7 +4036,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "232.0",
+        "id": "232",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_232.0.jpg",
@@ -4024,7 +4049,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "231.0",
+        "id": "231",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_231.0.jpg",
@@ -4037,7 +4062,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "230.0",
+        "id": "230",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_230.0.jpg",
@@ -4050,7 +4075,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "229.0",
+        "id": "229",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_229.0.jpg",
@@ -4063,7 +4088,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "228.0",
+        "id": "228",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_228.0.jpg",
@@ -4076,7 +4101,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "227.0",
+        "id": "227",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_227.0.jpg",
@@ -4089,7 +4114,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "226.0",
+        "id": "226",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_226.0.jpg",
@@ -4102,7 +4127,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "225.0",
+        "id": "225",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_225.0.jpg",
@@ -4115,7 +4140,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "224.0",
+        "id": "224",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_224.0.jpg",
@@ -4128,7 +4153,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "223.0",
+        "id": "223",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_223.0.jpg",
@@ -4141,7 +4166,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "222.0",
+        "id": "222",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_222.0.jpg",
@@ -4154,7 +4179,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "221.0",
+        "id": "221",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_221.0.jpg",
@@ -4167,7 +4192,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "220.0",
+        "id": "220",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_220.0.jpg",
@@ -4180,7 +4205,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "219.0",
+        "id": "219",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_219.0.jpg",
@@ -4193,7 +4218,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "218.0",
+        "id": "218",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_218.0.jpg",
@@ -4206,7 +4231,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "217.0",
+        "id": "217",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_217.0.jpg",
@@ -4219,7 +4244,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "216.0",
+        "id": "216",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_216.0.jpg",
@@ -4232,7 +4257,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "215.0",
+        "id": "215",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_215.0.jpg",
@@ -4245,7 +4270,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "214.0",
+        "id": "214",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_214.0.jpg",
@@ -4258,7 +4283,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "213.0",
+        "id": "213",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_213.0.jpg",
@@ -4271,7 +4296,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "212.0",
+        "id": "212",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_212.0.jpg",
@@ -4284,7 +4309,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "211.0",
+        "id": "211",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_211.0.jpg",
@@ -4297,7 +4322,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "210.0",
+        "id": "210",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_210.0.jpg",
@@ -4310,7 +4335,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "209.0",
+        "id": "209",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_209.0.jpg",
@@ -4323,7 +4348,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "208.0",
+        "id": "208",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_208.0.jpg",
@@ -4336,7 +4361,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "207.0",
+        "id": "207",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_207.0.jpg",
@@ -4349,7 +4374,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "206.0",
+        "id": "206",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_206.0.jpg",
@@ -4362,7 +4387,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "205.0",
+        "id": "205",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_205.0.jpg",
@@ -4375,7 +4400,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "204.0",
+        "id": "204",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_204.0.jpg",
@@ -4388,7 +4413,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "203.0",
+        "id": "203",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_203.0.jpg",
@@ -4401,7 +4426,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "202.0",
+        "id": "202",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_202.0.jpg",
@@ -4414,7 +4439,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "201.0",
+        "id": "201",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_201.0.jpg",
@@ -4427,7 +4452,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "200.0",
+        "id": "200",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_200.0.jpg",
@@ -4440,7 +4465,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "199.0",
+        "id": "199",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_199.0.jpg",
@@ -4453,7 +4478,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "198.0",
+        "id": "198",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_198.0.jpg",
@@ -4466,7 +4491,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "197.0",
+        "id": "197",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_197.0.jpg",
@@ -4479,7 +4504,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "196.0",
+        "id": "196",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_196.0.jpg",
@@ -4492,7 +4517,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "195.0",
+        "id": "195",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_195.0.jpg",
@@ -4505,7 +4530,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "194.0",
+        "id": "194",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_194.0.jpg",
@@ -4518,7 +4543,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "193.0",
+        "id": "193",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_193.0.jpg",
@@ -4531,7 +4556,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "192.0",
+        "id": "192",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_192.0.jpg",
@@ -4544,7 +4569,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "191.0",
+        "id": "191",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_191.0.jpg",
@@ -4557,7 +4582,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "190.0",
+        "id": "190",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_190.0.jpg",
@@ -4570,7 +4595,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "189.0",
+        "id": "189",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_189.0.jpg",
@@ -4583,7 +4608,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "188.0",
+        "id": "188",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_188.0.jpg",
@@ -4596,7 +4621,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "187.0",
+        "id": "187",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_187.0.jpg",
@@ -4609,7 +4634,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "186.0",
+        "id": "186",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_186.0.jpg",
@@ -4622,7 +4647,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "185.0",
+        "id": "185",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_185.0.jpg",
@@ -4635,7 +4660,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "184.0",
+        "id": "184",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_184.0.jpg",
@@ -4648,7 +4673,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "183.0",
+        "id": "183",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_183.0.jpg",
@@ -4661,7 +4686,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "182.0",
+        "id": "182",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_182.0.jpg",
@@ -4674,7 +4699,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "181.0",
+        "id": "181",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_181.0.jpg",
@@ -4687,7 +4712,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "180.0",
+        "id": "180",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_180.0.jpg",
@@ -4700,7 +4725,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "179.0",
+        "id": "179",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_179.0.jpg",
@@ -4713,7 +4738,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "178.0",
+        "id": "178",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_178.0.jpg",
@@ -4726,7 +4751,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "177.0",
+        "id": "177",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_177.0.jpg",
@@ -4739,7 +4764,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "176.0",
+        "id": "176",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_176.0.jpg",
@@ -4752,7 +4777,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "175.0",
+        "id": "175",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_175.0.jpg",
@@ -4765,7 +4790,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "174.0",
+        "id": "174",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_174.0.jpg",
@@ -4778,7 +4803,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "173.0",
+        "id": "173",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_173.0.jpg",
@@ -4791,7 +4816,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "172.0",
+        "id": "172",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_172.0.jpg",
@@ -4804,7 +4829,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "171.0",
+        "id": "171",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_171.0.jpg",
@@ -4817,7 +4842,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "170.0",
+        "id": "170",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_170.0.jpg",
@@ -4830,7 +4855,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "169.0",
+        "id": "169",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_169.0.jpg",
@@ -4843,7 +4868,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "168.0",
+        "id": "168",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_168.0.jpg",
@@ -4856,7 +4881,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "167.0",
+        "id": "167",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_167.0.jpg",
@@ -4869,7 +4894,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "166.0",
+        "id": "166",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_166.0.jpg",
@@ -4882,7 +4907,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "165.0",
+        "id": "165",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_165.0.jpg",
@@ -4895,7 +4920,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "164.0",
+        "id": "164",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_164.0.jpg",
@@ -4908,7 +4933,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "163.0",
+        "id": "163",
         "categoria": "Pulseras",
         "precio": 165.0,
         "imagen": "imagenes/pulseras/pulseras_163.0.jpg",
@@ -4921,7 +4946,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "162.0",
+        "id": "162",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_162.0.jpg",
@@ -4934,7 +4959,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "161.0",
+        "id": "161",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_161.0.jpg",
@@ -4947,7 +4972,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "160.0",
+        "id": "160",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_160.0.jpg",
@@ -4960,7 +4985,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "159.0",
+        "id": "159",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_159.0.jpg",
@@ -4973,7 +4998,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "158.0",
+        "id": "158",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_158.0.jpg",
@@ -4986,7 +5011,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "157.0",
+        "id": "157",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_157.0.jpg",
@@ -4999,7 +5024,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "156.0",
+        "id": "156",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_156.0.jpg",
@@ -5012,7 +5037,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "155.0",
+        "id": "155",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_155.0.jpg",
@@ -5025,7 +5050,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "154.0",
+        "id": "154",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_154.0.jpg",
@@ -5038,7 +5063,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "153.0",
+        "id": "153",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_153.0.jpg",
@@ -5051,7 +5076,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "152.0",
+        "id": "152",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_152.0.jpg",
@@ -5064,7 +5089,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "151.0",
+        "id": "151",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_151.0.jpg",
@@ -5077,7 +5102,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "150.0",
+        "id": "150",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_150.0.jpg",
@@ -5090,7 +5115,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "149.0",
+        "id": "149",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_149.0.jpg",
@@ -5103,7 +5128,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "148.0",
+        "id": "148",
         "categoria": "Pulseras",
         "precio": 110.0,
         "imagen": "imagenes/pulseras/pulseras_148.0.jpg",
@@ -5116,7 +5141,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "147.0",
+        "id": "147",
         "categoria": "Pulseras",
         "precio": 110.0,
         "imagen": "imagenes/pulseras/pulseras_147.0.jpg",
@@ -5129,7 +5154,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "146.0",
+        "id": "146",
         "categoria": "Pulseras",
         "precio": 110.0,
         "imagen": "imagenes/pulseras/pulseras_146.0.jpg",
@@ -5142,7 +5167,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "145.0",
+        "id": "145",
         "categoria": "Pulseras",
         "precio": 110.0,
         "imagen": "imagenes/pulseras/pulseras_145.0.jpg",
@@ -5155,7 +5180,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "144.0",
+        "id": "144",
         "categoria": "Pulseras",
         "precio": 110.0,
         "imagen": "imagenes/pulseras/pulseras_144.0.jpg",
@@ -5168,7 +5193,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "143.0",
+        "id": "143",
         "categoria": "Pulseras",
         "precio": 110.0,
         "imagen": "imagenes/pulseras/pulseras_143.0.jpg",
@@ -5181,7 +5206,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "142.0",
+        "id": "142",
         "categoria": "Pulseras",
         "precio": 110.0,
         "imagen": "imagenes/pulseras/pulseras_142.0.jpg",
@@ -5194,7 +5219,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "141.0",
+        "id": "141",
         "categoria": "Pulseras",
         "precio": 110.0,
         "imagen": "imagenes/pulseras/pulseras_141.0.jpg",
@@ -5207,7 +5232,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "140.0",
+        "id": "140",
         "categoria": "Pulseras",
         "precio": 110.0,
         "imagen": "imagenes/pulseras/pulseras_140.0.jpg",
@@ -5220,7 +5245,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "139.0",
+        "id": "139",
         "categoria": "Pulseras",
         "precio": 110.0,
         "imagen": "imagenes/pulseras/pulseras_139.0.jpg",
@@ -5233,7 +5258,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "138.0",
+        "id": "138",
         "categoria": "Pulseras",
         "precio": 110.0,
         "imagen": "imagenes/pulseras/pulseras_138.0.jpg",
@@ -5246,7 +5271,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "137.0",
+        "id": "137",
         "categoria": "Pulseras",
         "precio": 110.0,
         "imagen": "imagenes/pulseras/pulseras_137.0.jpg",
@@ -5259,7 +5284,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "136.0",
+        "id": "136",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_136.0.jpg",
@@ -5272,7 +5297,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "135.0",
+        "id": "135",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_135.0.jpg",
@@ -5285,7 +5310,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "134.0",
+        "id": "134",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_134.0.jpg",
@@ -5298,7 +5323,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "133.0",
+        "id": "133",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_133.0.jpg",
@@ -5311,7 +5336,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "132.0",
+        "id": "132",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_132.0.jpg",
@@ -5324,7 +5349,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "131.0",
+        "id": "131",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_131.0.jpg",
@@ -5337,7 +5362,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "130.0",
+        "id": "130",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_130.0.jpg",
@@ -5350,7 +5375,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "129.0",
+        "id": "129",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_129.0.jpg",
@@ -5363,7 +5388,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "128.0",
+        "id": "128",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_128.0.jpg",
@@ -5376,7 +5401,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "127.0",
+        "id": "127",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_127.0.jpg",
@@ -5389,7 +5414,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "126.0",
+        "id": "126",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_126.0.jpg",
@@ -5402,7 +5427,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "125.0",
+        "id": "125",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_125.0.jpg",
@@ -5415,7 +5440,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "124.0",
+        "id": "124",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_124.0.jpg",
@@ -5428,7 +5453,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "123.0",
+        "id": "123",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_123.0.jpg",
@@ -5441,7 +5466,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "122.0",
+        "id": "122",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_122.0.jpg",
@@ -5454,7 +5479,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "121.0",
+        "id": "121",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_121.0.jpg",
@@ -5467,7 +5492,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "120.0",
+        "id": "120",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_120.0.jpg",
@@ -5480,7 +5505,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "119.0",
+        "id": "119",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_119.0.jpg",
@@ -5493,7 +5518,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "118.0",
+        "id": "118",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_118.0.jpg",
@@ -5506,7 +5531,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "117.0",
+        "id": "117",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_117.0.jpg",
@@ -5519,7 +5544,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "116.0",
+        "id": "116",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_116.0.jpg",
@@ -5532,7 +5557,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "115.0",
+        "id": "115",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_115.0.jpg",
@@ -5545,7 +5570,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "114.0",
+        "id": "114",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_114.0.jpg",
@@ -5558,7 +5583,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "113.0",
+        "id": "113",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_113.0.jpg",
@@ -5571,7 +5596,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "112.0",
+        "id": "112",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_112.0.jpg",
@@ -5584,7 +5609,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "111.0",
+        "id": "111",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_111.0.jpg",
@@ -5597,7 +5622,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "110.0",
+        "id": "110",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_110.0.jpg",
@@ -5610,7 +5635,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "109.0",
+        "id": "109",
         "categoria": "Pulseras",
         "precio": 190.0,
         "imagen": "imagenes/pulseras/pulseras_109.0.jpg",
@@ -5623,7 +5648,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "108.0",
+        "id": "108",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_108.0.jpg",
@@ -5636,7 +5661,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "107.0",
+        "id": "107",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_107.0.jpg",
@@ -5649,7 +5674,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "106.0",
+        "id": "106",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_106.0.jpg",
@@ -5662,7 +5687,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "105.0",
+        "id": "105",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_105.0.jpg",
@@ -5675,7 +5700,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "104.0",
+        "id": "104",
         "categoria": "Pulseras",
         "precio": 100.0,
         "imagen": "imagenes/pulseras/pulseras_104.0.jpg",
@@ -5688,7 +5713,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "103.0",
+        "id": "103",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_103.0.jpg",
@@ -5701,7 +5726,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "102.0",
+        "id": "102",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_102.0.jpg",
@@ -5714,7 +5739,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "101.0",
+        "id": "101",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_101.0.jpg",
@@ -5727,7 +5752,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "100.0",
+        "id": "100",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_100.0.jpg",
@@ -5740,7 +5765,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "99.0",
+        "id": "99",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_99.0.jpg",
@@ -5753,7 +5778,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "98.0",
+        "id": "98",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_98.0.jpg",
@@ -5766,7 +5791,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "97.0",
+        "id": "97",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_97.0.jpg",
@@ -5779,7 +5804,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "96.0",
+        "id": "96",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_96.0.jpg",
@@ -5792,7 +5817,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "95.0",
+        "id": "95",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_95.0.jpg",
@@ -5805,7 +5830,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "94.0",
+        "id": "94",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_94.0.jpg",
@@ -5818,7 +5843,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "93.0",
+        "id": "93",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_93.0.jpg",
@@ -5831,7 +5856,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "92.0",
+        "id": "92",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_92.0.jpg",
@@ -5844,7 +5869,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "91.0",
+        "id": "91",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_91.0.jpg",
@@ -5857,7 +5882,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "90.0",
+        "id": "90",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_90.0.jpg",
@@ -5870,7 +5895,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "89.0",
+        "id": "89",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_89.0.jpg",
@@ -5883,7 +5908,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "88.0",
+        "id": "88",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_88.0.jpg",
@@ -5896,7 +5921,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "87.0",
+        "id": "87",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_87.0.jpg",
@@ -5909,7 +5934,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "86.0",
+        "id": "86",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_86.0.jpg",
@@ -5922,7 +5947,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "85.0",
+        "id": "85",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_85.0.jpg",
@@ -5935,7 +5960,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "84.0",
+        "id": "84",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_84.0.jpg",
@@ -5948,7 +5973,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "83.0",
+        "id": "83",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_83.0.jpg",
@@ -5961,7 +5986,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "82.0",
+        "id": "82",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_82.0.jpg",
@@ -5974,7 +5999,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "81.0",
+        "id": "81",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_81.0.jpg",
@@ -5987,7 +6012,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "80.0",
+        "id": "80",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_80.0.jpg",
@@ -6000,7 +6025,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "79.0",
+        "id": "79",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_79.0.jpg",
@@ -6013,7 +6038,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "78.0",
+        "id": "78",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_78.0.jpg",
@@ -6026,7 +6051,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "77.0",
+        "id": "77",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_77.0.jpg",
@@ -6039,7 +6064,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "76.0",
+        "id": "76",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_76.0.jpg",
@@ -6052,7 +6077,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "75.0",
+        "id": "75",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_75.0.jpg",
@@ -6067,7 +6092,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "74.0",
+        "id": "74",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_74.0.jpg",
@@ -6080,7 +6105,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "73.0",
+        "id": "73",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_73.0.jpg",
@@ -6093,7 +6118,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "72.0",
+        "id": "72",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_72.0.jpg",
@@ -6106,7 +6131,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "71.0",
+        "id": "71",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_71.0.jpg",
@@ -6119,7 +6144,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "70.0",
+        "id": "70",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_70.0.jpg",
@@ -6132,7 +6157,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "69.0",
+        "id": "69",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_69.0.jpg",
@@ -6145,7 +6170,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "68.0",
+        "id": "68",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_68.0.jpg",
@@ -6158,7 +6183,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "67.0",
+        "id": "67",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_67.0.jpg",
@@ -6171,7 +6196,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "66.0",
+        "id": "66",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_66.0.jpg",
@@ -6184,7 +6209,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "65.0",
+        "id": "65",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_65.0.jpg",
@@ -6197,7 +6222,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "64.0",
+        "id": "64",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_64.0.jpg",
@@ -6210,7 +6235,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "63.0",
+        "id": "63",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_63.0.jpg",
@@ -6223,7 +6248,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "62.0",
+        "id": "62",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_62.0.jpg",
@@ -6236,7 +6261,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "61.0",
+        "id": "61",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_61.0.jpg",
@@ -6249,7 +6274,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "60.0",
+        "id": "60",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_60.0.jpg",
@@ -6262,7 +6287,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "59.0",
+        "id": "59",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_59.0.jpg",
@@ -6275,7 +6300,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "58.0",
+        "id": "58",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_58.0.jpg",
@@ -6288,7 +6313,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "57.0",
+        "id": "57",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_57.0.jpg",
@@ -6301,7 +6326,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "56.0",
+        "id": "56",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_56.0.jpg",
@@ -6314,7 +6339,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "55.0",
+        "id": "55",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_55.0.jpg",
@@ -6327,7 +6352,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "54.0",
+        "id": "54",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_54.0.jpg",
@@ -6340,7 +6365,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "53.0",
+        "id": "53",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_53.0.jpg",
@@ -6353,7 +6378,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "52.0",
+        "id": "52",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_52.0.jpg",
@@ -6397,7 +6422,15 @@ const productosPulseras = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_528.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/pulseras/pulseras_523.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_528.2.jpg"
             },
             {
                 "tipo": "imagen",
@@ -6405,7 +6438,15 @@ const productosPulseras = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_528.3.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/pulseras/pulseras_523.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/pulseras/pulseras_528.4.mp4"
             },
             {
                 "tipo": "imagen",
@@ -6414,7 +6455,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "51.0",
+        "id": "51",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_51.0.jpg",
@@ -6519,7 +6560,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "50.0",
+        "id": "50",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_50.0.jpg",
@@ -6604,7 +6645,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "49.0",
+        "id": "49",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_49.0.jpg",
@@ -6669,7 +6710,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "48.0",
+        "id": "48",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_48.0.jpg",
@@ -6738,7 +6779,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "47.0",
+        "id": "47",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_47.0.jpg",
@@ -6807,7 +6848,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "46.0",
+        "id": "46",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_46.0.jpg",
@@ -6876,7 +6917,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "45.0",
+        "id": "45",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_45.0.jpg",
@@ -6929,7 +6970,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "44.0",
+        "id": "44",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_44.0.jpg",
@@ -6982,7 +7023,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "43.0",
+        "id": "43",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_43.0.jpg",
@@ -7035,7 +7076,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "42.0",
+        "id": "42",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_42.0.jpg",
@@ -7088,7 +7129,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "41.0",
+        "id": "41",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_41.0.jpg",
@@ -7141,7 +7182,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "40.0",
+        "id": "40",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_40.0.jpg",
@@ -7194,7 +7235,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "39.0",
+        "id": "39",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_39.0.jpg",
@@ -7247,7 +7288,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "38.0",
+        "id": "38",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_38.0.jpg",
@@ -7300,7 +7341,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "37.0",
+        "id": "37",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_37.0.jpg",
@@ -7353,7 +7394,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "36.0",
+        "id": "36",
         "categoria": "Pulseras",
         "precio": 160.0,
         "imagen": "imagenes/pulseras/pulseras_36.0.jpg",
@@ -7406,7 +7447,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "35.0",
+        "id": "35",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_35.0.jpg",
@@ -7459,7 +7500,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "34.0",
+        "id": "34",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_34.0.jpg",
@@ -7512,7 +7553,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "33.0",
+        "id": "33",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_33.0.jpg",
@@ -7565,7 +7606,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "32.0",
+        "id": "32",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_32.0.jpg",
@@ -7630,7 +7671,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "31.0",
+        "id": "31",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_31.0.jpg",
@@ -7683,7 +7724,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "30.0",
+        "id": "30",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_30.0.jpg",
@@ -7736,7 +7777,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "29.0",
+        "id": "29",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_29.0.jpg",
@@ -7789,7 +7830,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "28.0",
+        "id": "28",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_28.0.jpg",
@@ -7842,7 +7883,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "27.0",
+        "id": "27",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_27.0.jpg",
@@ -7895,7 +7936,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "26.0",
+        "id": "26",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_26.0.jpg",
@@ -7948,7 +7989,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "25.0",
+        "id": "25",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_25.0.jpg",
@@ -8001,7 +8042,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "24.0",
+        "id": "24",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_24.0.jpg",
@@ -8056,7 +8097,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "23.0",
+        "id": "23",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_23.0.jpg",
@@ -8109,7 +8150,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "22.0",
+        "id": "22",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_22.0.jpg",
@@ -8162,7 +8203,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "21.0",
+        "id": "21",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_21.0.jpg",
@@ -8215,7 +8256,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "20.0",
+        "id": "20",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_20.0.jpg",
@@ -8268,7 +8309,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "19.0",
+        "id": "19",
         "categoria": "Pulseras",
         "precio": 165.0,
         "imagen": "imagenes/pulseras/pulseras_19.0.jpg",
@@ -8321,7 +8362,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "18.0",
+        "id": "18",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_18.0.jpg",
@@ -8374,7 +8415,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "17.0",
+        "id": "17",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_17.0.jpg",
@@ -8427,7 +8468,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "16.0",
+        "id": "16",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_16.0.jpg",
@@ -8480,7 +8521,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "15.0",
+        "id": "15",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_15.0.jpg",
@@ -8533,7 +8574,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "14.0",
+        "id": "14",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_14.0.jpg",
@@ -8586,7 +8627,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "13.0",
+        "id": "13",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_13.0.jpg",
@@ -8639,7 +8680,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "12.0",
+        "id": "12",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_12.0.jpg",
@@ -8692,7 +8733,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "11.0",
+        "id": "11",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_11.0.jpg",
@@ -8745,7 +8786,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "10.0",
+        "id": "10",
         "categoria": "Pulseras",
         "precio": 100.0,
         "imagen": "imagenes/pulseras/pulseras_10.0.jpg",
@@ -8798,7 +8839,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "9.0",
+        "id": "9",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_9.0.jpg",
@@ -8851,7 +8892,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "8.0",
+        "id": "8",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_8.0.jpg",
@@ -8904,7 +8945,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "7.0",
+        "id": "7",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_7.0.jpg",
@@ -8957,7 +8998,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "6.0",
+        "id": "6",
         "categoria": "Pulseras",
         "precio": 135.0,
         "imagen": "imagenes/pulseras/pulseras_6.0.jpg",
@@ -9010,7 +9051,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "5.0",
+        "id": "5",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_5.0.jpg",
@@ -9146,6 +9187,10 @@ const productosPulseras = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_528.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/pulseras/pulseras_53.0.jpg"
             },
             {
@@ -9202,6 +9247,10 @@ const productosPulseras = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_528.2.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/pulseras/pulseras_502.3.jpg"
             },
             {
@@ -9230,6 +9279,10 @@ const productosPulseras = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/pulseras/pulseras_528.3.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/pulseras/pulseras_502.4.jpg"
             },
             {
@@ -9251,6 +9304,10 @@ const productosPulseras = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/pulseras/pulseras_523.4.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/pulseras/pulseras_528.4.mp4"
             },
             {
                 "tipo": "imagen",
@@ -9275,7 +9332,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "4.0",
+        "id": "4",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_4.0.jpg",
@@ -9788,7 +9845,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "3.0",
+        "id": "3",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_3.0.jpg",
@@ -10253,7 +10310,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "2.0",
+        "id": "2",
         "categoria": "Pulseras",
         "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_2.0.jpg",
@@ -10706,7 +10763,7 @@ const productosPulseras = [
         ]
     },
     {
-        "id": "1.0",
+        "id": "1",
         "categoria": "Pulseras",
         "precio": 120.0,
         "imagen": "imagenes/pulseras/pulseras_1.0.jpg",

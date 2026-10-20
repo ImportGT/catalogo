@@ -1,6 +1,6 @@
 const productosCharmsAccesoriosME = [
     {
-        "id": "32.0",
+        "id": "32",
         "categoria": "Charms Accesorios ME",
         "precio": 95.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_32.0.jpg",
@@ -13,7 +13,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "31.0",
+        "id": "31",
         "categoria": "Charms Accesorios ME",
         "precio": 55.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_31.0.jpg",
@@ -26,7 +26,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "30.0",
+        "id": "30",
         "categoria": "Charms Accesorios ME",
         "precio": 60.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_30.0.jpg",
@@ -39,7 +39,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "29.0",
+        "id": "29",
         "categoria": "Charms Accesorios ME",
         "precio": 55.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_29.0.jpg",
@@ -52,7 +52,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "28.0",
+        "id": "28",
         "categoria": "Charms Accesorios ME",
         "precio": 55.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_28.0.jpg",
@@ -65,7 +65,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "27.0",
+        "id": "27",
         "categoria": "Charms Accesorios ME",
         "precio": 70.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_27.0.jpg",
@@ -78,7 +78,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "26.0",
+        "id": "26",
         "categoria": "Charms Accesorios ME",
         "precio": 70.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_26.0.jpg",
@@ -91,7 +91,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "25.0",
+        "id": "25",
         "categoria": "Charms Accesorios ME",
         "precio": 95.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_25.0.jpg",
@@ -104,7 +104,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "24.0",
+        "id": "24",
         "categoria": "Charms Accesorios ME",
         "precio": 95.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_24.0.jpg",
@@ -117,7 +117,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "23.0",
+        "id": "23",
         "categoria": "Charms Accesorios ME",
         "precio": 95.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_23.0.jpg",
@@ -130,7 +130,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "22.0",
+        "id": "22",
         "categoria": "Charms Accesorios ME",
         "precio": 60.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_22.0.jpg",
@@ -143,7 +143,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "21.0",
+        "id": "21",
         "categoria": "Charms Accesorios ME",
         "precio": 95.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_21.0.jpg",
@@ -156,7 +156,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "20.0",
+        "id": "20",
         "categoria": "Charms Accesorios ME",
         "precio": 80.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_20.0.jpg",
@@ -169,7 +169,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "19.0",
+        "id": "19",
         "categoria": "Charms Accesorios ME",
         "precio": 60.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_19.0.jpg",
@@ -182,7 +182,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "18.0",
+        "id": "18",
         "categoria": "Charms Accesorios ME",
         "precio": 55.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_18.0.jpg",
@@ -195,7 +195,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "17.0",
+        "id": "17",
         "categoria": "Charms Accesorios ME",
         "precio": 55.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_17.0.jpg",
@@ -208,7 +208,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "16.0",
+        "id": "16",
         "categoria": "Charms Accesorios ME",
         "precio": 60.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_16.0.jpg",
@@ -221,7 +221,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "15.0",
+        "id": "15",
         "categoria": "Charms Accesorios ME",
         "precio": 55.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_15.0.jpg",
@@ -234,7 +234,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "14.0",
+        "id": "14",
         "categoria": "Charms Accesorios ME",
         "precio": 60.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_14.0.jpg",
@@ -247,7 +247,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "13.0",
+        "id": "13",
         "categoria": "Charms Accesorios ME",
         "precio": 60.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_13.0.jpg",
@@ -260,7 +260,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "12.0",
+        "id": "12",
         "categoria": "Charms Accesorios ME",
         "precio": 55.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_12.0.jpg",
@@ -273,7 +273,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "11.0",
+        "id": "11",
         "categoria": "Charms Accesorios ME",
         "precio": 55.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_11.0.jpg",
@@ -286,7 +286,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "10.0",
+        "id": "10",
         "categoria": "Charms Accesorios ME",
         "precio": 55.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_10.0.jpg",
@@ -299,7 +299,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "9.0",
+        "id": "9",
         "categoria": "Charms Accesorios ME",
         "precio": 60.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_9.0.jpg",
@@ -312,7 +312,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "8.0",
+        "id": "8",
         "categoria": "Charms Accesorios ME",
         "precio": 55.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_8.0.jpg",
@@ -325,7 +325,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "7.0",
+        "id": "7",
         "categoria": "Charms Accesorios ME",
         "precio": 55.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_7.0.jpg",
@@ -338,7 +338,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "6.0",
+        "id": "6",
         "categoria": "Charms Accesorios ME",
         "precio": 60.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_6.0.jpg",
@@ -351,7 +351,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "5.0",
+        "id": "5",
         "categoria": "Charms Accesorios ME",
         "precio": 55.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_5.0.jpg",
@@ -364,7 +364,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "4.0",
+        "id": "4",
         "categoria": "Charms Accesorios ME",
         "precio": 60.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_4.0.jpg",
@@ -377,7 +377,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "3.0",
+        "id": "3",
         "categoria": "Charms Accesorios ME",
         "precio": 55.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_3.0.jpg",
@@ -402,7 +402,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "2.0",
+        "id": "2",
         "categoria": "Charms Accesorios ME",
         "precio": 70.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_2.0.jpg",
@@ -455,7 +455,7 @@ const productosCharmsAccesoriosME = [
         ]
     },
     {
-        "id": "1.0",
+        "id": "1",
         "categoria": "Charms Accesorios ME",
         "precio": 70.0,
         "imagen": "imagenes/charms_accesoriosme/chaME_1.0.jpg",
