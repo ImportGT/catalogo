@@ -1,0 +1,78 @@
+{
+    "cliente": "BRENDA YOMARA",
+    "metodo_envio": "Sugargoo",
+    "margen": "0",
+    "anticipo": "285",
+    "items": [
+        {
+            "id": "560",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 85.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_560.jpg",
+            "precio_calculado": 85.0
+        },
+        {
+            "id": "423",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 100.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_423.jpg",
+            "precio_calculado": 100.0
+        },
+        {
+            "id": "157",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 85.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_157.jpg",
+            "precio_calculado": 85.0
+        },
+        {
+            "id": "114",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 100.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_114.jpg",
+            "precio_calculado": 100.0
+        },
+        {
+            "id": "508",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_508.webp",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "615",
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 70.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/anillos\\anillos_615.jpg",
+            "precio_calculado": 70.0
+        },
+        {
+            "id": "614",
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/anillos\\anillos_614.jpg",
+            "precio_calculado": 65.0
+        }
+    ]
+}

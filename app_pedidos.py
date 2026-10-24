@@ -832,7 +832,8 @@ class AppGestorPedidos:
             
             pdf.set_font('helvetica', '', 10)
             pdf.set_text_color(90, 100, 110)
-            pdf.cell(0, 6, f"Cliente: {cliente}  |  Envío: {self.combo_envio.get()}", new_x="LMARGIN", new_y="NEXT", align='L')
+            # LÍNEA MODIFICADA: Se remueve el método de envío del PDF
+            pdf.cell(0, 6, f"Cliente: {cliente}", new_x="LMARGIN", new_y="NEXT", align='L')
             pdf.cell(0, 6, f"Fecha: {pd.Timestamp.now().strftime('%Y-%m-%d')}", new_x="LMARGIN", new_y="NEXT", align='L')
             pdf.ln(4)
             
