@@ -1,5 +1,39 @@
 const productosCharmsColgantesDisney = [
     {
+        "id": "287",
+        "categoria": "Charms Colgantes Disney",
+        "precio": 70.0,
+        "imagen": "imagenes/charms_colgantes_disney/chcd_287.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_287.jpg"
+            }
+        ]
+    },
+    {
+        "id": "286",
+        "categoria": "Charms Colgantes Disney",
+        "precio": 70.0,
+        "imagen": "imagenes/charms_colgantes_disney/chcd_286.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_286.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_286.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_286.3.webp"
+            }
+        ]
+    },
+    {
         "id": "285",
         "categoria": "Charms Colgantes Disney",
         "precio": 70.0,
@@ -3691,6 +3725,14 @@ const productosCharmsColgantesDisney = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_286.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_287.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/charms_colgantes_disney/chcd_281.2.webp"
             },
             {
@@ -3711,6 +3753,10 @@ const productosCharmsColgantesDisney = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_286.2.webp"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/charms_colgantes_disney/chcd_281.3.webp"
             },
             {
@@ -3728,6 +3774,10 @@ const productosCharmsColgantesDisney = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_colgantes_disney/chcd_285.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_286.3.webp"
             },
             {
                 "tipo": "imagen",
@@ -5717,6 +5767,14 @@ const productosCharmsColgantesDisney = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_286.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_287.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/charms_colgantes_disney/chcd_29.0.jpg"
             },
             {
@@ -5789,6 +5847,10 @@ const productosCharmsColgantesDisney = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_286.2.webp"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/charms_colgantes_disney/chcd_223.3.jpg"
             },
             {
@@ -5850,6 +5912,10 @@ const productosCharmsColgantesDisney = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_colgantes_disney/chcd_285.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_colgantes_disney/chcd_286.3.webp"
             },
             {
                 "tipo": "imagen",

@@ -1,5 +1,18 @@
 const productosCharmsBeadsDisney = [
     {
+        "id": "287",
+        "categoria": "Charms Beads Disney",
+        "precio": 70.0,
+        "imagen": "imagenes/charms_beads_disney/chbd_287.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_287.webp"
+            }
+        ]
+    },
+    {
         "id": "286",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
@@ -3826,6 +3839,10 @@ const productosCharmsBeadsDisney = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_287.webp"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/charms_beads_disney/chbd_280.2.webp"
             },
             {
@@ -5949,6 +5966,10 @@ const productosCharmsBeadsDisney = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_beads_disney/chbd_286.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_287.webp"
             },
             {
                 "tipo": "imagen",
