@@ -209,7 +209,7 @@ const productosCollares = [
     {
         "id": "397",
         "categoria": "Collares",
-        "precio": 95.0,
+        "precio": 90.0,
         "imagen": "imagenes/collares/collares_397.png",
         "stockTallas": {},
         "galeria": [
@@ -5732,7 +5732,7 @@ const productosCollares = [
     {
         "id": "34",
         "categoria": "Collares",
-        "precio": 85.0,
+        "precio": 90.0,
         "imagen": "imagenes/collares/collares_34.0.jpg",
         "stockTallas": {
             "1.0": 1
@@ -5839,7 +5839,7 @@ const productosCollares = [
     {
         "id": "33",
         "categoria": "Collares",
-        "precio": 85.0,
+        "precio": 90.0,
         "imagen": "imagenes/collares/collares_33.0.jpg",
         "stockTallas": {},
         "galeria": [
@@ -5900,7 +5900,7 @@ const productosCollares = [
     {
         "id": "32",
         "categoria": "Collares",
-        "precio": 85.0,
+        "precio": 90.0,
         "imagen": "imagenes/collares/collares_32.0.jpg",
         "stockTallas": {},
         "galeria": [
@@ -5953,7 +5953,7 @@ const productosCollares = [
     {
         "id": "31",
         "categoria": "Collares",
-        "precio": 85.0,
+        "precio": 90.0,
         "imagen": "imagenes/collares/collares_31.0.jpg",
         "stockTallas": {},
         "galeria": [
@@ -6006,7 +6006,7 @@ const productosCollares = [
     {
         "id": "30",
         "categoria": "Collares",
-        "precio": 85.0,
+        "precio": 90.0,
         "imagen": "imagenes/collares/collares_30.0.jpg",
         "stockTallas": {},
         "galeria": [
@@ -6059,7 +6059,7 @@ const productosCollares = [
     {
         "id": "29",
         "categoria": "Collares",
-        "precio": 85.0,
+        "precio": 90.0,
         "imagen": "imagenes/collares/collares_29.0.jpg",
         "stockTallas": {},
         "galeria": [

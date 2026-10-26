@@ -7203,7 +7203,7 @@ const productosAretes = [
     {
         "id": "90",
         "categoria": "Aretes",
-        "precio": 80.0,
+        "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_90.jpg",
         "stockTallas": {},
         "galeria": [
@@ -7216,7 +7216,7 @@ const productosAretes = [
     {
         "id": "89",
         "categoria": "Aretes",
-        "precio": 80.0,
+        "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_89.jpg",
         "stockTallas": {},
         "galeria": [
@@ -7229,7 +7229,7 @@ const productosAretes = [
     {
         "id": "88",
         "categoria": "Aretes",
-        "precio": 80.0,
+        "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_88.jpg",
         "stockTallas": {},
         "galeria": [
@@ -7242,7 +7242,7 @@ const productosAretes = [
     {
         "id": "87",
         "categoria": "Aretes",
-        "precio": 80.0,
+        "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_87.jpg",
         "stockTallas": {},
         "galeria": [
@@ -7255,7 +7255,7 @@ const productosAretes = [
     {
         "id": "86",
         "categoria": "Aretes",
-        "precio": 80.0,
+        "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_86.jpg",
         "stockTallas": {},
         "galeria": [
@@ -7268,7 +7268,7 @@ const productosAretes = [
     {
         "id": "85",
         "categoria": "Aretes",
-        "precio": 80.0,
+        "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_85.jpg",
         "stockTallas": {},
         "galeria": [
@@ -7281,7 +7281,7 @@ const productosAretes = [
     {
         "id": "84",
         "categoria": "Aretes",
-        "precio": 80.0,
+        "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_84.jpg",
         "stockTallas": {},
         "galeria": [
@@ -7294,7 +7294,7 @@ const productosAretes = [
     {
         "id": "83",
         "categoria": "Aretes",
-        "precio": 80.0,
+        "precio": 85.0,
         "imagen": "imagenes/aretes/aretes_83.jpg",
         "stockTallas": {},
         "galeria": [
