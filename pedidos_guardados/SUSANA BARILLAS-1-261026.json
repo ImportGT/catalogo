@@ -1,0 +1,188 @@
+{
+    "cliente": "SUSANA BARILLAS",
+    "metodo_envio": "Sugargoo",
+    "margen": "0",
+    "anticipo": "925",
+    "items": [
+        {
+            "id": "160",
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 60.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_beads_disney\\chbd_160.0.jpg",
+            "precio_calculado": 60.0
+        },
+        {
+            "id": "148",
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_beads_disney\\chbd_148.0.jpg",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "248",
+            "categoria": "Charms Colgantes Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_colgantes_disney\\chcd_248.0.jpg",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "167",
+            "categoria": "Charms Colgantes Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_colgantes_disney\\chcd_167.0.jpg",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "166",
+            "categoria": "Charms Colgantes Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_colgantes_disney\\chcd_166.0.jpg",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "38",
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_colgantes\\chc.38.0.jpg",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "209",
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_beads_disney\\chbd_209.0.jpg",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "857",
+            "categoria": "Charms Beads Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_beads\\chb_857.0.jpg",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "37",
+            "categoria": "Pulseras Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 150.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/pulseras\\pulseras_37.0.jpg",
+            "precio_calculado": 150.0
+        },
+        {
+            "id": "40",
+            "categoria": "Pulseras Pandora",
+            "talla": "19",
+            "qty": 1,
+            "precio_base": 120.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/pulseras\\pulseras_40.0.jpg",
+            "precio_calculado": 120.0
+        },
+        {
+            "id": "38",
+            "categoria": "Pulseras Pandora",
+            "talla": "19",
+            "qty": 1,
+            "precio_base": 150.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/pulseras\\pulseras_38.0.jpg",
+            "precio_calculado": 150.0
+        },
+        {
+            "id": "36",
+            "categoria": "Pulseras Pandora",
+            "talla": "19",
+            "qty": 1,
+            "precio_base": 160.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/pulseras\\pulseras_36.0.jpg",
+            "precio_calculado": 160.0
+        },
+        {
+            "id": "58",
+            "categoria": "Pulseras Pandora",
+            "talla": "19",
+            "qty": 1,
+            "precio_base": 150.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/pulseras\\pulseras_58.0.jpg",
+            "precio_calculado": 150.0
+        },
+        {
+            "id": "479",
+            "categoria": "Pulseras Pandora",
+            "talla": "17",
+            "qty": 1,
+            "precio_base": 150.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/pulseras\\pulseras_479.0.jpg",
+            "precio_calculado": 150.0
+        },
+        {
+            "id": "163",
+            "categoria": "Pulseras Pandora",
+            "talla": "17",
+            "qty": 1,
+            "precio_base": 165.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/pulseras\\pulseras_163.0.jpg",
+            "precio_calculado": 165.0
+        },
+        {
+            "id": "19",
+            "categoria": "Pulseras Pandora",
+            "talla": "17",
+            "qty": 1,
+            "precio_base": 165.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/pulseras\\pulseras_19.0.jpg",
+            "precio_calculado": 165.0
+        },
+        {
+            "id": "36",
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_colgantes\\chc.36.0.jpg",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "23",
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_beads_disney\\chbd_23.0.jpg",
+            "precio_calculado": 65.0
+        }
+    ]
+}

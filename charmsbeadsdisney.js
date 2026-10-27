@@ -1,5 +1,111 @@
 const productosCharmsBeadsDisney = [
     {
+        "id": "293",
+        "categoria": "Charms Beads Disney",
+        "precio": 70.0,
+        "imagen": "imagenes/charms_beads_disney/chbd_293.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_293.webp"
+            }
+        ]
+    },
+    {
+        "id": "292",
+        "categoria": "Charms Beads Disney",
+        "precio": 70.0,
+        "imagen": "imagenes/charms_beads_disney/chbd_292.jpeg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_292.jpeg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_292.2.jpeg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_292.3.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "291",
+        "categoria": "Charms Beads Disney",
+        "precio": 70.0,
+        "imagen": "imagenes/charms_beads_disney/chbd_291.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_291.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_291.2.webp"
+            }
+        ]
+    },
+    {
+        "id": "290",
+        "categoria": "Charms Beads Disney",
+        "precio": 70.0,
+        "imagen": "imagenes/charms_beads_disney/chbd_290.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_290.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_290.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_290.3.webp"
+            }
+        ]
+    },
+    {
+        "id": "289",
+        "categoria": "Charms Beads Disney",
+        "precio": 70.0,
+        "imagen": "imagenes/charms_beads_disney/chbd_289.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_289.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_289.2.webp"
+            }
+        ]
+    },
+    {
+        "id": "288",
+        "categoria": "Charms Beads Disney",
+        "precio": 70.0,
+        "imagen": "imagenes/charms_beads_disney/chbd_288.webp",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_288.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_288.2.webp"
+            }
+        ]
+    },
+    {
         "id": "287",
         "categoria": "Charms Beads Disney",
         "precio": 70.0,
@@ -3795,6 +3901,42 @@ const productosCharmsBeadsDisney = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_beads_disney/chbd_29.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_290.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_291.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_292.jpeg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_293.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_290.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_291.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_292.2.jpeg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_290.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_292.3.jpeg"
             }
         ]
     },
@@ -3843,7 +3985,23 @@ const productosCharmsBeadsDisney = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_288.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_289.webp"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/charms_beads_disney/chbd_280.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_288.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_289.2.webp"
             },
             {
                 "tipo": "imagen",
@@ -5973,7 +6131,31 @@ const productosCharmsBeadsDisney = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_288.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_289.webp"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/charms_beads_disney/chbd_29.0.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_290.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_291.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_292.jpeg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_293.webp"
             },
             {
                 "tipo": "imagen",
@@ -6061,6 +6243,26 @@ const productosCharmsBeadsDisney = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_288.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_289.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_290.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_291.2.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_292.2.jpeg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/charms_beads_disney/chbd_229.3.webp"
             },
             {
@@ -6142,6 +6344,14 @@ const productosCharmsBeadsDisney = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/charms_beads_disney/chbd_280.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_290.3.webp"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/charms_beads_disney/chbd_292.3.jpeg"
             },
             {
                 "tipo": "imagen",
