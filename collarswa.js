@@ -1,5 +1,186 @@
 const productosCollaresSwa = [
     {
+        "id": "75",
+        "categoria": "Collares Swarovski",
+        "precio": 105.0,
+        "imagen": "imagenes/SWA/collares_swa/collares_swa_75.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_75.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_75.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_75.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_75.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_75.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/collares_swa/collares_swa_75.6.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/collares_swa/collares_swa_75.7.webm"
+            }
+        ]
+    },
+    {
+        "id": "74",
+        "categoria": "Collares Swarovski",
+        "precio": 315.0,
+        "imagen": "imagenes/SWA/collares_swa/collares_swa_74.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_74.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_74.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_74.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_74.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_74.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/collares_swa/collares_swa_74.6.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/collares_swa/collares_swa_74.7.webm"
+            }
+        ]
+    },
+    {
+        "id": "73",
+        "categoria": "Collares Swarovski",
+        "precio": 220.0,
+        "imagen": "imagenes/SWA/collares_swa/collares_swa_73.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_73.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_73.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_73.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_73.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_73.5.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/collares_swa/collares_swa_73.6.webm"
+            }
+        ]
+    },
+    {
+        "id": "72",
+        "categoria": "Collares Swarovski",
+        "precio": 95.0,
+        "imagen": "imagenes/SWA/collares_swa/collares_swa_72.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_72.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_72.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_72.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_72.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_72.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_72.6.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/collares_swa/collares_swa_72.7.webm"
+            }
+        ]
+    },
+    {
+        "id": "71",
+        "categoria": "Collares Swarovski",
+        "precio": 330.0,
+        "imagen": "imagenes/SWA/collares_swa/collares_swa_71.jpg",
+        "stockTallas": {},
+        "galeria": [
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_71.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_71.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_71.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_71.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_71.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_71.6.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/collares_swa/collares_swa_71.7.webm"
+            }
+        ]
+    },
+    {
         "id": "70 Ariana Grande x Swarovski",
         "categoria": "Collares Swarovski",
         "precio": 180.0,
@@ -2135,7 +2316,47 @@ const productosCollaresSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_71.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_72.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_73.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_74.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_75.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/collares_swa/collares_swa_70 - Ariana Grande x Swarovski.2.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_71.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_72.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_73.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_74.2.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_75.2.jpg"
             },
             {
                 "tipo": "imagen",
@@ -2147,6 +2368,26 @@ const productosCollaresSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_71.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_72.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_73.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_74.3.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_75.3.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/collares_swa/collares_swa_7.4.jpg"
             },
             {
@@ -2155,7 +2396,47 @@ const productosCollaresSwa = [
             },
             {
                 "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_71.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_72.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_73.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_74.4.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_75.4.jpg"
+            },
+            {
+                "tipo": "imagen",
                 "url": "imagenes/SWA/collares_swa/collares_swa_70 - Ariana Grande x Swarovski.5.avif"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_71.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_72.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_73.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_74.5.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_75.5.jpg"
             },
             {
                 "tipo": "imagen",
@@ -2164,6 +2445,42 @@ const productosCollaresSwa = [
             {
                 "tipo": "video",
                 "url": "imagenes/SWA/collares_swa/collares_swa_70 - Ariana Grande x Swarovski.6.webm"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_71.6.jpg"
+            },
+            {
+                "tipo": "imagen",
+                "url": "imagenes/SWA/collares_swa/collares_swa_72.6.jpg"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/collares_swa/collares_swa_73.6.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/collares_swa/collares_swa_74.6.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/collares_swa/collares_swa_75.6.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/collares_swa/collares_swa_71.7.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/collares_swa/collares_swa_72.7.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/collares_swa/collares_swa_74.7.webm"
+            },
+            {
+                "tipo": "video",
+                "url": "imagenes/SWA/collares_swa/collares_swa_75.7.webm"
             },
             {
                 "tipo": "video",

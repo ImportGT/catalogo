@@ -1,0 +1,118 @@
+{
+    "cliente": "CLAUDIA SALINAS",
+    "metodo_envio": "Sugargoo",
+    "margen": "0",
+    "anticipo": "415",
+    "items": [
+        {
+            "id": "156",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_156.jpg",
+            "precio_calculado": 70.0
+        },
+        {
+            "id": "540",
+            "categoria": "Anillos Pandora",
+            "talla": "9",
+            "qty": 1,
+            "precio_base": 90.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/anillos\\anillos_540.jpg",
+            "precio_calculado": 90.0
+        },
+        {
+            "id": "595",
+            "categoria": "Anillos Pandora",
+            "talla": "7",
+            "qty": 1,
+            "precio_base": 70.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/anillos\\anillos_595.webp",
+            "precio_calculado": 70.0
+        },
+        {
+            "id": "514",
+            "categoria": "Anillos Pandora",
+            "talla": "6",
+            "qty": 1,
+            "precio_base": 80.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/anillos\\anillos_514.jpg",
+            "precio_calculado": 80.0
+        },
+        {
+            "id": "616",
+            "categoria": "Anillos Pandora",
+            "talla": "6",
+            "qty": 1,
+            "precio_base": 70.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/anillos\\anillos_616.jpg",
+            "precio_calculado": 70.0
+        },
+        {
+            "id": "615",
+            "categoria": "Anillos Pandora",
+            "talla": "6",
+            "qty": 1,
+            "precio_base": 70.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/anillos\\anillos_615.jpg",
+            "precio_calculado": 70.0
+        },
+        {
+            "id": "508",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_508.webp",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "282",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_282.webp",
+            "precio_calculado": 70.0
+        },
+        {
+            "id": "165",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_165.jpg",
+            "precio_calculado": 70.0
+        },
+        {
+            "id": "127",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 90.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_127.jpg",
+            "precio_calculado": 90.0
+        },
+        {
+            "id": "33",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 85.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_33.jpg",
+            "precio_calculado": 85.0
+        }
+    ]
+}
