@@ -465,7 +465,7 @@ class AppGestorPedidos:
 
                 carpeta = cfg["carpeta"]
                 prefijo_linea = cfg.get("prefijo", "").lower()
-                extensiones_validas = ['.jpg', '.jpeg', '.png', '.webp', '.avif', '.bmp', '.gif', '.tiff']
+                extensiones_validas = ['.jpg', '.jpeg', '.png', '.webp', '.avif', '.bmp', '.gif', '.tiff', '.jxl']
                 galeria_encontrada = []
 
                 if os.path.exists(carpeta):
@@ -477,8 +477,22 @@ class AppGestorPedidos:
                             if prefijo_linea and not nombre_base.startswith(prefijo_linea):
                                 continue
 
-                            numeros_extra = re.findall(r'\d+', nombre_base)
-                            if numeros_extra and numeros_extra[0].lower() == str(prod_id).lower():
+                            # Búsqueda inteligente adaptada para códigos con letras (ej. 199A)
+                            prod_id_str = str(prod_id).strip().lower()
+                            tiene_letra = bool(re.search(r'[a-z]', prod_id_str))
+
+                            coincide = False
+                            if tiene_letra:
+                                if prod_id_str in nombre_base:
+                                    coincide = True
+                            else:
+                                numeros_extra = re.findall(r'\d+', nombre_base)
+                                if numeros_extra and numeros_extra[0].lower() == prod_id_str:
+                                    sufijo_despues = nombre_base.split(numeros_extra[0])
+                                    if not (sufijo_despues and len(sufijo_despues[-1]) > 0 and sufijo_despues[-1][0].isalpha()):
+                                        coincide = True
+
+                            if coincide:
                                 full_p = os.path.join(carpeta, archivo_dir)
                                 if full_p not in galeria_encontrada:
                                     galeria_encontrada.append(full_p)
@@ -832,7 +846,6 @@ class AppGestorPedidos:
             
             pdf.set_font('helvetica', '', 10)
             pdf.set_text_color(90, 100, 110)
-            # LÍNEA MODIFICADA: Se remueve el método de envío del PDF
             pdf.cell(0, 6, f"Cliente: {cliente}", new_x="LMARGIN", new_y="NEXT", align='L')
             pdf.cell(0, 6, f"Fecha: {pd.Timestamp.now().strftime('%Y-%m-%d')}", new_x="LMARGIN", new_y="NEXT", align='L')
             pdf.ln(4)

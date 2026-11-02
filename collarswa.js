@@ -361,32 +361,12 @@ const productosCollaresSwa = [
         "id": "70 Ariana Grande x Swarovski",
         "categoria": "Collares Swarovski",
         "precio": 180.0,
-        "imagen": "imagenes/SWA/collares_swa/collares_swa_70 - Ariana Grande x Swarovski.0.avif",
+        "imagen": "imagenes/SWA/collares_swa/collares_swa_70 Ariana Grande x Swarovski.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/SWA/collares_swa/collares_swa_70 - Ariana Grande x Swarovski.0.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/collares_swa/collares_swa_70 - Ariana Grande x Swarovski.2.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/collares_swa/collares_swa_70 - Ariana Grande x Swarovski.3.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/collares_swa/collares_swa_70 - Ariana Grande x Swarovski.4.avif"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/SWA/collares_swa/collares_swa_70 - Ariana Grande x Swarovski.5.avif"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/SWA/collares_swa/collares_swa_70 - Ariana Grande x Swarovski.6.webm"
+                "url": "imagenes/SWA/collares_swa/collares_swa_70 Ariana Grande x Swarovski.jpg"
             }
         ]
     },

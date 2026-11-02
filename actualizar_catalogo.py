@@ -270,7 +270,6 @@ def actualizar_todo():
             raw_id = row[col_id]
             raw_id_str = str(raw_id).strip()
             
-            # Limpiar el .0 decimal si Pandas lo interpreta como número flotante (ej. "62.0" pasa a "62")
             if raw_id_str.endswith('.0'):
                 raw_id_str = raw_id_str[:-2]
             
@@ -313,21 +312,32 @@ def actualizar_todo():
                     ext = archivo.split('.')[-1].lower()
                     if ext in extensiones_validas:
                         nombre_base = os.path.splitext(archivo)[0]
-                        numeros_extra = re.findall(r'\d+', nombre_base)
                         
+                        # Lógica inteligente de coincidencia para imágenes con letras (ej. 199A)
+                        id_completo_str = id_completo.strip().lower()
+                        tiene_letra = bool(re.search(r'[a-z]', id_completo_str))
+
                         es_match = False
                         if prefijo == "dijes_tous":
-                            id_limpio = re.sub(r'[\s\-]+', '', raw_id_str).lower()
+                            id_limpio = re.sub(r'[\s\-]+', '', id_completo_str)
                             archivo_limpio = re.sub(r'[\s_\-]+', '', nombre_base).lower()
                             if id_limpio in archivo_limpio and archivo_limpio.startswith(prefijo.replace("_", "")):
                                 es_match = True
                         else:
-                            if numeros_extra and numeros_extra[0] == prod_id:
-                                es_match = True
-                            elif f"_{prod_id}_" in nombre_base or nombre_base.startswith(f"{prod_id}_") or f"_{prod_id}" in nombre_base:
-                                es_match = True
+                            if tiene_letra:
+                                if id_completo_str in nombre_base.lower():
+                                    es_match = True
+                            else:
+                                numeros_extra = re.findall(r'\d+', nombre_base)
+                                if numeros_extra and numeros_extra[0] == prod_id:
+                                    sufijo_despues = nombre_base.lower().split(numeros_extra[0])
+                                    if not (sufijo_despues and len(sufijo_despues[-1]) > 0 and sufijo_despues[-1][0].isalpha()):
+                                        es_match = True
+                                elif f"_{prod_id}_" in nombre_base or nombre_base.startswith(f"{prod_id}_") or f"_{prod_id}" in nombre_base:
+                                    es_match = True
 
                         if es_match:
+                            numeros_extra = re.findall(r'\d+', nombre_base)
                             tupla_orden = tuple([int(n) for n in numeros_extra[1:]]) if len(numeros_extra) > 1 else (0,)
                             tipo_media = "video" if ext in ('mp4', 'mov', 'webm') else "imagen"
                             archivos_encontrados.append({
@@ -344,7 +354,7 @@ def actualizar_todo():
                 galeria_items.append({"tipo": item["tipo"], "url": item["ruta"]})
 
             if not galeria_items:
-                imagen_principal = f"{carpeta}/{prefijo}_{prod_id}.jpg"
+                imagen_principal = f"{carpeta}/{prefijo}_{id_completo}.jpg"
                 galeria_items = [{"tipo": "imagen", "url": imagen_principal}]
             else:
                 imagen_principal = galeria_items[0]["url"]

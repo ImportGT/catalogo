@@ -4615,22 +4615,6 @@ const productosAnillosBp = [
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_199A.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199B.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199C.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199D.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199E.png"
             }
         ]
     },
@@ -4638,28 +4622,12 @@ const productosAnillosBp = [
         "id": "199B",
         "categoria": "Anillos Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_199A.png",
+        "imagen": "imagenes/BP/anillosbp/anillosbp_199B.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199A.png"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_199B.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199C.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199D.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199E.png"
             }
         ]
     },
@@ -4667,28 +4635,12 @@ const productosAnillosBp = [
         "id": "199C",
         "categoria": "Anillos Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_199A.png",
+        "imagen": "imagenes/BP/anillosbp/anillosbp_199C.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199A.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199B.png"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_199C.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199D.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199E.png"
             }
         ]
     },
@@ -4696,28 +4648,12 @@ const productosAnillosBp = [
         "id": "199D",
         "categoria": "Anillos Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_199A.png",
+        "imagen": "imagenes/BP/anillosbp/anillosbp_199D.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199A.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199B.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199C.png"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_199D.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199E.png"
             }
         ]
     },
@@ -4725,25 +4661,9 @@ const productosAnillosBp = [
         "id": "199E",
         "categoria": "Anillos Baño de Plata",
         "precio": 35.0,
-        "imagen": "imagenes/BP/anillosbp/anillosbp_199A.png",
+        "imagen": "imagenes/BP/anillosbp/anillosbp_199E.png",
         "stockTallas": {},
         "galeria": [
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199A.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199B.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199C.png"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/BP/anillosbp/anillosbp_199D.png"
-            },
             {
                 "tipo": "imagen",
                 "url": "imagenes/BP/anillosbp/anillosbp_199E.png"

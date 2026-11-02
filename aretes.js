@@ -979,20 +979,12 @@ const productosAretes = [
         "id": "538Pequeños",
         "categoria": "Aretes",
         "precio": 65.0,
-        "imagen": "imagenes/aretes/aretes_538Grandes.jpg",
+        "imagen": "imagenes/aretes/aretes_538Pequeños.1.jpg",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538Grandes.jpg"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_538Pequeños.1.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538Grandes.2.jpg"
             },
             {
                 "tipo": "imagen",
@@ -1000,23 +992,11 @@ const productosAretes = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538Grandes.3.jpg"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_538Pequeños.3.jpg"
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538Grandes.4.jpg"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_538Pequeños.4.jpg"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/aretes/aretes_538Grandes.5.mp4"
             },
             {
                 "tipo": "video",
@@ -1037,15 +1017,7 @@ const productosAretes = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538Pequeños.1.jpg"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_538Grandes.2.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538Pequeños.2.jpg"
             },
             {
                 "tipo": "imagen",
@@ -1053,23 +1025,11 @@ const productosAretes = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538Pequeños.3.jpg"
-            },
-            {
-                "tipo": "imagen",
                 "url": "imagenes/aretes/aretes_538Grandes.4.jpg"
-            },
-            {
-                "tipo": "imagen",
-                "url": "imagenes/aretes/aretes_538Pequeños.4.jpg"
             },
             {
                 "tipo": "video",
                 "url": "imagenes/aretes/aretes_538Grandes.5.mp4"
-            },
-            {
-                "tipo": "video",
-                "url": "imagenes/aretes/aretes_538Pequeños.5.mp4"
             }
         ]
     },
