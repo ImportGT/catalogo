@@ -1723,7 +1723,7 @@ const productosPulserasBp = [
             },
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_84.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_84.png"
             },
             {
                 "tipo": "imagen",
@@ -4068,12 +4068,12 @@ const productosPulserasBp = [
         "id": "84",
         "categoria": "Pulseras Baño de Plata",
         "precio": 40.0,
-        "imagen": "imagenes/BP/pulserasbp/pulserasbp_84.jpg",
+        "imagen": "imagenes/BP/pulserasbp/pulserasbp_84.png",
         "stockTallas": {},
         "galeria": [
             {
                 "tipo": "imagen",
-                "url": "imagenes/BP/pulserasbp/pulserasbp_84.jpg"
+                "url": "imagenes/BP/pulserasbp/pulserasbp_84.png"
             }
         ]
     },

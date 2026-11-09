@@ -1,7 +1,8 @@
 {
     "cliente": "GRECIA RODRIGUEZ",
+    "metodo_envio": "Sugargoo",
     "margen": "0",
-    "anticipo": "230",
+    "anticipo": "830",
     "items": [
         {
             "id": 535,
@@ -9,7 +10,8 @@
             "talla": "única",
             "qty": 1,
             "precio_base": 65.0,
-            "imagen": "imagenes/aretes/aretes_535.jpg"
+            "imagen": "imagenes/aretes/aretes_535.jpg",
+            "precio_calculado": 65.0
         },
         {
             "id": 157,
@@ -17,7 +19,8 @@
             "talla": "única",
             "qty": 1,
             "precio_base": 85.0,
-            "imagen": "imagenes/aretes/aretes_157.jpg"
+            "imagen": "imagenes/aretes/aretes_157.jpg",
+            "precio_calculado": 85.0
         },
         {
             "id": 152,
@@ -25,7 +28,8 @@
             "talla": "única",
             "qty": 1,
             "precio_base": 70.0,
-            "imagen": "imagenes/aretes/aretes_152.jpg"
+            "imagen": "imagenes/aretes/aretes_152.jpg",
+            "precio_calculado": 70.0
         },
         {
             "id": 347,
@@ -33,7 +37,8 @@
             "talla": "única",
             "qty": 1,
             "precio_base": 100.0,
-            "imagen": "imagenes/collares/collares_347.0.jpg"
+            "imagen": "imagenes/collares/collares_347.0.jpg",
+            "precio_calculado": 100.0
         },
         {
             "id": 71,
@@ -41,7 +46,8 @@
             "talla": "única",
             "qty": 1,
             "precio_base": 80.0,
-            "imagen": "imagenes/collares/collares_71.0.jpg"
+            "imagen": "imagenes/collares/collares_71.0.jpg",
+            "precio_calculado": 80.0
         },
         {
             "id": 222,
@@ -49,7 +55,148 @@
             "talla": "única",
             "qty": 1,
             "precio_base": 65.0,
-            "imagen": "imagenes/charms_colgantes/chc.222.0.jpg"
+            "imagen": "imagenes/charms_colgantes/chc.222.0.jpg",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "27",
+            "categoria": "Charms Locket Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 75.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_lockets\\chl_27.0.jpg",
+            "precio_calculado": 75.0
+        },
+        {
+            "id": "77",
+            "categoria": "Charms Locket Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 75.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_lockets\\chl_77.0.jpg",
+            "precio_calculado": 75.0
+        },
+        {
+            "id": "10",
+            "categoria": "Charms Locket Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 75.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_lockets\\chl_10.0.jpg",
+            "precio_calculado": 75.0
+        },
+        {
+            "id": "7",
+            "categoria": "Charms Locket Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 75.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_lockets\\chl_7.0.jpg",
+            "precio_calculado": 75.0
+        },
+        {
+            "id": "317",
+            "categoria": "Collares Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 125.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/collares\\collares_317.0.jpg",
+            "precio_calculado": 125.0
+        },
+        {
+            "id": "291",
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_beads_disney\\chbd_291.webp",
+            "precio_calculado": 70.0
+        },
+        {
+            "id": "290",
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_beads_disney\\chbd_290.webp",
+            "precio_calculado": 70.0
+        },
+        {
+            "id": "289",
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_beads_disney\\chbd_289.webp",
+            "precio_calculado": 70.0
+        },
+        {
+            "id": "288",
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_beads_disney\\chbd_288.webp",
+            "precio_calculado": 70.0
+        },
+        {
+            "id": "209",
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_beads_disney\\chbd_209.0.jpg",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "67",
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_beads_disney\\chbd_67.0.jpg",
+            "precio_calculado": 65.0
+        },
+        {
+            "id": "286",
+            "categoria": "Charms Beads Disney Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_beads_disney\\chbd_286.webp",
+            "precio_calculado": 70.0
+        },
+        {
+            "id": "496",
+            "categoria": "Pulseras Pandora",
+            "talla": "21",
+            "qty": 1,
+            "precio_base": 215.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/pulseras\\pulseras_496.0.jpg",
+            "precio_calculado": 215.0
+        },
+        {
+            "id": "368",
+            "categoria": "Aretes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 70.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/aretes\\aretes_368.jpg",
+            "precio_calculado": 70.0
         }
     ]
 }

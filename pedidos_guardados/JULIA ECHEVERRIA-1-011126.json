@@ -65,16 +65,6 @@
             "precio_calculado": 55.0
         },
         {
-            "id": "369A",
-            "categoria": "Pulseras Baño de Plata",
-            "talla": "única",
-            "qty": 1,
-            "precio_base": 50.0,
-            "peso_gr": 0.0,
-            "imagen": "",
-            "precio_calculado": 50.0
-        },
-        {
             "id": "337",
             "categoria": "Cadenas Baño de Plata",
             "talla": "única",
@@ -225,13 +215,23 @@
             "precio_calculado": 35.0
         },
         {
+            "id": "369A",
+            "categoria": "Pulseras Baño de Plata",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 50.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/BP/pulserasbp\\pulserasbp_369A.jpg",
+            "precio_calculado": 50.0
+        },
+        {
             "id": "372A",
             "categoria": "Aretes Baño de Plata",
             "talla": "única",
             "qty": 1,
             "precio_base": 35.0,
             "peso_gr": 0.0,
-            "imagen": "",
+            "imagen": "imagenes/BP/aretessbp\\aretessbp_372A.jpg",
             "precio_calculado": 35.0
         }
     ]
