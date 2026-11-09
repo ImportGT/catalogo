@@ -2,7 +2,7 @@
     "cliente": "GRECIA RODRIGUEZ",
     "metodo_envio": "Sugargoo",
     "margen": "0",
-    "anticipo": "830",
+    "anticipo": "860",
     "items": [
         {
             "id": 535,
@@ -197,6 +197,16 @@
             "peso_gr": 0.0,
             "imagen": "imagenes/aretes\\aretes_368.jpg",
             "precio_calculado": 70.0
+        },
+        {
+            "id": "651",
+            "categoria": "Charms Colgantes Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 65.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_colgantes\\chc.651.0.jpg",
+            "precio_calculado": 65.0
         }
     ]
 }
