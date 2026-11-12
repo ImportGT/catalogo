@@ -69,26 +69,6 @@
             "precio_calculado": 75.0
         },
         {
-            "id": "77",
-            "categoria": "Charms Locket Pandora",
-            "talla": "única",
-            "qty": 1,
-            "precio_base": 75.0,
-            "peso_gr": 0.0,
-            "imagen": "imagenes/charms_lockets\\chl_77.0.jpg",
-            "precio_calculado": 75.0
-        },
-        {
-            "id": "10",
-            "categoria": "Charms Locket Pandora",
-            "talla": "única",
-            "qty": 1,
-            "precio_base": 75.0,
-            "peso_gr": 0.0,
-            "imagen": "imagenes/charms_lockets\\chl_10.0.jpg",
-            "precio_calculado": 75.0
-        },
-        {
             "id": "7",
             "categoria": "Charms Locket Pandora",
             "talla": "única",
@@ -207,6 +187,36 @@
             "peso_gr": 0.0,
             "imagen": "imagenes/charms_colgantes\\chc.651.0.jpg",
             "precio_calculado": 65.0
+        },
+        {
+            "id": "24",
+            "categoria": "Charms Locket Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 75.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_lockets\\chl_24.0.jpg",
+            "precio_calculado": 75.0
+        },
+        {
+            "id": "26",
+            "categoria": "Charms Locket Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 75.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_lockets\\chl_26.0.jpg",
+            "precio_calculado": 75.0
+        },
+        {
+            "id": "62",
+            "categoria": "Charms Locket Pandora",
+            "talla": "única",
+            "qty": 1,
+            "precio_base": 75.0,
+            "peso_gr": 0.0,
+            "imagen": "imagenes/charms_lockets\\chl_62.0.jpg",
+            "precio_calculado": 75.0
         }
     ]
 }
