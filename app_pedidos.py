@@ -81,7 +81,7 @@ class AppGestorPedidos:
         self.tree_inventario.heading("stock", text="Stock Total")
         self.tree_inventario.column("linea", width=190, anchor="w")
         self.tree_inventario.column("stock", width=80, anchor="center")
-        
+
         scrollbar_inv = ttk.Scrollbar(right_frame, orient="vertical", command=self.tree_inventario.yview)
         self.tree_inventario.configure(yscrollcommand=scrollbar_inv.set)
 
@@ -416,14 +416,14 @@ class AppGestorPedidos:
             if current_id_str.lower() == str(prod_id).lower():
                 es_pandora = any(col in cfg["excel"].upper() for col in ['ANILLOS.XLSX', 'ARETES.XLSX', 'COLLARES.XLSX', 'PULSERAS.XLSX', 'CHARMS'])
                 metodo = self.combo_envio.get()
-                
+
                 valor_base = 0.0
-                
+
                 if es_pandora or metodo == "Sugargoo":
                     col_busqueda = ['PRECIO']
                 else:
                     col_busqueda = ['COSTO', 'COST', 'PRECIO']
-                
+
                 for col_c in col_busqueda:
                     matches_c = [c for c in df.columns if c == col_c]
                     if matches_c and matches_c[0] in row and not pd.isna(row[matches_c[0]]):
@@ -473,7 +473,7 @@ class AppGestorPedidos:
                         ext = archivo_dir.split('.')[-1].lower()
                         if ext in [e.replace('.', '') for e in extensiones_validas]:
                             nombre_base = os.path.splitext(archivo_dir)[0].lower()
-                            
+
                             if prefijo_linea and not nombre_base.startswith(prefijo_linea):
                                 continue
 
@@ -525,7 +525,7 @@ class AppGestorPedidos:
                 item['precio_calculado'] = item['precio_base']
             return
 
-        peso_total_gr = 150.0  
+        peso_total_gr = 150.0
         for item in self.items_pedido:
             es_pandora_item = any(item['categoria'] in lineas for col_name, lineas in COLECCIONES_LINEAS.items() if col_name == "Pandora")
             if not es_pandora_item:
@@ -576,7 +576,7 @@ class AppGestorPedidos:
                 proporcion_envio = peso_item_total / peso_total_productos_gr if peso_total_productos_gr > 0 else 0
                 envio_asignado_item = envio_total_q * proporcion_envio
                 costo_unitario_con_envio = costo_base_q + (envio_asignado_item / item['qty'] if item['qty'] > 0 else 0)
-            
+
             precio_final_ak = math.ceil(costo_unitario_con_envio * 2)
             item['precio_calculado'] = precio_final_ak
 
@@ -593,6 +593,9 @@ class AppGestorPedidos:
         try:
             prod_id = codigo_str
             qty = int(qty_str)
+            if qty < 1:
+                messagebox.showerror("Error", "La cantidad debe ser mayor a 0.")
+                return
         except ValueError:
             messagebox.showerror("Error", "La cantidad debe ser un número entero.")
             return
@@ -605,7 +608,14 @@ class AppGestorPedidos:
             msg_val = "precio" if (es_pandora or metodo == "Sugargoo") else "costo base en USD"
             if not messagebox.askyesno("Aviso", f"No se encontró valor automático para el código {prod_id}. ¿Deseas ingresarlo manualmente?"):
                 return
-            valor_base = float(messagebox.askstring("Valor Manual", f"Ingresa el {msg_val}:") or 0)
+            respuesta_manual = messagebox.askstring("Valor Manual", f"Ingresa el {msg_val}:")
+            if respuesta_manual is None:
+                return
+            try:
+                valor_base = float(respuesta_manual.strip())
+            except ValueError:
+                messagebox.showerror("Error", "Ingresa un número válido para el valor manual.")
+                return
 
         item = {
             "id": prod_id,
@@ -620,7 +630,7 @@ class AppGestorPedidos:
         self.items_pedido.append(item)
         self.refrescar_lista_visual()
         self.guardar_estado_actual()
-        
+
         self.entry_codigo.delete(0, tk.END)
         self.entry_codigo.focus()
 
@@ -651,7 +661,7 @@ class AppGestorPedidos:
                     img_tk = ImageTk.PhotoImage(img_pil)
                     self.imagenes_referencias.append(img_tk)
                     lbl_img.config(image=img_tk, text="")
-                    
+
                     info_zoom_str = f"Cód: {item['id']} - {item['categoria']} (Talla: {item['talla']})"
                     lbl_img.bind("<Enter>", lambda e, path=item["imagen"], desc=info_zoom_str: self.mostrar_zoom_imagen(path, desc))
                     lbl_img.bind("<Leave>", self.ocultar_zoom_imagen)
@@ -704,7 +714,7 @@ class AppGestorPedidos:
 
         total_general = 0.0
         total_piezas = 0
-        peso_total_gr = 150.0  
+        peso_total_gr = 150.0
 
         for item in self.items_pedido:
             precio_base_efectivo = item.get('precio_calculado', item['precio_base'])
@@ -743,7 +753,7 @@ class AppGestorPedidos:
             fill_header = PatternFill(start_color="1F4E79", end_color="1F4E79", fill_type="solid")
             align_center = Alignment(horizontal="center", vertical="center")
             align_left = Alignment(horizontal="left", vertical="center")
-            
+
             thin_border = Border(
                 left=Side(style='thin', color='B0B0B0'), right=Side(style='thin', color='B0B0B0'),
                 top=Side(style='thin', color='B0B0B0'), bottom=Side(style='thin', color='B0B0B0')
@@ -756,7 +766,7 @@ class AppGestorPedidos:
 
             headers = ["Línea / Categoría", "Total Referencias", "Total Piezas en Stock", "Sugerencia de Pedido"]
             header_row = 4
-            
+
             for col_num, h_text in enumerate(headers, start=1):
                 cell = ws.cell(row=header_row, column=col_num, value=h_text)
                 cell.font = font_header
@@ -839,21 +849,21 @@ class AppGestorPedidos:
             pdf = FPDF(orientation='P', unit='mm', format='A4')
             pdf.set_auto_page_break(auto=True, margin=15)
             pdf.add_page()
-            
+
             pdf.set_font('helvetica', 'B', 16)
             pdf.set_text_color(31, 78, 121)
             pdf.cell(0, 10, "COTIZACIÓN DE PRODUCTOS", new_x="LMARGIN", new_y="NEXT", align='C')
-            
+
             pdf.set_font('helvetica', '', 10)
             pdf.set_text_color(90, 100, 110)
             pdf.cell(0, 6, f"Cliente: {cliente}", new_x="LMARGIN", new_y="NEXT", align='L')
             pdf.cell(0, 6, f"Fecha: {pd.Timestamp.now().strftime('%Y-%m-%d')}", new_x="LMARGIN", new_y="NEXT", align='L')
             pdf.ln(4)
-            
+
             pdf.set_fill_color(31, 78, 121)
             pdf.set_text_color(255, 255, 255)
             pdf.set_font('helvetica', 'B', 10)
-            
+
             pdf.cell(18, 10, "Img", 1, 0, 'C', True)
             pdf.cell(18, 10, "Cód.", 1, 0, 'C', True)
             pdf.cell(64, 10, "Categoría", 1, 0, 'C', True)
@@ -877,7 +887,7 @@ class AppGestorPedidos:
                 pdf.cell(64, 14, item['categoria'], 1, 0, 'L')
                 pdf.cell(30, 14, str(item['talla']), 1, 0, 'C')
                 pdf.cell(18, 14, str(item['qty']), 1, 0, 'C')
-                
+
                 precio_base_efectivo = item.get('precio_calculado', item['precio_base'])
                 precio_final = precio_base_efectivo * (1 + (margen / 100))
                 subtotal = precio_final * item['qty']
@@ -899,7 +909,7 @@ class AppGestorPedidos:
             pdf.cell(0, 6, f"TOTAL GENERAL: Q{total_general:.2f}", align='R', new_x="LMARGIN", new_y="NEXT")
             pdf.set_text_color(31, 78, 121)
             pdf.cell(0, 6, f"ANTICIPO: Q{anticipo:.2f}", align='R', new_x="LMARGIN", new_y="NEXT")
-            
+
             if saldo_pendiente > 0:
                 pdf.set_text_color(192, 0, 0)
             else:
@@ -939,7 +949,7 @@ class AppGestorPedidos:
             fill_header = PatternFill(start_color="1F4E79", end_color="1F4E79", fill_type="solid")
             align_center = Alignment(horizontal="center", vertical="center")
             align_left = Alignment(horizontal="left", vertical="center")
-            
+
             thin_border = Border(
                 left=Side(style='thin', color='B0B0B0'), right=Side(style='thin', color='B0B0B0'),
                 top=Side(style='thin', color='B0B0B0'), bottom=Side(style='thin', color='B0B0B0')
@@ -959,7 +969,7 @@ class AppGestorPedidos:
 
             headers = ["Imagen", "Código", "Categoría", "Talla/Medida", "Cantidad", "Precio Ind. Q", "Precio Total Q"]
             header_row = 5
-            
+
             for col_num, h_text in enumerate(headers, start=1):
                 cell = ws.cell(row=header_row, column=col_num, value=h_text)
                 cell.font = font_header
@@ -972,9 +982,9 @@ class AppGestorPedidos:
             for idx, item in enumerate(self.items_pedido):
                 row_idx = start_row + idx
                 ws.row_dimensions[row_idx].height = 90
-                
+
                 precio_unit_q = item.get('precio_calculado', item['precio_base'])
-                
+
                 c1 = ws.cell(row=row_idx, column=1, value="")
                 c2 = ws.cell(row=row_idx, column=2, value=item['id'])
                 c3 = ws.cell(row=row_idx, column=3, value=item['categoria'])
@@ -1009,7 +1019,7 @@ class AppGestorPedidos:
             end_row = start_row + len(self.items_pedido) - 1
             totales_row = end_row + 1
             ws.row_dimensions[totales_row].height = 22
-            
+
             for col_num in range(1, 8):
                 cell = ws.cell(row=totales_row, column=col_num)
                 cell.border = bold_border

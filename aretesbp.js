@@ -6592,7 +6592,7 @@ const productosAretesBp = [
     {
         "id": "322",
         "categoria": "Aretes Baño de Plata",
-        "precio": 35.0,
+        "precio": 30.0,
         "imagen": "imagenes/BP/aretessbp/aretessbp_322.jpg",
         "stockTallas": {},
         "galeria": [

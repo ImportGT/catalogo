@@ -1712,7 +1712,7 @@ const productosPulseras = [
     {
         "id": "410",
         "categoria": "Pulseras",
-        "precio": 135.0,
+        "precio": 150.0,
         "imagen": "imagenes/pulseras/pulseras_410.0.jpg",
         "stockTallas": {},
         "galeria": [
